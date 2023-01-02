@@ -1,0 +1,17 @@
+name: Build
+
+on:
+  schedule:
+    - cron:  '* * * * *'
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        run: npm build
+
+runs:
+  using: 'node16'
+  main: 'src/index.js'
