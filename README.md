@@ -1,0 +1,2 @@
+# static-api
+Static API
