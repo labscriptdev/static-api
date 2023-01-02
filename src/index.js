@@ -9,7 +9,7 @@ const data = {
 
 try {
   fs.writeFileSync(
-    path.join(__dirname, '..', 'src', 'index.json'),
+    path.join(__dirname, '..', 'data', 'index.json'),
     JSON.stringify(data, ' ', 2)
   );
 } catch(err) {
