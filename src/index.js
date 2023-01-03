@@ -1,26 +1,10 @@
-// const core = require('@actions/core');
-// const github = require('@actions/github');
-
-const path = require('path');
-const fs = require('fs');
 const dayjs = require('dayjs');
+const { dataSave } = require('./utils');
 
 (async () => {
-  await require('./loteria/megasena')();
+  // await require('./loteria/megasena')();
+
+  dataSave('index.json', {
+    last_update: dayjs().format(),
+  });
 })();
-
-
-// (async () => {
-//   const dataPath = path.join(__dirname, '..', 'data', 'index.json');
-//   const dataJson = JSON.stringify({
-//     last_update: dayjs().format(),
-//   }, ' ', 1);
-  
-//   try {
-//     fs.writeFileSync(dataPath, dataJson);
-//   } catch(err) {
-//     console.log(err);
-//   }
-  
-//   console.log(`${dataPath} generated: `, dataJson);
-// })();

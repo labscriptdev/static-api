@@ -1,9 +1,26 @@
 const path = require('path');
+const fs = require('fs');
 
-const jsonToString = (data) => {
+const dataJson = (data) => {
   return JSON.stringify(data, 2, ' ');
 };
 
+const dataPath = (paths) => {
+  if (typeof paths=='string') {
+    paths = paths.split(/\/|\\/g).filter(value => !!value);
+  }
+
+  paths = [ __dirname, '..', 'data', ...paths ];
+  return path.join.apply(null, paths);
+};
+
+const dataSave = (paths, data) => {
+  let _dataPath = dataPath(paths);
+  return fs.writeFileSync(_dataPath, dataJson(data));
+};
+
 module.exports = {
-  jsonToString,
+  dataJson,
+  dataPath,
+  dataSave,
 };
