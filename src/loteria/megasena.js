@@ -1,8 +1,7 @@
+const { dataSave } = require('..utils');
 const axios = require('axios');
 const https = require('https');
 const cheerio = require('cheerio');
-const path = require('path');
-const fs = require('fs');
 
 module.exports = async () => {
   
@@ -52,11 +51,9 @@ module.exports = async () => {
       };
   
       raffles.push(raffle);
-  
-      const dataPath = path.join(__dirname, '../..', 'data', 'loteria-megasena.json');
-      const dataJson = JSON.stringify(raffles, ' ', 2);
-      fs.writeFileSync(dataPath, dataJson);
     });
+
+    dataSave('loteria-megasena.json', raffles);
   } catch(err) {
     console.log(err.message);
   }
