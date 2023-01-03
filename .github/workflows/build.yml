@@ -17,6 +17,9 @@ jobs:
   build:
     name: App Build
     runs-on: ubuntu-latest
+    steps:
+      - name: Run build
+        run: npm install
 
 runs-on:
   using: 'node19'
