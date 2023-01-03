@@ -2,20 +2,18 @@ const { loteriaParse, moneyToNumber } = require('./utils');
 
 module.exports = async () => {
   try {
-    loteriaParse('Lotofacil', ({ $, raffle, index, row }) => {
+    loteriaParse('Quina', ({ $, raffle, index, row }) => {
 
       raffle.accumulated = moneyToNumber($('> td:eq(29)', row).text());
 
-      for(let eqi=2; eqi<=16; eqi++) {
+      for(let eqi=2; eqi<=6; eqi++) {
         raffle.numbers.push( parseInt($(`> td:eq(${eqi})`, row).text()) );
       }
 
       let winners = [
-        { name: 'Ganhadores 15 números', totalEq: 18, amountEq: 24 },
-        { name: 'Ganhadores 14 números', totalEq: 21, amountEq: 25 },
-        { name: 'Ganhadores 13 números', totalEq: 21, amountEq: 26 },
-        { name: 'Ganhadores 12 números', totalEq: 22, amountEq: 27 },
-        { name: 'Ganhadores 11 números', totalEq: 23, amountEq: 28 },
+        { name: 'Ganhadores Quina', totalEq: 8, amountEq: 10 },
+        { name: 'Ganhadores Quadra', totalEq: 11, amountEq: 12 },
+        { name: 'Ganhadores Terno', totalEq: 13, amountEq: 14 },
       ];
 
       winners.forEach(winner => {
