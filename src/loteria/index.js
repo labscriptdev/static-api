@@ -1,4 +1,5 @@
 const { loteriaSchema } = require('./utils');
+const { dataSave } = require('../utils');
 
 module.exports = async () => {
   loteriaSchema({
@@ -71,4 +72,27 @@ module.exports = async () => {
       { name: 'Ganhadores Terno', total: 18, amount: 19 },
     ],
   });
+
+  dataSave('loteria/index.json', [
+    {
+      id: 'Mega-Sena',
+      name: 'Mega Sena',
+    },
+    {
+      id: 'Lotofacil',
+      name: 'Lotofácil',
+    },
+    {
+      id: 'Quina',
+      name: 'Quina',
+    },
+    {
+      id: 'Lotomania',
+      name: 'Lotomania',
+    },
+    {
+      id: 'Dupla-Sena',
+      name: 'Dupla Sena',
+    },
+  ]);
 };
