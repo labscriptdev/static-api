@@ -54,9 +54,10 @@ const loteriaSchema = async (params = {}) => {
     });
 
     raffles.push(raffle);
+    dataSave(`loteria/${params.name.toLowerCase()}/${raffle.number}.json`, raffle);
   });
 
-  dataSave(`loteria-${params.name.toLowerCase()}.json`, raffles);
+  dataSave(`loteria/${params.name.toLowerCase()}/all.json`, raffles);
 };
 
 module.exports = {

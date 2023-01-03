@@ -1,5 +1,5 @@
 const path = require('path');
-const fs = require('fs');
+const fs = require('fs-extra');
 
 const dataJson = (data) => {
   return JSON.stringify(data);
@@ -17,7 +17,7 @@ const dataPath = (paths) => {
 
 const dataSave = (paths, data) => {
   let _dataPath = dataPath(paths);
-  return fs.writeFileSync(_dataPath, dataJson(data));
+  return fs.outputFileSync(_dataPath, dataJson(data));
 };
 
 module.exports = {
