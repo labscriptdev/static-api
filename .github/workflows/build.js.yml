@@ -26,3 +26,10 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm install && node './src/index.js'
+    - uses: EndBug/add-and-commit@v9
+      with:
+        author_name: Jefeferson Silva
+        author_email: jeferson.i.silva@gmail.com
+        committer_name: Jefeferson Silva
+        committer_email: jeferson.i.silva@gmail.com
+        message: 'Generate data'
