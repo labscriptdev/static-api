@@ -2,7 +2,8 @@ const path = require('path');
 const fs = require('fs');
 
 const dataJson = (data) => {
-  return JSON.stringify(data, 2, ' ');
+  return JSON.stringify(data);
+  // return JSON.stringify(data, 2, ' ');
 };
 
 const dataPath = (paths) => {

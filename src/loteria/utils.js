@@ -9,6 +9,12 @@ const loteriaParse = async (modality) => {
   return { $ };
 };
 
+const moneyToNumber = (value) => {
+  value = parseInt(value.replace(/[^0-9]/g, '')) / 100;
+  return isNaN(value) ? 0 : value;
+};
+
 module.exports = {
   loteriaParse,
+  moneyToNumber,
 };
