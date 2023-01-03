@@ -75,23 +75,23 @@ module.exports = async () => {
 
   dataSave('loteria/index.json', [
     {
-      id: 'Mega-Sena',
+      id: 'mega-sena',
       name: 'Mega Sena',
     },
     {
-      id: 'Lotofacil',
+      id: 'lotofacil',
       name: 'Lotofácil',
     },
     {
-      id: 'Quina',
+      id: 'quina',
       name: 'Quina',
     },
     {
-      id: 'Lotomania',
+      id: 'lotomania',
       name: 'Lotomania',
     },
     {
-      id: 'Dupla-Sena',
+      id: 'dupla-sena',
       name: 'Dupla Sena',
     },
   ]);
