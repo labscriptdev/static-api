@@ -32,4 +32,4 @@ jobs:
         author_email: jeferson.i.silva@gmail.com
         committer_name: Jefeferson Silva
         committer_email: jeferson.i.silva@gmail.com
-        message: 'Generate data'
+        message: 'Data generated via schedule'
