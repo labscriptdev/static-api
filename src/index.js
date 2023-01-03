@@ -1,20 +1,19 @@
-const core = require('@actions/core');
-const github = require('@actions/github');
+// const core = require('@actions/core');
+// const github = require('@actions/github');
 
 const path = require('path');
 const fs = require('fs');
 const dayjs = require('dayjs');
 
-const data = {
+const dataPath = path.join(__dirname, '..', 'data', 'index.json');
+const dataJson = JSON.stringify({
   last_update: dayjs().format(),
-};
-
+}, ' ', 1);
 
 try {
-  fs.writeFileSync(
-    path.join(__dirname, '..', 'data', 'index.json'),
-    JSON.stringify(data, ' ', 2)
-  );
+  fs.writeFileSync(dataPath, dataJson);
 } catch(err) {
   console.log(err);
 }
+
+console.log(`${dataPath} generated: `, dataJson);
