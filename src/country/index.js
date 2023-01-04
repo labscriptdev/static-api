@@ -3,8 +3,9 @@ const _ = require('lodash');
 const { dataSave } = require("../utils");
 
 module.exports = async ({ openapi }) => {
+  
   const { data } = await axios.get('https://restcountries.com/v3.1/all');
-  const countries = data.map(country => {
+  const countries = data.map((country) => {
     return {
       name: country.name.common,
       cca2: country.cca2.toLowerCase(),
@@ -37,8 +38,8 @@ module.exports = async ({ openapi }) => {
   });
 
   dataSave('country/index.json', countries);
-  
-  countries.forEach(country => {
+
+  countries.map((country) => {
     dataSave(`country/${country.cca2}.json`, country);
   });
 };
