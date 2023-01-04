@@ -15,13 +15,9 @@ const glob = require('fast-glob');
   (await glob(`${__dirname}/**/index.js`)).map(async file => {
     if (file == path.join(__dirname, 'index.js')) return;
     if (only.length>0 && !only.includes(file)) return;
+    console.log(`Running ${file}`);
     await require(file)(app);
   });
 
-  console.log('openapi.json', JSON.stringify(app.openapi, ' ', 2));
   dataSave('openapi.json', app.openapi);
-
-  // await require('./loteria/index')();
-  // await require('./country/index')();
-  // await require('./openapi')();
 })();
