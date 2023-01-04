@@ -1,7 +1,27 @@
 const dayjs = require('dayjs');
-const { dataSave } = require('./utils');
+const { dataSave, openapiInit } = require('./utils');
+const fs = require('fs-extra');
+const path = require('path');
+const glob = require('fast-glob');
 
 (async () => {
-  await require('./loteria/index')();
-  await require('./openapi')();
+  let app = {};
+  app.openapi = openapiInit();
+  
+  let only = [
+    // path.join(__dirname, 'phone-code', 'index.js'),
+  ];
+
+  (await glob(`${__dirname}/**/index.js`)).map(async file => {
+    if (file == path.join(__dirname, 'index.js')) return;
+    if (only.length>0 && !only.includes(file)) return;
+    await require(file)(app);
+  });
+
+  console.log('openapi.json', JSON.stringify(app.openapi, ' ', 2));
+  dataSave('openapi.json', app.openapi);
+
+  // await require('./loteria/index')();
+  // await require('./country/index')();
+  // await require('./openapi')();
 })();
