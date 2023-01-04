@@ -16,6 +16,9 @@ const loteriaSchema = async (params = {}) => {
     accumulated: 0,
     numbersStart: 2,
     numbersFinal: 7,
+    rangeStart: 1,
+    rangeFinal: 60,
+    rangePerRow: 10,
     ...params
   };
 
@@ -54,10 +57,17 @@ const loteriaSchema = async (params = {}) => {
     });
 
     raffles.push(raffle);
-    dataSave(`loteria/${params.name.toLowerCase()}/${raffle.number}.json`, raffle);
+    dataSave(`loteria/${params.id}/${raffle.number}.json`, raffle);
   });
 
-  dataSave(`loteria/${params.name.toLowerCase()}/all.json`, raffles);
+  dataSave(`loteria/${params.id}/all.json`, raffles);
+  dataSave(`loteria/${params.id}/index.json`, {
+    id: params.id,
+    name: params.name,
+    rangeStart: params.rangeStart,
+    rangeFinal: params.rangeFinal,
+    rangePerRow: params.rangePerRow,
+  });
 };
 
 module.exports = {

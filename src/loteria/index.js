@@ -16,6 +16,9 @@ module.exports = async ({ openapi }) => {
           { name: 'Quina', total: 9, amount: 12 },
           { name: 'Quadra', total: 10, amount: 13 },
         ],
+        rangeStart: 1,
+        rangeFinal: 60,
+        rangePerRow: 10,
       },
     },
     {
@@ -33,6 +36,9 @@ module.exports = async ({ openapi }) => {
           { name: '12 números', total: 22, amount: 27 },
           { name: '11 números', total: 23, amount: 28 },
         ],
+        rangeStart: 1,
+        rangeFinal: 25,
+        rangePerRow: 5,
       },
     },
     {
@@ -48,6 +54,9 @@ module.exports = async ({ openapi }) => {
           { name: 'Quadra', total: 11, amount: 12 },
           { name: 'Terno', total: 13, amount: 14 },
         ],
+        rangeStart: 1,
+        rangeFinal: 80,
+        rangePerRow: 10,
       },
     },
     {
@@ -66,6 +75,9 @@ module.exports = async ({ openapi }) => {
           { name: '16 números', total: 29, amount: 35 },
           { name: 'nenhum número', total: 30, amount: 36 },
         ],
+        rangeStart: 1,
+        rangeFinal: 100,
+        rangePerRow: 10,
       },
     },
     {
@@ -82,6 +94,9 @@ module.exports = async ({ openapi }) => {
           { name: 'Quadra', total: 16, amount: 17 },
           { name: 'Terno', total: 18, amount: 19 },
         ],
+        rangeStart: 1,
+        rangeFinal: 50,
+        rangePerRow: 10,
       },
     },
   ];
@@ -97,6 +112,18 @@ module.exports = async ({ openapi }) => {
   loterias.forEach(loteria => {
     loteriaSchema(loteria.schema);
 
+    openapi.pathAdd({
+      path: `/loteria/${loteria.schema.id}/index.json`,
+      method: 'get',
+      tags: ['loteria'],
+    });
+    
+    openapi.pathAdd({
+      path: `/loteria/${loteria.schema.id}/{number}.json`,
+      method: 'get',
+      tags: ['loteria'],
+    });
+    
     openapi.pathAdd({
       path: `/loteria/${loteria.schema.id}/all.json`,
       method: 'get',
