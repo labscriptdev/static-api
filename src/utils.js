@@ -59,6 +59,7 @@ const openapiInit = () => {
       route.summary = params.summary || '';
       route.description = params.description || '';
       route.operationId = params.operationId || (params.method + params.path.split(/\/|\\|-/g).join('-'));
+      route.parameters = params.parameters || [];
       route.responses = params.responses || {
         '200': { description: 'Success' },
         '404': { description: 'Not found' },

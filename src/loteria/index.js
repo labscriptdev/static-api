@@ -1,5 +1,5 @@
-const { loteriaSchema } = require('./utils');
 const { dataSave } = require('../utils');
+const { loteriaSchema } = require('./utils');
 
 module.exports = async ({ openapi }) => {
   let loterias = [
@@ -101,6 +101,16 @@ module.exports = async ({ openapi }) => {
     },
   ];
 
+  dataSave('loteria/index.json', loterias.map(loteria => {
+    return {
+      id: loteria.schema.id,
+      name: loteria.schema.name,
+      rangeStart: loteria.schema.rangeStart,
+      rangeFinal: loteria.schema.rangeFinal,
+      rangePerRow: loteria.schema.rangePerRow,
+    };
+  }));
+
   openapi.tagAdd('loteria');
 
   openapi.pathAdd({
@@ -113,18 +123,24 @@ module.exports = async ({ openapi }) => {
     loteriaSchema(loteria.schema);
 
     openapi.pathAdd({
+      operationId: `loteria-${loteria.schema.id}-index`,
       path: `/loteria/${loteria.schema.id}/index.json`,
       method: 'get',
       tags: ['loteria'],
     });
     
     openapi.pathAdd({
+      operationId: `loteria-${loteria.schema.id}-number`,
       path: `/loteria/${loteria.schema.id}/{number}.json`,
       method: 'get',
       tags: ['loteria'],
+      parameters: [
+        { name: 'number', in: 'path', required: true, schema: { type: 'string' }},
+      ],
     });
     
     openapi.pathAdd({
+      operationId: `loteria-${loteria.schema.id}-all`,
       path: `/loteria/${loteria.schema.id}/all.json`,
       method: 'get',
       tags: ['loteria'],
