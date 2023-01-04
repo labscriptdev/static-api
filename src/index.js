@@ -9,7 +9,7 @@ const glob = require('fast-glob');
   app.openapi = openapiInit();
   
   let only = [
-    // path.join(__dirname, 'phone-code', 'index.js'),
+    // path.join(__dirname, 'country', 'index.js'),
   ];
 
   (await glob(`${__dirname}/**/index.js`)).map(async file => {

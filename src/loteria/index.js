@@ -114,6 +114,7 @@ module.exports = async ({ openapi }) => {
   openapi.tagAdd('loteria');
 
   openapi.pathAdd({
+    operationId: `loteria-index`,
     path: '/loteria/index.json',
     method: 'get',
     tags: ['loteria'],
