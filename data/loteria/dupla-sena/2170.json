@@ -1,1 +1,35 @@
-{"number":"2170","date":"2020-12-15T00:00:00","accumulated":0,"numbers":[4,10,13,21,27,37],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":6,"amount":7583.99},{"name":"Quadra","total":646,"amount":80.5},{"name":"Terno","total":11104,"amount":2.34}]}
+{
+ "number": "2170",
+ "date": "2020-12-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  10,
+  13,
+  21,
+  27,
+  37
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 6,
+   "amount": 7583.99
+  },
+  {
+   "name": "Quadra",
+   "total": 646,
+   "amount": 80.5
+  },
+  {
+   "name": "Terno",
+   "total": 11104,
+   "amount": 2.34
+  }
+ ]
+}

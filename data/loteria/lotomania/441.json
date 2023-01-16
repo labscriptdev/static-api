@@ -1,1 +1,59 @@
-{"number":"441","date":"2004-08-07T00:00:00","accumulated":0,"numbers":[3,5,10,19,23,24,28,38,41,48,58,64,67,71,75,76,78,79,86,96],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":10,"amount":30689.64},{"name":"18 números","total":155,"amount":1979.98},{"name":"17 números","total":1615,"amount":94.66},{"name":"16 números","total":9977,"amount":15.33},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "441",
+ "date": "2004-08-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  10,
+  19,
+  23,
+  24,
+  28,
+  38,
+  41,
+  48,
+  58,
+  64,
+  67,
+  71,
+  75,
+  76,
+  78,
+  79,
+  86,
+  96
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 10,
+   "amount": 30689.64
+  },
+  {
+   "name": "18 números",
+   "total": 155,
+   "amount": 1979.98
+  },
+  {
+   "name": "17 números",
+   "total": 1615,
+   "amount": 94.66
+  },
+  {
+   "name": "16 números",
+   "total": 9977,
+   "amount": 15.33
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"501","date":"1999-01-12T00:00:00","accumulated":0,"numbers":[24,32,51,61,63],"winners":[{"name":"Quina","total":2,"amount":133420.83},{"name":"Quadra","total":218,"amount":1224.05},{"name":"Terno","total":8724,"amount":40.71}]}
+{
+ "number": "501",
+ "date": "1999-01-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  24,
+  32,
+  51,
+  61,
+  63
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 133420.83
+  },
+  {
+   "name": "Quadra",
+   "total": 218,
+   "amount": 1224.05
+  },
+  {
+   "name": "Terno",
+   "total": 8724,
+   "amount": 40.71
+  }
+ ]
+}

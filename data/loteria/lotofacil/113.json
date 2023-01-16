@@ -1,1 +1,49 @@
-{"number":"113","date":"2005-11-21T00:00:00","accumulated":0,"numbers":[1,2,4,5,6,8,11,12,13,14,19,20,21,24,25],"winners":[{"name":"15 números","total":3,"amount":514867.34},{"name":"14 números","total":16637,"amount":1514.81},{"name":"13 números","total":16637,"amount":10},{"name":"12 números","total":236170,"amount":4},{"name":"11 números","total":1390432,"amount":2}]}
+{
+ "number": "113",
+ "date": "2005-11-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  8,
+  11,
+  12,
+  13,
+  14,
+  19,
+  20,
+  21,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 3,
+   "amount": 514867.34
+  },
+  {
+   "name": "14 números",
+   "total": 16637,
+   "amount": 1514.81
+  },
+  {
+   "name": "13 números",
+   "total": 16637,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 236170,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1390432,
+   "amount": 2
+  }
+ ]
+}

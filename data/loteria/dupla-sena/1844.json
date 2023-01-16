@@ -1,1 +1,35 @@
-{"number":"1844","date":"2018-09-25T00:00:00","accumulated":0,"numbers":[17,23,30,34,43,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":31,"amount":3569.7},{"name":"Quadra","total":1719,"amount":73.57},{"name":"Terno","total":29373,"amount":2.15}]}
+{
+ "number": "1844",
+ "date": "2018-09-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  23,
+  30,
+  34,
+  43,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 31,
+   "amount": 3569.7
+  },
+  {
+   "name": "Quadra",
+   "total": 1719,
+   "amount": 73.57
+  },
+  {
+   "name": "Terno",
+   "total": 29373,
+   "amount": 2.15
+  }
+ ]
+}

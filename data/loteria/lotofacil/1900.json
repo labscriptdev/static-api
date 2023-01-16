@@ -1,1 +1,49 @@
-{"number":"1900","date":"2019-12-06T00:00:00","accumulated":0,"numbers":[1,5,6,7,8,10,11,12,13,16,17,18,19,22,25],"winners":[{"name":"15 números","total":4,"amount":1691737.38},{"name":"14 números","total":17427,"amount":3002.45},{"name":"13 números","total":17427,"amount":25},{"name":"12 números","total":241755,"amount":10},{"name":"11 números","total":1436956,"amount":5}]}
+{
+ "number": "1900",
+ "date": "2019-12-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  6,
+  7,
+  8,
+  10,
+  11,
+  12,
+  13,
+  16,
+  17,
+  18,
+  19,
+  22,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 1691737.38
+  },
+  {
+   "name": "14 números",
+   "total": 17427,
+   "amount": 3002.45
+  },
+  {
+   "name": "13 números",
+   "total": 17427,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 241755,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 1436956,
+   "amount": 5
+  }
+ ]
+}

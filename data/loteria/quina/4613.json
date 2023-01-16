@@ -1,1 +1,29 @@
-{"number":"4613","date":"2018-02-23T00:00:00","accumulated":0,"numbers":[13,41,49,57,59],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":68,"amount":6425.79},{"name":"Terno","total":5815,"amount":112.99}]}
+{
+ "number": "4613",
+ "date": "2018-02-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  41,
+  49,
+  57,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 68,
+   "amount": 6425.79
+  },
+  {
+   "name": "Terno",
+   "total": 5815,
+   "amount": 112.99
+  }
+ ]
+}

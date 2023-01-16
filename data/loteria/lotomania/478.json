@@ -1,1 +1,59 @@
-{"number":"478","date":"2004-12-15T00:00:00","accumulated":0,"numbers":[9,19,20,21,23,25,30,45,46,48,51,62,63,64,67,71,74,84,88,89],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":5,"amount":51688.38},{"name":"18 números","total":103,"amount":2509.15},{"name":"17 números","total":981,"amount":131.22},{"name":"16 números","total":6844,"amount":18.81},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "478",
+ "date": "2004-12-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  19,
+  20,
+  21,
+  23,
+  25,
+  30,
+  45,
+  46,
+  48,
+  51,
+  62,
+  63,
+  64,
+  67,
+  71,
+  74,
+  84,
+  88,
+  89
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 5,
+   "amount": 51688.38
+  },
+  {
+   "name": "18 números",
+   "total": 103,
+   "amount": 2509.15
+  },
+  {
+   "name": "17 números",
+   "total": 981,
+   "amount": 131.22
+  },
+  {
+   "name": "16 números",
+   "total": 6844,
+   "amount": 18.81
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

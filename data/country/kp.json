@@ -1,1 +1,15 @@
-{"name":"North Korea","cca2":"kp","cca3":"prk","languages":["kor"],"latlng":[40,127],"flags":"https://flagcdn.com/kp.svg","postalCodeMask":"###-###","phoneMask":false}
+{
+ "name": "North Korea",
+ "cca2": "kp",
+ "cca3": "prk",
+ "languages": [
+  "kor"
+ ],
+ "latlng": [
+  40,
+  127
+ ],
+ "flags": "https://flagcdn.com/kp.svg",
+ "postalCodeMask": "###-###",
+ "phoneMask": false
+}

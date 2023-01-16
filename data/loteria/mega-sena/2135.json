@@ -1,1 +1,30 @@
-{"number":"2135","date":"2019-03-20T00:00:00","accumulated":0,"numbers":[9,23,28,40,48,59],"winners":[{"name":"Sena","total":1,"amount":32689083.52},{"name":"Quina","total":50,"amount":58359.12},{"name":"Quadra","total":4546,"amount":916.96}]}
+{
+ "number": "2135",
+ "date": "2019-03-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  23,
+  28,
+  40,
+  48,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 32689083.52
+  },
+  {
+   "name": "Quina",
+   "total": 50,
+   "amount": 58359.12
+  },
+  {
+   "name": "Quadra",
+   "total": 4546,
+   "amount": 916.96
+  }
+ ]
+}

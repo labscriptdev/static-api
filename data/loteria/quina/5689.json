@@ -1,1 +1,29 @@
-{"number":"5689","date":"2021-10-23T00:00:00","accumulated":0,"numbers":[11,43,45,49,56],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":60,"amount":8371.19},{"name":"Terno","total":5239,"amount":144.16}]}
+{
+ "number": "5689",
+ "date": "2021-10-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  43,
+  45,
+  49,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 60,
+   "amount": 8371.19
+  },
+  {
+   "name": "Terno",
+   "total": 5239,
+   "amount": 144.16
+  }
+ ]
+}

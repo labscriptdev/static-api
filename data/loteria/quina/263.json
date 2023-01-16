@@ -1,1 +1,29 @@
-{"number":"263","date":"1996-12-22T00:00:00","accumulated":0,"numbers":[32,63,66,76,77],"winners":[{"name":"Quina","total":2,"amount":206553.37},{"name":"Quadra","total":285,"amount":1449.5},{"name":"Terno","total":13423,"amount":41.04}]}
+{
+ "number": "263",
+ "date": "1996-12-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  32,
+  63,
+  66,
+  76,
+  77
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 206553.37
+  },
+  {
+   "name": "Quadra",
+   "total": 285,
+   "amount": 1449.5
+  },
+  {
+   "name": "Terno",
+   "total": 13423,
+   "amount": 41.04
+  }
+ ]
+}

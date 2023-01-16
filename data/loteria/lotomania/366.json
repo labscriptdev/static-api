@@ -1,1 +1,59 @@
-{"number":"366","date":"2003-11-08T00:00:00","accumulated":0,"numbers":[4,9,11,16,21,22,24,29,42,44,49,51,55,65,67,69,71,75,82,93],"winners":[{"name":"20 números","total":2,"amount":1203653.32},{"name":"19 números","total":47,"amount":8919.66},{"name":"18 números","total":764,"amount":546.64},{"name":"17 números","total":4607,"amount":45.33},{"name":"16 números","total":21464,"amount":9.74},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "366",
+ "date": "2003-11-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  9,
+  11,
+  16,
+  21,
+  22,
+  24,
+  29,
+  42,
+  44,
+  49,
+  51,
+  55,
+  65,
+  67,
+  69,
+  71,
+  75,
+  82,
+  93
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 2,
+   "amount": 1203653.32
+  },
+  {
+   "name": "19 números",
+   "total": 47,
+   "amount": 8919.66
+  },
+  {
+   "name": "18 números",
+   "total": 764,
+   "amount": 546.64
+  },
+  {
+   "name": "17 números",
+   "total": 4607,
+   "amount": 45.33
+  },
+  {
+   "name": "16 números",
+   "total": 21464,
+   "amount": 9.74
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

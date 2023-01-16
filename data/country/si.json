@@ -1,1 +1,15 @@
-{"name":"Slovenia","cca2":"si","cca3":"svn","languages":["slv"],"latlng":[46.11666666,14.81666666],"flags":"https://flagcdn.com/si.svg","postalCodeMask":"SI- ####","phoneMask":false}
+{
+ "name": "Slovenia",
+ "cca2": "si",
+ "cca3": "svn",
+ "languages": [
+  "slv"
+ ],
+ "latlng": [
+  46.11666666,
+  14.81666666
+ ],
+ "flags": "https://flagcdn.com/si.svg",
+ "postalCodeMask": "SI- ####",
+ "phoneMask": false
+}

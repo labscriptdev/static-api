@@ -1,1 +1,16 @@
-{"name":"Palau","cca2":"pw","cca3":"plw","languages":["eng","pau"],"latlng":[7.5,134.5],"flags":"https://flagcdn.com/pw.svg","postalCodeMask":"96940","phoneMask":false}
+{
+ "name": "Palau",
+ "cca2": "pw",
+ "cca3": "plw",
+ "languages": [
+  "eng",
+  "pau"
+ ],
+ "latlng": [
+  7.5,
+  134.5
+ ],
+ "flags": "https://flagcdn.com/pw.svg",
+ "postalCodeMask": "96940",
+ "phoneMask": false
+}

@@ -1,1 +1,29 @@
-{"number":"4692","date":"2018-05-30T00:00:00","accumulated":0,"numbers":[19,22,33,68,76],"winners":[{"name":"Quina","total":1,"amount":584566.85},{"name":"Quadra","total":35,"amount":9066.75},{"name":"Terno","total":3805,"amount":125.41}]}
+{
+ "number": "4692",
+ "date": "2018-05-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  19,
+  22,
+  33,
+  68,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 584566.85
+  },
+  {
+   "name": "Quadra",
+   "total": 35,
+   "amount": 9066.75
+  },
+  {
+   "name": "Terno",
+   "total": 3805,
+   "amount": 125.41
+  }
+ ]
+}

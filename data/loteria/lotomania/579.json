@@ -1,1 +1,59 @@
-{"number":"579","date":"2005-12-24T00:00:00","accumulated":0,"numbers":[1,2,3,6,12,21,31,35,46,47,48,50,51,52,59,64,69,71,89,90],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":7,"amount":31471.77},{"name":"18 números","total":108,"amount":2039.84},{"name":"17 números","total":1050,"amount":104.52},{"name":"16 números","total":6230,"amount":17.62},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "579",
+ "date": "2005-12-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  6,
+  12,
+  21,
+  31,
+  35,
+  46,
+  47,
+  48,
+  50,
+  51,
+  52,
+  59,
+  64,
+  69,
+  71,
+  89,
+  90
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 7,
+   "amount": 31471.77
+  },
+  {
+   "name": "18 números",
+   "total": 108,
+   "amount": 2039.84
+  },
+  {
+   "name": "17 números",
+   "total": 1050,
+   "amount": 104.52
+  },
+  {
+   "name": "16 números",
+   "total": 6230,
+   "amount": 17.62
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"Qatar","cca2":"qa","cca3":"qat","languages":["ara"],"latlng":[25.5,51.25],"flags":"https://flagcdn.com/qa.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Qatar",
+ "cca2": "qa",
+ "cca3": "qat",
+ "languages": [
+  "ara"
+ ],
+ "latlng": [
+  25.5,
+  51.25
+ ],
+ "flags": "https://flagcdn.com/qa.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

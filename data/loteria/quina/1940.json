@@ -1,1 +1,29 @@
-{"number":"1940","date":"2008-08-16T00:00:00","accumulated":0,"numbers":[27,42,56,63,65],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":116,"amount":3470.44},{"name":"Terno","total":6424,"amount":83.56}]}
+{
+ "number": "1940",
+ "date": "2008-08-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  27,
+  42,
+  56,
+  63,
+  65
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 116,
+   "amount": 3470.44
+  },
+  {
+   "name": "Terno",
+   "total": 6424,
+   "amount": 83.56
+  }
+ ]
+}

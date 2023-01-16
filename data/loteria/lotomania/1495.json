@@ -1,1 +1,59 @@
-{"number":"1495","date":"2014-10-15T00:00:00","accumulated":0,"numbers":[0,1,20,27,34,35,36,43,45,54,55,58,67,70,71,81,83,87,89,95],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":16,"amount":20436.23},{"name":"18 números","total":151,"amount":2165.43},{"name":"17 números","total":1474,"amount":138.64},{"name":"16 números","total":9675,"amount":21.12},{"name":"nenhum número","total":1,"amount":163489.83}]}
+{
+ "number": "1495",
+ "date": "2014-10-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  1,
+  20,
+  27,
+  34,
+  35,
+  36,
+  43,
+  45,
+  54,
+  55,
+  58,
+  67,
+  70,
+  71,
+  81,
+  83,
+  87,
+  89,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 16,
+   "amount": 20436.23
+  },
+  {
+   "name": "18 números",
+   "total": 151,
+   "amount": 2165.43
+  },
+  {
+   "name": "17 números",
+   "total": 1474,
+   "amount": 138.64
+  },
+  {
+   "name": "16 números",
+   "total": 9675,
+   "amount": 21.12
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 163489.83
+  }
+ ]
+}

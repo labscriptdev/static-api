@@ -1,1 +1,29 @@
-{"number":"1666","date":"2006-10-21T00:00:00","accumulated":0,"numbers":[29,47,51,52,73],"winners":[{"name":"Quina","total":1,"amount":585156.27},{"name":"Quadra","total":112,"amount":2724.47},{"name":"Terno","total":5773,"amount":70.21}]}
+{
+ "number": "1666",
+ "date": "2006-10-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  29,
+  47,
+  51,
+  52,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 585156.27
+  },
+  {
+   "name": "Quadra",
+   "total": 112,
+   "amount": 2724.47
+  },
+  {
+   "name": "Terno",
+   "total": 5773,
+   "amount": 70.21
+  }
+ ]
+}

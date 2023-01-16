@@ -1,1 +1,30 @@
-{"number":"303","date":"2001-10-10T00:00:00","accumulated":0,"numbers":[7,13,17,30,37,47],"winners":[{"name":"Sena","total":1,"amount":12257748.27},{"name":"Quina","total":215,"amount":4674.95},{"name":"Quadra","total":12861,"amount":77.86}]}
+{
+ "number": "303",
+ "date": "2001-10-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  13,
+  17,
+  30,
+  37,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 12257748.27
+  },
+  {
+   "name": "Quina",
+   "total": 215,
+   "amount": 4674.95
+  },
+  {
+   "name": "Quadra",
+   "total": 12861,
+   "amount": 77.86
+  }
+ ]
+}

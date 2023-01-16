@@ -1,1 +1,29 @@
-{"number":"400","date":"1998-05-07T00:00:00","accumulated":0,"numbers":[56,59,65,70,71],"winners":[{"name":"Quina","total":1,"amount":245460.92},{"name":"Quadra","total":158,"amount":1553.55},{"name":"Terno","total":6856,"amount":47.65}]}
+{
+ "number": "400",
+ "date": "1998-05-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  56,
+  59,
+  65,
+  70,
+  71
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 245460.92
+  },
+  {
+   "name": "Quadra",
+   "total": 158,
+   "amount": 1553.55
+  },
+  {
+   "name": "Terno",
+   "total": 6856,
+   "amount": 47.65
+  }
+ ]
+}

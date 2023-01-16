@@ -1,1 +1,29 @@
-{"number":"4318","date":"2017-02-22T00:00:00","accumulated":0,"numbers":[13,14,70,73,76],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":56,"amount":6130.62},{"name":"Terno","total":3616,"amount":142.77}]}
+{
+ "number": "4318",
+ "date": "2017-02-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  14,
+  70,
+  73,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 56,
+   "amount": 6130.62
+  },
+  {
+   "name": "Terno",
+   "total": 3616,
+   "amount": 142.77
+  }
+ ]
+}

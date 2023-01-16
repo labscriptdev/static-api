@@ -1,1 +1,30 @@
-{"number":"479","date":"2003-07-12T00:00:00","accumulated":0,"numbers":[20,26,41,46,54,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":32,"amount":29012.34},{"name":"Quadra","total":2834,"amount":326.35}]}
+{
+ "number": "479",
+ "date": "2003-07-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  26,
+  41,
+  46,
+  54,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 32,
+   "amount": 29012.34
+  },
+  {
+   "name": "Quadra",
+   "total": 2834,
+   "amount": 326.35
+  }
+ ]
+}

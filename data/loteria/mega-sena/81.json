@@ -1,1 +1,30 @@
-{"number":"81","date":"1997-09-21T00:00:00","accumulated":0,"numbers":[10,23,41,47,54,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":62,"amount":19453.15},{"name":"Quadra","total":4870,"amount":247.17}]}
+{
+ "number": "81",
+ "date": "1997-09-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  23,
+  41,
+  47,
+  54,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 62,
+   "amount": 19453.15
+  },
+  {
+   "name": "Quadra",
+   "total": 4870,
+   "amount": 247.17
+  }
+ ]
+}

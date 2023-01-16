@@ -1,1 +1,49 @@
-{"number":"1057","date":"2014-05-19T00:00:00","accumulated":0,"numbers":[1,4,6,7,8,9,11,13,14,16,19,20,21,23,25],"winners":[{"name":"15 números","total":2,"amount":915327.26},{"name":"14 números","total":19341,"amount":1338.9},{"name":"13 números","total":19341,"amount":15},{"name":"12 números","total":222547,"amount":6},{"name":"11 números","total":1190831,"amount":3}]}
+{
+ "number": "1057",
+ "date": "2014-05-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  6,
+  7,
+  8,
+  9,
+  11,
+  13,
+  14,
+  16,
+  19,
+  20,
+  21,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 915327.26
+  },
+  {
+   "name": "14 números",
+   "total": 19341,
+   "amount": 1338.9
+  },
+  {
+   "name": "13 números",
+   "total": 19341,
+   "amount": 15
+  },
+  {
+   "name": "12 números",
+   "total": 222547,
+   "amount": 6
+  },
+  {
+   "name": "11 números",
+   "total": 1190831,
+   "amount": 3
+  }
+ ]
+}

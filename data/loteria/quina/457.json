@@ -1,1 +1,29 @@
-{"number":"457","date":"1998-09-22T00:00:00","accumulated":0,"numbers":[1,13,31,49,56],"winners":[{"name":"Quina","total":1,"amount":239686.21},{"name":"Quadra","total":302,"amount":793.66},{"name":"Terno","total":12712,"amount":25.09}]}
+{
+ "number": "457",
+ "date": "1998-09-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  13,
+  31,
+  49,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 239686.21
+  },
+  {
+   "name": "Quadra",
+   "total": 302,
+   "amount": 793.66
+  },
+  {
+   "name": "Terno",
+   "total": 12712,
+   "amount": 25.09
+  }
+ ]
+}

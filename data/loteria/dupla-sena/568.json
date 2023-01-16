@@ -1,1 +1,35 @@
-{"number":"568","date":"2007-06-26T00:00:00","accumulated":0,"numbers":[9,11,27,34,40,48],"winners":[{"name":"Sena","total":1,"amount":697123.19},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "568",
+ "date": "2007-06-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  11,
+  27,
+  34,
+  40,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 697123.19
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"2094","date":"2009-08-22T00:00:00","accumulated":0,"numbers":[4,56,57,62,65],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":112,"amount":5677.02},{"name":"Terno","total":8231,"amount":147.13}]}
+{
+ "number": "2094",
+ "date": "2009-08-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  56,
+  57,
+  62,
+  65
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 112,
+   "amount": 5677.02
+  },
+  {
+   "name": "Terno",
+   "total": 8231,
+   "amount": 147.13
+  }
+ ]
+}

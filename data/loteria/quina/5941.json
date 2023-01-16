@@ -1,1 +1,29 @@
-{"number":"5941","date":"2022-09-03T00:00:00","accumulated":0,"numbers":[10,12,48,54,65],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":86,"amount":5885.26},{"name":"Terno","total":6805,"amount":70.83}]}
+{
+ "number": "5941",
+ "date": "2022-09-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  12,
+  48,
+  54,
+  65
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 86,
+   "amount": 5885.26
+  },
+  {
+   "name": "Terno",
+   "total": 6805,
+   "amount": 70.83
+  }
+ ]
+}

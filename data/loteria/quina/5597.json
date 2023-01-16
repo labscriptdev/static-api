@@ -1,1 +1,29 @@
-{"number":"5597","date":"2021-07-05T00:00:00","accumulated":0,"numbers":[20,32,38,56,65],"winners":[{"name":"Quina","total":1,"amount":6731433.65},{"name":"Quadra","total":95,"amount":7410.89},{"name":"Terno","total":6594,"amount":160.55}]}
+{
+ "number": "5597",
+ "date": "2021-07-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  32,
+  38,
+  56,
+  65
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 6731433.65
+  },
+  {
+   "name": "Quadra",
+   "total": 95,
+   "amount": 7410.89
+  },
+  {
+   "name": "Terno",
+   "total": 6594,
+   "amount": 160.55
+  }
+ ]
+}

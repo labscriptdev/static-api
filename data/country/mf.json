@@ -1,1 +1,15 @@
-{"name":"Saint Martin","cca2":"mf","cca3":"maf","languages":["fra"],"latlng":[18.0708,63.0501],"flags":"https://flagcdn.com/mf.svg","postalCodeMask":"### ###","phoneMask":false}
+{
+ "name": "Saint Martin",
+ "cca2": "mf",
+ "cca3": "maf",
+ "languages": [
+  "fra"
+ ],
+ "latlng": [
+  18.0708,
+  63.0501
+ ],
+ "flags": "https://flagcdn.com/mf.svg",
+ "postalCodeMask": "### ###",
+ "phoneMask": false
+}

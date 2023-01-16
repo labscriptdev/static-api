@@ -1,1 +1,15 @@
-{"name":"Bhutan","cca2":"bt","cca3":"btn","languages":["dzo"],"latlng":[27.5,90.5],"flags":"https://flagcdn.com/bt.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Bhutan",
+ "cca2": "bt",
+ "cca3": "btn",
+ "languages": [
+  "dzo"
+ ],
+ "latlng": [
+  27.5,
+  90.5
+ ],
+ "flags": "https://flagcdn.com/bt.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

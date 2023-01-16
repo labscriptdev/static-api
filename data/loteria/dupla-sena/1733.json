@@ -1,1 +1,35 @@
-{"number":"1733","date":"2017-12-21T00:00:00","accumulated":0,"numbers":[2,3,6,11,28,34],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":10,"amount":5153.69},{"name":"Quadra","total":857,"amount":68.72},{"name":"Terno","total":15633,"amount":1.88}]}
+{
+ "number": "1733",
+ "date": "2017-12-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  6,
+  11,
+  28,
+  34
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 10,
+   "amount": 5153.69
+  },
+  {
+   "name": "Quadra",
+   "total": 857,
+   "amount": 68.72
+  },
+  {
+   "name": "Terno",
+   "total": 15633,
+   "amount": 1.88
+  }
+ ]
+}

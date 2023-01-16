@@ -1,1 +1,59 @@
-{"number":"1672","date":"2016-07-05T00:00:00","accumulated":0,"numbers":[2,4,5,7,13,23,24,28,30,35,43,44,52,54,58,65,77,90,94,95],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":10,"amount":24507.14},{"name":"18 números","total":177,"amount":1236.23},{"name":"17 números","total":1294,"amount":118.36},{"name":"16 números","total":7801,"amount":19.63},{"name":"nenhum número","total":32740,"amount":4.67}]}
+{
+ "number": "1672",
+ "date": "2016-07-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  5,
+  7,
+  13,
+  23,
+  24,
+  28,
+  30,
+  35,
+  43,
+  44,
+  52,
+  54,
+  58,
+  65,
+  77,
+  90,
+  94,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 10,
+   "amount": 24507.14
+  },
+  {
+   "name": "18 números",
+   "total": 177,
+   "amount": 1236.23
+  },
+  {
+   "name": "17 números",
+   "total": 1294,
+   "amount": 118.36
+  },
+  {
+   "name": "16 números",
+   "total": 7801,
+   "amount": 19.63
+  },
+  {
+   "name": "nenhum número",
+   "total": 32740,
+   "amount": 4.67
+  }
+ ]
+}

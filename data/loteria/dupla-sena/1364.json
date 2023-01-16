@@ -1,1 +1,35 @@
-{"number":"1364","date":"2015-03-03T00:00:00","accumulated":0,"numbers":[3,31,37,40,43,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":49,"amount":2221.36},{"name":"Quadra","total":1736,"amount":59.71},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1364",
+ "date": "2015-03-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  31,
+  37,
+  40,
+  43,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 49,
+   "amount": 2221.36
+  },
+  {
+   "name": "Quadra",
+   "total": 1736,
+   "amount": 59.71
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"179","date":"1999-08-07T00:00:00","accumulated":0,"numbers":[5,6,23,26,27,53],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":78,"amount":10281.59},{"name":"Quadra","total":5646,"amount":141.51}]}
+{
+ "number": "179",
+ "date": "1999-08-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  6,
+  23,
+  26,
+  27,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 78,
+   "amount": 10281.59
+  },
+  {
+   "name": "Quadra",
+   "total": 5646,
+   "amount": 141.51
+  }
+ ]
+}

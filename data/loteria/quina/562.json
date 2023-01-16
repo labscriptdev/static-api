@@ -1,1 +1,29 @@
-{"number":"562","date":"1999-06-12T00:00:00","accumulated":0,"numbers":[15,30,43,56,58],"winners":[{"name":"Quina","total":5,"amount":70487.95},{"name":"Quadra","total":343,"amount":1027.52},{"name":"Terno","total":14947,"amount":31.44}]}
+{
+ "number": "562",
+ "date": "1999-06-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  15,
+  30,
+  43,
+  56,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 5,
+   "amount": 70487.95
+  },
+  {
+   "name": "Quadra",
+   "total": 343,
+   "amount": 1027.52
+  },
+  {
+   "name": "Terno",
+   "total": 14947,
+   "amount": 31.44
+  }
+ ]
+}

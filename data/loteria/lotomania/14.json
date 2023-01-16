@@ -1,1 +1,59 @@
-{"number":"14","date":"1999-12-31T00:00:00","accumulated":0,"numbers":[3,4,11,13,18,29,30,36,37,40,43,52,55,59,76,81,83,85,86,97],"winners":[{"name":"20 números","total":1,"amount":3840753.34},{"name":"19 números","total":7,"amount":91464.52},{"name":"18 números","total":229,"amount":2795.86},{"name":"17 números","total":2291,"amount":139.2},{"name":"16 números","total":15242,"amount":20.93},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "14",
+ "date": "1999-12-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  11,
+  13,
+  18,
+  29,
+  30,
+  36,
+  37,
+  40,
+  43,
+  52,
+  55,
+  59,
+  76,
+  81,
+  83,
+  85,
+  86,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 3840753.34
+  },
+  {
+   "name": "19 números",
+   "total": 7,
+   "amount": 91464.52
+  },
+  {
+   "name": "18 números",
+   "total": 229,
+   "amount": 2795.86
+  },
+  {
+   "name": "17 números",
+   "total": 2291,
+   "amount": 139.2
+  },
+  {
+   "name": "16 números",
+   "total": 15242,
+   "amount": 20.93
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

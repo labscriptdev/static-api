@@ -1,1 +1,35 @@
-{"number":"1572","date":"2016-11-22T00:00:00","accumulated":0,"numbers":[12,14,18,37,41,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":32,"amount":1555.36},{"name":"Quadra","total":1089,"amount":52.23},{"name":"Terno","total":14505,"amount":1.96}]}
+{
+ "number": "1572",
+ "date": "2016-11-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  14,
+  18,
+  37,
+  41,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 32,
+   "amount": 1555.36
+  },
+  {
+   "name": "Quadra",
+   "total": 1089,
+   "amount": 52.23
+  },
+  {
+   "name": "Terno",
+   "total": 14505,
+   "amount": 1.96
+  }
+ ]
+}

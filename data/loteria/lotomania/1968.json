@@ -1,1 +1,59 @@
-{"number":"1968","date":"2019-05-10T00:00:00","accumulated":0,"numbers":[2,4,8,12,13,17,21,22,31,53,54,56,68,69,82,86,93,94,97,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":6,"amount":34113.49},{"name":"18 números","total":110,"amount":1661.37},{"name":"17 números","total":916,"amount":139.65},{"name":"16 números","total":5118,"amount":24.99},{"name":"nenhum número","total":22577,"amount":5.66}]}
+{
+ "number": "1968",
+ "date": "2019-05-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  8,
+  12,
+  13,
+  17,
+  21,
+  22,
+  31,
+  53,
+  54,
+  56,
+  68,
+  69,
+  82,
+  86,
+  93,
+  94,
+  97,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 34113.49
+  },
+  {
+   "name": "18 números",
+   "total": 110,
+   "amount": 1661.37
+  },
+  {
+   "name": "17 números",
+   "total": 916,
+   "amount": 139.65
+  },
+  {
+   "name": "16 números",
+   "total": 5118,
+   "amount": 24.99
+  },
+  {
+   "name": "nenhum número",
+   "total": 22577,
+   "amount": 5.66
+  }
+ ]
+}

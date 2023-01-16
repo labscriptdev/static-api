@@ -1,1 +1,15 @@
-{"name":"Suriname","cca2":"sr","cca3":"sur","languages":["nld"],"latlng":[4,-56],"flags":"https://flagcdn.com/sr.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Suriname",
+ "cca2": "sr",
+ "cca3": "sur",
+ "languages": [
+  "nld"
+ ],
+ "latlng": [
+  4,
+  -56
+ ],
+ "flags": "https://flagcdn.com/sr.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

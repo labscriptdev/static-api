@@ -1,1 +1,30 @@
-{"number":"1956","date":"2017-08-08T00:00:00","accumulated":0,"numbers":[5,8,20,28,40,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":74,"amount":32189.04},{"name":"Quadra","total":5000,"amount":680.56}]}
+{
+ "number": "1956",
+ "date": "2017-08-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  8,
+  20,
+  28,
+  40,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 74,
+   "amount": 32189.04
+  },
+  {
+   "name": "Quadra",
+   "total": 5000,
+   "amount": 680.56
+  }
+ ]
+}

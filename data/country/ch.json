@@ -1,1 +1,18 @@
-{"name":"Switzerland","cca2":"ch","cca3":"che","languages":["fra","gsw","ita","roh"],"latlng":[47,8],"flags":"https://flagcdn.com/ch.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Switzerland",
+ "cca2": "ch",
+ "cca3": "che",
+ "languages": [
+  "fra",
+  "gsw",
+  "ita",
+  "roh"
+ ],
+ "latlng": [
+  47,
+  8
+ ],
+ "flags": "https://flagcdn.com/ch.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

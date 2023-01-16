@@ -1,1 +1,29 @@
-{"number":"1078","date":"2002-11-30T00:00:00","accumulated":0,"numbers":[11,22,24,55,64],"winners":[{"name":"Quina","total":1,"amount":344822.61},{"name":"Quadra","total":350,"amount":985.21},{"name":"Terno","total":16494,"amount":27.78}]}
+{
+ "number": "1078",
+ "date": "2002-11-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  22,
+  24,
+  55,
+  64
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 344822.61
+  },
+  {
+   "name": "Quadra",
+   "total": 350,
+   "amount": 985.21
+  },
+  {
+   "name": "Terno",
+   "total": 16494,
+   "amount": 27.78
+  }
+ ]
+}

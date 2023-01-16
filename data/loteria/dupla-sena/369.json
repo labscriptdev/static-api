@@ -1,1 +1,35 @@
-{"number":"369","date":"2005-07-12T00:00:00","accumulated":0,"numbers":[1,5,11,25,31,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "369",
+ "date": "2005-07-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  11,
+  25,
+  31,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

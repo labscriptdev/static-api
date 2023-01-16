@@ -1,1 +1,29 @@
-{"number":"953","date":"2002-02-07T00:00:00","accumulated":0,"numbers":[2,5,18,45,70],"winners":[{"name":"Quina","total":2,"amount":140811.04},{"name":"Quadra","total":334,"amount":843.18},{"name":"Terno","total":13633,"amount":27.44}]}
+{
+ "number": "953",
+ "date": "2002-02-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  18,
+  45,
+  70
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 140811.04
+  },
+  {
+   "name": "Quadra",
+   "total": 334,
+   "amount": 843.18
+  },
+  {
+   "name": "Terno",
+   "total": 13633,
+   "amount": 27.44
+  }
+ ]
+}

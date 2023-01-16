@@ -1,1 +1,17 @@
-{"name":"Rwanda","cca2":"rw","cca3":"rwa","languages":["eng","fra","kin"],"latlng":[-2,30],"flags":"https://flagcdn.com/rw.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Rwanda",
+ "cca2": "rw",
+ "cca3": "rwa",
+ "languages": [
+  "eng",
+  "fra",
+  "kin"
+ ],
+ "latlng": [
+  -2,
+  30
+ ],
+ "flags": "https://flagcdn.com/rw.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

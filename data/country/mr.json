@@ -1,1 +1,15 @@
-{"name":"Mauritania","cca2":"mr","cca3":"mrt","languages":["ara"],"latlng":[20,-12],"flags":"https://flagcdn.com/mr.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Mauritania",
+ "cca2": "mr",
+ "cca3": "mrt",
+ "languages": [
+  "ara"
+ ],
+ "latlng": [
+  20,
+  -12
+ ],
+ "flags": "https://flagcdn.com/mr.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

@@ -1,1 +1,30 @@
-{"number":"2073","date":"2018-08-29T00:00:00","accumulated":0,"numbers":[12,15,18,30,52,55],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":80,"amount":36914.78},{"name":"Quadra","total":5335,"amount":790.78}]}
+{
+ "number": "2073",
+ "date": "2018-08-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  15,
+  18,
+  30,
+  52,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 80,
+   "amount": 36914.78
+  },
+  {
+   "name": "Quadra",
+   "total": 5335,
+   "amount": 790.78
+  }
+ ]
+}

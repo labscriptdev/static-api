@@ -1,1 +1,59 @@
-{"number":"1867","date":"2018-05-18T00:00:00","accumulated":0,"numbers":[3,5,10,15,20,38,39,45,50,53,57,60,64,72,77,79,85,86,96,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":9,"amount":25325.93},{"name":"18 números","total":147,"amount":1384.43},{"name":"17 números","total":1335,"amount":106.71},{"name":"16 números","total":7324,"amount":19.45},{"name":"nenhum número","total":28644,"amount":4.97}]}
+{
+ "number": "1867",
+ "date": "2018-05-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  10,
+  15,
+  20,
+  38,
+  39,
+  45,
+  50,
+  53,
+  57,
+  60,
+  64,
+  72,
+  77,
+  79,
+  85,
+  86,
+  96,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 25325.93
+  },
+  {
+   "name": "18 números",
+   "total": 147,
+   "amount": 1384.43
+  },
+  {
+   "name": "17 números",
+   "total": 1335,
+   "amount": 106.71
+  },
+  {
+   "name": "16 números",
+   "total": 7324,
+   "amount": 19.45
+  },
+  {
+   "name": "nenhum número",
+   "total": 28644,
+   "amount": 4.97
+  }
+ ]
+}

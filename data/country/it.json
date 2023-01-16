@@ -1,1 +1,15 @@
-{"name":"Italy","cca2":"it","cca3":"ita","languages":["ita"],"latlng":[42.83333333,12.83333333],"flags":"https://flagcdn.com/it.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Italy",
+ "cca2": "it",
+ "cca3": "ita",
+ "languages": [
+  "ita"
+ ],
+ "latlng": [
+  42.83333333,
+  12.83333333
+ ],
+ "flags": "https://flagcdn.com/it.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

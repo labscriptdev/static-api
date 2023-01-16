@@ -1,1 +1,35 @@
-{"number":"973","date":"2011-06-03T00:00:00","accumulated":0,"numbers":[4,9,28,33,45,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":65,"amount":1515.32},{"name":"Quadra","total":2891,"amount":32.44},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "973",
+ "date": "2011-06-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  9,
+  28,
+  33,
+  45,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 65,
+   "amount": 1515.32
+  },
+  {
+   "name": "Quadra",
+   "total": 2891,
+   "amount": 32.44
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

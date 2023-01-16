@@ -1,1 +1,35 @@
-{"number":"719","date":"2008-12-19T00:00:00","accumulated":0,"numbers":[6,23,24,25,26,50],"winners":[{"name":"Sena","total":1,"amount":868900.47},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "719",
+ "date": "2008-12-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  23,
+  24,
+  25,
+  26,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 868900.47
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

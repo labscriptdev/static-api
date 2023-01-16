@@ -1,1 +1,16 @@
-{"name":"Malaysia","cca2":"my","cca3":"mys","languages":["eng","msa"],"latlng":[2.5,112.5],"flags":"https://flagcdn.com/my.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Malaysia",
+ "cca2": "my",
+ "cca3": "mys",
+ "languages": [
+  "eng",
+  "msa"
+ ],
+ "latlng": [
+  2.5,
+  112.5
+ ],
+ "flags": "https://flagcdn.com/my.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

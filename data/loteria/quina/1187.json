@@ -1,1 +1,29 @@
-{"number":"1187","date":"2003-08-19T00:00:00","accumulated":0,"numbers":[5,15,18,55,78],"winners":[{"name":"Quina","total":2,"amount":167217.55},{"name":"Quadra","total":498,"amount":669.01},{"name":"Terno","total":18212,"amount":24.39}]}
+{
+ "number": "1187",
+ "date": "2003-08-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  15,
+  18,
+  55,
+  78
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 167217.55
+  },
+  {
+   "name": "Quadra",
+   "total": 498,
+   "amount": 669.01
+  },
+  {
+   "name": "Terno",
+   "total": 18212,
+   "amount": 24.39
+  }
+ ]
+}

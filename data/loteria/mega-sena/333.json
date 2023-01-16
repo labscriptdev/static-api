@@ -1,1 +1,30 @@
-{"number":"333","date":"2002-01-30T00:00:00","accumulated":0,"numbers":[4,27,35,44,52,53],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":93,"amount":12692.31},{"name":"Quadra","total":6221,"amount":189.02}]}
+{
+ "number": "333",
+ "date": "2002-01-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  27,
+  35,
+  44,
+  52,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 93,
+   "amount": 12692.31
+  },
+  {
+   "name": "Quadra",
+   "total": 6221,
+   "amount": 189.02
+  }
+ ]
+}

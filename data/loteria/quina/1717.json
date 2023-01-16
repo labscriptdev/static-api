@@ -1,1 +1,29 @@
-{"number":"1717","date":"2007-02-22T00:00:00","accumulated":0,"numbers":[12,16,17,25,50],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":177,"amount":1598.8},{"name":"Terno","total":8351,"amount":45.01}]}
+{
+ "number": "1717",
+ "date": "2007-02-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  16,
+  17,
+  25,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 177,
+   "amount": 1598.8
+  },
+  {
+   "name": "Terno",
+   "total": 8351,
+   "amount": 45.01
+  }
+ ]
+}

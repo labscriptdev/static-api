@@ -1,1 +1,29 @@
-{"number":"991","date":"2002-05-09T00:00:00","accumulated":0,"numbers":[1,5,52,54,64],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":199,"amount":1409.98},{"name":"Terno","total":9971,"amount":37.38}]}
+{
+ "number": "991",
+ "date": "2002-05-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  52,
+  54,
+  64
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 199,
+   "amount": 1409.98
+  },
+  {
+   "name": "Terno",
+   "total": 9971,
+   "amount": 37.38
+  }
+ ]
+}

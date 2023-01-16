@@ -1,1 +1,16 @@
-{"name":"American Samoa","cca2":"as","cca3":"asm","languages":["eng","smo"],"latlng":[-14.33333333,-170],"flags":"https://flagcdn.com/as.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "American Samoa",
+ "cca2": "as",
+ "cca3": "asm",
+ "languages": [
+  "eng",
+  "smo"
+ ],
+ "latlng": [
+  -14.33333333,
+  -170
+ ],
+ "flags": "https://flagcdn.com/as.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

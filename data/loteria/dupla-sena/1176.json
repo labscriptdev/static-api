@@ -1,1 +1,35 @@
-{"number":"1176","date":"2013-05-14T00:00:00","accumulated":0,"numbers":[14,17,26,39,47,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":73,"amount":2894.17},{"name":"Quadra","total":4362,"amount":46.12},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1176",
+ "date": "2013-05-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  17,
+  26,
+  39,
+  47,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 73,
+   "amount": 2894.17
+  },
+  {
+   "name": "Quadra",
+   "total": 4362,
+   "amount": 46.12
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

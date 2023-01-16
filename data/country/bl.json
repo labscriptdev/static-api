@@ -1,1 +1,15 @@
-{"name":"Saint Barthélemy","cca2":"bl","cca3":"blm","languages":["fra"],"latlng":[18.5,-63.41666666],"flags":"https://flagcdn.com/bl.svg","postalCodeMask":"### ###","phoneMask":false}
+{
+ "name": "Saint Barthélemy",
+ "cca2": "bl",
+ "cca3": "blm",
+ "languages": [
+  "fra"
+ ],
+ "latlng": [
+  18.5,
+  -63.41666666
+ ],
+ "flags": "https://flagcdn.com/bl.svg",
+ "postalCodeMask": "### ###",
+ "phoneMask": false
+}

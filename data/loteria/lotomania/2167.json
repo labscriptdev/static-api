@@ -1,1 +1,59 @@
-{"number":"2167","date":"2021-04-06T00:00:00","accumulated":0,"numbers":[2,7,18,26,27,37,38,39,43,47,51,54,57,61,67,71,77,82,88,99],"winners":[{"name":"20 números","total":1,"amount":4786831.47},{"name":"19 números","total":10,"amount":28667.22},{"name":"18 números","total":89,"amount":2013.15},{"name":"17 números","total":859,"amount":208.57},{"name":"16 números","total":5022,"amount":35.67},{"name":"nenhum número","total":20881,"amount":8.58}]}
+{
+ "number": "2167",
+ "date": "2021-04-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  7,
+  18,
+  26,
+  27,
+  37,
+  38,
+  39,
+  43,
+  47,
+  51,
+  54,
+  57,
+  61,
+  67,
+  71,
+  77,
+  82,
+  88,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 4786831.47
+  },
+  {
+   "name": "19 números",
+   "total": 10,
+   "amount": 28667.22
+  },
+  {
+   "name": "18 números",
+   "total": 89,
+   "amount": 2013.15
+  },
+  {
+   "name": "17 números",
+   "total": 859,
+   "amount": 208.57
+  },
+  {
+   "name": "16 números",
+   "total": 5022,
+   "amount": 35.67
+  },
+  {
+   "name": "nenhum número",
+   "total": 20881,
+   "amount": 8.58
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"5449","date":"2020-12-23T00:00:00","accumulated":0,"numbers":[18,20,43,70,76],"winners":[{"name":"Quina","total":1,"amount":3483100.44},{"name":"Quadra","total":64,"amount":8947.08},{"name":"Terno","total":4112,"amount":209.4}]}
+{
+ "number": "5449",
+ "date": "2020-12-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  20,
+  43,
+  70,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 3483100.44
+  },
+  {
+   "name": "Quadra",
+   "total": 64,
+   "amount": 8947.08
+  },
+  {
+   "name": "Terno",
+   "total": 4112,
+   "amount": 209.4
+  }
+ ]
+}

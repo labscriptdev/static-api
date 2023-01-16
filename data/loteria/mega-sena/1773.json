@@ -1,1 +1,30 @@
-{"number":"1773","date":"2015-12-24T00:00:00","accumulated":0,"numbers":[15,30,39,41,45,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":36,"amount":55113.48},{"name":"Quadra","total":2312,"amount":1225.95}]}
+{
+ "number": "1773",
+ "date": "2015-12-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  15,
+  30,
+  39,
+  41,
+  45,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 36,
+   "amount": 55113.48
+  },
+  {
+   "name": "Quadra",
+   "total": 2312,
+   "amount": 1225.95
+  }
+ ]
+}

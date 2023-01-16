@@ -1,1 +1,29 @@
-{"number":"3264","date":"2013-08-13T00:00:00","accumulated":0,"numbers":[14,21,25,26,47],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":164,"amount":4405.24},{"name":"Terno","total":11548,"amount":89.37}]}
+{
+ "number": "3264",
+ "date": "2013-08-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  21,
+  25,
+  26,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 164,
+   "amount": 4405.24
+  },
+  {
+   "name": "Terno",
+   "total": 11548,
+   "amount": 89.37
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"2172","date":"2019-07-24T00:00:00","accumulated":0,"numbers":[9,24,28,37,43,57],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":73,"amount":19687.16},{"name":"Quadra","total":3356,"amount":611.76}]}
+{
+ "number": "2172",
+ "date": "2019-07-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  24,
+  28,
+  37,
+  43,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 73,
+   "amount": 19687.16
+  },
+  {
+   "name": "Quadra",
+   "total": 3356,
+   "amount": 611.76
+  }
+ ]
+}

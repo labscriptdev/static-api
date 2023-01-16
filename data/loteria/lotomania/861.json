@@ -1,1 +1,59 @@
-{"number":"861","date":"2008-09-10T00:00:00","accumulated":0,"numbers":[3,7,12,22,37,40,41,50,56,59,66,68,71,76,79,84,85,93,98,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":5,"amount":49600.14},{"name":"18 números","total":114,"amount":2175.44},{"name":"17 números","total":947,"amount":130.94},{"name":"16 números","total":6125,"amount":20.25},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "861",
+ "date": "2008-09-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  7,
+  12,
+  22,
+  37,
+  40,
+  41,
+  50,
+  56,
+  59,
+  66,
+  68,
+  71,
+  76,
+  79,
+  84,
+  85,
+  93,
+  98,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 5,
+   "amount": 49600.14
+  },
+  {
+   "name": "18 números",
+   "total": 114,
+   "amount": 2175.44
+  },
+  {
+   "name": "17 números",
+   "total": 947,
+   "amount": 130.94
+  },
+  {
+   "name": "16 números",
+   "total": 6125,
+   "amount": 20.25
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

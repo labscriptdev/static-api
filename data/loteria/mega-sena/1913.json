@@ -1,1 +1,30 @@
-{"number":"1913","date":"2017-03-18T00:00:00","accumulated":0,"numbers":[4,14,17,43,52,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":43,"amount":35274.91},{"name":"Quadra","total":2960,"amount":732.05}]}
+{
+ "number": "1913",
+ "date": "2017-03-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  14,
+  17,
+  43,
+  52,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 43,
+   "amount": 35274.91
+  },
+  {
+   "name": "Quadra",
+   "total": 2960,
+   "amount": 732.05
+  }
+ ]
+}

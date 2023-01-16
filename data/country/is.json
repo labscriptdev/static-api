@@ -1,1 +1,15 @@
-{"name":"Iceland","cca2":"is","cca3":"isl","languages":["isl"],"latlng":[65,-18],"flags":"https://flagcdn.com/is.svg","postalCodeMask":"###","phoneMask":false}
+{
+ "name": "Iceland",
+ "cca2": "is",
+ "cca3": "isl",
+ "languages": [
+  "isl"
+ ],
+ "latlng": [
+  65,
+  -18
+ ],
+ "flags": "https://flagcdn.com/is.svg",
+ "postalCodeMask": "###",
+ "phoneMask": false
+}

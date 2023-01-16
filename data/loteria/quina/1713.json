@@ -1,1 +1,29 @@
-{"number":"1713","date":"2007-02-10T00:00:00","accumulated":0,"numbers":[4,30,55,62,71],"winners":[{"name":"Quina","total":1,"amount":339375.48},{"name":"Quadra","total":73,"amount":4648.98},{"name":"Terno","total":4916,"amount":91.71}]}
+{
+ "number": "1713",
+ "date": "2007-02-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  30,
+  55,
+  62,
+  71
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 339375.48
+  },
+  {
+   "name": "Quadra",
+   "total": 73,
+   "amount": 4648.98
+  },
+  {
+   "name": "Terno",
+   "total": 4916,
+   "amount": 91.71
+  }
+ ]
+}

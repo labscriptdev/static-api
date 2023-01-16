@@ -1,1 +1,35 @@
-{"number":"243","date":"2004-03-30T00:00:00","accumulated":0,"numbers":[3,16,17,31,39,40],"winners":[{"name":"Sena","total":1,"amount":1021865.61},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "243",
+ "date": "2004-03-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  16,
+  17,
+  31,
+  39,
+  40
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 1021865.61
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

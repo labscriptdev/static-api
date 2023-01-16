@@ -1,1 +1,35 @@
-{"number":"131","date":"2003-02-25T00:00:00","accumulated":0,"numbers":[4,23,29,30,40,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "131",
+ "date": "2003-02-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  23,
+  29,
+  30,
+  40,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

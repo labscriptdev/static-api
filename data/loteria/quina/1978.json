@@ -1,1 +1,29 @@
-{"number":"1978","date":"2008-11-13T00:00:00","accumulated":0,"numbers":[21,24,37,57,60],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":123,"amount":4550.03},{"name":"Terno","total":7154,"amount":104.3}]}
+{
+ "number": "1978",
+ "date": "2008-11-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  21,
+  24,
+  37,
+  57,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 123,
+   "amount": 4550.03
+  },
+  {
+   "name": "Terno",
+   "total": 7154,
+   "amount": 104.3
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"628","date":"2005-01-05T00:00:00","accumulated":0,"numbers":[8,16,22,30,56,58],"winners":[{"name":"Sena","total":1,"amount":17373966.13},{"name":"Quina","total":76,"amount":20331.21},{"name":"Quadra","total":5510,"amount":279.37}]}
+{
+ "number": "628",
+ "date": "2005-01-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  16,
+  22,
+  30,
+  56,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 17373966.13
+  },
+  {
+   "name": "Quina",
+   "total": 76,
+   "amount": 20331.21
+  },
+  {
+   "name": "Quadra",
+   "total": 5510,
+   "amount": 279.37
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"659","date":"2005-04-27T00:00:00","accumulated":0,"numbers":[14,29,34,40,51,52],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":22,"amount":27222.16},{"name":"Quadra","total":1390,"amount":429.22}]}
+{
+ "number": "659",
+ "date": "2005-04-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  29,
+  34,
+  40,
+  51,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 22,
+   "amount": 27222.16
+  },
+  {
+   "name": "Quadra",
+   "total": 1390,
+   "amount": 429.22
+  }
+ ]
+}

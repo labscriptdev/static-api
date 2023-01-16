@@ -1,1 +1,29 @@
-{"number":"584","date":"1999-08-03T00:00:00","accumulated":0,"numbers":[9,18,20,53,70],"winners":[{"name":"Quina","total":3,"amount":87947.11},{"name":"Quadra","total":238,"amount":1108.58},{"name":"Terno","total":11212,"amount":31.27}]}
+{
+ "number": "584",
+ "date": "1999-08-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  18,
+  20,
+  53,
+  70
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 87947.11
+  },
+  {
+   "name": "Quadra",
+   "total": 238,
+   "amount": 1108.58
+  },
+  {
+   "name": "Terno",
+   "total": 11212,
+   "amount": 31.27
+  }
+ ]
+}

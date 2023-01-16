@@ -1,1 +1,16 @@
-{"name":"Turkmenistan","cca2":"tm","cca3":"tkm","languages":["rus","tuk"],"latlng":[40,60],"flags":"https://flagcdn.com/tm.svg","postalCodeMask":"######","phoneMask":false}
+{
+ "name": "Turkmenistan",
+ "cca2": "tm",
+ "cca3": "tkm",
+ "languages": [
+  "rus",
+  "tuk"
+ ],
+ "latlng": [
+  40,
+  60
+ ],
+ "flags": "https://flagcdn.com/tm.svg",
+ "postalCodeMask": "######",
+ "phoneMask": false
+}

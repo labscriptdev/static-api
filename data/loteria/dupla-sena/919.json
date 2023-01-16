@@ -1,1 +1,35 @@
-{"number":"919","date":"2010-11-26T00:00:00","accumulated":0,"numbers":[8,11,28,30,36,45],"winners":[{"name":"Sena","total":1,"amount":5296186.73},{"name":"Quina","total":85,"amount":2103.27},{"name":"Quadra","total":3489,"amount":48.8},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "919",
+ "date": "2010-11-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  11,
+  28,
+  30,
+  36,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 5296186.73
+  },
+  {
+   "name": "Quina",
+   "total": 85,
+   "amount": 2103.27
+  },
+  {
+   "name": "Quadra",
+   "total": 3489,
+   "amount": 48.8
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

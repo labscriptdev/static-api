@@ -1,1 +1,29 @@
-{"number":"2026","date":"2009-03-12T00:00:00","accumulated":0,"numbers":[3,43,45,58,80],"winners":[{"name":"Quina","total":1,"amount":872983.41},{"name":"Quadra","total":103,"amount":4619.15},{"name":"Terno","total":7518,"amount":84.38}]}
+{
+ "number": "2026",
+ "date": "2009-03-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  43,
+  45,
+  58,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 872983.41
+  },
+  {
+   "name": "Quadra",
+   "total": 103,
+   "amount": 4619.15
+  },
+  {
+   "name": "Terno",
+   "total": 7518,
+   "amount": 84.38
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"4839","date":"2018-11-30T00:00:00","accumulated":0,"numbers":[6,11,15,33,39],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":101,"amount":3351.5},{"name":"Terno","total":7144,"amount":71.25}]}
+{
+ "number": "4839",
+ "date": "2018-11-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  11,
+  15,
+  33,
+  39
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 101,
+   "amount": 3351.5
+  },
+  {
+   "name": "Terno",
+   "total": 7144,
+   "amount": 71.25
+  }
+ ]
+}

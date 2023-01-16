@@ -1,1 +1,35 @@
-{"number":"214","date":"2003-12-16T00:00:00","accumulated":0,"numbers":[12,20,21,22,34,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "214",
+ "date": "2003-12-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  20,
+  21,
+  22,
+  34,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

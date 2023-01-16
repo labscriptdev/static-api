@@ -1,1 +1,15 @@
-{"name":"Serbia","cca2":"rs","cca3":"srb","languages":["srp"],"latlng":[44,21],"flags":"https://flagcdn.com/rs.svg","postalCodeMask":"######","phoneMask":false}
+{
+ "name": "Serbia",
+ "cca2": "rs",
+ "cca3": "srb",
+ "languages": [
+  "srp"
+ ],
+ "latlng": [
+  44,
+  21
+ ],
+ "flags": "https://flagcdn.com/rs.svg",
+ "postalCodeMask": "######",
+ "phoneMask": false
+}

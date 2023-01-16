@@ -1,1 +1,29 @@
-{"number":"3307","date":"2013-10-03T00:00:00","accumulated":0,"numbers":[7,26,31,59,76],"winners":[{"name":"Quina","total":2,"amount":599818.46},{"name":"Quadra","total":109,"amount":4313.8},{"name":"Terno","total":5709,"amount":117.65}]}
+{
+ "number": "3307",
+ "date": "2013-10-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  26,
+  31,
+  59,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 599818.46
+  },
+  {
+   "name": "Quadra",
+   "total": 109,
+   "amount": 4313.8
+  },
+  {
+   "name": "Terno",
+   "total": 5709,
+   "amount": 117.65
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"1010","date":"2008-10-04T00:00:00","accumulated":0,"numbers":[2,3,13,37,46,54],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":61,"amount":18487.52},{"name":"Quadra","total":4679,"amount":241.02}]}
+{
+ "number": "1010",
+ "date": "2008-10-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  13,
+  37,
+  46,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 61,
+   "amount": 18487.52
+  },
+  {
+   "name": "Quadra",
+   "total": 4679,
+   "amount": 241.02
+  }
+ ]
+}

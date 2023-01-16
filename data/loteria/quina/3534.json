@@ -1,1 +1,29 @@
-{"number":"3534","date":"2014-07-14T00:00:00","accumulated":0,"numbers":[19,33,37,38,49],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":107,"amount":5738.02},{"name":"Terno","total":8191,"amount":107.08}]}
+{
+ "number": "3534",
+ "date": "2014-07-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  19,
+  33,
+  37,
+  38,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 107,
+   "amount": 5738.02
+  },
+  {
+   "name": "Terno",
+   "total": 8191,
+   "amount": 107.08
+  }
+ ]
+}

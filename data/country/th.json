@@ -1,1 +1,15 @@
-{"name":"Thailand","cca2":"th","cca3":"tha","languages":["tha"],"latlng":[15,100],"flags":"https://flagcdn.com/th.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Thailand",
+ "cca2": "th",
+ "cca3": "tha",
+ "languages": [
+  "tha"
+ ],
+ "latlng": [
+  15,
+  100
+ ],
+ "flags": "https://flagcdn.com/th.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

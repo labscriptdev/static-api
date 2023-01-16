@@ -1,1 +1,59 @@
-{"number":"485","date":"2005-01-15T00:00:00","accumulated":0,"numbers":[1,7,8,14,15,16,23,24,26,28,32,40,43,48,53,64,68,74,94,99],"winners":[{"name":"20 números","total":1,"amount":990907.9},{"name":"19 números","total":9,"amount":32204.95},{"name":"18 números","total":211,"amount":1373.67},{"name":"17 números","total":1826,"amount":79.06},{"name":"16 números","total":11188,"amount":12.91},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "485",
+ "date": "2005-01-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  7,
+  8,
+  14,
+  15,
+  16,
+  23,
+  24,
+  26,
+  28,
+  32,
+  40,
+  43,
+  48,
+  53,
+  64,
+  68,
+  74,
+  94,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 990907.9
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 32204.95
+  },
+  {
+   "name": "18 números",
+   "total": 211,
+   "amount": 1373.67
+  },
+  {
+   "name": "17 números",
+   "total": 1826,
+   "amount": 79.06
+  },
+  {
+   "name": "16 números",
+   "total": 11188,
+   "amount": 12.91
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

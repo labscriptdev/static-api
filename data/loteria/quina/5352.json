@@ -1,1 +1,29 @@
-{"number":"5352","date":"2020-08-28T00:00:00","accumulated":0,"numbers":[21,39,56,65,74],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":35,"amount":10898.33},{"name":"Terno","total":2746,"amount":208.88}]}
+{
+ "number": "5352",
+ "date": "2020-08-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  21,
+  39,
+  56,
+  65,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 35,
+   "amount": 10898.33
+  },
+  {
+   "name": "Terno",
+   "total": 2746,
+   "amount": 208.88
+  }
+ ]
+}

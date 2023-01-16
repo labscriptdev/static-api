@@ -1,1 +1,59 @@
-{"number":"882","date":"2008-11-22T00:00:00","accumulated":0,"numbers":[12,17,21,23,24,27,30,38,42,46,52,53,57,68,75,78,79,83,84,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":15,"amount":24875.43},{"name":"18 números","total":288,"amount":1295.6},{"name":"17 números","total":2576,"amount":72.43},{"name":"16 números","total":14679,"amount":12.71},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "882",
+ "date": "2008-11-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  17,
+  21,
+  23,
+  24,
+  27,
+  30,
+  38,
+  42,
+  46,
+  52,
+  53,
+  57,
+  68,
+  75,
+  78,
+  79,
+  83,
+  84,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 15,
+   "amount": 24875.43
+  },
+  {
+   "name": "18 números",
+   "total": 288,
+   "amount": 1295.6
+  },
+  {
+   "name": "17 números",
+   "total": 2576,
+   "amount": 72.43
+  },
+  {
+   "name": "16 números",
+   "total": 14679,
+   "amount": 12.71
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

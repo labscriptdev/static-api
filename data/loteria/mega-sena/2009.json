@@ -1,1 +1,30 @@
-{"number":"2009","date":"2018-01-31T00:00:00","accumulated":0,"numbers":[1,37,44,46,48,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":46,"amount":59350.17},{"name":"Quadra","total":3665,"amount":1064.16}]}
+{
+ "number": "2009",
+ "date": "2018-01-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  37,
+  44,
+  46,
+  48,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 46,
+   "amount": 59350.17
+  },
+  {
+   "name": "Quadra",
+   "total": 3665,
+   "amount": 1064.16
+  }
+ ]
+}

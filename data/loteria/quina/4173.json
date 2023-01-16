@@ -1,1 +1,29 @@
-{"number":"4173","date":"2016-09-01T00:00:00","accumulated":0,"numbers":[18,24,46,66,74],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":93,"amount":4319.24},{"name":"Terno","total":5205,"amount":116.05}]}
+{
+ "number": "4173",
+ "date": "2016-09-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  24,
+  46,
+  66,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 93,
+   "amount": 4319.24
+  },
+  {
+   "name": "Terno",
+   "total": 5205,
+   "amount": 116.05
+  }
+ ]
+}

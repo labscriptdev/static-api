@@ -1,1 +1,29 @@
-{"number":"5082","date":"2019-09-26T00:00:00","accumulated":0,"numbers":[11,38,65,69,70],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":35,"amount":11616.69},{"name":"Terno","total":3931,"amount":155.53}]}
+{
+ "number": "5082",
+ "date": "2019-09-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  38,
+  65,
+  69,
+  70
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 35,
+   "amount": 11616.69
+  },
+  {
+   "name": "Terno",
+   "total": 3931,
+   "amount": 155.53
+  }
+ ]
+}

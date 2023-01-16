@@ -1,1 +1,59 @@
-{"number":"1104","date":"2011-01-08T00:00:00","accumulated":0,"numbers":[1,4,15,17,35,36,45,48,51,53,54,56,58,64,76,77,81,82,84,94],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":13,"amount":26535.86},{"name":"18 números","total":249,"amount":1385.41},{"name":"17 números","total":2018,"amount":122.1},{"name":"16 números","total":13208,"amount":18.65},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1104",
+ "date": "2011-01-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  15,
+  17,
+  35,
+  36,
+  45,
+  48,
+  51,
+  53,
+  54,
+  56,
+  58,
+  64,
+  76,
+  77,
+  81,
+  82,
+  84,
+  94
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 13,
+   "amount": 26535.86
+  },
+  {
+   "name": "18 números",
+   "total": 249,
+   "amount": 1385.41
+  },
+  {
+   "name": "17 números",
+   "total": 2018,
+   "amount": 122.1
+  },
+  {
+   "name": "16 números",
+   "total": 13208,
+   "amount": 18.65
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

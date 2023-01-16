@@ -1,1 +1,49 @@
-{"number":"267","date":"2007-10-29T00:00:00","accumulated":0,"numbers":[2,3,4,5,6,9,11,12,13,14,15,17,21,23,24],"winners":[{"name":"15 números","total":2,"amount":512949.16},{"name":"14 números","total":25552,"amount":755.18},{"name":"13 números","total":25552,"amount":10},{"name":"12 números","total":296938,"amount":4},{"name":"11 números","total":1419919,"amount":2}]}
+{
+ "number": "267",
+ "date": "2007-10-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  9,
+  11,
+  12,
+  13,
+  14,
+  15,
+  17,
+  21,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 512949.16
+  },
+  {
+   "name": "14 números",
+   "total": 25552,
+   "amount": 755.18
+  },
+  {
+   "name": "13 números",
+   "total": 25552,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 296938,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1419919,
+   "amount": 2
+  }
+ ]
+}

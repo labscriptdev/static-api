@@ -1,1 +1,59 @@
-{"number":"2405","date":"2022-12-16T00:00:00","accumulated":0,"numbers":[3,4,6,10,17,18,20,29,31,36,38,43,56,59,75,91,93,98,99,100],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":2,"amount":102821.73},{"name":"18 números","total":86,"amount":1494.5},{"name":"17 números","total":719,"amount":178.75},{"name":"16 números","total":4370,"amount":29.41},{"name":"nenhum número","total":17427,"amount":7.37}]}
+{
+ "number": "2405",
+ "date": "2022-12-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  6,
+  10,
+  17,
+  18,
+  20,
+  29,
+  31,
+  36,
+  38,
+  43,
+  56,
+  59,
+  75,
+  91,
+  93,
+  98,
+  99,
+  100
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 2,
+   "amount": 102821.73
+  },
+  {
+   "name": "18 números",
+   "total": 86,
+   "amount": 1494.5
+  },
+  {
+   "name": "17 números",
+   "total": 719,
+   "amount": 178.75
+  },
+  {
+   "name": "16 números",
+   "total": 4370,
+   "amount": 29.41
+  },
+  {
+   "name": "nenhum número",
+   "total": 17427,
+   "amount": 7.37
+  }
+ ]
+}

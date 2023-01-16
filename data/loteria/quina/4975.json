@@ -1,1 +1,29 @@
-{"number":"4975","date":"2019-05-15T00:00:00","accumulated":0,"numbers":[48,73,76,77,80],"winners":[{"name":"Quina","total":2,"amount":1131480.96},{"name":"Quadra","total":118,"amount":3942.18},{"name":"Terno","total":7074,"amount":98.88}]}
+{
+ "number": "4975",
+ "date": "2019-05-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  48,
+  73,
+  76,
+  77,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 1131480.96
+  },
+  {
+   "name": "Quadra",
+   "total": 118,
+   "amount": 3942.18
+  },
+  {
+   "name": "Terno",
+   "total": 7074,
+   "amount": 98.88
+  }
+ ]
+}

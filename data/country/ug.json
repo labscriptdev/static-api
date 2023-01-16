@@ -1,1 +1,16 @@
-{"name":"Uganda","cca2":"ug","cca3":"uga","languages":["eng","swa"],"latlng":[1,32],"flags":"https://flagcdn.com/ug.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Uganda",
+ "cca2": "ug",
+ "cca3": "uga",
+ "languages": [
+  "eng",
+  "swa"
+ ],
+ "latlng": [
+  1,
+  32
+ ],
+ "flags": "https://flagcdn.com/ug.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

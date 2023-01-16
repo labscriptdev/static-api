@@ -1,1 +1,15 @@
-{"name":"United States","cca2":"us","cca3":"usa","languages":["eng"],"latlng":[38,-97],"flags":"https://flagcdn.com/us.svg","postalCodeMask":"#####-####","phoneMask":false}
+{
+ "name": "United States",
+ "cca2": "us",
+ "cca3": "usa",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  38,
+  -97
+ ],
+ "flags": "https://flagcdn.com/us.svg",
+ "postalCodeMask": "#####-####",
+ "phoneMask": false
+}

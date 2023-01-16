@@ -1,1 +1,30 @@
-{"number":"161","date":"1999-04-03T00:00:00","accumulated":0,"numbers":[6,25,30,37,39,41],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":95,"amount":14430.61},{"name":"Quadra","total":6865,"amount":199.69}]}
+{
+ "number": "161",
+ "date": "1999-04-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  25,
+  30,
+  37,
+  39,
+  41
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 95,
+   "amount": 14430.61
+  },
+  {
+   "name": "Quadra",
+   "total": 6865,
+   "amount": 199.69
+  }
+ ]
+}

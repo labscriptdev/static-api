@@ -1,1 +1,16 @@
-{"name":"Haiti","cca2":"ht","cca3":"hti","languages":["fra","hat"],"latlng":[19,-72.41666666],"flags":"https://flagcdn.com/ht.svg","postalCodeMask":"HT####","phoneMask":false}
+{
+ "name": "Haiti",
+ "cca2": "ht",
+ "cca3": "hti",
+ "languages": [
+  "fra",
+  "hat"
+ ],
+ "latlng": [
+  19,
+  -72.41666666
+ ],
+ "flags": "https://flagcdn.com/ht.svg",
+ "postalCodeMask": "HT####",
+ "phoneMask": false
+}

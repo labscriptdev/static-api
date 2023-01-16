@@ -1,1 +1,35 @@
-{"number":"2449","date":"2022-11-29T00:00:00","accumulated":0,"numbers":[2,14,23,26,41,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":21,"amount":3212.37},{"name":"Quadra","total":902,"amount":85.47},{"name":"Terno","total":14671,"amount":2.62}]}
+{
+ "number": "2449",
+ "date": "2022-11-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  14,
+  23,
+  26,
+  41,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 21,
+   "amount": 3212.37
+  },
+  {
+   "name": "Quadra",
+   "total": 902,
+   "amount": 85.47
+  },
+  {
+   "name": "Terno",
+   "total": 14671,
+   "amount": 2.62
+  }
+ ]
+}

@@ -1,1 +1,17 @@
-{"name":"Papua New Guinea","cca2":"pg","cca3":"png","languages":["eng","hmo","tpi"],"latlng":[-6,147],"flags":"https://flagcdn.com/pg.svg","postalCodeMask":"###","phoneMask":false}
+{
+ "name": "Papua New Guinea",
+ "cca2": "pg",
+ "cca3": "png",
+ "languages": [
+  "eng",
+  "hmo",
+  "tpi"
+ ],
+ "latlng": [
+  -6,
+  147
+ ],
+ "flags": "https://flagcdn.com/pg.svg",
+ "postalCodeMask": "###",
+ "phoneMask": false
+}

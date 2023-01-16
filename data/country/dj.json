@@ -1,1 +1,16 @@
-{"name":"Djibouti","cca2":"dj","cca3":"dji","languages":["ara","fra"],"latlng":[11.5,43],"flags":"https://flagcdn.com/dj.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Djibouti",
+ "cca2": "dj",
+ "cca3": "dji",
+ "languages": [
+  "ara",
+  "fra"
+ ],
+ "latlng": [
+  11.5,
+  43
+ ],
+ "flags": "https://flagcdn.com/dj.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

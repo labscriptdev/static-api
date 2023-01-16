@@ -1,1 +1,59 @@
-{"number":"192","date":"2002-02-23T00:00:00","accumulated":0,"numbers":[5,6,10,17,23,34,35,44,53,54,56,61,65,68,69,75,77,80,86,88],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":12,"amount":35756.27},{"name":"18 números","total":206,"amount":2082.89},{"name":"17 números","total":2286,"amount":93.5},{"name":"16 números","total":14448,"amount":14.8},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "192",
+ "date": "2002-02-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  6,
+  10,
+  17,
+  23,
+  34,
+  35,
+  44,
+  53,
+  54,
+  56,
+  61,
+  65,
+  68,
+  69,
+  75,
+  77,
+  80,
+  86,
+  88
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 35756.27
+  },
+  {
+   "name": "18 números",
+   "total": 206,
+   "amount": 2082.89
+  },
+  {
+   "name": "17 números",
+   "total": 2286,
+   "amount": 93.5
+  },
+  {
+   "name": "16 números",
+   "total": 14448,
+   "amount": 14.8
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

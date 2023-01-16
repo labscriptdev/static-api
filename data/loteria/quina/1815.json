@@ -1,1 +1,29 @@
-{"number":"1815","date":"2007-10-16T00:00:00","accumulated":0,"numbers":[15,18,56,61,68],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":170,"amount":2496.63},{"name":"Terno","total":8122,"amount":69.42}]}
+{
+ "number": "1815",
+ "date": "2007-10-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  15,
+  18,
+  56,
+  61,
+  68
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 170,
+   "amount": 2496.63
+  },
+  {
+   "name": "Terno",
+   "total": 8122,
+   "amount": 69.42
+  }
+ ]
+}

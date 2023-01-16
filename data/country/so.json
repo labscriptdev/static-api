@@ -1,1 +1,16 @@
-{"name":"Somalia","cca2":"so","cca3":"som","languages":["ara","som"],"latlng":[10,49],"flags":"https://flagcdn.com/so.svg","postalCodeMask":"@@  #####","phoneMask":false}
+{
+ "name": "Somalia",
+ "cca2": "so",
+ "cca3": "som",
+ "languages": [
+  "ara",
+  "som"
+ ],
+ "latlng": [
+  10,
+  49
+ ],
+ "flags": "https://flagcdn.com/so.svg",
+ "postalCodeMask": "@@  #####",
+ "phoneMask": false
+}

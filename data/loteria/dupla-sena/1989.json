@@ -1,1 +1,35 @@
-{"number":"1989","date":"2019-09-21T00:00:00","accumulated":0,"numbers":[3,10,13,15,26,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":19,"amount":4187.88},{"name":"Quadra","total":1435,"amount":63.37},{"name":"Terno","total":25233,"amount":1.8}]}
+{
+ "number": "1989",
+ "date": "2019-09-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  10,
+  13,
+  15,
+  26,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 19,
+   "amount": 4187.88
+  },
+  {
+   "name": "Quadra",
+   "total": 1435,
+   "amount": 63.37
+  },
+  {
+   "name": "Terno",
+   "total": 25233,
+   "amount": 1.8
+  }
+ ]
+}

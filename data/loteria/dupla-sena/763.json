@@ -1,1 +1,35 @@
-{"number":"763","date":"2009-05-29T00:00:00","accumulated":0,"numbers":[31,33,40,41,49,50],"winners":[{"name":"Sena","total":1,"amount":277261.01},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "763",
+ "date": "2009-05-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  31,
+  33,
+  40,
+  41,
+  49,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 277261.01
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

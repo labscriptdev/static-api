@@ -1,1 +1,29 @@
-{"number":"2739","date":"2011-11-05T00:00:00","accumulated":0,"numbers":[1,11,15,27,65],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":102,"amount":3990.68},{"name":"Terno","total":8167,"amount":71.2}]}
+{
+ "number": "2739",
+ "date": "2011-11-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  11,
+  15,
+  27,
+  65
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 102,
+   "amount": 3990.68
+  },
+  {
+   "name": "Terno",
+   "total": 8167,
+   "amount": 71.2
+  }
+ ]
+}

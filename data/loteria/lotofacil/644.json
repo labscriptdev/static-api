@@ -1,1 +1,49 @@
-{"number":"644","date":"2011-06-16T00:00:00","accumulated":0,"numbers":[2,3,5,6,7,8,9,12,13,14,15,18,21,22,24],"winners":[{"name":"15 números","total":2,"amount":793104.27},{"name":"14 números","total":20049,"amount":1196.84},{"name":"13 números","total":20049,"amount":12.5},{"name":"12 números","total":248830,"amount":5},{"name":"11 números","total":1430441,"amount":2.5}]}
+{
+ "number": "644",
+ "date": "2011-06-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  5,
+  6,
+  7,
+  8,
+  9,
+  12,
+  13,
+  14,
+  15,
+  18,
+  21,
+  22,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 793104.27
+  },
+  {
+   "name": "14 números",
+   "total": 20049,
+   "amount": 1196.84
+  },
+  {
+   "name": "13 números",
+   "total": 20049,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 248830,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1430441,
+   "amount": 2.5
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"1060","date":"2002-10-19T00:00:00","accumulated":0,"numbers":[26,40,42,53,76],"winners":[{"name":"Quina","total":1,"amount":333463.21},{"name":"Quadra","total":221,"amount":1508.88},{"name":"Terno","total":10387,"amount":42.65}]}
+{
+ "number": "1060",
+ "date": "2002-10-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  26,
+  40,
+  42,
+  53,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 333463.21
+  },
+  {
+   "name": "Quadra",
+   "total": 221,
+   "amount": 1508.88
+  },
+  {
+   "name": "Terno",
+   "total": 10387,
+   "amount": 42.65
+  }
+ ]
+}

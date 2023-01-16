@@ -1,1 +1,30 @@
-{"number":"924","date":"2007-12-01T00:00:00","accumulated":0,"numbers":[2,20,21,27,51,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":90,"amount":22081.88},{"name":"Quadra","total":7236,"amount":273.61}]}
+{
+ "number": "924",
+ "date": "2007-12-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  20,
+  21,
+  27,
+  51,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 90,
+   "amount": 22081.88
+  },
+  {
+   "name": "Quadra",
+   "total": 7236,
+   "amount": 273.61
+  }
+ ]
+}

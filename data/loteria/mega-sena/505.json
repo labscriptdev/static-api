@@ -1,1 +1,30 @@
-{"number":"505","date":"2003-10-15T00:00:00","accumulated":0,"numbers":[3,20,28,46,47,52],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":30,"amount":19736.18},{"name":"Quadra","total":2559,"amount":230.51}]}
+{
+ "number": "505",
+ "date": "2003-10-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  20,
+  28,
+  46,
+  47,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 30,
+   "amount": 19736.18
+  },
+  {
+   "name": "Quadra",
+   "total": 2559,
+   "amount": 230.51
+  }
+ ]
+}

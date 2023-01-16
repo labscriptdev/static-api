@@ -1,1 +1,35 @@
-{"number":"286","date":"2004-08-31T00:00:00","accumulated":0,"numbers":[3,25,32,38,46,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "286",
+ "date": "2004-08-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  25,
+  32,
+  38,
+  46,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

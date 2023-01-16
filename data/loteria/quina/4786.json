@@ -1,1 +1,29 @@
-{"number":"4786","date":"2018-09-26T00:00:00","accumulated":0,"numbers":[9,18,57,66,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":81,"amount":6546.82},{"name":"Terno","total":7748,"amount":102.92}]}
+{
+ "number": "4786",
+ "date": "2018-09-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  18,
+  57,
+  66,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 81,
+   "amount": 6546.82
+  },
+  {
+   "name": "Terno",
+   "total": 7748,
+   "amount": 102.92
+  }
+ ]
+}

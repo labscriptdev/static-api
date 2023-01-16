@@ -1,1 +1,35 @@
-{"number":"1938","date":"2019-05-21T00:00:00","accumulated":0,"numbers":[12,15,27,33,44,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":27,"amount":2971.98},{"name":"Quadra","total":1561,"amount":58.74},{"name":"Terno","total":25332,"amount":1.81}]}
+{
+ "number": "1938",
+ "date": "2019-05-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  15,
+  27,
+  33,
+  44,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 27,
+   "amount": 2971.98
+  },
+  {
+   "name": "Quadra",
+   "total": 1561,
+   "amount": 58.74
+  },
+  {
+   "name": "Terno",
+   "total": 25332,
+   "amount": 1.81
+  }
+ ]
+}

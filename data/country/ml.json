@@ -1,1 +1,15 @@
-{"name":"Mali","cca2":"ml","cca3":"mli","languages":["fra"],"latlng":[17,-4],"flags":"https://flagcdn.com/ml.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Mali",
+ "cca2": "ml",
+ "cca3": "mli",
+ "languages": [
+  "fra"
+ ],
+ "latlng": [
+  17,
+  -4
+ ],
+ "flags": "https://flagcdn.com/ml.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

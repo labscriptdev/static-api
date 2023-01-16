@@ -1,1 +1,15 @@
-{"name":"Mongolia","cca2":"mn","cca3":"mng","languages":["mon"],"latlng":[46,105],"flags":"https://flagcdn.com/mn.svg","postalCodeMask":"######","phoneMask":false}
+{
+ "name": "Mongolia",
+ "cca2": "mn",
+ "cca3": "mng",
+ "languages": [
+  "mon"
+ ],
+ "latlng": [
+  46,
+  105
+ ],
+ "flags": "https://flagcdn.com/mn.svg",
+ "postalCodeMask": "######",
+ "phoneMask": false
+}

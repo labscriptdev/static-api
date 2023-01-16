@@ -1,1 +1,15 @@
-{"name":"Niger","cca2":"ne","cca3":"ner","languages":["fra"],"latlng":[16,8],"flags":"https://flagcdn.com/ne.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Niger",
+ "cca2": "ne",
+ "cca3": "ner",
+ "languages": [
+  "fra"
+ ],
+ "latlng": [
+  16,
+  8
+ ],
+ "flags": "https://flagcdn.com/ne.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

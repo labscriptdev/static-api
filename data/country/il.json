@@ -1,1 +1,16 @@
-{"name":"Israel","cca2":"il","cca3":"isr","languages":["ara","heb"],"latlng":[31.47,35.13],"flags":"https://flagcdn.com/il.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Israel",
+ "cca2": "il",
+ "cca3": "isr",
+ "languages": [
+  "ara",
+  "heb"
+ ],
+ "latlng": [
+  31.47,
+  35.13
+ ],
+ "flags": "https://flagcdn.com/il.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

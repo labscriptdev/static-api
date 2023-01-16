@@ -1,1 +1,30 @@
-{"number":"1728","date":"2015-08-01T00:00:00","accumulated":0,"numbers":[3,8,28,39,42,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":45,"amount":42525.31},{"name":"Quadra","total":3617,"amount":755.81}]}
+{
+ "number": "1728",
+ "date": "2015-08-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  8,
+  28,
+  39,
+  42,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 45,
+   "amount": 42525.31
+  },
+  {
+   "name": "Quadra",
+   "total": 3617,
+   "amount": 755.81
+  }
+ ]
+}

@@ -1,1 +1,59 @@
-{"number":"1879","date":"2018-06-29T00:00:00","accumulated":0,"numbers":[2,7,8,12,20,22,23,29,34,35,39,50,51,57,60,62,64,79,82,86],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":5,"amount":46342.38},{"name":"18 números","total":95,"amount":1524.42},{"name":"17 números","total":1113,"amount":130.11},{"name":"16 números","total":6631,"amount":21.83},{"name":"nenhum número","total":27926,"amount":5.18}]}
+{
+ "number": "1879",
+ "date": "2018-06-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  7,
+  8,
+  12,
+  20,
+  22,
+  23,
+  29,
+  34,
+  35,
+  39,
+  50,
+  51,
+  57,
+  60,
+  62,
+  64,
+  79,
+  82,
+  86
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 5,
+   "amount": 46342.38
+  },
+  {
+   "name": "18 números",
+   "total": 95,
+   "amount": 1524.42
+  },
+  {
+   "name": "17 números",
+   "total": 1113,
+   "amount": 130.11
+  },
+  {
+   "name": "16 números",
+   "total": 6631,
+   "amount": 21.83
+  },
+  {
+   "name": "nenhum número",
+   "total": 27926,
+   "amount": 5.18
+  }
+ ]
+}

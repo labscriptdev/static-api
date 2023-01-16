@@ -1,1 +1,35 @@
-{"number":"2280","date":"2021-09-30T00:00:00","accumulated":0,"numbers":[2,10,13,15,18,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":16,"amount":2767.29},{"name":"Quadra","total":615,"amount":82.27},{"name":"Terno","total":10705,"amount":2.36}]}
+{
+ "number": "2280",
+ "date": "2021-09-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  10,
+  13,
+  15,
+  18,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 16,
+   "amount": 2767.29
+  },
+  {
+   "name": "Quadra",
+   "total": 615,
+   "amount": 82.27
+  },
+  {
+   "name": "Terno",
+   "total": 10705,
+   "amount": 2.36
+  }
+ ]
+}

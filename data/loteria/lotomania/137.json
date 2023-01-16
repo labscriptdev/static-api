@@ -1,1 +1,59 @@
-{"number":"137","date":"2001-08-04T00:00:00","accumulated":0,"numbers":[3,10,18,19,29,32,42,44,50,54,55,64,65,69,74,80,81,82,87,91],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":12,"amount":40641.35},{"name":"18 números","total":174,"amount":2802.85},{"name":"17 números","total":1799,"amount":135.04},{"name":"16 números","total":11952,"amount":20.33},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "137",
+ "date": "2001-08-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  10,
+  18,
+  19,
+  29,
+  32,
+  42,
+  44,
+  50,
+  54,
+  55,
+  64,
+  65,
+  69,
+  74,
+  80,
+  81,
+  82,
+  87,
+  91
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 40641.35
+  },
+  {
+   "name": "18 números",
+   "total": 174,
+   "amount": 2802.85
+  },
+  {
+   "name": "17 números",
+   "total": 1799,
+   "amount": 135.04
+  },
+  {
+   "name": "16 números",
+   "total": 11952,
+   "amount": 20.33
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

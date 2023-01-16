@@ -1,1 +1,29 @@
-{"number":"5000","date":"2019-06-13T00:00:00","accumulated":0,"numbers":[9,12,35,36,59],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":155,"amount":3468.58},{"name":"Terno","total":9523,"amount":84.89}]}
+{
+ "number": "5000",
+ "date": "2019-06-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  12,
+  35,
+  36,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 155,
+   "amount": 3468.58
+  },
+  {
+   "name": "Terno",
+   "total": 9523,
+   "amount": 84.89
+  }
+ ]
+}

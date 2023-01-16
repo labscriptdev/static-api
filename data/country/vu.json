@@ -1,1 +1,17 @@
-{"name":"Vanuatu","cca2":"vu","cca3":"vut","languages":["bis","eng","fra"],"latlng":[-16,167],"flags":"https://flagcdn.com/vu.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Vanuatu",
+ "cca2": "vu",
+ "cca3": "vut",
+ "languages": [
+  "bis",
+  "eng",
+  "fra"
+ ],
+ "latlng": [
+  -16,
+  167
+ ],
+ "flags": "https://flagcdn.com/vu.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

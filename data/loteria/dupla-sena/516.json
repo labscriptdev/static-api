@@ -1,1 +1,35 @@
-{"number":"516","date":"2006-12-22T00:00:00","accumulated":0,"numbers":[2,5,12,38,42,48],"winners":[{"name":"Sena","total":1,"amount":1950047.66},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "516",
+ "date": "2006-12-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  12,
+  38,
+  42,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 1950047.66
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

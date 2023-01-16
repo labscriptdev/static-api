@@ -1,1 +1,59 @@
-{"number":"1480","date":"2014-08-23T00:00:00","accumulated":0,"numbers":[0,1,4,5,8,13,14,17,22,26,43,54,59,60,62,66,77,87,96,97],"winners":[{"name":"20 números","total":3,"amount":1258729.39},{"name":"19 números","total":13,"amount":22426.84},{"name":"18 números","total":148,"amount":1969.92},{"name":"17 números","total":1491,"amount":122.21},{"name":"16 números","total":8912,"amount":20.44},{"name":"nenhum número","total":1,"amount":145774.41}]}
+{
+ "number": "1480",
+ "date": "2014-08-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  1,
+  4,
+  5,
+  8,
+  13,
+  14,
+  17,
+  22,
+  26,
+  43,
+  54,
+  59,
+  60,
+  62,
+  66,
+  77,
+  87,
+  96,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 3,
+   "amount": 1258729.39
+  },
+  {
+   "name": "19 números",
+   "total": 13,
+   "amount": 22426.84
+  },
+  {
+   "name": "18 números",
+   "total": 148,
+   "amount": 1969.92
+  },
+  {
+   "name": "17 números",
+   "total": 1491,
+   "amount": 122.21
+  },
+  {
+   "name": "16 números",
+   "total": 8912,
+   "amount": 20.44
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 145774.41
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"871","date":"2007-05-30T00:00:00","accumulated":0,"numbers":[1,5,10,17,47,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":80,"amount":12453.39},{"name":"Quadra","total":6225,"amount":159.45}]}
+{
+ "number": "871",
+ "date": "2007-05-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  10,
+  17,
+  47,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 80,
+   "amount": 12453.39
+  },
+  {
+   "name": "Quadra",
+   "total": 6225,
+   "amount": 159.45
+  }
+ ]
+}

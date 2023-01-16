@@ -1,1 +1,15 @@
-{"name":"Dominican Republic","cca2":"do","cca3":"dom","languages":["spa"],"latlng":[19,-70.66666666],"flags":"https://flagcdn.com/do.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Dominican Republic",
+ "cca2": "do",
+ "cca3": "dom",
+ "languages": [
+  "spa"
+ ],
+ "latlng": [
+  19,
+  -70.66666666
+ ],
+ "flags": "https://flagcdn.com/do.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

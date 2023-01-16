@@ -1,1 +1,16 @@
-{"name":"Samoa","cca2":"ws","cca3":"wsm","languages":["eng","smo"],"latlng":[-13.58333333,-172.33333333],"flags":"https://flagcdn.com/ws.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Samoa",
+ "cca2": "ws",
+ "cca3": "wsm",
+ "languages": [
+  "eng",
+  "smo"
+ ],
+ "latlng": [
+  -13.58333333,
+  -172.33333333
+ ],
+ "flags": "https://flagcdn.com/ws.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

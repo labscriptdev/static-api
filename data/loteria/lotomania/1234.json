@@ -1,1 +1,59 @@
-{"number":"1234","date":"2012-04-07T00:00:00","accumulated":0,"numbers":[0,4,6,14,17,24,35,53,56,58,59,60,63,64,67,69,73,74,78,93],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":7,"amount":38030.3},{"name":"18 números","total":98,"amount":2716.45},{"name":"17 números","total":1052,"amount":180.75},{"name":"16 números","total":6335,"amount":30.01},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1234",
+ "date": "2012-04-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  4,
+  6,
+  14,
+  17,
+  24,
+  35,
+  53,
+  56,
+  58,
+  59,
+  60,
+  63,
+  64,
+  67,
+  69,
+  73,
+  74,
+  78,
+  93
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 7,
+   "amount": 38030.3
+  },
+  {
+   "name": "18 números",
+   "total": 98,
+   "amount": 2716.45
+  },
+  {
+   "name": "17 números",
+   "total": 1052,
+   "amount": 180.75
+  },
+  {
+   "name": "16 números",
+   "total": 6335,
+   "amount": 30.01
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

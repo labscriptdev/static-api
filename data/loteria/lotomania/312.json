@@ -1,1 +1,59 @@
-{"number":"312","date":"2003-05-03T00:00:00","accumulated":0,"numbers":[11,14,21,29,36,43,45,51,53,56,57,62,64,67,68,70,81,90,91,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":11,"amount":34378.43},{"name":"18 números","total":173,"amount":2185.92},{"name":"17 números","total":1735,"amount":108.57},{"name":"16 números","total":10810,"amount":17.43},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "312",
+ "date": "2003-05-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  14,
+  21,
+  29,
+  36,
+  43,
+  45,
+  51,
+  53,
+  56,
+  57,
+  62,
+  64,
+  67,
+  68,
+  70,
+  81,
+  90,
+  91,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 11,
+   "amount": 34378.43
+  },
+  {
+   "name": "18 números",
+   "total": 173,
+   "amount": 2185.92
+  },
+  {
+   "name": "17 números",
+   "total": 1735,
+   "amount": 108.57
+  },
+  {
+   "name": "16 números",
+   "total": 10810,
+   "amount": 17.43
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,49 @@
-{"number":"1008","date":"2014-01-20T00:00:00","accumulated":0,"numbers":[1,3,6,7,8,9,10,12,13,16,17,18,19,21,22],"winners":[{"name":"15 números","total":3,"amount":599333.56},{"name":"14 números","total":17351,"amount":1703.29},{"name":"13 números","total":17351,"amount":12.5},{"name":"12 números","total":229223,"amount":5},{"name":"11 números","total":1308420,"amount":2.5}]}
+{
+ "number": "1008",
+ "date": "2014-01-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  3,
+  6,
+  7,
+  8,
+  9,
+  10,
+  12,
+  13,
+  16,
+  17,
+  18,
+  19,
+  21,
+  22
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 3,
+   "amount": 599333.56
+  },
+  {
+   "name": "14 números",
+   "total": 17351,
+   "amount": 1703.29
+  },
+  {
+   "name": "13 números",
+   "total": 17351,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 229223,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1308420,
+   "amount": 2.5
+  }
+ ]
+}

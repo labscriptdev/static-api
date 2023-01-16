@@ -1,1 +1,15 @@
-{"name":"China","cca2":"cn","cca3":"chn","languages":["zho"],"latlng":[35,105],"flags":"https://flagcdn.com/cn.svg","postalCodeMask":"######","phoneMask":false}
+{
+ "name": "China",
+ "cca2": "cn",
+ "cca3": "chn",
+ "languages": [
+  "zho"
+ ],
+ "latlng": [
+  35,
+  105
+ ],
+ "flags": "https://flagcdn.com/cn.svg",
+ "postalCodeMask": "######",
+ "phoneMask": false
+}

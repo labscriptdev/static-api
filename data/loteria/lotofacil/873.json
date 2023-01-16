@@ -1,1 +1,49 @@
-{"number":"873","date":"2013-02-27T00:00:00","accumulated":0,"numbers":[2,3,6,7,8,9,11,12,13,14,15,17,18,22,25],"winners":[{"name":"15 números","total":0,"amount":0},{"name":"14 números","total":16361,"amount":1449.94},{"name":"13 números","total":16361,"amount":12.5},{"name":"12 números","total":224617,"amount":5},{"name":"11 números","total":1379565,"amount":2.5}]}
+{
+ "number": "873",
+ "date": "2013-02-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  6,
+  7,
+  8,
+  9,
+  11,
+  12,
+  13,
+  14,
+  15,
+  17,
+  18,
+  22,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "14 números",
+   "total": 16361,
+   "amount": 1449.94
+  },
+  {
+   "name": "13 números",
+   "total": 16361,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 224617,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1379565,
+   "amount": 2.5
+  }
+ ]
+}

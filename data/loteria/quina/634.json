@@ -1,1 +1,29 @@
-{"number":"634","date":"1999-12-07T00:00:00","accumulated":0,"numbers":[34,50,60,71,73],"winners":[{"name":"Quina","total":2,"amount":137548.59},{"name":"Quadra","total":128,"amount":2149.2},{"name":"Terno","total":6515,"amount":56.09}]}
+{
+ "number": "634",
+ "date": "1999-12-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  34,
+  50,
+  60,
+  71,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 137548.59
+  },
+  {
+   "name": "Quadra",
+   "total": 128,
+   "amount": 2149.2
+  },
+  {
+   "name": "Terno",
+   "total": 6515,
+   "amount": 56.09
+  }
+ ]
+}

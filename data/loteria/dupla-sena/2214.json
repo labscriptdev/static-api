@@ -1,1 +1,35 @@
-{"number":"2214","date":"2021-04-22T00:00:00","accumulated":0,"numbers":[17,19,26,29,30,36],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":4,"amount":7431.15},{"name":"Quadra","total":257,"amount":132.18},{"name":"Terno","total":5498,"amount":3.08}]}
+{
+ "number": "2214",
+ "date": "2021-04-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  19,
+  26,
+  29,
+  30,
+  36
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 4,
+   "amount": 7431.15
+  },
+  {
+   "name": "Quadra",
+   "total": 257,
+   "amount": 132.18
+  },
+  {
+   "name": "Terno",
+   "total": 5498,
+   "amount": 3.08
+  }
+ ]
+}

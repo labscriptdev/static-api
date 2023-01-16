@@ -1,1 +1,29 @@
-{"number":"5040","date":"2019-08-07T00:00:00","accumulated":0,"numbers":[20,29,50,51,72],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":77,"amount":7596.14},{"name":"Terno","total":5508,"amount":159.68}]}
+{
+ "number": "5040",
+ "date": "2019-08-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  29,
+  50,
+  51,
+  72
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 77,
+   "amount": 7596.14
+  },
+  {
+   "name": "Terno",
+   "total": 5508,
+   "amount": 159.68
+  }
+ ]
+}

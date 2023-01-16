@@ -1,1 +1,59 @@
-{"number":"992","date":"2009-12-12T00:00:00","accumulated":0,"numbers":[6,8,15,18,24,27,36,40,46,52,55,63,74,76,80,81,86,87,90,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":7,"amount":40873.87},{"name":"18 números","total":154,"amount":1857.9},{"name":"17 números","total":1290,"amount":158.42},{"name":"16 números","total":8139,"amount":25.1},{"name":"nenhum número","total":1,"amount":143058.55}]}
+{
+ "number": "992",
+ "date": "2009-12-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  8,
+  15,
+  18,
+  24,
+  27,
+  36,
+  40,
+  46,
+  52,
+  55,
+  63,
+  74,
+  76,
+  80,
+  81,
+  86,
+  87,
+  90,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 7,
+   "amount": 40873.87
+  },
+  {
+   "name": "18 números",
+   "total": 154,
+   "amount": 1857.9
+  },
+  {
+   "name": "17 números",
+   "total": 1290,
+   "amount": 158.42
+  },
+  {
+   "name": "16 números",
+   "total": 8139,
+   "amount": 25.1
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 143058.55
+  }
+ ]
+}

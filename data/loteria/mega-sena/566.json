@@ -1,1 +1,30 @@
-{"number":"566","date":"2004-05-26T00:00:00","accumulated":0,"numbers":[6,13,17,18,20,37],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":176,"amount":11334.45},{"name":"Quadra","total":13032,"amount":152.49}]}
+{
+ "number": "566",
+ "date": "2004-05-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  13,
+  17,
+  18,
+  20,
+  37
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 176,
+   "amount": 11334.45
+  },
+  {
+   "name": "Quadra",
+   "total": 13032,
+   "amount": 152.49
+  }
+ ]
+}

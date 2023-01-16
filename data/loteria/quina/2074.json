@@ -1,1 +1,29 @@
-{"number":"2074","date":"2009-07-07T00:00:00","accumulated":0,"numbers":[7,23,30,50,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":175,"amount":3901.67},{"name":"Terno","total":10457,"amount":124.37}]}
+{
+ "number": "2074",
+ "date": "2009-07-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  23,
+  30,
+  50,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 175,
+   "amount": 3901.67
+  },
+  {
+   "name": "Terno",
+   "total": 10457,
+   "amount": 124.37
+  }
+ ]
+}

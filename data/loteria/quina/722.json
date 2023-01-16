@@ -1,1 +1,29 @@
-{"number":"722","date":"2000-07-13T00:00:00","accumulated":0,"numbers":[5,14,65,71,73],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":200,"amount":1390.39},{"name":"Terno","total":9563,"amount":38.66}]}
+{
+ "number": "722",
+ "date": "2000-07-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  14,
+  65,
+  71,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 200,
+   "amount": 1390.39
+  },
+  {
+   "name": "Terno",
+   "total": 9563,
+   "amount": 38.66
+  }
+ ]
+}

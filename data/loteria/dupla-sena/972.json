@@ -1,1 +1,35 @@
-{"number":"972","date":"2011-05-31T00:00:00","accumulated":0,"numbers":[4,11,19,34,45,47],"winners":[{"name":"Sena","total":1,"amount":3652332.64},{"name":"Quina","total":88,"amount":1744.49},{"name":"Quadra","total":3796,"amount":38.51},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "972",
+ "date": "2011-05-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  11,
+  19,
+  34,
+  45,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 3652332.64
+  },
+  {
+   "name": "Quina",
+   "total": 88,
+   "amount": 1744.49
+  },
+  {
+   "name": "Quadra",
+   "total": 3796,
+   "amount": 38.51
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

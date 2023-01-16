@@ -1,1 +1,59 @@
-{"number":"2349","date":"2022-08-08T00:00:00","accumulated":0,"numbers":[4,7,9,10,18,20,29,37,41,49,51,53,54,59,64,65,79,95,96,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":1,"amount":187336.31},{"name":"18 números","total":34,"amount":3443.68},{"name":"17 números","total":432,"amount":271.03},{"name":"16 números","total":2778,"amount":42.14},{"name":"nenhum número","total":12518,"amount":9.35}]}
+{
+ "number": "2349",
+ "date": "2022-08-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  7,
+  9,
+  10,
+  18,
+  20,
+  29,
+  37,
+  41,
+  49,
+  51,
+  53,
+  54,
+  59,
+  64,
+  65,
+  79,
+  95,
+  96,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 1,
+   "amount": 187336.31
+  },
+  {
+   "name": "18 números",
+   "total": 34,
+   "amount": 3443.68
+  },
+  {
+   "name": "17 números",
+   "total": 432,
+   "amount": 271.03
+  },
+  {
+   "name": "16 números",
+   "total": 2778,
+   "amount": 42.14
+  },
+  {
+   "name": "nenhum número",
+   "total": 12518,
+   "amount": 9.35
+  }
+ ]
+}

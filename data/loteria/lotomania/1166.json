@@ -1,1 +1,59 @@
-{"number":"1166","date":"2011-08-13T00:00:00","accumulated":0,"numbers":[2,6,11,18,20,29,30,44,45,48,54,58,59,66,68,78,88,94,97,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":4,"amount":78215.68},{"name":"18 números","total":90,"amount":3476.25},{"name":"17 números","total":910,"amount":245.57},{"name":"16 números","total":5762,"amount":38.78},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1166",
+ "date": "2011-08-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  6,
+  11,
+  18,
+  20,
+  29,
+  30,
+  44,
+  45,
+  48,
+  54,
+  58,
+  59,
+  66,
+  68,
+  78,
+  88,
+  94,
+  97,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 4,
+   "amount": 78215.68
+  },
+  {
+   "name": "18 números",
+   "total": 90,
+   "amount": 3476.25
+  },
+  {
+   "name": "17 números",
+   "total": 910,
+   "amount": 245.57
+  },
+  {
+   "name": "16 números",
+   "total": 5762,
+   "amount": 38.78
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

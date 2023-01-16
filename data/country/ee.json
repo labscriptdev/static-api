@@ -1,1 +1,15 @@
-{"name":"Estonia","cca2":"ee","cca3":"est","languages":["est"],"latlng":[59,26],"flags":"https://flagcdn.com/ee.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Estonia",
+ "cca2": "ee",
+ "cca3": "est",
+ "languages": [
+  "est"
+ ],
+ "latlng": [
+  59,
+  26
+ ],
+ "flags": "https://flagcdn.com/ee.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

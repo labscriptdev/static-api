@@ -1,1 +1,29 @@
-{"number":"1103","date":"2003-02-01T00:00:00","accumulated":0,"numbers":[20,32,33,43,74],"winners":[{"name":"Quina","total":3,"amount":242361.53},{"name":"Quadra","total":286,"amount":1529.68},{"name":"Terno","total":13020,"amount":44.63}]}
+{
+ "number": "1103",
+ "date": "2003-02-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  32,
+  33,
+  43,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 242361.53
+  },
+  {
+   "name": "Quadra",
+   "total": 286,
+   "amount": 1529.68
+  },
+  {
+   "name": "Terno",
+   "total": 13020,
+   "amount": 44.63
+  }
+ ]
+}

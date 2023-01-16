@@ -1,1 +1,15 @@
-{"name":"Laos","cca2":"la","cca3":"lao","languages":["lao"],"latlng":[18,105],"flags":"https://flagcdn.com/la.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Laos",
+ "cca2": "la",
+ "cca3": "lao",
+ "languages": [
+  "lao"
+ ],
+ "latlng": [
+  18,
+  105
+ ],
+ "flags": "https://flagcdn.com/la.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

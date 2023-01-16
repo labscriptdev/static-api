@@ -1,1 +1,35 @@
-{"number":"1093","date":"2012-07-27T00:00:00","accumulated":0,"numbers":[25,32,37,40,44,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":42,"amount":3431.13},{"name":"Quadra","total":2378,"amount":57.71},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1093",
+ "date": "2012-07-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  25,
+  32,
+  37,
+  40,
+  44,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 42,
+   "amount": 3431.13
+  },
+  {
+   "name": "Quadra",
+   "total": 2378,
+   "amount": 57.71
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"298","date":"2001-09-22T00:00:00","accumulated":0,"numbers":[5,22,23,24,34,60],"winners":[{"name":"Sena","total":1,"amount":2994572.21},{"name":"Quina","total":50,"amount":17440.22},{"name":"Quadra","total":4372,"amount":198.71}]}
+{
+ "number": "298",
+ "date": "2001-09-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  22,
+  23,
+  24,
+  34,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 2994572.21
+  },
+  {
+   "name": "Quina",
+   "total": 50,
+   "amount": 17440.22
+  },
+  {
+   "name": "Quadra",
+   "total": 4372,
+   "amount": 198.71
+  }
+ ]
+}

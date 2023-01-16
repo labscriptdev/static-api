@@ -1,1 +1,29 @@
-{"number":"2065","date":"2009-06-16T00:00:00","accumulated":0,"numbers":[3,10,11,13,28],"winners":[{"name":"Quina","total":8,"amount":218685.35},{"name":"Quadra","total":707,"amount":1259.4},{"name":"Terno","total":24237,"amount":48.98}]}
+{
+ "number": "2065",
+ "date": "2009-06-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  10,
+  11,
+  13,
+  28
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 8,
+   "amount": 218685.35
+  },
+  {
+   "name": "Quadra",
+   "total": 707,
+   "amount": 1259.4
+  },
+  {
+   "name": "Terno",
+   "total": 24237,
+   "amount": 48.98
+  }
+ ]
+}

@@ -1,1 +1,49 @@
-{"number":"357","date":"2008-09-11T00:00:00","accumulated":0,"numbers":[1,2,5,6,8,9,10,11,13,14,17,19,21,23,25],"winners":[{"name":"15 números","total":6,"amount":168827.59},{"name":"14 números","total":33292,"amount":299.81},{"name":"13 números","total":33292,"amount":10},{"name":"12 números","total":306828,"amount":4},{"name":"11 números","total":1437076,"amount":2}]}
+{
+ "number": "357",
+ "date": "2008-09-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  5,
+  6,
+  8,
+  9,
+  10,
+  11,
+  13,
+  14,
+  17,
+  19,
+  21,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 6,
+   "amount": 168827.59
+  },
+  {
+   "name": "14 números",
+   "total": 33292,
+   "amount": 299.81
+  },
+  {
+   "name": "13 números",
+   "total": 33292,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 306828,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1437076,
+   "amount": 2
+  }
+ ]
+}

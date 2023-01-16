@@ -1,1 +1,15 @@
-{"name":"Nepal","cca2":"np","cca3":"npl","languages":["nep"],"latlng":[28,84],"flags":"https://flagcdn.com/np.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Nepal",
+ "cca2": "np",
+ "cca3": "npl",
+ "languages": [
+  "nep"
+ ],
+ "latlng": [
+  28,
+  84
+ ],
+ "flags": "https://flagcdn.com/np.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

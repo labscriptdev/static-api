@@ -1,1 +1,29 @@
-{"number":"577","date":"1999-07-17T00:00:00","accumulated":0,"numbers":[5,6,17,23,45],"winners":[{"name":"Quina","total":3,"amount":119740.9},{"name":"Quadra","total":912,"amount":392.4},{"name":"Terno","total":29447,"amount":16.21}]}
+{
+ "number": "577",
+ "date": "1999-07-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  6,
+  17,
+  23,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 119740.9
+  },
+  {
+   "name": "Quadra",
+   "total": 912,
+   "amount": 392.4
+  },
+  {
+   "name": "Terno",
+   "total": 29447,
+   "amount": 16.21
+  }
+ ]
+}

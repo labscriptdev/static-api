@@ -1,1 +1,35 @@
-{"number":"1422","date":"2015-09-22T00:00:00","accumulated":0,"numbers":[18,24,31,32,36,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":37,"amount":4246.21},{"name":"Quadra","total":1688,"amount":88.64},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1422",
+ "date": "2015-09-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  24,
+  31,
+  32,
+  36,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 37,
+   "amount": 4246.21
+  },
+  {
+   "name": "Quadra",
+   "total": 1688,
+   "amount": 88.64
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

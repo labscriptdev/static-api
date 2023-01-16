@@ -1,1 +1,59 @@
-{"number":"828","date":"2008-05-17T00:00:00","accumulated":0,"numbers":[0,8,9,19,20,29,33,42,50,51,53,56,58,64,65,79,85,88,93,96],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":5,"amount":49076.7},{"name":"18 números","total":147,"amount":1669.27},{"name":"17 números","total":1343,"amount":91.35},{"name":"16 números","total":7924,"amount":15.48},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "828",
+ "date": "2008-05-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  8,
+  9,
+  19,
+  20,
+  29,
+  33,
+  42,
+  50,
+  51,
+  53,
+  56,
+  58,
+  64,
+  65,
+  79,
+  85,
+  88,
+  93,
+  96
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 5,
+   "amount": 49076.7
+  },
+  {
+   "name": "18 números",
+   "total": 147,
+   "amount": 1669.27
+  },
+  {
+   "name": "17 números",
+   "total": 1343,
+   "amount": 91.35
+  },
+  {
+   "name": "16 números",
+   "total": 7924,
+   "amount": 15.48
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

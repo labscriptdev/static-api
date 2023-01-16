@@ -1,1 +1,49 @@
-{"number":"2649","date":"2022-10-27T00:00:00","accumulated":0,"numbers":[2,3,6,7,8,10,12,14,15,16,17,19,20,23,24],"winners":[{"name":"15 números","total":2,"amount":666699.27},{"name":"14 números","total":8167,"amount":1775.13},{"name":"13 números","total":8167,"amount":25},{"name":"12 números","total":93952,"amount":10},{"name":"11 números","total":517914,"amount":5}]}
+{
+ "number": "2649",
+ "date": "2022-10-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  6,
+  7,
+  8,
+  10,
+  12,
+  14,
+  15,
+  16,
+  17,
+  19,
+  20,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 666699.27
+  },
+  {
+   "name": "14 números",
+   "total": 8167,
+   "amount": 1775.13
+  },
+  {
+   "name": "13 números",
+   "total": 8167,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 93952,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 517914,
+   "amount": 5
+  }
+ ]
+}

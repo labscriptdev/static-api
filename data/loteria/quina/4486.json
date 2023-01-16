@@ -1,1 +1,29 @@
-{"number":"4486","date":"2017-09-20T00:00:00","accumulated":0,"numbers":[2,3,41,60,80],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":53,"amount":9236.65},{"name":"Terno","total":5497,"amount":133.91}]}
+{
+ "number": "4486",
+ "date": "2017-09-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  41,
+  60,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 53,
+   "amount": 9236.65
+  },
+  {
+   "name": "Terno",
+   "total": 5497,
+   "amount": 133.91
+  }
+ ]
+}

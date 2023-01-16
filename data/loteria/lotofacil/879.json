@@ -1,1 +1,49 @@
-{"number":"879","date":"2013-03-13T00:00:00","accumulated":0,"numbers":[2,3,4,7,9,10,12,13,15,16,18,21,22,24,25],"winners":[{"name":"15 números","total":5,"amount":289245.1},{"name":"14 números","total":26353,"amount":656.71},{"name":"13 números","total":26353,"amount":12.5},{"name":"12 números","total":274750,"amount":5},{"name":"11 números","total":1335540,"amount":2.5}]}
+{
+ "number": "879",
+ "date": "2013-03-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  4,
+  7,
+  9,
+  10,
+  12,
+  13,
+  15,
+  16,
+  18,
+  21,
+  22,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 5,
+   "amount": 289245.1
+  },
+  {
+   "name": "14 números",
+   "total": 26353,
+   "amount": 656.71
+  },
+  {
+   "name": "13 números",
+   "total": 26353,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 274750,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1335540,
+   "amount": 2.5
+  }
+ ]
+}

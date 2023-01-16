@@ -1,1 +1,59 @@
-{"number":"665","date":"2006-10-21T00:00:00","accumulated":0,"numbers":[0,1,5,8,10,22,24,30,38,40,44,54,57,59,60,64,72,81,88,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":15,"amount":13579.03},{"name":"18 números","total":226,"amount":901.26},{"name":"17 números","total":1797,"amount":56.47},{"name":"16 números","total":9480,"amount":10.7},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "665",
+ "date": "2006-10-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  1,
+  5,
+  8,
+  10,
+  22,
+  24,
+  30,
+  38,
+  40,
+  44,
+  54,
+  57,
+  59,
+  60,
+  64,
+  72,
+  81,
+  88,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 15,
+   "amount": 13579.03
+  },
+  {
+   "name": "18 números",
+   "total": 226,
+   "amount": 901.26
+  },
+  {
+   "name": "17 números",
+   "total": 1797,
+   "amount": 56.47
+  },
+  {
+   "name": "16 números",
+   "total": 9480,
+   "amount": 10.7
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

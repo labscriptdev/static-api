@@ -1,1 +1,59 @@
-{"number":"2126","date":"2020-11-13T00:00:00","accumulated":0,"numbers":[2,4,9,24,26,44,46,52,54,55,56,62,63,65,68,84,90,91,97,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":3,"amount":92710.81},{"name":"18 números","total":65,"amount":2674.35},{"name":"17 números","total":703,"amount":247.27},{"name":"16 números","total":4544,"amount":38.25},{"name":"nenhum número","total":19261,"amount":9.02}]}
+{
+ "number": "2126",
+ "date": "2020-11-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  9,
+  24,
+  26,
+  44,
+  46,
+  52,
+  54,
+  55,
+  56,
+  62,
+  63,
+  65,
+  68,
+  84,
+  90,
+  91,
+  97,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 3,
+   "amount": 92710.81
+  },
+  {
+   "name": "18 números",
+   "total": 65,
+   "amount": 2674.35
+  },
+  {
+   "name": "17 números",
+   "total": 703,
+   "amount": 247.27
+  },
+  {
+   "name": "16 números",
+   "total": 4544,
+   "amount": 38.25
+  },
+  {
+   "name": "nenhum número",
+   "total": 19261,
+   "amount": 9.02
+  }
+ ]
+}

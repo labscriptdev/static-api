@@ -1,1 +1,49 @@
-{"number":"306","date":"2008-03-17T00:00:00","accumulated":0,"numbers":[1,2,4,5,8,11,12,13,14,15,16,18,19,20,25],"winners":[{"name":"15 números","total":0,"amount":0},{"name":"14 números","total":17342,"amount":1852.02},{"name":"13 números","total":17342,"amount":10},{"name":"12 números","total":202597,"amount":4},{"name":"11 números","total":1229254,"amount":2}]}
+{
+ "number": "306",
+ "date": "2008-03-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  4,
+  5,
+  8,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  18,
+  19,
+  20,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "14 números",
+   "total": 17342,
+   "amount": 1852.02
+  },
+  {
+   "name": "13 números",
+   "total": 17342,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 202597,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1229254,
+   "amount": 2
+  }
+ ]
+}

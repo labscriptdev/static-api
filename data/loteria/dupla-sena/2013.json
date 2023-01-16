@@ -1,1 +1,35 @@
-{"number":"2013","date":"2019-11-19T00:00:00","accumulated":0,"numbers":[6,22,24,28,39,41],"winners":[{"name":"Sena","total":1,"amount":25786674.55},{"name":"Quina","total":88,"amount":4178.96},{"name":"Quadra","total":4253,"amount":98.82},{"name":"Terno","total":75256,"amount":2.79}]}
+{
+ "number": "2013",
+ "date": "2019-11-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  22,
+  24,
+  28,
+  39,
+  41
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 25786674.55
+  },
+  {
+   "name": "Quina",
+   "total": 88,
+   "amount": 4178.96
+  },
+  {
+   "name": "Quadra",
+   "total": 4253,
+   "amount": 98.82
+  },
+  {
+   "name": "Terno",
+   "total": 75256,
+   "amount": 2.79
+  }
+ ]
+}

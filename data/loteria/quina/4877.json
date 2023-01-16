@@ -1,1 +1,29 @@
-{"number":"4877","date":"2019-01-16T00:00:00","accumulated":0,"numbers":[4,10,64,71,75],"winners":[{"name":"Quina","total":1,"amount":3927137.86},{"name":"Quadra","total":83,"amount":6012.52},{"name":"Terno","total":7054,"amount":106.38}]}
+{
+ "number": "4877",
+ "date": "2019-01-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  10,
+  64,
+  71,
+  75
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 3927137.86
+  },
+  {
+   "name": "Quadra",
+   "total": 83,
+   "amount": 6012.52
+  },
+  {
+   "name": "Terno",
+   "total": 7054,
+   "amount": 106.38
+  }
+ ]
+}

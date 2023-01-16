@@ -1,1 +1,17 @@
-{"name":"Seychelles","cca2":"sc","cca3":"syc","languages":["crs","eng","fra"],"latlng":[-4.58333333,55.66666666],"flags":"https://flagcdn.com/sc.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Seychelles",
+ "cca2": "sc",
+ "cca3": "syc",
+ "languages": [
+  "crs",
+  "eng",
+  "fra"
+ ],
+ "latlng": [
+  -4.58333333,
+  55.66666666
+ ],
+ "flags": "https://flagcdn.com/sc.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

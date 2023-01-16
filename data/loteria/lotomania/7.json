@@ -1,1 +1,59 @@
-{"number":"7","date":"1999-11-13T00:00:00","accumulated":0,"numbers":[3,6,18,19,23,36,39,45,46,50,56,59,64,70,73,85,92,94,97,99],"winners":[{"name":"20 números","total":3,"amount":1838697.1},{"name":"19 números","total":38,"amount":22428.15},{"name":"18 números","total":555,"amount":1535.62},{"name":"17 números","total":4488,"amount":94.59},{"name":"16 números","total":26487,"amount":16.03},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "7",
+ "date": "1999-11-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  6,
+  18,
+  19,
+  23,
+  36,
+  39,
+  45,
+  46,
+  50,
+  56,
+  59,
+  64,
+  70,
+  73,
+  85,
+  92,
+  94,
+  97,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 3,
+   "amount": 1838697.1
+  },
+  {
+   "name": "19 números",
+   "total": 38,
+   "amount": 22428.15
+  },
+  {
+   "name": "18 números",
+   "total": 555,
+   "amount": 1535.62
+  },
+  {
+   "name": "17 números",
+   "total": 4488,
+   "amount": 94.59
+  },
+  {
+   "name": "16 números",
+   "total": 26487,
+   "amount": 16.03
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

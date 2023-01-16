@@ -1,1 +1,29 @@
-{"number":"229","date":"1996-08-18T00:00:00","accumulated":0,"numbers":[7,60,62,67,74],"winners":[{"name":"Quina","total":5,"amount":78724.91},{"name":"Quadra","total":262,"amount":1502.39},{"name":"Terno","total":13169,"amount":39.86}]}
+{
+ "number": "229",
+ "date": "1996-08-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  60,
+  62,
+  67,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 5,
+   "amount": 78724.91
+  },
+  {
+   "name": "Quadra",
+   "total": 262,
+   "amount": 1502.39
+  },
+  {
+   "name": "Terno",
+   "total": 13169,
+   "amount": 39.86
+  }
+ ]
+}

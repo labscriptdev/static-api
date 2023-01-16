@@ -1,1 +1,35 @@
-{"number":"1886","date":"2019-01-08T00:00:00","accumulated":0,"numbers":[8,25,26,35,42,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":36,"amount":3912},{"name":"Quadra","total":1993,"amount":80.75},{"name":"Terno","total":37957,"amount":2.12}]}
+{
+ "number": "1886",
+ "date": "2019-01-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  25,
+  26,
+  35,
+  42,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 36,
+   "amount": 3912
+  },
+  {
+   "name": "Quadra",
+   "total": 1993,
+   "amount": 80.75
+  },
+  {
+   "name": "Terno",
+   "total": 37957,
+   "amount": 2.12
+  }
+ ]
+}

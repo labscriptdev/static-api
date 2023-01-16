@@ -1,1 +1,29 @@
-{"number":"532","date":"1999-03-27T00:00:00","accumulated":0,"numbers":[22,25,30,57,63],"winners":[{"name":"Quina","total":2,"amount":163614.02},{"name":"Quadra","total":334,"amount":979.72},{"name":"Terno","total":13138,"amount":33.21}]}
+{
+ "number": "532",
+ "date": "1999-03-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  22,
+  25,
+  30,
+  57,
+  63
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 163614.02
+  },
+  {
+   "name": "Quadra",
+   "total": 334,
+   "amount": 979.72
+  },
+  {
+   "name": "Terno",
+   "total": 13138,
+   "amount": 33.21
+  }
+ ]
+}

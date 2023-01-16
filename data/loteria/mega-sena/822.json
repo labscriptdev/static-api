@@ -1,1 +1,30 @@
-{"number":"822","date":"2006-12-06T00:00:00","accumulated":0,"numbers":[4,10,17,27,41,52],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":31,"amount":19931.52},{"name":"Quadra","total":2585,"amount":238.13}]}
+{
+ "number": "822",
+ "date": "2006-12-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  10,
+  17,
+  27,
+  41,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 31,
+   "amount": 19931.52
+  },
+  {
+   "name": "Quadra",
+   "total": 2585,
+   "amount": 238.13
+  }
+ ]
+}

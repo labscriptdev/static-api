@@ -1,1 +1,29 @@
-{"number":"28","date":"1994-06-26T00:00:00","accumulated":0,"numbers":[8,26,28,29,30],"winners":[{"name":"Quina","total":2,"amount":317283646},{"name":"Quadra","total":318,"amount":1116201},{"name":"Terno","total":7677,"amount":61494}]}
+{
+ "number": "28",
+ "date": "1994-06-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  26,
+  28,
+  29,
+  30
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 317283646
+  },
+  {
+   "name": "Quadra",
+   "total": 318,
+   "amount": 1116201
+  },
+  {
+   "name": "Terno",
+   "total": 7677,
+   "amount": 61494
+  }
+ ]
+}

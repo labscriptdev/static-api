@@ -1,1 +1,49 @@
-{"number":"2388","date":"2021-12-03T00:00:00","accumulated":0,"numbers":[3,4,5,7,8,9,10,12,13,15,16,17,19,23,25],"winners":[{"name":"15 números","total":4,"amount":288418.86},{"name":"14 números","total":13756,"amount":897.58},{"name":"13 números","total":13756,"amount":25},{"name":"12 números","total":157594,"amount":10},{"name":"11 números","total":780822,"amount":5}]}
+{
+ "number": "2388",
+ "date": "2021-12-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  5,
+  7,
+  8,
+  9,
+  10,
+  12,
+  13,
+  15,
+  16,
+  17,
+  19,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 288418.86
+  },
+  {
+   "name": "14 números",
+   "total": 13756,
+   "amount": 897.58
+  },
+  {
+   "name": "13 números",
+   "total": 13756,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 157594,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 780822,
+   "amount": 5
+  }
+ ]
+}

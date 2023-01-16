@@ -1,1 +1,49 @@
-{"number":"2081","date":"2020-11-13T00:00:00","accumulated":0,"numbers":[2,4,5,6,7,9,10,11,15,16,17,18,19,20,21],"winners":[{"name":"15 números","total":1,"amount":1801360.52},{"name":"14 números","total":9615,"amount":1810.66},{"name":"13 números","total":9615,"amount":25},{"name":"12 números","total":121239,"amount":10},{"name":"11 números","total":659258,"amount":5}]}
+{
+ "number": "2081",
+ "date": "2020-11-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  5,
+  6,
+  7,
+  9,
+  10,
+  11,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1801360.52
+  },
+  {
+   "name": "14 números",
+   "total": 9615,
+   "amount": 1810.66
+  },
+  {
+   "name": "13 números",
+   "total": 9615,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 121239,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 659258,
+   "amount": 5
+  }
+ ]
+}

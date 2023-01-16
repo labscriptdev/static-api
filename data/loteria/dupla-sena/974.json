@@ -1,1 +1,35 @@
-{"number":"974","date":"2011-06-07T00:00:00","accumulated":0,"numbers":[2,3,21,23,37,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":21,"amount":4690.49},{"name":"Quadra","total":1782,"amount":52.64},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "974",
+ "date": "2011-06-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  21,
+  23,
+  37,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 21,
+   "amount": 4690.49
+  },
+  {
+   "name": "Quadra",
+   "total": 1782,
+   "amount": 52.64
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

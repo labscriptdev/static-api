@@ -1,1 +1,35 @@
-{"number":"2014","date":"2019-11-21T00:00:00","accumulated":0,"numbers":[10,17,21,32,43,46],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":9,"amount":6061.38},{"name":"Quadra","total":796,"amount":78.32},{"name":"Terno","total":10796,"amount":2.88}]}
+{
+ "number": "2014",
+ "date": "2019-11-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  17,
+  21,
+  32,
+  43,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 9,
+   "amount": 6061.38
+  },
+  {
+   "name": "Quadra",
+   "total": 796,
+   "amount": 78.32
+  },
+  {
+   "name": "Terno",
+   "total": 10796,
+   "amount": 2.88
+  }
+ ]
+}

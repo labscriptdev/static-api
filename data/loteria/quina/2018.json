@@ -1,1 +1,29 @@
-{"number":"2018","date":"2009-02-19T00:00:00","accumulated":0,"numbers":[27,37,46,67,70],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":91,"amount":5646.39},{"name":"Terno","total":5818,"amount":117.76}]}
+{
+ "number": "2018",
+ "date": "2009-02-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  27,
+  37,
+  46,
+  67,
+  70
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 91,
+   "amount": 5646.39
+  },
+  {
+   "name": "Terno",
+   "total": 5818,
+   "amount": 117.76
+  }
+ ]
+}

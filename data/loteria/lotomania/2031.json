@@ -1,1 +1,59 @@
-{"number":"2031","date":"2019-12-17T00:00:00","accumulated":0,"numbers":[9,11,19,23,32,35,38,42,50,52,66,69,71,73,77,78,80,81,91,96],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":12,"amount":31394.54},{"name":"18 números","total":109,"amount":2160.18},{"name":"17 números","total":935,"amount":251.82},{"name":"16 números","total":5870,"amount":40.11},{"name":"nenhum número","total":25452,"amount":9.25}]}
+{
+ "number": "2031",
+ "date": "2019-12-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  11,
+  19,
+  23,
+  32,
+  35,
+  38,
+  42,
+  50,
+  52,
+  66,
+  69,
+  71,
+  73,
+  77,
+  78,
+  80,
+  81,
+  91,
+  96
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 31394.54
+  },
+  {
+   "name": "18 números",
+   "total": 109,
+   "amount": 2160.18
+  },
+  {
+   "name": "17 números",
+   "total": 935,
+   "amount": 251.82
+  },
+  {
+   "name": "16 números",
+   "total": 5870,
+   "amount": 40.11
+  },
+  {
+   "name": "nenhum número",
+   "total": 25452,
+   "amount": 9.25
+  }
+ ]
+}

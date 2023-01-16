@@ -1,1 +1,29 @@
-{"number":"391","date":"1998-04-14T00:00:00","accumulated":0,"numbers":[20,43,47,62,74],"winners":[{"name":"Quina","total":3,"amount":73691.52},{"name":"Quadra","total":180,"amount":1228.2},{"name":"Terno","total":8113,"amount":36.26}]}
+{
+ "number": "391",
+ "date": "1998-04-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  43,
+  47,
+  62,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 73691.52
+  },
+  {
+   "name": "Quadra",
+   "total": 180,
+   "amount": 1228.2
+  },
+  {
+   "name": "Terno",
+   "total": 8113,
+   "amount": 36.26
+  }
+ ]
+}

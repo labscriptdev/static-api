@@ -1,1 +1,30 @@
-{"number":"2218","date":"2019-12-19T00:00:00","accumulated":0,"numbers":[6,16,22,38,48,52],"winners":[{"name":"Sena","total":1,"amount":40059665.22},{"name":"Quina","total":42,"amount":64678.28},{"name":"Quadra","total":3345,"amount":1160.14}]}
+{
+ "number": "2218",
+ "date": "2019-12-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  16,
+  22,
+  38,
+  48,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 40059665.22
+  },
+  {
+   "name": "Quina",
+   "total": 42,
+   "amount": 64678.28
+  },
+  {
+   "name": "Quadra",
+   "total": 3345,
+   "amount": 1160.14
+  }
+ ]
+}

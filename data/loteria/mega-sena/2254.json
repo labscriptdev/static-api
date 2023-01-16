@@ -1,1 +1,30 @@
-{"number":"2254","date":"2020-04-22T00:00:00","accumulated":0,"numbers":[4,9,24,44,47,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":55,"amount":31749.26},{"name":"Quadra","total":3561,"amount":700.52}]}
+{
+ "number": "2254",
+ "date": "2020-04-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  9,
+  24,
+  44,
+  47,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 55,
+   "amount": 31749.26
+  },
+  {
+   "name": "Quadra",
+   "total": 3561,
+   "amount": 700.52
+  }
+ ]
+}

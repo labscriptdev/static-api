@@ -1,1 +1,35 @@
-{"number":"732","date":"2009-02-03T00:00:00","accumulated":0,"numbers":[13,32,33,40,44,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "732",
+ "date": "2009-02-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  32,
+  33,
+  40,
+  44,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

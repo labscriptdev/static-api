@@ -1,1 +1,30 @@
-{"number":"939","date":"2008-01-30T00:00:00","accumulated":0,"numbers":[6,19,23,37,49,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":103,"amount":9216.78},{"name":"Quadra","total":5670,"amount":167.43}]}
+{
+ "number": "939",
+ "date": "2008-01-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  19,
+  23,
+  37,
+  49,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 103,
+   "amount": 9216.78
+  },
+  {
+   "name": "Quadra",
+   "total": 5670,
+   "amount": 167.43
+  }
+ ]
+}

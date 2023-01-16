@@ -1,1 +1,15 @@
-{"name":"Montserrat","cca2":"ms","cca3":"msr","languages":["eng"],"latlng":[16.75,-62.2],"flags":"https://flagcdn.com/ms.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Montserrat",
+ "cca2": "ms",
+ "cca3": "msr",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  16.75,
+  -62.2
+ ],
+ "flags": "https://flagcdn.com/ms.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

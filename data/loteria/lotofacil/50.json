@@ -1,1 +1,49 @@
-{"number":"50","date":"2004-09-06T00:00:00","accumulated":0,"numbers":[1,2,3,6,7,9,10,11,12,13,19,20,21,23,25],"winners":[{"name":"15 números","total":1,"amount":2776089.01},{"name":"14 números","total":21583,"amount":982.27},{"name":"13 números","total":21583,"amount":10},{"name":"12 números","total":298054,"amount":4},{"name":"11 números","total":1545777,"amount":2}]}
+{
+ "number": "50",
+ "date": "2004-09-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  6,
+  7,
+  9,
+  10,
+  11,
+  12,
+  13,
+  19,
+  20,
+  21,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 2776089.01
+  },
+  {
+   "name": "14 números",
+   "total": 21583,
+   "amount": 982.27
+  },
+  {
+   "name": "13 números",
+   "total": 21583,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 298054,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1545777,
+   "amount": 2
+  }
+ ]
+}

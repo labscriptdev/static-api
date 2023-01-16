@@ -1,1 +1,30 @@
-{"number":"842","date":"2007-02-14T00:00:00","accumulated":0,"numbers":[7,9,30,44,51,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":58,"amount":21165.39},{"name":"Quadra","total":4700,"amount":260.2}]}
+{
+ "number": "842",
+ "date": "2007-02-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  9,
+  30,
+  44,
+  51,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 58,
+   "amount": 21165.39
+  },
+  {
+   "name": "Quadra",
+   "total": 4700,
+   "amount": 260.2
+  }
+ ]
+}

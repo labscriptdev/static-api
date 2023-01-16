@@ -1,1 +1,30 @@
-{"number":"523","date":"2003-12-17T00:00:00","accumulated":0,"numbers":[28,39,40,44,45,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":123,"amount":27528.74},{"name":"Quadra","total":9692,"amount":348.05}]}
+{
+ "number": "523",
+ "date": "2003-12-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  28,
+  39,
+  40,
+  44,
+  45,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 123,
+   "amount": 27528.74
+  },
+  {
+   "name": "Quadra",
+   "total": 9692,
+   "amount": 348.05
+  }
+ ]
+}

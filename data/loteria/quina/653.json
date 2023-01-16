@@ -1,1 +1,29 @@
-{"number":"653","date":"2000-01-25T00:00:00","accumulated":0,"numbers":[7,8,10,45,46],"winners":[{"name":"Quina","total":1,"amount":228309.67},{"name":"Quadra","total":377,"amount":603.3},{"name":"Terno","total":13508,"amount":22.46}]}
+{
+ "number": "653",
+ "date": "2000-01-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  8,
+  10,
+  45,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 228309.67
+  },
+  {
+   "name": "Quadra",
+   "total": 377,
+   "amount": 603.3
+  },
+  {
+   "name": "Terno",
+   "total": 13508,
+   "amount": 22.46
+  }
+ ]
+}

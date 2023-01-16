@@ -1,1 +1,59 @@
-{"number":"116","date":"2001-05-23T00:00:00","accumulated":0,"numbers":[3,4,7,8,11,21,31,35,39,45,46,47,53,56,59,64,80,82,83,92],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":13,"amount":26717.3},{"name":"18 números","total":120,"amount":2894.38},{"name":"17 números","total":1157,"amount":149.53},{"name":"16 números","total":7894,"amount":21.92},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "116",
+ "date": "2001-05-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  7,
+  8,
+  11,
+  21,
+  31,
+  35,
+  39,
+  45,
+  46,
+  47,
+  53,
+  56,
+  59,
+  64,
+  80,
+  82,
+  83,
+  92
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 13,
+   "amount": 26717.3
+  },
+  {
+   "name": "18 números",
+   "total": 120,
+   "amount": 2894.38
+  },
+  {
+   "name": "17 números",
+   "total": 1157,
+   "amount": 149.53
+  },
+  {
+   "name": "16 números",
+   "total": 7894,
+   "amount": 21.92
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,59 @@
-{"number":"1669","date":"2016-06-24T00:00:00","accumulated":0,"numbers":[1,9,17,22,31,33,37,43,47,55,62,66,67,68,70,77,83,92,95,99],"winners":[{"name":"20 números","total":2,"amount":1813071.88},{"name":"19 números","total":17,"amount":13494.09},{"name":"18 números","total":172,"amount":1190.81},{"name":"17 números","total":1316,"amount":108.94},{"name":"16 números","total":7538,"amount":19.02},{"name":"nenhum número","total":30894,"amount":4.64}]}
+{
+ "number": "1669",
+ "date": "2016-06-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  9,
+  17,
+  22,
+  31,
+  33,
+  37,
+  43,
+  47,
+  55,
+  62,
+  66,
+  67,
+  68,
+  70,
+  77,
+  83,
+  92,
+  95,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 2,
+   "amount": 1813071.88
+  },
+  {
+   "name": "19 números",
+   "total": 17,
+   "amount": 13494.09
+  },
+  {
+   "name": "18 números",
+   "total": 172,
+   "amount": 1190.81
+  },
+  {
+   "name": "17 números",
+   "total": 1316,
+   "amount": 108.94
+  },
+  {
+   "name": "16 números",
+   "total": 7538,
+   "amount": 19.02
+  },
+  {
+   "name": "nenhum número",
+   "total": 30894,
+   "amount": 4.64
+  }
+ ]
+}

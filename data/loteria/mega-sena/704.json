@@ -1,1 +1,30 @@
-{"number":"704","date":"2005-10-05T00:00:00","accumulated":0,"numbers":[2,4,18,27,34,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":56,"amount":22659.95},{"name":"Quadra","total":5784,"amount":218.56}]}
+{
+ "number": "704",
+ "date": "2005-10-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  18,
+  27,
+  34,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 56,
+   "amount": 22659.95
+  },
+  {
+   "name": "Quadra",
+   "total": 5784,
+   "amount": 218.56
+  }
+ ]
+}

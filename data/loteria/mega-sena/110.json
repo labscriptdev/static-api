@@ -1,1 +1,30 @@
-{"number":"110","date":"1998-04-11T00:00:00","accumulated":0,"numbers":[18,31,43,52,57,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":35,"amount":27771.48},{"name":"Quadra","total":3212,"amount":302.01}]}
+{
+ "number": "110",
+ "date": "1998-04-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  31,
+  43,
+  52,
+  57,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 35,
+   "amount": 27771.48
+  },
+  {
+   "name": "Quadra",
+   "total": 3212,
+   "amount": 302.01
+  }
+ ]
+}

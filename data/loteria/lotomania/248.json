@@ -1,1 +1,59 @@
-{"number":"248","date":"2002-09-11T00:00:00","accumulated":0,"numbers":[1,5,10,12,16,18,22,31,38,42,44,48,52,66,69,74,81,82,86,89],"winners":[{"name":"20 números","total":1,"amount":1793405.21},{"name":"19 números","total":29,"amount":15495.11},{"name":"18 números","total":383,"amount":1173.26},{"name":"17 números","total":3120,"amount":71.74},{"name":"16 números","total":17104,"amount":13.1},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "248",
+ "date": "2002-09-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  10,
+  12,
+  16,
+  18,
+  22,
+  31,
+  38,
+  42,
+  44,
+  48,
+  52,
+  66,
+  69,
+  74,
+  81,
+  82,
+  86,
+  89
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 1793405.21
+  },
+  {
+   "name": "19 números",
+   "total": 29,
+   "amount": 15495.11
+  },
+  {
+   "name": "18 números",
+   "total": 383,
+   "amount": 1173.26
+  },
+  {
+   "name": "17 números",
+   "total": 3120,
+   "amount": 71.74
+  },
+  {
+   "name": "16 números",
+   "total": 17104,
+   "amount": 13.1
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

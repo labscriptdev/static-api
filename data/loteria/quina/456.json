@@ -1,1 +1,29 @@
-{"number":"456","date":"1998-09-19T00:00:00","accumulated":0,"numbers":[18,47,70,74,80],"winners":[{"name":"Quina","total":1,"amount":347884.81},{"name":"Quadra","total":310,"amount":1122.21},{"name":"Terno","total":12600,"amount":36.75}]}
+{
+ "number": "456",
+ "date": "1998-09-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  47,
+  70,
+  74,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 347884.81
+  },
+  {
+   "name": "Quadra",
+   "total": 310,
+   "amount": 1122.21
+  },
+  {
+   "name": "Terno",
+   "total": 12600,
+   "amount": 36.75
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"943","date":"2002-01-15T00:00:00","accumulated":0,"numbers":[20,42,45,49,64],"winners":[{"name":"Quina","total":1,"amount":278695.29},{"name":"Quadra","total":226,"amount":1233.17},{"name":"Terno","total":10495,"amount":35.28}]}
+{
+ "number": "943",
+ "date": "2002-01-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  42,
+  45,
+  49,
+  64
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 278695.29
+  },
+  {
+   "name": "Quadra",
+   "total": 226,
+   "amount": 1233.17
+  },
+  {
+   "name": "Terno",
+   "total": 10495,
+   "amount": 35.28
+  }
+ ]
+}

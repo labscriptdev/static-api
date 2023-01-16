@@ -1,1 +1,30 @@
-{"number":"906","date":"2007-09-29T00:00:00","accumulated":0,"numbers":[7,14,24,29,35,39],"winners":[{"name":"Sena","total":1,"amount":1583115.71},{"name":"Quina","total":49,"amount":18461.99},{"name":"Quadra","total":4239,"amount":212.6}]}
+{
+ "number": "906",
+ "date": "2007-09-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  14,
+  24,
+  29,
+  35,
+  39
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 1583115.71
+  },
+  {
+   "name": "Quina",
+   "total": 49,
+   "amount": 18461.99
+  },
+  {
+   "name": "Quadra",
+   "total": 4239,
+   "amount": 212.6
+  }
+ ]
+}

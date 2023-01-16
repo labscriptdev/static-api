@@ -1,1 +1,29 @@
-{"number":"3986","date":"2016-01-16T00:00:00","accumulated":0,"numbers":[4,6,26,36,55],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":91,"amount":6620.34},{"name":"Terno","total":6010,"amount":143.2}]}
+{
+ "number": "3986",
+ "date": "2016-01-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  6,
+  26,
+  36,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 91,
+   "amount": 6620.34
+  },
+  {
+   "name": "Terno",
+   "total": 6010,
+   "amount": 143.2
+  }
+ ]
+}

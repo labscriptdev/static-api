@@ -1,1 +1,35 @@
-{"number":"1204","date":"2013-08-20T00:00:00","accumulated":0,"numbers":[23,28,29,32,38,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":30,"amount":3468.01},{"name":"Quadra","total":1991,"amount":49.76},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1204",
+ "date": "2013-08-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  23,
+  28,
+  29,
+  32,
+  38,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 30,
+   "amount": 3468.01
+  },
+  {
+   "name": "Quadra",
+   "total": 1991,
+   "amount": 49.76
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

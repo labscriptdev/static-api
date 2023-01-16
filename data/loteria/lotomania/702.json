@@ -1,1 +1,59 @@
-{"number":"702","date":"2007-03-03T00:00:00","accumulated":0,"numbers":[1,17,18,22,32,33,38,53,57,66,69,72,75,76,77,79,81,84,97,99],"winners":[{"name":"20 números","total":1,"amount":2961520.94},{"name":"19 números","total":15,"amount":21021.39},{"name":"18 números","total":244,"amount":1292.3},{"name":"17 números","total":2044,"amount":76.85},{"name":"16 números","total":12492,"amount":12.58},{"name":"nenhum número","total":1,"amount":157660.42}]}
+{
+ "number": "702",
+ "date": "2007-03-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  17,
+  18,
+  22,
+  32,
+  33,
+  38,
+  53,
+  57,
+  66,
+  69,
+  72,
+  75,
+  76,
+  77,
+  79,
+  81,
+  84,
+  97,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 2961520.94
+  },
+  {
+   "name": "19 números",
+   "total": 15,
+   "amount": 21021.39
+  },
+  {
+   "name": "18 números",
+   "total": 244,
+   "amount": 1292.3
+  },
+  {
+   "name": "17 números",
+   "total": 2044,
+   "amount": 76.85
+  },
+  {
+   "name": "16 números",
+   "total": 12492,
+   "amount": 12.58
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 157660.42
+  }
+ ]
+}

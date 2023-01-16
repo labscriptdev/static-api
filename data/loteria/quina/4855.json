@@ -1,1 +1,29 @@
-{"number":"4855","date":"2018-12-19T00:00:00","accumulated":0,"numbers":[3,7,36,65,68],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":85,"amount":6052.25},{"name":"Terno","total":7379,"amount":104.83}]}
+{
+ "number": "4855",
+ "date": "2018-12-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  7,
+  36,
+  65,
+  68
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 85,
+   "amount": 6052.25
+  },
+  {
+   "name": "Terno",
+   "total": 7379,
+   "amount": 104.83
+  }
+ ]
+}

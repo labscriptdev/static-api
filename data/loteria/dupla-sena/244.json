@@ -1,1 +1,35 @@
-{"number":"244","date":"2004-04-02T00:00:00","accumulated":0,"numbers":[17,26,31,41,42,44],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "244",
+ "date": "2004-04-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  26,
+  31,
+  41,
+  42,
+  44
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

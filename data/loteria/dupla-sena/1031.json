@@ -1,1 +1,35 @@
-{"number":"1031","date":"2011-12-23T00:00:00","accumulated":0,"numbers":[2,3,26,35,42,43],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":34,"amount":3211.9},{"name":"Quadra","total":1988,"amount":52.31},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1031",
+ "date": "2011-12-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  26,
+  35,
+  42,
+  43
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 34,
+   "amount": 3211.9
+  },
+  {
+   "name": "Quadra",
+   "total": 1988,
+   "amount": 52.31
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

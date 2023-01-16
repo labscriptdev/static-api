@@ -1,1 +1,59 @@
-{"number":"93","date":"2001-03-03T00:00:00","accumulated":0,"numbers":[1,7,14,19,20,28,34,43,49,52,53,54,69,74,77,81,82,84,90,94],"winners":[{"name":"20 números","total":2,"amount":369801.91},{"name":"19 números","total":26,"amount":18964.2},{"name":"18 números","total":189,"amount":2608.83},{"name":"17 números","total":1852,"amount":132.73},{"name":"16 números","total":11831,"amount":20.78},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "93",
+ "date": "2001-03-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  7,
+  14,
+  19,
+  20,
+  28,
+  34,
+  43,
+  49,
+  52,
+  53,
+  54,
+  69,
+  74,
+  77,
+  81,
+  82,
+  84,
+  90,
+  94
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 2,
+   "amount": 369801.91
+  },
+  {
+   "name": "19 números",
+   "total": 26,
+   "amount": 18964.2
+  },
+  {
+   "name": "18 números",
+   "total": 189,
+   "amount": 2608.83
+  },
+  {
+   "name": "17 números",
+   "total": 1852,
+   "amount": 132.73
+  },
+  {
+   "name": "16 números",
+   "total": 11831,
+   "amount": 20.78
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

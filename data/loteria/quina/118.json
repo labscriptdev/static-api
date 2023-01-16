@@ -1,1 +1,29 @@
-{"number":"118","date":"1995-06-22T00:00:00","accumulated":0,"numbers":[14,23,26,56,77],"winners":[{"name":"Quina","total":1,"amount":260618.99},{"name":"Quadra","total":215,"amount":1212.18},{"name":"Terno","total":10446,"amount":33.27}]}
+{
+ "number": "118",
+ "date": "1995-06-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  23,
+  26,
+  56,
+  77
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 260618.99
+  },
+  {
+   "name": "Quadra",
+   "total": 215,
+   "amount": 1212.18
+  },
+  {
+   "name": "Terno",
+   "total": 10446,
+   "amount": 33.27
+  }
+ ]
+}

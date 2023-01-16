@@ -1,1 +1,35 @@
-{"number":"132","date":"2003-02-28T00:00:00","accumulated":0,"numbers":[4,7,19,37,44,46],"winners":[{"name":"Sena","total":1,"amount":2345136.62},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "132",
+ "date": "2003-02-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  7,
+  19,
+  37,
+  44,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 2345136.62
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

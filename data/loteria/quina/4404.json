@@ -1,1 +1,29 @@
-{"number":"4404","date":"2017-06-08T00:00:00","accumulated":0,"numbers":[32,35,37,65,66],"winners":[{"name":"Quina","total":1,"amount":4091297.74},{"name":"Quadra","total":105,"amount":4887.22},{"name":"Terno","total":6628,"amount":116.42}]}
+{
+ "number": "4404",
+ "date": "2017-06-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  32,
+  35,
+  37,
+  65,
+  66
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 4091297.74
+  },
+  {
+   "name": "Quadra",
+   "total": 105,
+   "amount": 4887.22
+  },
+  {
+   "name": "Terno",
+   "total": 6628,
+   "amount": 116.42
+  }
+ ]
+}

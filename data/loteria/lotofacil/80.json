@@ -1,1 +1,49 @@
-{"number":"80","date":"2005-04-04T00:00:00","accumulated":0,"numbers":[1,2,3,4,5,7,9,10,14,15,17,18,20,22,25],"winners":[{"name":"15 números","total":1,"amount":1387219.92},{"name":"14 números","total":19706,"amount":1184.31},{"name":"13 números","total":19706,"amount":10},{"name":"12 números","total":292151,"amount":4},{"name":"11 números","total":1294632,"amount":2}]}
+{
+ "number": "80",
+ "date": "2005-04-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  7,
+  9,
+  10,
+  14,
+  15,
+  17,
+  18,
+  20,
+  22,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1387219.92
+  },
+  {
+   "name": "14 números",
+   "total": 19706,
+   "amount": 1184.31
+  },
+  {
+   "name": "13 números",
+   "total": 19706,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 292151,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1294632,
+   "amount": 2
+  }
+ ]
+}

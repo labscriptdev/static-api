@@ -1,1 +1,59 @@
-{"number":"997","date":"2009-12-30T00:00:00","accumulated":0,"numbers":[0,3,4,8,29,33,36,38,41,48,50,57,59,60,66,82,86,87,88,90],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":13,"amount":24837.45},{"name":"18 números","total":174,"amount":1855.67},{"name":"17 números","total":1729,"amount":133.39},{"name":"16 números","total":10548,"amount":21.86},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "997",
+ "date": "2009-12-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  3,
+  4,
+  8,
+  29,
+  33,
+  36,
+  38,
+  41,
+  48,
+  50,
+  57,
+  59,
+  60,
+  66,
+  82,
+  86,
+  87,
+  88,
+  90
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 13,
+   "amount": 24837.45
+  },
+  {
+   "name": "18 números",
+   "total": 174,
+   "amount": 1855.67
+  },
+  {
+   "name": "17 números",
+   "total": 1729,
+   "amount": 133.39
+  },
+  {
+   "name": "16 números",
+   "total": 10548,
+   "amount": 21.86
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

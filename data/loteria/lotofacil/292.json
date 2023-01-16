@@ -1,1 +1,49 @@
-{"number":"292","date":"2008-01-24T00:00:00","accumulated":0,"numbers":[2,3,5,7,8,9,11,12,13,16,17,21,22,24,25],"winners":[{"name":"15 números","total":1,"amount":1210021.45},{"name":"14 números","total":17502,"amount":1010.88},{"name":"13 números","total":17502,"amount":10},{"name":"12 números","total":203845,"amount":4},{"name":"11 números","total":1145496,"amount":2}]}
+{
+ "number": "292",
+ "date": "2008-01-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  5,
+  7,
+  8,
+  9,
+  11,
+  12,
+  13,
+  16,
+  17,
+  21,
+  22,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1210021.45
+  },
+  {
+   "name": "14 números",
+   "total": 17502,
+   "amount": 1010.88
+  },
+  {
+   "name": "13 números",
+   "total": 17502,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 203845,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1145496,
+   "amount": 2
+  }
+ ]
+}

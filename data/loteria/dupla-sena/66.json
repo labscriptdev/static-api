@@ -1,1 +1,35 @@
-{"number":"66","date":"2002-07-05T00:00:00","accumulated":0,"numbers":[6,17,19,31,33,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "66",
+ "date": "2002-07-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  17,
+  19,
+  31,
+  33,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

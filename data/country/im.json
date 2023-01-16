@@ -1,1 +1,16 @@
-{"name":"Isle of Man","cca2":"im","cca3":"imn","languages":["eng","glv"],"latlng":[54.25,-4.5],"flags":"https://flagcdn.com/im.svg","postalCodeMask":"@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA","phoneMask":false}
+{
+ "name": "Isle of Man",
+ "cca2": "im",
+ "cca3": "imn",
+ "languages": [
+  "eng",
+  "glv"
+ ],
+ "latlng": [
+  54.25,
+  -4.5
+ ],
+ "flags": "https://flagcdn.com/im.svg",
+ "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+ "phoneMask": false
+}

@@ -1,1 +1,59 @@
-{"number":"278","date":"2002-12-28T00:00:00","accumulated":0,"numbers":[3,5,14,17,21,35,39,44,47,48,50,52,64,67,68,78,94,96,98,99],"winners":[{"name":"20 números","total":1,"amount":4936660.17},{"name":"19 números","total":31,"amount":24167.7},{"name":"18 números","total":503,"amount":1489.46},{"name":"17 números","total":4239,"amount":88.04},{"name":"16 números","total":25813,"amount":14.47},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "278",
+ "date": "2002-12-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  14,
+  17,
+  21,
+  35,
+  39,
+  44,
+  47,
+  48,
+  50,
+  52,
+  64,
+  67,
+  68,
+  78,
+  94,
+  96,
+  98,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 4936660.17
+  },
+  {
+   "name": "19 números",
+   "total": 31,
+   "amount": 24167.7
+  },
+  {
+   "name": "18 números",
+   "total": 503,
+   "amount": 1489.46
+  },
+  {
+   "name": "17 números",
+   "total": 4239,
+   "amount": 88.04
+  },
+  {
+   "name": "16 números",
+   "total": 25813,
+   "amount": 14.47
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

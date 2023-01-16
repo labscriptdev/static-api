@@ -1,1 +1,29 @@
-{"number":"1635","date":"2006-08-05T00:00:00","accumulated":0,"numbers":[6,18,22,50,52],"winners":[{"name":"Quina","total":1,"amount":1016925.67},{"name":"Quadra","total":264,"amount":1623.2},{"name":"Terno","total":10530,"amount":54.06}]}
+{
+ "number": "1635",
+ "date": "2006-08-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  18,
+  22,
+  50,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 1016925.67
+  },
+  {
+   "name": "Quadra",
+   "total": 264,
+   "amount": 1623.2
+  },
+  {
+   "name": "Terno",
+   "total": 10530,
+   "amount": 54.06
+  }
+ ]
+}

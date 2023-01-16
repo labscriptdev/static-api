@@ -1,1 +1,29 @@
-{"number":"5647","date":"2021-09-01T00:00:00","accumulated":0,"numbers":[6,18,34,35,57],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":101,"amount":4284.37},{"name":"Terno","total":5250,"amount":123.94}]}
+{
+ "number": "5647",
+ "date": "2021-09-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  18,
+  34,
+  35,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 101,
+   "amount": 4284.37
+  },
+  {
+   "name": "Terno",
+   "total": 5250,
+   "amount": 123.94
+  }
+ ]
+}

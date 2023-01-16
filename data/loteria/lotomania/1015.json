@@ -1,1 +1,59 @@
-{"number":"1015","date":"2010-03-03T00:00:00","accumulated":0,"numbers":[0,2,8,11,17,20,24,31,35,42,46,52,58,66,72,73,81,92,93,96],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":12,"amount":24632.63},{"name":"18 números","total":199,"amount":1485.38},{"name":"17 números","total":1654,"amount":127.65},{"name":"16 números","total":9893,"amount":21.34},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1015",
+ "date": "2010-03-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  2,
+  8,
+  11,
+  17,
+  20,
+  24,
+  31,
+  35,
+  42,
+  46,
+  52,
+  58,
+  66,
+  72,
+  73,
+  81,
+  92,
+  93,
+  96
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 24632.63
+  },
+  {
+   "name": "18 números",
+   "total": 199,
+   "amount": 1485.38
+  },
+  {
+   "name": "17 números",
+   "total": 1654,
+   "amount": 127.65
+  },
+  {
+   "name": "16 números",
+   "total": 9893,
+   "amount": 21.34
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

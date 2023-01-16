@@ -1,1 +1,35 @@
-{"number":"2282","date":"2021-10-05T00:00:00","accumulated":0,"numbers":[7,10,11,20,22,36],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":14,"amount":3793.49},{"name":"Quadra","total":658,"amount":92.24},{"name":"Terno","total":12048,"amount":2.51}]}
+{
+ "number": "2282",
+ "date": "2021-10-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  10,
+  11,
+  20,
+  22,
+  36
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 14,
+   "amount": 3793.49
+  },
+  {
+   "name": "Quadra",
+   "total": 658,
+   "amount": 92.24
+  },
+  {
+   "name": "Terno",
+   "total": 12048,
+   "amount": 2.51
+  }
+ ]
+}

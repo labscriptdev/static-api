@@ -1,1 +1,30 @@
-{"number":"1072","date":"2009-05-09T00:00:00","accumulated":0,"numbers":[9,18,19,43,47,54],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":47,"amount":27186.35},{"name":"Quadra","total":4915,"amount":371.38}]}
+{
+ "number": "1072",
+ "date": "2009-05-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  18,
+  19,
+  43,
+  47,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 47,
+   "amount": 27186.35
+  },
+  {
+   "name": "Quadra",
+   "total": 4915,
+   "amount": 371.38
+  }
+ ]
+}

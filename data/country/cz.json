@@ -1,1 +1,16 @@
-{"name":"Czechia","cca2":"cz","cca3":"cze","languages":["ces","slk"],"latlng":[49.75,15.5],"flags":"https://flagcdn.com/cz.svg","postalCodeMask":"### ##","phoneMask":false}
+{
+ "name": "Czechia",
+ "cca2": "cz",
+ "cca3": "cze",
+ "languages": [
+  "ces",
+  "slk"
+ ],
+ "latlng": [
+  49.75,
+  15.5
+ ],
+ "flags": "https://flagcdn.com/cz.svg",
+ "postalCodeMask": "### ##",
+ "phoneMask": false
+}

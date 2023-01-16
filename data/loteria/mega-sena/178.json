@@ -1,1 +1,30 @@
-{"number":"178","date":"1999-07-31T00:00:00","accumulated":0,"numbers":[5,15,19,26,27,33],"winners":[{"name":"Sena","total":1,"amount":6129539.43},{"name":"Quina","total":198,"amount":6240.11},{"name":"Quadra","total":13086,"amount":94.07}]}
+{
+ "number": "178",
+ "date": "1999-07-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  15,
+  19,
+  26,
+  27,
+  33
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 6129539.43
+  },
+  {
+   "name": "Quina",
+   "total": 198,
+   "amount": 6240.11
+  },
+  {
+   "name": "Quadra",
+   "total": 13086,
+   "amount": 94.07
+  }
+ ]
+}

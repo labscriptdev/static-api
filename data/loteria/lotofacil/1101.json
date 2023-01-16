@@ -1,1 +1,49 @@
-{"number":"1101","date":"2014-08-29T00:00:00","accumulated":0,"numbers":[1,2,3,6,9,10,11,13,15,17,18,19,23,24,25],"winners":[{"name":"15 números","total":4,"amount":332700.25},{"name":"14 números","total":20531,"amount":829.74},{"name":"13 números","total":20531,"amount":15},{"name":"12 números","total":233817,"amount":6},{"name":"11 números","total":1204560,"amount":3}]}
+{
+ "number": "1101",
+ "date": "2014-08-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  6,
+  9,
+  10,
+  11,
+  13,
+  15,
+  17,
+  18,
+  19,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 332700.25
+  },
+  {
+   "name": "14 números",
+   "total": 20531,
+   "amount": 829.74
+  },
+  {
+   "name": "13 números",
+   "total": 20531,
+   "amount": 15
+  },
+  {
+   "name": "12 números",
+   "total": 233817,
+   "amount": 6
+  },
+  {
+   "name": "11 números",
+   "total": 1204560,
+   "amount": 3
+  }
+ ]
+}

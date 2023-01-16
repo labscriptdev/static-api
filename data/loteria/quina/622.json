@@ -1,1 +1,29 @@
-{"number":"622","date":"1999-11-06T00:00:00","accumulated":0,"numbers":[1,17,34,40,46],"winners":[{"name":"Quina","total":3,"amount":119009.35},{"name":"Quadra","total":432,"amount":826.45},{"name":"Terno","total":19901,"amount":23.83}]}
+{
+ "number": "622",
+ "date": "1999-11-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  17,
+  34,
+  40,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 119009.35
+  },
+  {
+   "name": "Quadra",
+   "total": 432,
+   "amount": 826.45
+  },
+  {
+   "name": "Terno",
+   "total": 19901,
+   "amount": 23.83
+  }
+ ]
+}

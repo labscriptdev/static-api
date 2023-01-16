@@ -1,1 +1,29 @@
-{"number":"1343","date":"2004-08-26T00:00:00","accumulated":0,"numbers":[18,21,30,34,66],"winners":[{"name":"Quina","total":1,"amount":275951.02},{"name":"Quadra","total":110,"amount":2508.64},{"name":"Terno","total":6070,"amount":60.39}]}
+{
+ "number": "1343",
+ "date": "2004-08-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  21,
+  30,
+  34,
+  66
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 275951.02
+  },
+  {
+   "name": "Quadra",
+   "total": 110,
+   "amount": 2508.64
+  },
+  {
+   "name": "Terno",
+   "total": 6070,
+   "amount": 60.39
+  }
+ ]
+}

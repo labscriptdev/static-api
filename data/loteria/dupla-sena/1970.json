@@ -1,1 +1,35 @@
-{"number":"1970","date":"2019-08-06T00:00:00","accumulated":0,"numbers":[10,19,31,35,39,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":7,"amount":6419.51},{"name":"Quadra","total":566,"amount":90.73},{"name":"Terno","total":11348,"amount":2.26}]}
+{
+ "number": "1970",
+ "date": "2019-08-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  19,
+  31,
+  35,
+  39,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 7,
+   "amount": 6419.51
+  },
+  {
+   "name": "Quadra",
+   "total": 566,
+   "amount": 90.73
+  },
+  {
+   "name": "Terno",
+   "total": 11348,
+   "amount": 2.26
+  }
+ ]
+}

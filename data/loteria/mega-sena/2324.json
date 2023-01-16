@@ -1,1 +1,30 @@
-{"number":"2324","date":"2020-12-05T00:00:00","accumulated":0,"numbers":[2,16,19,31,43,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":43,"amount":58591.46},{"name":"Quadra","total":3451,"amount":1042.94}]}
+{
+ "number": "2324",
+ "date": "2020-12-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  16,
+  19,
+  31,
+  43,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 43,
+   "amount": 58591.46
+  },
+  {
+   "name": "Quadra",
+   "total": 3451,
+   "amount": 1042.94
+  }
+ ]
+}

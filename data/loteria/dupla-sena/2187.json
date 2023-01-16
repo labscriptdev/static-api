@@ -1,1 +1,35 @@
-{"number":"2187","date":"2021-01-23T00:00:00","accumulated":0,"numbers":[8,24,28,29,38,43],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":13,"amount":3608.46},{"name":"Quadra","total":476,"amount":112.62},{"name":"Terno","total":9188,"amount":2.91}]}
+{
+ "number": "2187",
+ "date": "2021-01-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  24,
+  28,
+  29,
+  38,
+  43
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 13,
+   "amount": 3608.46
+  },
+  {
+   "name": "Quadra",
+   "total": 476,
+   "amount": 112.62
+  },
+  {
+   "name": "Terno",
+   "total": 9188,
+   "amount": 2.91
+  }
+ ]
+}

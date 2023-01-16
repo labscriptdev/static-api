@@ -1,1 +1,30 @@
-{"number":"2034","date":"2018-04-25T00:00:00","accumulated":0,"numbers":[6,7,13,17,22,56],"winners":[{"name":"Sena","total":1,"amount":2777651.27},{"name":"Quina","total":89,"amount":16942.34},{"name":"Quadra","total":5597,"amount":384.86}]}
+{
+ "number": "2034",
+ "date": "2018-04-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  7,
+  13,
+  17,
+  22,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 2777651.27
+  },
+  {
+   "name": "Quina",
+   "total": 89,
+   "amount": 16942.34
+  },
+  {
+   "name": "Quadra",
+   "total": 5597,
+   "amount": 384.86
+  }
+ ]
+}

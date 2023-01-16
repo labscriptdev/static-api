@@ -1,1 +1,29 @@
-{"number":"4739","date":"2018-08-01T00:00:00","accumulated":0,"numbers":[29,33,34,50,76],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":66,"amount":9204.38},{"name":"Terno","total":6106,"amount":149.6}]}
+{
+ "number": "4739",
+ "date": "2018-08-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  29,
+  33,
+  34,
+  50,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 66,
+   "amount": 9204.38
+  },
+  {
+   "name": "Terno",
+   "total": 6106,
+   "amount": 149.6
+  }
+ ]
+}

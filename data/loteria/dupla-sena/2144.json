@@ -1,1 +1,35 @@
-{"number":"2144","date":"2020-10-15T00:00:00","accumulated":0,"numbers":[5,14,33,36,37,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":9,"amount":6336.14},{"name":"Quadra","total":792,"amount":82.28},{"name":"Terno","total":13825,"amount":2.35}]}
+{
+ "number": "2144",
+ "date": "2020-10-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  14,
+  33,
+  36,
+  37,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 9,
+   "amount": 6336.14
+  },
+  {
+   "name": "Quadra",
+   "total": 792,
+   "amount": 82.28
+  },
+  {
+   "name": "Terno",
+   "total": 13825,
+   "amount": 2.35
+  }
+ ]
+}

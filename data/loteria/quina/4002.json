@@ -1,1 +1,29 @@
-{"number":"4002","date":"2016-02-04T00:00:00","accumulated":0,"numbers":[3,6,7,43,55],"winners":[{"name":"Quina","total":1,"amount":1250239.62},{"name":"Quadra","total":78,"amount":5968.35},{"name":"Terno","total":5635,"amount":118.02}]}
+{
+ "number": "4002",
+ "date": "2016-02-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  6,
+  7,
+  43,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 1250239.62
+  },
+  {
+   "name": "Quadra",
+   "total": 78,
+   "amount": 5968.35
+  },
+  {
+   "name": "Terno",
+   "total": 5635,
+   "amount": 118.02
+  }
+ ]
+}

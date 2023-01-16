@@ -1,1 +1,30 @@
-{"number":"80","date":"1997-09-14T00:00:00","accumulated":0,"numbers":[23,28,37,40,48,51],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":43,"amount":26443},{"name":"Quadra","total":4284,"amount":264.89}]}
+{
+ "number": "80",
+ "date": "1997-09-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  23,
+  28,
+  37,
+  40,
+  48,
+  51
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 43,
+   "amount": 26443
+  },
+  {
+   "name": "Quadra",
+   "total": 4284,
+   "amount": 264.89
+  }
+ ]
+}

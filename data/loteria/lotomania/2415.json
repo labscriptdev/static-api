@@ -1,1 +1,59 @@
-{"number":"2415","date":"2023-01-09T00:00:00","accumulated":0,"numbers":[2,7,11,27,32,39,47,60,61,62,64,69,70,71,74,81,87,91,94,95],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":3,"amount":83856.99},{"name":"18 números","total":88,"amount":1786.73},{"name":"17 números","total":942,"amount":166.91},{"name":"16 números","total":4553,"amount":34.53},{"name":"nenhum número","total":17515,"amount":8.97}]}
+{
+ "number": "2415",
+ "date": "2023-01-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  7,
+  11,
+  27,
+  32,
+  39,
+  47,
+  60,
+  61,
+  62,
+  64,
+  69,
+  70,
+  71,
+  74,
+  81,
+  87,
+  91,
+  94,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 3,
+   "amount": 83856.99
+  },
+  {
+   "name": "18 números",
+   "total": 88,
+   "amount": 1786.73
+  },
+  {
+   "name": "17 números",
+   "total": 942,
+   "amount": 166.91
+  },
+  {
+   "name": "16 números",
+   "total": 4553,
+   "amount": 34.53
+  },
+  {
+   "name": "nenhum número",
+   "total": 17515,
+   "amount": 8.97
+  }
+ ]
+}

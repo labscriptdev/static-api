@@ -1,1 +1,29 @@
-{"number":"3410","date":"2014-02-06T00:00:00","accumulated":0,"numbers":[14,37,53,68,72],"winners":[{"name":"Quina","total":2,"amount":930938.71},{"name":"Quadra","total":165,"amount":3087.39},{"name":"Terno","total":7445,"amount":97.74}]}
+{
+ "number": "3410",
+ "date": "2014-02-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  37,
+  53,
+  68,
+  72
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 930938.71
+  },
+  {
+   "name": "Quadra",
+   "total": 165,
+   "amount": 3087.39
+  },
+  {
+   "name": "Terno",
+   "total": 7445,
+   "amount": 97.74
+  }
+ ]
+}

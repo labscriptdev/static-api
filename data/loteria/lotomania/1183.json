@@ -1,1 +1,59 @@
-{"number":"1183","date":"2011-10-13T00:00:00","accumulated":0,"numbers":[2,15,16,17,32,34,43,62,65,71,73,74,76,85,87,88,89,93,96,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":10,"amount":36710.36},{"name":"18 números","total":175,"amount":2097.74},{"name":"17 números","total":1463,"amount":179.23},{"name":"16 números","total":8479,"amount":30.92},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1183",
+ "date": "2011-10-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  15,
+  16,
+  17,
+  32,
+  34,
+  43,
+  62,
+  65,
+  71,
+  73,
+  74,
+  76,
+  85,
+  87,
+  88,
+  89,
+  93,
+  96,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 10,
+   "amount": 36710.36
+  },
+  {
+   "name": "18 números",
+   "total": 175,
+   "amount": 2097.74
+  },
+  {
+   "name": "17 números",
+   "total": 1463,
+   "amount": 179.23
+  },
+  {
+   "name": "16 números",
+   "total": 8479,
+   "amount": 30.92
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

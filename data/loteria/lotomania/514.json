@@ -1,1 +1,59 @@
-{"number":"514","date":"2005-04-30T00:00:00","accumulated":0,"numbers":[1,4,8,10,11,15,19,25,30,33,47,48,52,65,68,73,78,84,95,96],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":8,"amount":33515.34},{"name":"18 números","total":191,"amount":1403.78},{"name":"17 números","total":1795,"amount":74.41},{"name":"16 números","total":10111,"amount":13.21},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "514",
+ "date": "2005-04-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  8,
+  10,
+  11,
+  15,
+  19,
+  25,
+  30,
+  33,
+  47,
+  48,
+  52,
+  65,
+  68,
+  73,
+  78,
+  84,
+  95,
+  96
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 8,
+   "amount": 33515.34
+  },
+  {
+   "name": "18 números",
+   "total": 191,
+   "amount": 1403.78
+  },
+  {
+   "name": "17 números",
+   "total": 1795,
+   "amount": 74.41
+  },
+  {
+   "name": "16 números",
+   "total": 10111,
+   "amount": 13.21
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

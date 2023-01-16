@@ -1,1 +1,15 @@
-{"name":"Germany","cca2":"de","cca3":"deu","languages":["deu"],"latlng":[51,9],"flags":"https://flagcdn.com/de.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Germany",
+ "cca2": "de",
+ "cca3": "deu",
+ "languages": [
+  "deu"
+ ],
+ "latlng": [
+  51,
+  9
+ ],
+ "flags": "https://flagcdn.com/de.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

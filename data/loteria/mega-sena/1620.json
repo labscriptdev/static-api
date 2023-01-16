@@ -1,1 +1,30 @@
-{"number":"1620","date":"2014-07-26T00:00:00","accumulated":0,"numbers":[13,23,27,34,38,57],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":136,"amount":21094.54},{"name":"Quadra","total":9539,"amount":429.64}]}
+{
+ "number": "1620",
+ "date": "2014-07-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  23,
+  27,
+  34,
+  38,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 136,
+   "amount": 21094.54
+  },
+  {
+   "name": "Quadra",
+   "total": 9539,
+   "amount": 429.64
+  }
+ ]
+}

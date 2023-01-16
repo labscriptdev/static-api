@@ -1,1 +1,29 @@
-{"number":"262","date":"1996-12-19T00:00:00","accumulated":0,"numbers":[13,61,65,67,79],"winners":[{"name":"Quina","total":1,"amount":825443.78},{"name":"Quadra","total":339,"amount":1228.79},{"name":"Terno","total":15088,"amount":36.81}]}
+{
+ "number": "262",
+ "date": "1996-12-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  61,
+  65,
+  67,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 825443.78
+  },
+  {
+   "name": "Quadra",
+   "total": 339,
+   "amount": 1228.79
+  },
+  {
+   "name": "Terno",
+   "total": 15088,
+   "amount": 36.81
+  }
+ ]
+}

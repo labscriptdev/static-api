@@ -1,1 +1,59 @@
-{"number":"1959","date":"2019-04-09T00:00:00","accumulated":0,"numbers":[2,6,16,17,20,29,30,33,37,44,45,52,60,63,70,74,75,81,92,99],"winners":[{"name":"20 números","total":1,"amount":2920021.96},{"name":"19 números","total":11,"amount":22395.94},{"name":"18 números","total":78,"amount":1974},{"name":"17 números","total":872,"amount":176.57},{"name":"16 números","total":5336,"amount":28.85},{"name":"nenhum número","total":24477,"amount":6.29}]}
+{
+ "number": "1959",
+ "date": "2019-04-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  6,
+  16,
+  17,
+  20,
+  29,
+  30,
+  33,
+  37,
+  44,
+  45,
+  52,
+  60,
+  63,
+  70,
+  74,
+  75,
+  81,
+  92,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 2920021.96
+  },
+  {
+   "name": "19 números",
+   "total": 11,
+   "amount": 22395.94
+  },
+  {
+   "name": "18 números",
+   "total": 78,
+   "amount": 1974
+  },
+  {
+   "name": "17 números",
+   "total": 872,
+   "amount": 176.57
+  },
+  {
+   "name": "16 números",
+   "total": 5336,
+   "amount": 28.85
+  },
+  {
+   "name": "nenhum número",
+   "total": 24477,
+   "amount": 6.29
+  }
+ ]
+}

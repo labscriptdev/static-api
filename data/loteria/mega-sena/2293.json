@@ -1,1 +1,30 @@
-{"number":"2293","date":"2020-08-26T00:00:00","accumulated":0,"numbers":[1,2,10,37,42,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":69,"amount":51206.89},{"name":"Quadra","total":5498,"amount":918.06}]}
+{
+ "number": "2293",
+ "date": "2020-08-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  10,
+  37,
+  42,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 69,
+   "amount": 51206.89
+  },
+  {
+   "name": "Quadra",
+   "total": 5498,
+   "amount": 918.06
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"218","date":"1996-07-11T00:00:00","accumulated":0,"numbers":[17,26,31,33,63],"winners":[{"name":"Quina","total":1,"amount":294327.81},{"name":"Quadra","total":235,"amount":1252.46},{"name":"Terno","total":11982,"amount":32.75}]}
+{
+ "number": "218",
+ "date": "1996-07-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  26,
+  31,
+  33,
+  63
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 294327.81
+  },
+  {
+   "name": "Quadra",
+   "total": 235,
+   "amount": 1252.46
+  },
+  {
+   "name": "Terno",
+   "total": 11982,
+   "amount": 32.75
+  }
+ ]
+}

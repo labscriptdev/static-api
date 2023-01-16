@@ -1,1 +1,30 @@
-{"number":"1155","date":"2010-02-20T00:00:00","accumulated":0,"numbers":[20,28,40,41,51,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":76,"amount":47668.53},{"name":"Quadra","total":6061,"amount":853.89}]}
+{
+ "number": "1155",
+ "date": "2010-02-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  28,
+  40,
+  41,
+  51,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 76,
+   "amount": 47668.53
+  },
+  {
+   "name": "Quadra",
+   "total": 6061,
+   "amount": 853.89
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"1961","date":"2019-07-16T00:00:00","accumulated":0,"numbers":[16,17,26,27,28,33],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":27,"amount":3744.62},{"name":"Quadra","total":1430,"amount":80.8},{"name":"Terno","total":28089,"amount":2.05}]}
+{
+ "number": "1961",
+ "date": "2019-07-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  16,
+  17,
+  26,
+  27,
+  28,
+  33
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 27,
+   "amount": 3744.62
+  },
+  {
+   "name": "Quadra",
+   "total": 1430,
+   "amount": 80.8
+  },
+  {
+   "name": "Terno",
+   "total": 28089,
+   "amount": 2.05
+  }
+ ]
+}

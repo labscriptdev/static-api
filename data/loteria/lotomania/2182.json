@@ -1,1 +1,59 @@
-{"number":"2182","date":"2021-05-28T00:00:00","accumulated":0,"numbers":[15,17,18,36,38,42,45,48,52,56,60,66,67,71,75,76,85,89,92,100],"winners":[{"name":"20 números","total":2,"amount":2701322.29},{"name":"19 números","total":5,"amount":67372.19},{"name":"18 números","total":98,"amount":2148.35},{"name":"17 números","total":887,"amount":237.35},{"name":"16 números","total":5280,"amount":39.87},{"name":"nenhum número","total":23391,"amount":9}]}
+{
+ "number": "2182",
+ "date": "2021-05-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  15,
+  17,
+  18,
+  36,
+  38,
+  42,
+  45,
+  48,
+  52,
+  56,
+  60,
+  66,
+  67,
+  71,
+  75,
+  76,
+  85,
+  89,
+  92,
+  100
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 2,
+   "amount": 2701322.29
+  },
+  {
+   "name": "19 números",
+   "total": 5,
+   "amount": 67372.19
+  },
+  {
+   "name": "18 números",
+   "total": 98,
+   "amount": 2148.35
+  },
+  {
+   "name": "17 números",
+   "total": 887,
+   "amount": 237.35
+  },
+  {
+   "name": "16 números",
+   "total": 5280,
+   "amount": 39.87
+  },
+  {
+   "name": "nenhum número",
+   "total": 23391,
+   "amount": 9
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"1704","date":"2017-10-10T00:00:00","accumulated":0,"numbers":[7,12,20,26,28,42],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":21,"amount":5015.41},{"name":"Quadra","total":1507,"amount":79.87},{"name":"Terno","total":28330,"amount":2.12}]}
+{
+ "number": "1704",
+ "date": "2017-10-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  12,
+  20,
+  26,
+  28,
+  42
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 21,
+   "amount": 5015.41
+  },
+  {
+   "name": "Quadra",
+   "total": 1507,
+   "amount": 79.87
+  },
+  {
+   "name": "Terno",
+   "total": 28330,
+   "amount": 2.12
+  }
+ ]
+}

@@ -1,1 +1,17 @@
-{"name":"Eritrea","cca2":"er","cca3":"eri","languages":["ara","eng","tir"],"latlng":[15,39],"flags":"https://flagcdn.com/er.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Eritrea",
+ "cca2": "er",
+ "cca3": "eri",
+ "languages": [
+  "ara",
+  "eng",
+  "tir"
+ ],
+ "latlng": [
+  15,
+  39
+ ],
+ "flags": "https://flagcdn.com/er.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

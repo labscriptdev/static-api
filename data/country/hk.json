@@ -1,1 +1,16 @@
-{"name":"Hong Kong","cca2":"hk","cca3":"hkg","languages":["eng","zho"],"latlng":[22.267,114.188],"flags":"https://flagcdn.com/hk.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Hong Kong",
+ "cca2": "hk",
+ "cca3": "hkg",
+ "languages": [
+  "eng",
+  "zho"
+ ],
+ "latlng": [
+  22.267,
+  114.188
+ ],
+ "flags": "https://flagcdn.com/hk.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

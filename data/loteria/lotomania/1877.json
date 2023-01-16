@@ -1,1 +1,59 @@
-{"number":"1877","date":"2018-06-22T00:00:00","accumulated":0,"numbers":[3,4,11,19,26,28,33,38,44,46,57,67,70,81,82,85,88,93,94,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":1,"amount":198925.36},{"name":"18 números","total":91,"amount":1366.24},{"name":"17 números","total":865,"amount":143.73},{"name":"16 números","total":4803,"amount":25.88},{"name":"nenhum número","total":20923,"amount":5.94}]}
+{
+ "number": "1877",
+ "date": "2018-06-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  11,
+  19,
+  26,
+  28,
+  33,
+  38,
+  44,
+  46,
+  57,
+  67,
+  70,
+  81,
+  82,
+  85,
+  88,
+  93,
+  94,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 1,
+   "amount": 198925.36
+  },
+  {
+   "name": "18 números",
+   "total": 91,
+   "amount": 1366.24
+  },
+  {
+   "name": "17 números",
+   "total": 865,
+   "amount": 143.73
+  },
+  {
+   "name": "16 números",
+   "total": 4803,
+   "amount": 25.88
+  },
+  {
+   "name": "nenhum número",
+   "total": 20923,
+   "amount": 5.94
+  }
+ ]
+}

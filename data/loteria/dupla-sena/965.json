@@ -1,1 +1,35 @@
-{"number":"965","date":"2011-05-06T00:00:00","accumulated":0,"numbers":[4,5,9,28,29,35],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":39,"amount":2524.68},{"name":"Quadra","total":2089,"amount":44.88},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "965",
+ "date": "2011-05-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  5,
+  9,
+  28,
+  29,
+  35
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 39,
+   "amount": 2524.68
+  },
+  {
+   "name": "Quadra",
+   "total": 2089,
+   "amount": 44.88
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

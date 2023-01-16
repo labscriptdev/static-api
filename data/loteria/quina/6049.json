@@ -1,0 +1,29 @@
+{
+ "number": "6049",
+ "date": "2023-01-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  44,
+  49,
+  57,
+  75
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 99,
+   "amount": 3906.96
+  },
+  {
+   "name": "Terno",
+   "total": 5440,
+   "amount": 67.71
+  }
+ ]
+}

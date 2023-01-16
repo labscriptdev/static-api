@@ -1,1 +1,59 @@
-{"number":"1843","date":"2018-02-23T00:00:00","accumulated":0,"numbers":[0,1,12,13,16,28,30,35,36,38,40,41,44,46,56,64,72,82,89,98],"winners":[{"name":"20 números","total":1,"amount":6915672.92},{"name":"19 números","total":9,"amount":42195.3},{"name":"18 números","total":165,"amount":1438.48},{"name":"17 números","total":1792,"amount":132.44},{"name":"16 números","total":11032,"amount":21.51},{"name":"nenhum número","total":51223,"amount":4.63}]}
+{
+ "number": "1843",
+ "date": "2018-02-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  1,
+  12,
+  13,
+  16,
+  28,
+  30,
+  35,
+  36,
+  38,
+  40,
+  41,
+  44,
+  46,
+  56,
+  64,
+  72,
+  82,
+  89,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 6915672.92
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 42195.3
+  },
+  {
+   "name": "18 números",
+   "total": 165,
+   "amount": 1438.48
+  },
+  {
+   "name": "17 números",
+   "total": 1792,
+   "amount": 132.44
+  },
+  {
+   "name": "16 números",
+   "total": 11032,
+   "amount": 21.51
+  },
+  {
+   "name": "nenhum número",
+   "total": 51223,
+   "amount": 4.63
+  }
+ ]
+}

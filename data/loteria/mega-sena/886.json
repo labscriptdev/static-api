@@ -1,1 +1,30 @@
-{"number":"886","date":"2007-07-21T00:00:00","accumulated":0,"numbers":[17,33,37,50,55,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":100,"amount":12422.33},{"name":"Quadra","total":5764,"amount":214.7}]}
+{
+ "number": "886",
+ "date": "2007-07-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  33,
+  37,
+  50,
+  55,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 100,
+   "amount": 12422.33
+  },
+  {
+   "name": "Quadra",
+   "total": 5764,
+   "amount": 214.7
+  }
+ ]
+}

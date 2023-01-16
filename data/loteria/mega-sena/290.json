@@ -1,1 +1,30 @@
-{"number":"290","date":"2001-08-25T00:00:00","accumulated":0,"numbers":[7,25,26,30,40,57],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":56,"amount":20662.23},{"name":"Quadra","total":4869,"amount":236.75}]}
+{
+ "number": "290",
+ "date": "2001-08-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  25,
+  26,
+  30,
+  40,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 56,
+   "amount": 20662.23
+  },
+  {
+   "name": "Quadra",
+   "total": 4869,
+   "amount": 236.75
+  }
+ ]
+}

@@ -1,1 +1,59 @@
-{"number":"1680","date":"2016-08-02T00:00:00","accumulated":0,"numbers":[0,7,15,24,26,29,30,31,36,37,43,47,56,60,65,68,78,86,97,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":3,"amount":80939.6},{"name":"18 números","total":119,"amount":1821.86},{"name":"17 números","total":986,"amount":153.91},{"name":"16 números","total":6158,"amount":24.64},{"name":"nenhum número","total":28112,"amount":5.39}]}
+{
+ "number": "1680",
+ "date": "2016-08-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  7,
+  15,
+  24,
+  26,
+  29,
+  30,
+  31,
+  36,
+  37,
+  43,
+  47,
+  56,
+  60,
+  65,
+  68,
+  78,
+  86,
+  97,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 3,
+   "amount": 80939.6
+  },
+  {
+   "name": "18 números",
+   "total": 119,
+   "amount": 1821.86
+  },
+  {
+   "name": "17 números",
+   "total": 986,
+   "amount": 153.91
+  },
+  {
+   "name": "16 números",
+   "total": 6158,
+   "amount": 24.64
+  },
+  {
+   "name": "nenhum número",
+   "total": 28112,
+   "amount": 5.39
+  }
+ ]
+}

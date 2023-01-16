@@ -1,1 +1,29 @@
-{"number":"3178","date":"2013-04-25T00:00:00","accumulated":0,"numbers":[1,16,19,72,73],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":88,"amount":4658.25},{"name":"Terno","total":5945,"amount":98.5}]}
+{
+ "number": "3178",
+ "date": "2013-04-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  16,
+  19,
+  72,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 88,
+   "amount": 4658.25
+  },
+  {
+   "name": "Terno",
+   "total": 5945,
+   "amount": 98.5
+  }
+ ]
+}

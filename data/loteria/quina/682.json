@@ -1,1 +1,29 @@
-{"number":"682","date":"2000-04-04T00:00:00","accumulated":0,"numbers":[33,40,51,59,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":162,"amount":1523.34},{"name":"Terno","total":7592,"amount":43.18}]}
+{
+ "number": "682",
+ "date": "2000-04-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  33,
+  40,
+  51,
+  59,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 162,
+   "amount": 1523.34
+  },
+  {
+   "name": "Terno",
+   "total": 7592,
+   "amount": 43.18
+  }
+ ]
+}

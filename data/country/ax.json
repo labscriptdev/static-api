@@ -1,1 +1,15 @@
-{"name":"Åland Islands","cca2":"ax","cca3":"ala","languages":["swe"],"latlng":[60.116667,19.9],"flags":"https://flagcdn.com/ax.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Åland Islands",
+ "cca2": "ax",
+ "cca3": "ala",
+ "languages": [
+  "swe"
+ ],
+ "latlng": [
+  60.116667,
+  19.9
+ ],
+ "flags": "https://flagcdn.com/ax.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

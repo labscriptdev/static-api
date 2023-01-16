@@ -1,1 +1,29 @@
-{"number":"1202","date":"2003-09-23T00:00:00","accumulated":0,"numbers":[31,38,62,73,76],"winners":[{"name":"Quina","total":2,"amount":157855.11},{"name":"Quadra","total":210,"amount":1503.38},{"name":"Terno","total":8709,"amount":48.15}]}
+{
+ "number": "1202",
+ "date": "2003-09-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  31,
+  38,
+  62,
+  73,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 157855.11
+  },
+  {
+   "name": "Quadra",
+   "total": 210,
+   "amount": 1503.38
+  },
+  {
+   "name": "Terno",
+   "total": 8709,
+   "amount": 48.15
+  }
+ ]
+}

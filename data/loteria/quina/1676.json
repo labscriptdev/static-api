@@ -1,1 +1,29 @@
-{"number":"1676","date":"2006-11-16T00:00:00","accumulated":0,"numbers":[37,44,49,53,60],"winners":[{"name":"Quina","total":1,"amount":1003640.67},{"name":"Quadra","total":114,"amount":2720.41},{"name":"Terno","total":5969,"amount":69.02}]}
+{
+ "number": "1676",
+ "date": "2006-11-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  37,
+  44,
+  49,
+  53,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 1003640.67
+  },
+  {
+   "name": "Quadra",
+   "total": 114,
+   "amount": 2720.41
+  },
+  {
+   "name": "Terno",
+   "total": 5969,
+   "amount": 69.02
+  }
+ ]
+}

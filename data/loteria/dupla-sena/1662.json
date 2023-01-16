@@ -1,1 +1,35 @@
-{"number":"1662","date":"2017-07-01T00:00:00","accumulated":0,"numbers":[2,4,19,25,31,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":29,"amount":2699.09},{"name":"Quadra","total":1411,"amount":63.39},{"name":"Terno","total":24430,"amount":1.83}]}
+{
+ "number": "1662",
+ "date": "2017-07-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  19,
+  25,
+  31,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 29,
+   "amount": 2699.09
+  },
+  {
+   "name": "Quadra",
+   "total": 1411,
+   "amount": 63.39
+  },
+  {
+   "name": "Terno",
+   "total": 24430,
+   "amount": 1.83
+  }
+ ]
+}

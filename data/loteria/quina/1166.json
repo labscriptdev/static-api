@@ -1,1 +1,29 @@
-{"number":"1166","date":"2003-07-01T00:00:00","accumulated":0,"numbers":[7,24,54,60,64],"winners":[{"name":"Quina","total":2,"amount":163298.18},{"name":"Quadra","total":263,"amount":1241.81},{"name":"Terno","total":13021,"amount":33.32}]}
+{
+ "number": "1166",
+ "date": "2003-07-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  24,
+  54,
+  60,
+  64
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 163298.18
+  },
+  {
+   "name": "Quadra",
+   "total": 263,
+   "amount": 1241.81
+  },
+  {
+   "name": "Terno",
+   "total": 13021,
+   "amount": 33.32
+  }
+ ]
+}

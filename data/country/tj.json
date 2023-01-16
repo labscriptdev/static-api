@@ -1,1 +1,16 @@
-{"name":"Tajikistan","cca2":"tj","cca3":"tjk","languages":["rus","tgk"],"latlng":[39,71],"flags":"https://flagcdn.com/tj.svg","postalCodeMask":"######","phoneMask":false}
+{
+ "name": "Tajikistan",
+ "cca2": "tj",
+ "cca3": "tjk",
+ "languages": [
+  "rus",
+  "tgk"
+ ],
+ "latlng": [
+  39,
+  71
+ ],
+ "flags": "https://flagcdn.com/tj.svg",
+ "postalCodeMask": "######",
+ "phoneMask": false
+}

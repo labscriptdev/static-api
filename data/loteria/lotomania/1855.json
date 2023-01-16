@@ -1,1 +1,59 @@
-{"number":"1855","date":"2018-04-06T00:00:00","accumulated":0,"numbers":[3,4,6,10,15,19,20,21,28,45,50,56,57,60,61,64,65,79,80,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":10,"amount":25997.43},{"name":"18 números","total":131,"amount":1771.9},{"name":"17 números","total":1174,"amount":138.4},{"name":"16 números","total":7386,"amount":21.99},{"name":"nenhum número","total":33250,"amount":4.88}]}
+{
+ "number": "1855",
+ "date": "2018-04-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  6,
+  10,
+  15,
+  19,
+  20,
+  21,
+  28,
+  45,
+  50,
+  56,
+  57,
+  60,
+  61,
+  64,
+  65,
+  79,
+  80,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 10,
+   "amount": 25997.43
+  },
+  {
+   "name": "18 números",
+   "total": 131,
+   "amount": 1771.9
+  },
+  {
+   "name": "17 números",
+   "total": 1174,
+   "amount": 138.4
+  },
+  {
+   "name": "16 números",
+   "total": 7386,
+   "amount": 21.99
+  },
+  {
+   "name": "nenhum número",
+   "total": 33250,
+   "amount": 4.88
+  }
+ ]
+}

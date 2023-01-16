@@ -1,1 +1,29 @@
-{"number":"5319","date":"2020-07-21T00:00:00","accumulated":0,"numbers":[13,23,42,65,73],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":171,"amount":7840.78},{"name":"Terno","total":13042,"amount":154.59}]}
+{
+ "number": "5319",
+ "date": "2020-07-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  23,
+  42,
+  65,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 171,
+   "amount": 7840.78
+  },
+  {
+   "name": "Terno",
+   "total": 13042,
+   "amount": 154.59
+  }
+ ]
+}

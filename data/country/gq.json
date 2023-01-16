@@ -1,1 +1,17 @@
-{"name":"Equatorial Guinea","cca2":"gq","cca3":"gnq","languages":["fra","por","spa"],"latlng":[2,10],"flags":"https://flagcdn.com/gq.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Equatorial Guinea",
+ "cca2": "gq",
+ "cca3": "gnq",
+ "languages": [
+  "fra",
+  "por",
+  "spa"
+ ],
+ "latlng": [
+  2,
+  10
+ ],
+ "flags": "https://flagcdn.com/gq.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

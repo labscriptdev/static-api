@@ -1,1 +1,29 @@
-{"number":"334","date":"1997-09-21T00:00:00","accumulated":0,"numbers":[15,20,23,78,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":244,"amount":1631.06},{"name":"Terno","total":13254,"amount":39.96}]}
+{
+ "number": "334",
+ "date": "1997-09-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  15,
+  20,
+  23,
+  78,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 244,
+   "amount": 1631.06
+  },
+  {
+   "name": "Terno",
+   "total": 13254,
+   "amount": 39.96
+  }
+ ]
+}

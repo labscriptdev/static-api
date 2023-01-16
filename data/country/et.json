@@ -1,1 +1,15 @@
-{"name":"Ethiopia","cca2":"et","cca3":"eth","languages":["amh"],"latlng":[8,38],"flags":"https://flagcdn.com/et.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Ethiopia",
+ "cca2": "et",
+ "cca3": "eth",
+ "languages": [
+  "amh"
+ ],
+ "latlng": [
+  8,
+  38
+ ],
+ "flags": "https://flagcdn.com/et.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

@@ -1,1 +1,16 @@
-{"name":"Niue","cca2":"nu","cca3":"niu","languages":["eng","niu"],"latlng":[-19.03333333,-169.86666666],"flags":"https://flagcdn.com/nu.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Niue",
+ "cca2": "nu",
+ "cca3": "niu",
+ "languages": [
+  "eng",
+  "niu"
+ ],
+ "latlng": [
+  -19.03333333,
+  -169.86666666
+ ],
+ "flags": "https://flagcdn.com/nu.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

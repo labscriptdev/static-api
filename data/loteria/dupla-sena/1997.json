@@ -1,1 +1,35 @@
-{"number":"1997","date":"2019-10-10T00:00:00","accumulated":0,"numbers":[4,7,14,21,24,27],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":77,"amount":2284.51},{"name":"Quadra","total":2961,"amount":67.89},{"name":"Terno","total":51983,"amount":1.93}]}
+{
+ "number": "1997",
+ "date": "2019-10-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  7,
+  14,
+  21,
+  24,
+  27
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 77,
+   "amount": 2284.51
+  },
+  {
+   "name": "Quadra",
+   "total": 2961,
+   "amount": 67.89
+  },
+  {
+   "name": "Terno",
+   "total": 51983,
+   "amount": 1.93
+  }
+ ]
+}

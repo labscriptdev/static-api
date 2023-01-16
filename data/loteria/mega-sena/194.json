@@ -1,1 +1,30 @@
-{"number":"194","date":"1999-11-20T00:00:00","accumulated":0,"numbers":[25,28,32,33,42,43],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":106,"amount":12862.4},{"name":"Quadra","total":7456,"amount":182.18}]}
+{
+ "number": "194",
+ "date": "1999-11-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  25,
+  28,
+  32,
+  33,
+  42,
+  43
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 106,
+   "amount": 12862.4
+  },
+  {
+   "name": "Quadra",
+   "total": 7456,
+   "amount": 182.18
+  }
+ ]
+}

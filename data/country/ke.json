@@ -1,1 +1,16 @@
-{"name":"Kenya","cca2":"ke","cca3":"ken","languages":["eng","swa"],"latlng":[1,38],"flags":"https://flagcdn.com/ke.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Kenya",
+ "cca2": "ke",
+ "cca3": "ken",
+ "languages": [
+  "eng",
+  "swa"
+ ],
+ "latlng": [
+  1,
+  38
+ ],
+ "flags": "https://flagcdn.com/ke.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

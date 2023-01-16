@@ -1,1 +1,59 @@
-{"number":"1342","date":"2013-04-24T00:00:00","accumulated":0,"numbers":[0,5,17,18,23,28,29,38,39,44,45,50,52,55,58,59,69,74,76,88],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":9,"amount":24777.75},{"name":"18 números","total":159,"amount":1402.52},{"name":"17 números","total":1397,"amount":99.76},{"name":"16 números","total":8488,"amount":16.42},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1342",
+ "date": "2013-04-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  5,
+  17,
+  18,
+  23,
+  28,
+  29,
+  38,
+  39,
+  44,
+  45,
+  50,
+  52,
+  55,
+  58,
+  59,
+  69,
+  74,
+  76,
+  88
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 24777.75
+  },
+  {
+   "name": "18 números",
+   "total": 159,
+   "amount": 1402.52
+  },
+  {
+   "name": "17 números",
+   "total": 1397,
+   "amount": 99.76
+  },
+  {
+   "name": "16 números",
+   "total": 8488,
+   "amount": 16.42
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

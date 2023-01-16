@@ -1,1 +1,30 @@
-{"number":"382","date":"2002-07-27T00:00:00","accumulated":0,"numbers":[31,34,37,38,53,54],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":68,"amount":23756.27},{"name":"Quadra","total":6291,"amount":255.82}]}
+{
+ "number": "382",
+ "date": "2002-07-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  31,
+  34,
+  37,
+  38,
+  53,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 68,
+   "amount": 23756.27
+  },
+  {
+   "name": "Quadra",
+   "total": 6291,
+   "amount": 255.82
+  }
+ ]
+}

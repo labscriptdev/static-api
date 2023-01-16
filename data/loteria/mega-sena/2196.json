@@ -1,1 +1,30 @@
-{"number":"2196","date":"2019-10-09T00:00:00","accumulated":0,"numbers":[1,25,27,28,41,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":58,"amount":47367.07},{"name":"Quadra","total":4166,"amount":942.07}]}
+{
+ "number": "2196",
+ "date": "2019-10-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  25,
+  27,
+  28,
+  41,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 58,
+   "amount": 47367.07
+  },
+  {
+   "name": "Quadra",
+   "total": 4166,
+   "amount": 942.07
+  }
+ ]
+}

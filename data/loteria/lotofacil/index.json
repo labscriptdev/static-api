@@ -1,1 +1,7 @@
-{"id":"lotofacil","name":"Lotofacil","rangeStart":1,"rangeFinal":25,"rangePerRow":5}
+{
+ "id": "lotofacil",
+ "name": "Lotofacil",
+ "rangeStart": 1,
+ "rangeFinal": 25,
+ "rangePerRow": 5
+}

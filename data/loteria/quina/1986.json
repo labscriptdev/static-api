@@ -1,1 +1,29 @@
-{"number":"1986","date":"2008-12-02T00:00:00","accumulated":0,"numbers":[3,12,52,54,67],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":103,"amount":3935.51},{"name":"Terno","total":7093,"amount":76.2}]}
+{
+ "number": "1986",
+ "date": "2008-12-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  12,
+  52,
+  54,
+  67
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 103,
+   "amount": 3935.51
+  },
+  {
+   "name": "Terno",
+   "total": 7093,
+   "amount": 76.2
+  }
+ ]
+}

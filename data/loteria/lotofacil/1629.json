@@ -1,1 +1,49 @@
-{"number":"1629","date":"2018-02-26T00:00:00","accumulated":0,"numbers":[1,2,3,5,6,7,9,10,12,14,15,18,22,24,25],"winners":[{"name":"15 números","total":4,"amount":460551.12},{"name":"14 números","total":19412,"amount":1456.4},{"name":"13 números","total":19412,"amount":20},{"name":"12 números","total":206924,"amount":8},{"name":"11 números","total":1109022,"amount":4}]}
+{
+ "number": "1629",
+ "date": "2018-02-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  6,
+  7,
+  9,
+  10,
+  12,
+  14,
+  15,
+  18,
+  22,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 460551.12
+  },
+  {
+   "name": "14 números",
+   "total": 19412,
+   "amount": 1456.4
+  },
+  {
+   "name": "13 números",
+   "total": 19412,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 206924,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1109022,
+   "amount": 4
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"395","date":"2002-09-11T00:00:00","accumulated":0,"numbers":[10,11,14,20,31,58],"winners":[{"name":"Sena","total":1,"amount":1843709.96},{"name":"Quina","total":27,"amount":20584.31},{"name":"Quadra","total":2328,"amount":237.84}]}
+{
+ "number": "395",
+ "date": "2002-09-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  11,
+  14,
+  20,
+  31,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 1843709.96
+  },
+  {
+   "name": "Quina",
+   "total": 27,
+   "amount": 20584.31
+  },
+  {
+   "name": "Quadra",
+   "total": 2328,
+   "amount": 237.84
+  }
+ ]
+}

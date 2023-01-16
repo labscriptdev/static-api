@@ -1,1 +1,35 @@
-{"number":"1161","date":"2013-03-22T00:00:00","accumulated":0,"numbers":[11,14,16,27,32,44],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":53,"amount":2322.64},{"name":"Quadra","total":2619,"amount":44.76},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1161",
+ "date": "2013-03-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  14,
+  16,
+  27,
+  32,
+  44
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 53,
+   "amount": 2322.64
+  },
+  {
+   "name": "Quadra",
+   "total": 2619,
+   "amount": 44.76
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

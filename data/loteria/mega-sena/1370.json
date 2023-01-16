@@ -1,1 +1,30 @@
-{"number":"1370","date":"2012-03-10T00:00:00","accumulated":0,"numbers":[2,4,5,27,49,59],"winners":[{"name":"Sena","total":2,"amount":7499281.75},{"name":"Quina","total":115,"amount":18434.86},{"name":"Quadra","total":9979,"amount":303.49}]}
+{
+ "number": "1370",
+ "date": "2012-03-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  5,
+  27,
+  49,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 7499281.75
+  },
+  {
+   "name": "Quina",
+   "total": 115,
+   "amount": 18434.86
+  },
+  {
+   "name": "Quadra",
+   "total": 9979,
+   "amount": 303.49
+  }
+ ]
+}

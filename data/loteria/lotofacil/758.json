@@ -1,1 +1,49 @@
-{"number":"758","date":"2012-05-28T00:00:00","accumulated":0,"numbers":[1,2,4,5,6,11,12,15,16,17,18,20,23,24,25],"winners":[{"name":"15 números","total":3,"amount":619738.94},{"name":"14 números","total":11198,"amount":1845.38},{"name":"13 números","total":11198,"amount":12.5},{"name":"12 números","total":166841,"amount":5},{"name":"11 números","total":1057956,"amount":2.5}]}
+{
+ "number": "758",
+ "date": "2012-05-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  11,
+  12,
+  15,
+  16,
+  17,
+  18,
+  20,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 3,
+   "amount": 619738.94
+  },
+  {
+   "name": "14 números",
+   "total": 11198,
+   "amount": 1845.38
+  },
+  {
+   "name": "13 números",
+   "total": 11198,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 166841,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1057956,
+   "amount": 2.5
+  }
+ ]
+}

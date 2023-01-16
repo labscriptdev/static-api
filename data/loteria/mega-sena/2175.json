@@ -1,1 +1,30 @@
-{"number":"2175","date":"2019-08-03T00:00:00","accumulated":0,"numbers":[7,25,32,43,53,55],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":73,"amount":39289.03},{"name":"Quadra","total":5485,"amount":746.99}]}
+{
+ "number": "2175",
+ "date": "2019-08-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  25,
+  32,
+  43,
+  53,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 73,
+   "amount": 39289.03
+  },
+  {
+   "name": "Quadra",
+   "total": 5485,
+   "amount": 746.99
+  }
+ ]
+}

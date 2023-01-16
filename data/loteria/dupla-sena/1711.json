@@ -1,1 +1,35 @@
-{"number":"1711","date":"2017-10-28T00:00:00","accumulated":0,"numbers":[8,16,28,40,49,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":6,"amount":8259.61},{"name":"Quadra","total":586,"amount":96.65},{"name":"Terno","total":12514,"amount":2.26}]}
+{
+ "number": "1711",
+ "date": "2017-10-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  16,
+  28,
+  40,
+  49,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 6,
+   "amount": 8259.61
+  },
+  {
+   "name": "Quadra",
+   "total": 586,
+   "amount": 96.65
+  },
+  {
+   "name": "Terno",
+   "total": 12514,
+   "amount": 2.26
+  }
+ ]
+}

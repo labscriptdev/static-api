@@ -1,1 +1,35 @@
-{"number":"1042","date":"2012-01-31T00:00:00","accumulated":0,"numbers":[4,14,21,32,41,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":91,"amount":2610.27},{"name":"Quadra","total":4327,"amount":52.28},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1042",
+ "date": "2012-01-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  14,
+  21,
+  32,
+  41,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 91,
+   "amount": 2610.27
+  },
+  {
+   "name": "Quadra",
+   "total": 4327,
+   "amount": 52.28
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

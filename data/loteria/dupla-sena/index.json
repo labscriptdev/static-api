@@ -1,1 +1,7 @@
-{"id":"dupla-sena","name":"Dupla-Sena","rangeStart":1,"rangeFinal":50,"rangePerRow":10}
+{
+ "id": "dupla-sena",
+ "name": "Dupla-Sena",
+ "rangeStart": 1,
+ "rangeFinal": 50,
+ "rangePerRow": 10
+}

@@ -1,1 +1,30 @@
-{"number":"893","date":"2007-08-15T00:00:00","accumulated":0,"numbers":[3,18,26,51,53,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":105,"amount":14747.51},{"name":"Quadra","total":6595,"amount":233.91}]}
+{
+ "number": "893",
+ "date": "2007-08-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  18,
+  26,
+  51,
+  53,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 105,
+   "amount": 14747.51
+  },
+  {
+   "name": "Quadra",
+   "total": 6595,
+   "amount": 233.91
+  }
+ ]
+}

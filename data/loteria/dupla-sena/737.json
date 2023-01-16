@@ -1,1 +1,35 @@
-{"number":"737","date":"2009-02-20T00:00:00","accumulated":0,"numbers":[11,14,22,27,39,50],"winners":[{"name":"Sena","total":1,"amount":531459.86},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "737",
+ "date": "2009-02-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  14,
+  22,
+  27,
+  39,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 531459.86
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

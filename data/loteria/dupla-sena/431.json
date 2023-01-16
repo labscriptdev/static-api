@@ -1,1 +1,35 @@
-{"number":"431","date":"2006-02-17T00:00:00","accumulated":0,"numbers":[13,32,35,36,43,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "431",
+ "date": "2006-02-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  32,
+  35,
+  36,
+  43,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

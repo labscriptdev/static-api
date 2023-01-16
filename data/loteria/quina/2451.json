@@ -1,1 +1,29 @@
-{"number":"2451","date":"2010-11-19T00:00:00","accumulated":0,"numbers":[1,20,31,36,61],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":89,"amount":3898.37},{"name":"Terno","total":5618,"amount":88.22}]}
+{
+ "number": "2451",
+ "date": "2010-11-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  20,
+  31,
+  36,
+  61
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 89,
+   "amount": 3898.37
+  },
+  {
+   "name": "Terno",
+   "total": 5618,
+   "amount": 88.22
+  }
+ ]
+}

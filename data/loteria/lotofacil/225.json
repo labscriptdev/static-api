@@ -1,1 +1,49 @@
-{"number":"225","date":"2007-06-04T00:00:00","accumulated":0,"numbers":[1,2,3,5,7,8,13,14,15,18,19,20,22,23,25],"winners":[{"name":"15 números","total":3,"amount":314688.25},{"name":"14 números","total":29008,"amount":441.96},{"name":"13 números","total":29008,"amount":10},{"name":"12 números","total":279442,"amount":4},{"name":"11 números","total":1416966,"amount":2}]}
+{
+ "number": "225",
+ "date": "2007-06-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  7,
+  8,
+  13,
+  14,
+  15,
+  18,
+  19,
+  20,
+  22,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 3,
+   "amount": 314688.25
+  },
+  {
+   "name": "14 números",
+   "total": 29008,
+   "amount": 441.96
+  },
+  {
+   "name": "13 números",
+   "total": 29008,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 279442,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1416966,
+   "amount": 2
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"678","date":"2008-07-29T00:00:00","accumulated":0,"numbers":[1,4,26,28,36,46],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "678",
+ "date": "2008-07-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  26,
+  28,
+  36,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

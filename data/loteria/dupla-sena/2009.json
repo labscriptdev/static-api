@@ -1,1 +1,35 @@
-{"number":"2009","date":"2019-11-09T00:00:00","accumulated":0,"numbers":[3,5,29,30,37,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":82,"amount":3720.76},{"name":"Quadra","total":4092,"amount":85.21},{"name":"Terno","total":81078,"amount":2.15}]}
+{
+ "number": "2009",
+ "date": "2019-11-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  29,
+  30,
+  37,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 82,
+   "amount": 3720.76
+  },
+  {
+   "name": "Quadra",
+   "total": 4092,
+   "amount": 85.21
+  },
+  {
+   "name": "Terno",
+   "total": 81078,
+   "amount": 2.15
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"1896","date":"2017-01-21T00:00:00","accumulated":0,"numbers":[3,6,14,15,21,25],"winners":[{"name":"Sena","total":1,"amount":28783383.17},{"name":"Quina","total":133,"amount":19529.58},{"name":"Quadra","total":7692,"amount":482.4}]}
+{
+ "number": "1896",
+ "date": "2017-01-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  6,
+  14,
+  15,
+  21,
+  25
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 28783383.17
+  },
+  {
+   "name": "Quina",
+   "total": 133,
+   "amount": 19529.58
+  },
+  {
+   "name": "Quadra",
+   "total": 7692,
+   "amount": 482.4
+  }
+ ]
+}

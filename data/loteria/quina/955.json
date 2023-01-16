@@ -1,1 +1,29 @@
-{"number":"955","date":"2002-02-14T00:00:00","accumulated":0,"numbers":[22,44,73,75,76],"winners":[{"name":"Quina","total":1,"amount":273466.87},{"name":"Quadra","total":265,"amount":1031.95},{"name":"Terno","total":10561,"amount":34.4}]}
+{
+ "number": "955",
+ "date": "2002-02-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  22,
+  44,
+  73,
+  75,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 273466.87
+  },
+  {
+   "name": "Quadra",
+   "total": 265,
+   "amount": 1031.95
+  },
+  {
+   "name": "Terno",
+   "total": 10561,
+   "amount": 34.4
+  }
+ ]
+}

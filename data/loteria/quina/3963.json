@@ -1,1 +1,29 @@
-{"number":"3963","date":"2015-12-18T00:00:00","accumulated":0,"numbers":[23,36,65,70,80],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":41,"amount":13681.32},{"name":"Terno","total":3576,"amount":224.08}]}
+{
+ "number": "3963",
+ "date": "2015-12-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  23,
+  36,
+  65,
+  70,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 41,
+   "amount": 13681.32
+  },
+  {
+   "name": "Terno",
+   "total": 3576,
+   "amount": 224.08
+  }
+ ]
+}

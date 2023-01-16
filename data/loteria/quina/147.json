@@ -1,1 +1,29 @@
-{"number":"147","date":"1995-10-05T00:00:00","accumulated":0,"numbers":[1,18,52,67,72],"winners":[{"name":"Quina","total":2,"amount":142877.2},{"name":"Quadra","total":185,"amount":1544.62},{"name":"Terno","total":10857,"amount":35.1}]}
+{
+ "number": "147",
+ "date": "1995-10-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  18,
+  52,
+  67,
+  72
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 142877.2
+  },
+  {
+   "name": "Quadra",
+   "total": 185,
+   "amount": 1544.62
+  },
+  {
+   "name": "Terno",
+   "total": 10857,
+   "amount": 35.1
+  }
+ ]
+}

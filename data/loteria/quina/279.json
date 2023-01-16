@@ -1,1 +1,29 @@
-{"number":"279","date":"1997-02-27T00:00:00","accumulated":0,"numbers":[2,20,39,53,60],"winners":[{"name":"Quina","total":2,"amount":145979.13},{"name":"Quadra","total":250,"amount":1167.84},{"name":"Terno","total":10551,"amount":36.82}]}
+{
+ "number": "279",
+ "date": "1997-02-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  20,
+  39,
+  53,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 145979.13
+  },
+  {
+   "name": "Quadra",
+   "total": 250,
+   "amount": 1167.84
+  },
+  {
+   "name": "Terno",
+   "total": 10551,
+   "amount": 36.82
+  }
+ ]
+}

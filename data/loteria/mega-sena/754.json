@@ -1,1 +1,30 @@
-{"number":"754","date":"2006-04-12T00:00:00","accumulated":0,"numbers":[3,4,13,34,42,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":41,"amount":14457.22},{"name":"Quadra","total":2827,"amount":208.89}]}
+{
+ "number": "754",
+ "date": "2006-04-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  13,
+  34,
+  42,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 41,
+   "amount": 14457.22
+  },
+  {
+   "name": "Quadra",
+   "total": 2827,
+   "amount": 208.89
+  }
+ ]
+}

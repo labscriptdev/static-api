@@ -1,1 +1,29 @@
-{"number":"876","date":"2001-07-31T00:00:00","accumulated":0,"numbers":[9,29,35,55,70],"winners":[{"name":"Quina","total":2,"amount":127340.35},{"name":"Quadra","total":239,"amount":1065.61},{"name":"Terno","total":9920,"amount":34.1}]}
+{
+ "number": "876",
+ "date": "2001-07-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  29,
+  35,
+  55,
+  70
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 127340.35
+  },
+  {
+   "name": "Quadra",
+   "total": 239,
+   "amount": 1065.61
+  },
+  {
+   "name": "Terno",
+   "total": 9920,
+   "amount": 34.1
+  }
+ ]
+}

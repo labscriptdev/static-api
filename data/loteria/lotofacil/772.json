@@ -1,1 +1,49 @@
-{"number":"772","date":"2012-06-29T00:00:00","accumulated":0,"numbers":[2,4,6,7,8,9,10,11,12,15,16,20,23,24,25],"winners":[{"name":"15 números","total":1,"amount":1541273.58},{"name":"14 números","total":13217,"amount":1544.75},{"name":"13 números","total":13217,"amount":12.5},{"name":"12 números","total":181680,"amount":5},{"name":"11 números","total":1109285,"amount":2.5}]}
+{
+ "number": "772",
+ "date": "2012-06-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  15,
+  16,
+  20,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1541273.58
+  },
+  {
+   "name": "14 números",
+   "total": 13217,
+   "amount": 1544.75
+  },
+  {
+   "name": "13 números",
+   "total": 13217,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 181680,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1109285,
+   "amount": 2.5
+  }
+ ]
+}

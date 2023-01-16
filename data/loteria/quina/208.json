@@ -1,1 +1,29 @@
-{"number":"208","date":"1996-06-02T00:00:00","accumulated":0,"numbers":[3,24,48,52,71],"winners":[{"name":"Quina","total":3,"amount":126832.05},{"name":"Quadra","total":382,"amount":996.06},{"name":"Terno","total":15366,"amount":33.02}]}
+{
+ "number": "208",
+ "date": "1996-06-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  24,
+  48,
+  52,
+  71
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 126832.05
+  },
+  {
+   "name": "Quadra",
+   "total": 382,
+   "amount": 996.06
+  },
+  {
+   "name": "Terno",
+   "total": 15366,
+   "amount": 33.02
+  }
+ ]
+}

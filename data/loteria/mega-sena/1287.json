@@ -1,1 +1,30 @@
-{"number":"1287","date":"2011-05-28T00:00:00","accumulated":0,"numbers":[11,12,31,33,42,52],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":137,"amount":23204.42},{"name":"Quadra","total":8177,"amount":555.39}]}
+{
+ "number": "1287",
+ "date": "2011-05-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  12,
+  31,
+  33,
+  42,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 137,
+   "amount": 23204.42
+  },
+  {
+   "name": "Quadra",
+   "total": 8177,
+   "amount": 555.39
+  }
+ ]
+}

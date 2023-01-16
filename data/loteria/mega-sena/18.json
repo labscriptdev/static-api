@@ -1,1 +1,30 @@
-{"number":"18","date":"1996-07-08T00:00:00","accumulated":0,"numbers":[23,27,36,37,42,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":52,"amount":13763.52},{"name":"Quadra","total":4484,"amount":159.61}]}
+{
+ "number": "18",
+ "date": "1996-07-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  23,
+  27,
+  36,
+  37,
+  42,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 52,
+   "amount": 13763.52
+  },
+  {
+   "name": "Quadra",
+   "total": 4484,
+   "amount": 159.61
+  }
+ ]
+}

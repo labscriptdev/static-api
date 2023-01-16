@@ -1,1 +1,29 @@
-{"number":"5634","date":"2021-08-17T00:00:00","accumulated":0,"numbers":[21,31,35,60,63],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":205,"amount":2041.46},{"name":"Terno","total":3291,"amount":191.22}]}
+{
+ "number": "5634",
+ "date": "2021-08-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  21,
+  31,
+  35,
+  60,
+  63
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 205,
+   "amount": 2041.46
+  },
+  {
+   "name": "Terno",
+   "total": 3291,
+   "amount": 191.22
+  }
+ ]
+}

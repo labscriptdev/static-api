@@ -1,1 +1,49 @@
-{"number":"87","date":"2005-05-23T00:00:00","accumulated":0,"numbers":[1,2,3,5,8,9,10,11,13,15,18,20,22,24,25],"winners":[{"name":"15 números","total":14,"amount":62917.54},{"name":"14 números","total":46044,"amount":287.52},{"name":"13 números","total":46044,"amount":10},{"name":"12 números","total":353024,"amount":4},{"name":"11 números","total":1711252,"amount":2}]}
+{
+ "number": "87",
+ "date": "2005-05-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  8,
+  9,
+  10,
+  11,
+  13,
+  15,
+  18,
+  20,
+  22,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 14,
+   "amount": 62917.54
+  },
+  {
+   "name": "14 números",
+   "total": 46044,
+   "amount": 287.52
+  },
+  {
+   "name": "13 números",
+   "total": 46044,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 353024,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1711252,
+   "amount": 2
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"141","date":"1998-11-14T00:00:00","accumulated":0,"numbers":[10,13,22,41,42,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":119,"amount":20106.1},{"name":"Quadra","total":10533,"amount":226.7}]}
+{
+ "number": "141",
+ "date": "1998-11-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  13,
+  22,
+  41,
+  42,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 119,
+   "amount": 20106.1
+  },
+  {
+   "name": "Quadra",
+   "total": 10533,
+   "amount": 226.7
+  }
+ ]
+}

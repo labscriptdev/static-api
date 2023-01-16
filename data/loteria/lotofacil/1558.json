@@ -1,1 +1,49 @@
-{"number":"1558","date":"2017-09-11T00:00:00","accumulated":0,"numbers":[1,2,4,5,6,9,11,14,15,16,17,18,21,22,25],"winners":[{"name":"15 números","total":1,"amount":3196576.25},{"name":"14 números","total":15432,"amount":2119.74},{"name":"13 números","total":15432,"amount":20},{"name":"12 números","total":197287,"amount":8},{"name":"11 números","total":1177008,"amount":4}]}
+{
+ "number": "1558",
+ "date": "2017-09-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  9,
+  11,
+  14,
+  15,
+  16,
+  17,
+  18,
+  21,
+  22,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 3196576.25
+  },
+  {
+   "name": "14 números",
+   "total": 15432,
+   "amount": 2119.74
+  },
+  {
+   "name": "13 números",
+   "total": 15432,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 197287,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1177008,
+   "amount": 4
+  }
+ ]
+}

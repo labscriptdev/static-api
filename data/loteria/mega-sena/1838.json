@@ -1,1 +1,30 @@
-{"number":"1838","date":"2016-07-16T00:00:00","accumulated":0,"numbers":[5,8,24,30,57,59],"winners":[{"name":"Sena","total":1,"amount":25207139.21},{"name":"Quina","total":115,"amount":20709.91},{"name":"Quadra","total":5293,"amount":642.8}]}
+{
+ "number": "1838",
+ "date": "2016-07-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  8,
+  24,
+  30,
+  57,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 25207139.21
+  },
+  {
+   "name": "Quina",
+   "total": 115,
+   "amount": 20709.91
+  },
+  {
+   "name": "Quadra",
+   "total": 5293,
+   "amount": 642.8
+  }
+ ]
+}

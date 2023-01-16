@@ -1,1 +1,30 @@
-{"number":"360","date":"2002-05-11T00:00:00","accumulated":0,"numbers":[23,24,29,47,53,55],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":133,"amount":10645.79},{"name":"Quadra","total":8382,"amount":168.28}]}
+{
+ "number": "360",
+ "date": "2002-05-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  23,
+  24,
+  29,
+  47,
+  53,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 133,
+   "amount": 10645.79
+  },
+  {
+   "name": "Quadra",
+   "total": 8382,
+   "amount": 168.28
+  }
+ ]
+}

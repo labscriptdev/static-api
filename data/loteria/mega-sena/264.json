@@ -1,1 +1,30 @@
-{"number":"264","date":"2001-03-24T00:00:00","accumulated":0,"numbers":[1,5,13,25,31,33],"winners":[{"name":"Sena","total":2,"amount":16055880.73},{"name":"Quina","total":979,"amount":4298.96},{"name":"Quadra","total":50364,"amount":83.25}]}
+{
+ "number": "264",
+ "date": "2001-03-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  13,
+  25,
+  31,
+  33
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 16055880.73
+  },
+  {
+   "name": "Quina",
+   "total": 979,
+   "amount": 4298.96
+  },
+  {
+   "name": "Quadra",
+   "total": 50364,
+   "amount": 83.25
+  }
+ ]
+}

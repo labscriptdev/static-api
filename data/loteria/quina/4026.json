@@ -1,1 +1,29 @@
-{"number":"4026","date":"2016-03-05T00:00:00","accumulated":0,"numbers":[10,35,54,67,75],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":53,"amount":7923.82},{"name":"Terno","total":3357,"amount":178.71}]}
+{
+ "number": "4026",
+ "date": "2016-03-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  35,
+  54,
+  67,
+  75
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 53,
+   "amount": 7923.82
+  },
+  {
+   "name": "Terno",
+   "total": 3357,
+   "amount": 178.71
+  }
+ ]
+}

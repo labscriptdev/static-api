@@ -1,1 +1,35 @@
-{"number":"2465","date":"2023-01-05T00:00:00","accumulated":0,"numbers":[8,23,38,41,45,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":25,"amount":2293.6},{"name":"Quadra","total":750,"amount":87.37},{"name":"Terno","total":12651,"amount":2.58}]}
+{
+ "number": "2465",
+ "date": "2023-01-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  23,
+  38,
+  41,
+  45,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 25,
+   "amount": 2293.6
+  },
+  {
+   "name": "Quadra",
+   "total": 750,
+   "amount": 87.37
+  },
+  {
+   "name": "Terno",
+   "total": 12651,
+   "amount": 2.58
+  }
+ ]
+}

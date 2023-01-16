@@ -1,1 +1,59 @@
-{"number":"955","date":"2009-08-05T00:00:00","accumulated":0,"numbers":[10,16,22,26,29,32,36,39,41,44,45,54,56,57,60,65,70,74,85,92],"winners":[{"name":"20 números","total":1,"amount":2264787.68},{"name":"19 números","total":13,"amount":27382.91},{"name":"18 números","total":209,"amount":1703.24},{"name":"17 números","total":1851,"amount":137.36},{"name":"16 números","total":11045,"amount":23.02},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "955",
+ "date": "2009-08-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  16,
+  22,
+  26,
+  29,
+  32,
+  36,
+  39,
+  41,
+  44,
+  45,
+  54,
+  56,
+  57,
+  60,
+  65,
+  70,
+  74,
+  85,
+  92
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 2264787.68
+  },
+  {
+   "name": "19 números",
+   "total": 13,
+   "amount": 27382.91
+  },
+  {
+   "name": "18 números",
+   "total": 209,
+   "amount": 1703.24
+  },
+  {
+   "name": "17 números",
+   "total": 1851,
+   "amount": 137.36
+  },
+  {
+   "name": "16 números",
+   "total": 11045,
+   "amount": 23.02
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

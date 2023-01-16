@@ -1,1 +1,59 @@
-{"number":"1063","date":"2010-08-18T00:00:00","accumulated":0,"numbers":[2,6,11,21,31,35,36,37,48,53,54,64,65,73,74,85,86,87,91,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":3,"amount":94956.35},{"name":"18 números","total":132,"amount":2158.1},{"name":"17 números","total":1120,"amount":181.67},{"name":"16 números","total":7174,"amount":28.36},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1063",
+ "date": "2010-08-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  6,
+  11,
+  21,
+  31,
+  35,
+  36,
+  37,
+  48,
+  53,
+  54,
+  64,
+  65,
+  73,
+  74,
+  85,
+  86,
+  87,
+  91,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 3,
+   "amount": 94956.35
+  },
+  {
+   "name": "18 números",
+   "total": 132,
+   "amount": 2158.1
+  },
+  {
+   "name": "17 números",
+   "total": 1120,
+   "amount": 181.67
+  },
+  {
+   "name": "16 números",
+   "total": 7174,
+   "amount": 28.36
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

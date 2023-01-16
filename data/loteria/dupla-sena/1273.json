@@ -1,1 +1,35 @@
-{"number":"1273","date":"2014-04-17T00:00:00","accumulated":0,"numbers":[13,19,25,34,44,46],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":35,"amount":2671.01},{"name":"Quadra","total":1987,"amount":44.8},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1273",
+ "date": "2014-04-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  19,
+  25,
+  34,
+  44,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 35,
+   "amount": 2671.01
+  },
+  {
+   "name": "Quadra",
+   "total": 1987,
+   "amount": 44.8
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

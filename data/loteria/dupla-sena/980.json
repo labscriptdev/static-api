@@ -1,1 +1,35 @@
-{"number":"980","date":"2011-06-28T00:00:00","accumulated":0,"numbers":[1,4,12,17,28,44],"winners":[{"name":"Sena","total":1,"amount":2816772.1},{"name":"Quina","total":57,"amount":2279.74},{"name":"Quadra","total":2592,"amount":47.74},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "980",
+ "date": "2011-06-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  12,
+  17,
+  28,
+  44
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 2816772.1
+  },
+  {
+   "name": "Quina",
+   "total": 57,
+   "amount": 2279.74
+  },
+  {
+   "name": "Quadra",
+   "total": 2592,
+   "amount": 47.74
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

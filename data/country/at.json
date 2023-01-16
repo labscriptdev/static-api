@@ -1,1 +1,15 @@
-{"name":"Austria","cca2":"at","cca3":"aut","languages":["bar"],"latlng":[47.33333333,13.33333333],"flags":"https://flagcdn.com/at.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Austria",
+ "cca2": "at",
+ "cca3": "aut",
+ "languages": [
+  "bar"
+ ],
+ "latlng": [
+  47.33333333,
+  13.33333333
+ ],
+ "flags": "https://flagcdn.com/at.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

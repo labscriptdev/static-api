@@ -1,1 +1,30 @@
-{"number":"2314","date":"2020-10-31T00:00:00","accumulated":0,"numbers":[6,7,28,42,45,49],"winners":[{"name":"Sena","total":1,"amount":53047796.53},{"name":"Quina","total":105,"amount":41171.63},{"name":"Quadra","total":7551,"amount":817.87}]}
+{
+ "number": "2314",
+ "date": "2020-10-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  7,
+  28,
+  42,
+  45,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 53047796.53
+  },
+  {
+   "name": "Quina",
+   "total": 105,
+   "amount": 41171.63
+  },
+  {
+   "name": "Quadra",
+   "total": 7551,
+   "amount": 817.87
+  }
+ ]
+}

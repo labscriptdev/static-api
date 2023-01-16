@@ -1,1 +1,59 @@
-{"number":"2153","date":"2021-02-17T00:00:00","accumulated":0,"numbers":[2,5,13,14,20,28,30,31,40,49,53,59,62,63,66,70,73,80,88,89],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":5,"amount":59370.89},{"name":"18 números","total":73,"amount":2541.56},{"name":"17 números","total":749,"amount":247.7},{"name":"16 números","total":4630,"amount":40.07},{"name":"nenhum número","total":20289,"amount":9.14}]}
+{
+ "number": "2153",
+ "date": "2021-02-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  13,
+  14,
+  20,
+  28,
+  30,
+  31,
+  40,
+  49,
+  53,
+  59,
+  62,
+  63,
+  66,
+  70,
+  73,
+  80,
+  88,
+  89
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 5,
+   "amount": 59370.89
+  },
+  {
+   "name": "18 números",
+   "total": 73,
+   "amount": 2541.56
+  },
+  {
+   "name": "17 números",
+   "total": 749,
+   "amount": 247.7
+  },
+  {
+   "name": "16 números",
+   "total": 4630,
+   "amount": 40.07
+  },
+  {
+   "name": "nenhum número",
+   "total": 20289,
+   "amount": 9.14
+  }
+ ]
+}

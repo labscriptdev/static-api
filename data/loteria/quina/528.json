@@ -1,1 +1,29 @@
-{"number":"528","date":"1999-03-18T00:00:00","accumulated":0,"numbers":[1,9,50,61,79],"winners":[{"name":"Quina","total":2,"amount":131584.97},{"name":"Quadra","total":205,"amount":1283.76},{"name":"Terno","total":9850,"amount":35.63}]}
+{
+ "number": "528",
+ "date": "1999-03-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  9,
+  50,
+  61,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 131584.97
+  },
+  {
+   "name": "Quadra",
+   "total": 205,
+   "amount": 1283.76
+  },
+  {
+   "name": "Terno",
+   "total": 9850,
+   "amount": 35.63
+  }
+ ]
+}

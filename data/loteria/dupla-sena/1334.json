@@ -1,1 +1,35 @@
-{"number":"1334","date":"2014-11-18T00:00:00","accumulated":0,"numbers":[16,24,29,39,44,46],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":46,"amount":2394.56},{"name":"Quadra","total":2314,"amount":45.33},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1334",
+ "date": "2014-11-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  16,
+  24,
+  29,
+  39,
+  44,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 46,
+   "amount": 2394.56
+  },
+  {
+   "name": "Quadra",
+   "total": 2314,
+   "amount": 45.33
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

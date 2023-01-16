@@ -1,1 +1,30 @@
-{"number":"1530","date":"2013-09-14T00:00:00","accumulated":0,"numbers":[10,16,28,33,48,53],"winners":[{"name":"Sena","total":2,"amount":7800140.92},{"name":"Quina","total":138,"amount":15973.07},{"name":"Quadra","total":9644,"amount":326.52}]}
+{
+ "number": "1530",
+ "date": "2013-09-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  16,
+  28,
+  33,
+  48,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 7800140.92
+  },
+  {
+   "name": "Quina",
+   "total": 138,
+   "amount": 15973.07
+  },
+  {
+   "name": "Quadra",
+   "total": 9644,
+   "amount": 326.52
+  }
+ ]
+}

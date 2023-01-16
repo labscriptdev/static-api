@@ -1,1 +1,59 @@
-{"number":"387","date":"2004-01-28T00:00:00","accumulated":0,"numbers":[4,10,15,19,20,24,26,34,53,56,70,72,73,78,85,87,88,91,92,95],"winners":[{"name":"20 números","total":1,"amount":1276772.6},{"name":"19 números","total":12,"amount":25095.56},{"name":"18 números","total":179,"amount":1682.38},{"name":"17 números","total":1278,"amount":117.38},{"name":"16 números","total":8025,"amount":18.69},{"name":"nenhum número","total":1,"amount":150573.38}]}
+{
+ "number": "387",
+ "date": "2004-01-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  10,
+  15,
+  19,
+  20,
+  24,
+  26,
+  34,
+  53,
+  56,
+  70,
+  72,
+  73,
+  78,
+  85,
+  87,
+  88,
+  91,
+  92,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 1276772.6
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 25095.56
+  },
+  {
+   "name": "18 números",
+   "total": 179,
+   "amount": 1682.38
+  },
+  {
+   "name": "17 números",
+   "total": 1278,
+   "amount": 117.38
+  },
+  {
+   "name": "16 números",
+   "total": 8025,
+   "amount": 18.69
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 150573.38
+  }
+ ]
+}

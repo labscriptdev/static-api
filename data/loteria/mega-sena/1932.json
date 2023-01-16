@@ -1,1 +1,30 @@
-{"number":"1932","date":"2017-05-20T00:00:00","accumulated":0,"numbers":[10,16,21,29,44,55],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":72,"amount":38379.16},{"name":"Quadra","total":5449,"amount":724.45}]}
+{
+ "number": "1932",
+ "date": "2017-05-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  16,
+  21,
+  29,
+  44,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 72,
+   "amount": 38379.16
+  },
+  {
+   "name": "Quadra",
+   "total": 5449,
+   "amount": 724.45
+  }
+ ]
+}

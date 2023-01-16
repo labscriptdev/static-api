@@ -1,1 +1,35 @@
-{"number":"1646","date":"2017-05-23T00:00:00","accumulated":0,"numbers":[7,18,21,39,41,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":11,"amount":4980.83},{"name":"Quadra","total":654,"amount":95.74},{"name":"Terno","total":13465,"amount":2.32}]}
+{
+ "number": "1646",
+ "date": "2017-05-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  18,
+  21,
+  39,
+  41,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 11,
+   "amount": 4980.83
+  },
+  {
+   "name": "Quadra",
+   "total": 654,
+   "amount": 95.74
+  },
+  {
+   "name": "Terno",
+   "total": 13465,
+   "amount": 2.32
+  }
+ ]
+}

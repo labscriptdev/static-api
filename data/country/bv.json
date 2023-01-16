@@ -1,1 +1,15 @@
-{"name":"Bouvet Island","cca2":"bv","cca3":"bvt","languages":["nor"],"latlng":[54.4208,3.3464],"flags":"https://flagcdn.com/bv.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Bouvet Island",
+ "cca2": "bv",
+ "cca3": "bvt",
+ "languages": [
+  "nor"
+ ],
+ "latlng": [
+  54.4208,
+  3.3464
+ ],
+ "flags": "https://flagcdn.com/bv.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

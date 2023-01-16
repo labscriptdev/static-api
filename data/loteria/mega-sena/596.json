@@ -1,1 +1,30 @@
-{"number":"596","date":"2004-09-08T00:00:00","accumulated":0,"numbers":[11,14,28,43,54,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":116,"amount":15749.68},{"name":"Quadra","total":6578,"amount":276.69}]}
+{
+ "number": "596",
+ "date": "2004-09-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  14,
+  28,
+  43,
+  54,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 116,
+   "amount": 15749.68
+  },
+  {
+   "name": "Quadra",
+   "total": 6578,
+   "amount": 276.69
+  }
+ ]
+}

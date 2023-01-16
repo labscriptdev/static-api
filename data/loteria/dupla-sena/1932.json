@@ -1,1 +1,35 @@
-{"number":"1932","date":"2019-05-07T00:00:00","accumulated":0,"numbers":[7,8,16,35,48,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":8,"amount":5768.17},{"name":"Quadra","total":689,"amount":76.54},{"name":"Terno","total":13446,"amount":1.96}]}
+{
+ "number": "1932",
+ "date": "2019-05-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  8,
+  16,
+  35,
+  48,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 8,
+   "amount": 5768.17
+  },
+  {
+   "name": "Quadra",
+   "total": 689,
+   "amount": 76.54
+  },
+  {
+   "name": "Terno",
+   "total": 13446,
+   "amount": 1.96
+  }
+ ]
+}

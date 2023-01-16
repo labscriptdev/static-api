@@ -1,1 +1,59 @@
-{"number":"1145","date":"2011-06-01T00:00:00","accumulated":0,"numbers":[7,13,14,15,24,28,30,35,36,40,41,45,50,57,58,71,75,82,91,95],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":17,"amount":20357.65},{"name":"18 números","total":149,"amount":2322.69},{"name":"17 números","total":1391,"amount":177.71},{"name":"16 números","total":8321,"amount":29.7},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1145",
+ "date": "2011-06-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  13,
+  14,
+  15,
+  24,
+  28,
+  30,
+  35,
+  36,
+  40,
+  41,
+  45,
+  50,
+  57,
+  58,
+  71,
+  75,
+  82,
+  91,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 17,
+   "amount": 20357.65
+  },
+  {
+   "name": "18 números",
+   "total": 149,
+   "amount": 2322.69
+  },
+  {
+   "name": "17 números",
+   "total": 1391,
+   "amount": 177.71
+  },
+  {
+   "name": "16 números",
+   "total": 8321,
+   "amount": 29.7
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

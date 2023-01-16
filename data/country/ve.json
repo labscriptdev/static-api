@@ -1,1 +1,15 @@
-{"name":"Venezuela","cca2":"ve","cca3":"ven","languages":["spa"],"latlng":[8,-66],"flags":"https://flagcdn.com/ve.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Venezuela",
+ "cca2": "ve",
+ "cca3": "ven",
+ "languages": [
+  "spa"
+ ],
+ "latlng": [
+  8,
+  -66
+ ],
+ "flags": "https://flagcdn.com/ve.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

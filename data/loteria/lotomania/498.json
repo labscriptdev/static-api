@@ -1,1 +1,59 @@
-{"number":"498","date":"2005-03-05T00:00:00","accumulated":0,"numbers":[0,6,10,15,16,21,22,26,33,34,35,54,59,61,66,72,74,81,88,92],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":12,"amount":28838.79},{"name":"18 números","total":211,"amount":1640.12},{"name":"17 números","total":1800,"amount":95.77},{"name":"16 números","total":11358,"amount":15.19},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "498",
+ "date": "2005-03-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  6,
+  10,
+  15,
+  16,
+  21,
+  22,
+  26,
+  33,
+  34,
+  35,
+  54,
+  59,
+  61,
+  66,
+  72,
+  74,
+  81,
+  88,
+  92
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 28838.79
+  },
+  {
+   "name": "18 números",
+   "total": 211,
+   "amount": 1640.12
+  },
+  {
+   "name": "17 números",
+   "total": 1800,
+   "amount": 95.77
+  },
+  {
+   "name": "16 números",
+   "total": 11358,
+   "amount": 15.19
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

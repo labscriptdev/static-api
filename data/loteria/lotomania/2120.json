@@ -1,1 +1,59 @@
-{"number":"2120","date":"2020-10-23T00:00:00","accumulated":0,"numbers":[1,7,9,10,11,15,24,50,51,52,59,60,64,75,77,78,95,98,99,100],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":11,"amount":22182.56},{"name":"18 números","total":139,"amount":1567.36},{"name":"17 números","total":1178,"amount":129.46},{"name":"16 números","total":6193,"amount":24.62},{"name":"nenhum número","total":23183,"amount":6.57}]}
+{
+ "number": "2120",
+ "date": "2020-10-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  7,
+  9,
+  10,
+  11,
+  15,
+  24,
+  50,
+  51,
+  52,
+  59,
+  60,
+  64,
+  75,
+  77,
+  78,
+  95,
+  98,
+  99,
+  100
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 11,
+   "amount": 22182.56
+  },
+  {
+   "name": "18 números",
+   "total": 139,
+   "amount": 1567.36
+  },
+  {
+   "name": "17 números",
+   "total": 1178,
+   "amount": 129.46
+  },
+  {
+   "name": "16 números",
+   "total": 6193,
+   "amount": 24.62
+  },
+  {
+   "name": "nenhum número",
+   "total": 23183,
+   "amount": 6.57
+  }
+ ]
+}

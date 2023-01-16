@@ -1,1 +1,29 @@
-{"number":"2379","date":"2010-08-23T00:00:00","accumulated":0,"numbers":[25,28,34,43,56],"winners":[{"name":"Quina","total":2,"amount":178801.51},{"name":"Quadra","total":184,"amount":1388.21},{"name":"Terno","total":8173,"amount":44.64}]}
+{
+ "number": "2379",
+ "date": "2010-08-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  25,
+  28,
+  34,
+  43,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 178801.51
+  },
+  {
+   "name": "Quadra",
+   "total": 184,
+   "amount": 1388.21
+  },
+  {
+   "name": "Terno",
+   "total": 8173,
+   "amount": 44.64
+  }
+ ]
+}

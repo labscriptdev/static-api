@@ -1,1 +1,29 @@
-{"number":"207","date":"1996-05-30T00:00:00","accumulated":0,"numbers":[5,7,12,16,66],"winners":[{"name":"Quina","total":9,"amount":31354.18},{"name":"Quadra","total":696,"amount":405.44},{"name":"Terno","total":24392,"amount":15.43}]}
+{
+ "number": "207",
+ "date": "1996-05-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  7,
+  12,
+  16,
+  66
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 9,
+   "amount": 31354.18
+  },
+  {
+   "name": "Quadra",
+   "total": 696,
+   "amount": 405.44
+  },
+  {
+   "name": "Terno",
+   "total": 24392,
+   "amount": 15.43
+  }
+ ]
+}

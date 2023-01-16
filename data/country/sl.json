@@ -1,1 +1,15 @@
-{"name":"Sierra Leone","cca2":"sl","cca3":"sle","languages":["eng"],"latlng":[8.5,-11.5],"flags":"https://flagcdn.com/sl.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Sierra Leone",
+ "cca2": "sl",
+ "cca3": "sle",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  8.5,
+  -11.5
+ ],
+ "flags": "https://flagcdn.com/sl.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

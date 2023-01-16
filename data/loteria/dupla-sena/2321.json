@@ -1,1 +1,35 @@
-{"number":"2321","date":"2022-01-13T00:00:00","accumulated":0,"numbers":[15,25,26,30,44,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":5,"amount":9386.41},{"name":"Quadra","total":412,"amount":130.18},{"name":"Terno","total":9210,"amount":2.91}]}
+{
+ "number": "2321",
+ "date": "2022-01-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  15,
+  25,
+  26,
+  30,
+  44,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 5,
+   "amount": 9386.41
+  },
+  {
+   "name": "Quadra",
+   "total": 412,
+   "amount": 130.18
+  },
+  {
+   "name": "Terno",
+   "total": 9210,
+   "amount": 2.91
+  }
+ ]
+}

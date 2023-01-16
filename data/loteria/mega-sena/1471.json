@@ -1,1 +1,30 @@
-{"number":"1471","date":"2013-02-23T00:00:00","accumulated":0,"numbers":[10,25,33,36,40,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":92,"amount":17770.13},{"name":"Quadra","total":5159,"amount":452.7}]}
+{
+ "number": "1471",
+ "date": "2013-02-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  25,
+  33,
+  36,
+  40,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 92,
+   "amount": 17770.13
+  },
+  {
+   "name": "Quadra",
+   "total": 5159,
+   "amount": 452.7
+  }
+ ]
+}

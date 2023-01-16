@@ -1,1 +1,15 @@
-{"name":"Brunei","cca2":"bn","cca3":"brn","languages":["msa"],"latlng":[4.5,114.66666666],"flags":"https://flagcdn.com/bn.svg","postalCodeMask":"@@####","phoneMask":false}
+{
+ "name": "Brunei",
+ "cca2": "bn",
+ "cca3": "brn",
+ "languages": [
+  "msa"
+ ],
+ "latlng": [
+  4.5,
+  114.66666666
+ ],
+ "flags": "https://flagcdn.com/bn.svg",
+ "postalCodeMask": "@@####",
+ "phoneMask": false
+}

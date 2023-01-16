@@ -1,1 +1,29 @@
-{"number":"1842","date":"2007-12-20T00:00:00","accumulated":0,"numbers":[2,13,31,56,71],"winners":[{"name":"Quina","total":1,"amount":349691.11},{"name":"Quadra","total":162,"amount":2158.59},{"name":"Terno","total":8005,"amount":58.02}]}
+{
+ "number": "1842",
+ "date": "2007-12-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  13,
+  31,
+  56,
+  71
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 349691.11
+  },
+  {
+   "name": "Quadra",
+   "total": 162,
+   "amount": 2158.59
+  },
+  {
+   "name": "Terno",
+   "total": 8005,
+   "amount": 58.02
+  }
+ ]
+}

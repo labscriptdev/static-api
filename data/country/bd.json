@@ -1,1 +1,15 @@
-{"name":"Bangladesh","cca2":"bd","cca3":"bgd","languages":["ben"],"latlng":[24,90],"flags":"https://flagcdn.com/bd.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Bangladesh",
+ "cca2": "bd",
+ "cca3": "bgd",
+ "languages": [
+  "ben"
+ ],
+ "latlng": [
+  24,
+  90
+ ],
+ "flags": "https://flagcdn.com/bd.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

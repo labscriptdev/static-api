@@ -1,1 +1,49 @@
-{"number":"728","date":"2012-03-19T00:00:00","accumulated":0,"numbers":[3,4,6,7,8,10,11,13,16,19,20,21,22,23,25],"winners":[{"name":"15 números","total":2,"amount":779365.57},{"name":"14 números","total":16731,"amount":1582.34},{"name":"13 números","total":16731,"amount":12.5},{"name":"12 números","total":241057,"amount":5},{"name":"11 números","total":1220737,"amount":2.5}]}
+{
+ "number": "728",
+ "date": "2012-03-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  6,
+  7,
+  8,
+  10,
+  11,
+  13,
+  16,
+  19,
+  20,
+  21,
+  22,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 779365.57
+  },
+  {
+   "name": "14 números",
+   "total": 16731,
+   "amount": 1582.34
+  },
+  {
+   "name": "13 números",
+   "total": 16731,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 241057,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1220737,
+   "amount": 2.5
+  }
+ ]
+}

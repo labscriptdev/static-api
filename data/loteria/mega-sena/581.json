@@ -1,1 +1,30 @@
-{"number":"581","date":"2004-07-17T00:00:00","accumulated":0,"numbers":[14,17,25,30,39,52],"winners":[{"name":"Sena","total":1,"amount":11781320.02},{"name":"Quina","total":56,"amount":22330.36},{"name":"Quadra","total":4429,"amount":281.27}]}
+{
+ "number": "581",
+ "date": "2004-07-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  17,
+  25,
+  30,
+  39,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 11781320.02
+  },
+  {
+   "name": "Quina",
+   "total": 56,
+   "amount": 22330.36
+  },
+  {
+   "name": "Quadra",
+   "total": 4429,
+   "amount": 281.27
+  }
+ ]
+}

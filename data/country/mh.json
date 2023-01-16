@@ -1,1 +1,16 @@
-{"name":"Marshall Islands","cca2":"mh","cca3":"mhl","languages":["eng","mah"],"latlng":[9,168],"flags":"https://flagcdn.com/mh.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Marshall Islands",
+ "cca2": "mh",
+ "cca3": "mhl",
+ "languages": [
+  "eng",
+  "mah"
+ ],
+ "latlng": [
+  9,
+  168
+ ],
+ "flags": "https://flagcdn.com/mh.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

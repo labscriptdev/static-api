@@ -1,1 +1,30 @@
-{"number":"252","date":"2000-12-30T00:00:00","accumulated":0,"numbers":[4,17,26,32,51,54],"winners":[{"name":"Sena","total":2,"amount":15107002.24},{"name":"Quina","total":354,"amount":10070.62},{"name":"Quadra","total":22122,"amount":160.67}]}
+{
+ "number": "252",
+ "date": "2000-12-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  17,
+  26,
+  32,
+  51,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 15107002.24
+  },
+  {
+   "name": "Quina",
+   "total": 354,
+   "amount": 10070.62
+  },
+  {
+   "name": "Quadra",
+   "total": 22122,
+   "amount": 160.67
+  }
+ ]
+}

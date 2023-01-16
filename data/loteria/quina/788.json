@@ -1,1 +1,29 @@
-{"number":"788","date":"2000-12-23T00:00:00","accumulated":0,"numbers":[3,25,31,44,64],"winners":[{"name":"Quina","total":5,"amount":69357.52},{"name":"Quadra","total":498,"amount":694.28},{"name":"Terno","total":18523,"amount":24.9}]}
+{
+ "number": "788",
+ "date": "2000-12-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  25,
+  31,
+  44,
+  64
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 5,
+   "amount": 69357.52
+  },
+  {
+   "name": "Quadra",
+   "total": 498,
+   "amount": 694.28
+  },
+  {
+   "name": "Terno",
+   "total": 18523,
+   "amount": 24.9
+  }
+ ]
+}

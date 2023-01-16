@@ -1,1 +1,29 @@
-{"number":"2371","date":"2010-08-13T00:00:00","accumulated":0,"numbers":[12,25,30,55,80],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":158,"amount":2621.13},{"name":"Terno","total":9251,"amount":63.95}]}
+{
+ "number": "2371",
+ "date": "2010-08-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  25,
+  30,
+  55,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 158,
+   "amount": 2621.13
+  },
+  {
+   "name": "Terno",
+   "total": 9251,
+   "amount": 63.95
+  }
+ ]
+}

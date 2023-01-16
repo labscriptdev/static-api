@@ -1,1 +1,29 @@
-{"number":"730","date":"2000-08-01T00:00:00","accumulated":0,"numbers":[8,11,25,48,61],"winners":[{"name":"Quina","total":1,"amount":255596.7},{"name":"Quadra","total":321,"amount":796.25},{"name":"Terno","total":12526,"amount":27.13}]}
+{
+ "number": "730",
+ "date": "2000-08-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  11,
+  25,
+  48,
+  61
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 255596.7
+  },
+  {
+   "name": "Quadra",
+   "total": 321,
+   "amount": 796.25
+  },
+  {
+   "name": "Terno",
+   "total": 12526,
+   "amount": 27.13
+  }
+ ]
+}

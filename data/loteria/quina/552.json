@@ -1,1 +1,29 @@
-{"number":"552","date":"1999-05-18T00:00:00","accumulated":0,"numbers":[8,15,16,44,56],"winners":[{"name":"Quina","total":3,"amount":86996.78},{"name":"Quadra","total":344,"amount":758.69},{"name":"Terno","total":15242,"amount":22.83}]}
+{
+ "number": "552",
+ "date": "1999-05-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  15,
+  16,
+  44,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 86996.78
+  },
+  {
+   "name": "Quadra",
+   "total": 344,
+   "amount": 758.69
+  },
+  {
+   "name": "Terno",
+   "total": 15242,
+   "amount": 22.83
+  }
+ ]
+}

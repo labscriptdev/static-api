@@ -1,1 +1,35 @@
-{"number":"1234","date":"2013-12-03T00:00:00","accumulated":0,"numbers":[1,4,5,18,28,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":46,"amount":2913.13},{"name":"Quadra","total":2389,"amount":53.42},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1234",
+ "date": "2013-12-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  5,
+  18,
+  28,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 46,
+   "amount": 2913.13
+  },
+  {
+   "name": "Quadra",
+   "total": 2389,
+   "amount": 53.42
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"2527","date":"2022-10-08T00:00:00","accumulated":0,"numbers":[8,19,29,38,48,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":80,"amount":40771.81},{"name":"Quadra","total":4182,"amount":1114.21}]}
+{
+ "number": "2527",
+ "date": "2022-10-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  19,
+  29,
+  38,
+  48,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 80,
+   "amount": 40771.81
+  },
+  {
+   "name": "Quadra",
+   "total": 4182,
+   "amount": 1114.21
+  }
+ ]
+}

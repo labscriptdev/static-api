@@ -1,1 +1,30 @@
-{"number":"2431","date":"2021-11-24T00:00:00","accumulated":0,"numbers":[8,11,22,25,26,36],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":46,"amount":35595.61},{"name":"Quadra","total":2988,"amount":782.84}]}
+{
+ "number": "2431",
+ "date": "2021-11-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  11,
+  22,
+  25,
+  26,
+  36
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 46,
+   "amount": 35595.61
+  },
+  {
+   "name": "Quadra",
+   "total": 2988,
+   "amount": 782.84
+  }
+ ]
+}

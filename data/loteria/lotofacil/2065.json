@@ -1,1 +1,49 @@
-{"number":"2065","date":"2020-10-24T00:00:00","accumulated":0,"numbers":[4,5,6,7,8,9,10,11,12,13,14,17,19,21,22],"winners":[{"name":"15 números","total":5,"amount":220157.41},{"name":"14 números","total":7104,"amount":1831.82},{"name":"13 números","total":7104,"amount":25},{"name":"12 números","total":79634,"amount":10},{"name":"11 números","total":466401,"amount":5}]}
+{
+ "number": "2065",
+ "date": "2020-10-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  17,
+  19,
+  21,
+  22
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 5,
+   "amount": 220157.41
+  },
+  {
+   "name": "14 números",
+   "total": 7104,
+   "amount": 1831.82
+  },
+  {
+   "name": "13 números",
+   "total": 7104,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 79634,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 466401,
+   "amount": 5
+  }
+ ]
+}

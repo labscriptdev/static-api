@@ -1,1 +1,59 @@
-{"number":"978","date":"2009-10-24T00:00:00","accumulated":0,"numbers":[6,19,21,23,27,40,41,48,49,51,58,60,70,74,77,78,81,82,89,93],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":16,"amount":21443.99},{"name":"18 números","total":188,"amount":1825.02},{"name":"17 números","total":1598,"amount":153.36},{"name":"16 números","total":10230,"amount":23.95},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "978",
+ "date": "2009-10-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  19,
+  21,
+  23,
+  27,
+  40,
+  41,
+  48,
+  49,
+  51,
+  58,
+  60,
+  70,
+  74,
+  77,
+  78,
+  81,
+  82,
+  89,
+  93
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 16,
+   "amount": 21443.99
+  },
+  {
+   "name": "18 números",
+   "total": 188,
+   "amount": 1825.02
+  },
+  {
+   "name": "17 números",
+   "total": 1598,
+   "amount": 153.36
+  },
+  {
+   "name": "16 números",
+   "total": 10230,
+   "amount": 23.95
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"2143","date":"2019-04-17T00:00:00","accumulated":0,"numbers":[2,12,35,51,57,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":81,"amount":48904.73},{"name":"Quadra","total":6545,"amount":864.62}]}
+{
+ "number": "2143",
+ "date": "2019-04-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  12,
+  35,
+  51,
+  57,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 81,
+   "amount": 48904.73
+  },
+  {
+   "name": "Quadra",
+   "total": 6545,
+   "amount": 864.62
+  }
+ ]
+}

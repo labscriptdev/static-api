@@ -1,1 +1,29 @@
-{"number":"4948","date":"2019-04-11T00:00:00","accumulated":0,"numbers":[10,16,65,76,78],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":87,"amount":6337.76},{"name":"Terno","total":5762,"amount":143.89}]}
+{
+ "number": "4948",
+ "date": "2019-04-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  16,
+  65,
+  76,
+  78
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 87,
+   "amount": 6337.76
+  },
+  {
+   "name": "Terno",
+   "total": 5762,
+   "amount": 143.89
+  }
+ ]
+}

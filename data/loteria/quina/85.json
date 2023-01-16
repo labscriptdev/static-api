@@ -1,1 +1,29 @@
-{"number":"85","date":"1995-02-09T00:00:00","accumulated":0,"numbers":[3,20,27,32,61],"winners":[{"name":"Quina","total":1,"amount":284798.56},{"name":"Quadra","total":221,"amount":1288.68},{"name":"Terno","total":10724,"amount":35.41}]}
+{
+ "number": "85",
+ "date": "1995-02-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  20,
+  27,
+  32,
+  61
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 284798.56
+  },
+  {
+   "name": "Quadra",
+   "total": 221,
+   "amount": 1288.68
+  },
+  {
+   "name": "Terno",
+   "total": 10724,
+   "amount": 35.41
+  }
+ ]
+}

@@ -1,1 +1,59 @@
-{"number":"1288","date":"2012-10-13T00:00:00","accumulated":0,"numbers":[0,8,9,12,13,22,23,28,30,31,38,44,69,71,75,77,83,84,85,99],"winners":[{"name":"20 números","total":1,"amount":2741395.02},{"name":"19 números","total":8,"amount":31922.01},{"name":"18 números","total":144,"amount":1773.45},{"name":"17 números","total":1259,"amount":126.77},{"name":"16 números","total":7335,"amount":21.76},{"name":"nenhum número","total":2,"amount":63844.02}]}
+{
+ "number": "1288",
+ "date": "2012-10-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  8,
+  9,
+  12,
+  13,
+  22,
+  23,
+  28,
+  30,
+  31,
+  38,
+  44,
+  69,
+  71,
+  75,
+  77,
+  83,
+  84,
+  85,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 2741395.02
+  },
+  {
+   "name": "19 números",
+   "total": 8,
+   "amount": 31922.01
+  },
+  {
+   "name": "18 números",
+   "total": 144,
+   "amount": 1773.45
+  },
+  {
+   "name": "17 números",
+   "total": 1259,
+   "amount": 126.77
+  },
+  {
+   "name": "16 números",
+   "total": 7335,
+   "amount": 21.76
+  },
+  {
+   "name": "nenhum número",
+   "total": 2,
+   "amount": 63844.02
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"4790","date":"2018-10-01T00:00:00","accumulated":0,"numbers":[1,12,35,43,71],"winners":[{"name":"Quina","total":1,"amount":641715.62},{"name":"Quadra","total":41,"amount":8496.58},{"name":"Terno","total":4521,"amount":115.87}]}
+{
+ "number": "4790",
+ "date": "2018-10-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  12,
+  35,
+  43,
+  71
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 641715.62
+  },
+  {
+   "name": "Quadra",
+   "total": 41,
+   "amount": 8496.58
+  },
+  {
+   "name": "Terno",
+   "total": 4521,
+   "amount": 115.87
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"162","date":"1995-12-07T00:00:00","accumulated":0,"numbers":[20,25,57,67,78],"winners":[{"name":"Quina","total":4,"amount":183228.81},{"name":"Quadra","total":201,"amount":1825.37},{"name":"Terno","total":11282,"amount":43.36}]}
+{
+ "number": "162",
+ "date": "1995-12-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  25,
+  57,
+  67,
+  78
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 4,
+   "amount": 183228.81
+  },
+  {
+   "name": "Quadra",
+   "total": 201,
+   "amount": 1825.37
+  },
+  {
+   "name": "Terno",
+   "total": 11282,
+   "amount": 43.36
+  }
+ ]
+}

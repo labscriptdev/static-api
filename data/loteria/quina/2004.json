@@ -1,1 +1,29 @@
-{"number":"2004","date":"2009-01-17T00:00:00","accumulated":0,"numbers":[11,27,69,75,76],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":91,"amount":5260.22},{"name":"Terno","total":5794,"amount":110.16}]}
+{
+ "number": "2004",
+ "date": "2009-01-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  27,
+  69,
+  75,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 91,
+   "amount": 5260.22
+  },
+  {
+   "name": "Terno",
+   "total": 5794,
+   "amount": 110.16
+  }
+ ]
+}

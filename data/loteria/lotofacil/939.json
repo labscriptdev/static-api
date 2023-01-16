@@ -1,1 +1,49 @@
-{"number":"939","date":"2013-08-02T00:00:00","accumulated":0,"numbers":[1,4,5,6,7,9,10,11,15,16,18,19,20,21,25],"winners":[{"name":"15 números","total":5,"amount":337573.04},{"name":"14 números","total":20035,"amount":1435.04},{"name":"13 números","total":20035,"amount":12.5},{"name":"12 números","total":218275,"amount":5},{"name":"11 números","total":1224319,"amount":2.5}]}
+{
+ "number": "939",
+ "date": "2013-08-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  5,
+  6,
+  7,
+  9,
+  10,
+  11,
+  15,
+  16,
+  18,
+  19,
+  20,
+  21,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 5,
+   "amount": 337573.04
+  },
+  {
+   "name": "14 números",
+   "total": 20035,
+   "amount": 1435.04
+  },
+  {
+   "name": "13 números",
+   "total": 20035,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 218275,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1224319,
+   "amount": 2.5
+  }
+ ]
+}

@@ -1,1 +1,59 @@
-{"number":"624","date":"2006-05-31T00:00:00","accumulated":0,"numbers":[8,9,10,21,22,23,41,45,47,49,52,56,60,62,64,66,74,77,93,96],"winners":[{"name":"20 números","total":1,"amount":2373904.68},{"name":"19 números","total":6,"amount":48306.75},{"name":"18 números","total":164,"amount":1767.32},{"name":"17 números","total":1612,"amount":89.56},{"name":"16 números","total":9362,"amount":15.43},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "624",
+ "date": "2006-05-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  9,
+  10,
+  21,
+  22,
+  23,
+  41,
+  45,
+  47,
+  49,
+  52,
+  56,
+  60,
+  62,
+  64,
+  66,
+  74,
+  77,
+  93,
+  96
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 2373904.68
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 48306.75
+  },
+  {
+   "name": "18 números",
+   "total": 164,
+   "amount": 1767.32
+  },
+  {
+   "name": "17 números",
+   "total": 1612,
+   "amount": 89.56
+  },
+  {
+   "name": "16 números",
+   "total": 9362,
+   "amount": 15.43
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

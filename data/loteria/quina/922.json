@@ -1,1 +1,29 @@
-{"number":"922","date":"2001-11-22T00:00:00","accumulated":0,"numbers":[1,12,20,24,62],"winners":[{"name":"Quina","total":4,"amount":143986.36},{"name":"Quadra","total":381,"amount":852.3},{"name":"Terno","total":15282,"amount":28.23}]}
+{
+ "number": "922",
+ "date": "2001-11-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  12,
+  20,
+  24,
+  62
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 4,
+   "amount": 143986.36
+  },
+  {
+   "name": "Quadra",
+   "total": 381,
+   "amount": 852.3
+  },
+  {
+   "name": "Terno",
+   "total": 15282,
+   "amount": 28.23
+  }
+ ]
+}

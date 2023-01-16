@@ -1,1 +1,35 @@
-{"number":"1559","date":"2016-10-20T00:00:00","accumulated":0,"numbers":[14,16,17,18,32,40],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":6,"amount":7004.54},{"name":"Quadra","total":424,"amount":113.28},{"name":"Terno","total":9485,"amount":2.53}]}
+{
+ "number": "1559",
+ "date": "2016-10-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  16,
+  17,
+  18,
+  32,
+  40
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 6,
+   "amount": 7004.54
+  },
+  {
+   "name": "Quadra",
+   "total": 424,
+   "amount": 113.28
+  },
+  {
+   "name": "Terno",
+   "total": 9485,
+   "amount": 2.53
+  }
+ ]
+}

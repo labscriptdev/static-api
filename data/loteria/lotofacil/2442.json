@@ -1,1 +1,49 @@
-{"number":"2442","date":"2022-02-07T00:00:00","accumulated":0,"numbers":[1,6,7,10,11,12,14,15,16,17,18,19,21,22,25],"winners":[{"name":"15 números","total":2,"amount":992577.35},{"name":"14 números","total":6988,"amount":2685.44},{"name":"13 números","total":6988,"amount":25},{"name":"12 números","total":99228,"amount":10},{"name":"11 números","total":625754,"amount":5}]}
+{
+ "number": "2442",
+ "date": "2022-02-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  6,
+  7,
+  10,
+  11,
+  12,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  21,
+  22,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 992577.35
+  },
+  {
+   "name": "14 números",
+   "total": 6988,
+   "amount": 2685.44
+  },
+  {
+   "name": "13 números",
+   "total": 6988,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 99228,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 625754,
+   "amount": 5
+  }
+ ]
+}

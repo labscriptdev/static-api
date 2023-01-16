@@ -1,1 +1,29 @@
-{"number":"1325","date":"2004-07-15T00:00:00","accumulated":0,"numbers":[20,22,25,27,73],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":172,"amount":2140.62},{"name":"Terno","total":8260,"amount":59.21}]}
+{
+ "number": "1325",
+ "date": "2004-07-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  22,
+  25,
+  27,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 172,
+   "amount": 2140.62
+  },
+  {
+   "name": "Terno",
+   "total": 8260,
+   "amount": 59.21
+  }
+ ]
+}

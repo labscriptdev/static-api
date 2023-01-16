@@ -1,1 +1,59 @@
-{"number":"79","date":"2001-01-10T00:00:00","accumulated":0,"numbers":[2,3,4,7,9,15,20,26,30,37,38,43,47,51,55,67,77,85,86,87],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":16,"amount":24219.58},{"name":"18 números","total":181,"amount":2140.96},{"name":"17 números","total":1761,"amount":109.7},{"name":"16 números","total":11470,"amount":16.85},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "79",
+ "date": "2001-01-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  4,
+  7,
+  9,
+  15,
+  20,
+  26,
+  30,
+  37,
+  38,
+  43,
+  47,
+  51,
+  55,
+  67,
+  77,
+  85,
+  86,
+  87
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 16,
+   "amount": 24219.58
+  },
+  {
+   "name": "18 números",
+   "total": 181,
+   "amount": 2140.96
+  },
+  {
+   "name": "17 números",
+   "total": 1761,
+   "amount": 109.7
+  },
+  {
+   "name": "16 números",
+   "total": 11470,
+   "amount": 16.85
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

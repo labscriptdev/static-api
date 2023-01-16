@@ -1,1 +1,30 @@
-{"number":"274","date":"2001-06-02T00:00:00","accumulated":0,"numbers":[11,13,18,26,39,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":142,"amount":5488.22},{"name":"Quadra","total":7420,"amount":104.64}]}
+{
+ "number": "274",
+ "date": "2001-06-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  13,
+  18,
+  26,
+  39,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 142,
+   "amount": 5488.22
+  },
+  {
+   "name": "Quadra",
+   "total": 7420,
+   "amount": 104.64
+  }
+ ]
+}

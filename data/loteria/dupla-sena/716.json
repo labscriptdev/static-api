@@ -1,1 +1,35 @@
-{"number":"716","date":"2008-12-09T00:00:00","accumulated":0,"numbers":[11,14,18,19,31,32],"winners":[{"name":"Sena","total":1,"amount":5594052.57},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "716",
+ "date": "2008-12-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  14,
+  18,
+  19,
+  31,
+  32
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 5594052.57
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

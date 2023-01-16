@@ -1,1 +1,59 @@
-{"number":"1","date":"1999-10-02T00:00:00","accumulated":0,"numbers":[0,6,11,14,16,21,22,25,32,33,34,46,61,70,73,78,88,89,90,95],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":1,"amount":118746.87},{"name":"18 números","total":46,"amount":2581.46},{"name":"17 números","total":446,"amount":132.62},{"name":"16 números","total":2716,"amount":21.78},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1",
+ "date": "1999-10-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  6,
+  11,
+  14,
+  16,
+  21,
+  22,
+  25,
+  32,
+  33,
+  34,
+  46,
+  61,
+  70,
+  73,
+  78,
+  88,
+  89,
+  90,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 1,
+   "amount": 118746.87
+  },
+  {
+   "name": "18 números",
+   "total": 46,
+   "amount": 2581.46
+  },
+  {
+   "name": "17 números",
+   "total": 446,
+   "amount": 132.62
+  },
+  {
+   "name": "16 números",
+   "total": 2716,
+   "amount": 21.78
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

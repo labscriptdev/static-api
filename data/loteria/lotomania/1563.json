@@ -1,1 +1,59 @@
-{"number":"1563","date":"2015-06-13T00:00:00","accumulated":0,"numbers":[4,15,19,26,27,32,38,41,56,57,62,71,75,76,81,85,88,96,97,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":10,"amount":25522.61},{"name":"18 números","total":118,"amount":2162.93},{"name":"17 números","total":1027,"amount":155.32},{"name":"16 números","total":6117,"amount":26.07},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1563",
+ "date": "2015-06-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  15,
+  19,
+  26,
+  27,
+  32,
+  38,
+  41,
+  56,
+  57,
+  62,
+  71,
+  75,
+  76,
+  81,
+  85,
+  88,
+  96,
+  97,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 10,
+   "amount": 25522.61
+  },
+  {
+   "name": "18 números",
+   "total": 118,
+   "amount": 2162.93
+  },
+  {
+   "name": "17 números",
+   "total": 1027,
+   "amount": 155.32
+  },
+  {
+   "name": "16 números",
+   "total": 6117,
+   "amount": 26.07
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

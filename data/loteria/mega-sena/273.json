@@ -1,1 +1,30 @@
-{"number":"273","date":"2001-05-26T00:00:00","accumulated":0,"numbers":[10,17,23,27,47,52],"winners":[{"name":"Sena","total":1,"amount":3456480.23},{"name":"Quina","total":92,"amount":11326.92},{"name":"Quadra","total":7241,"amount":143.38}]}
+{
+ "number": "273",
+ "date": "2001-05-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  17,
+  23,
+  27,
+  47,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 3456480.23
+  },
+  {
+   "name": "Quina",
+   "total": 92,
+   "amount": 11326.92
+  },
+  {
+   "name": "Quadra",
+   "total": 7241,
+   "amount": 143.38
+  }
+ ]
+}

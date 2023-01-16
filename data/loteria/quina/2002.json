@@ -1,1 +1,29 @@
-{"number":"2002","date":"2009-01-13T00:00:00","accumulated":0,"numbers":[8,15,19,44,56],"winners":[{"name":"Quina","total":1,"amount":1455410.31},{"name":"Quadra","total":269,"amount":2013.39},{"name":"Terno","total":13248,"amount":54.51}]}
+{
+ "number": "2002",
+ "date": "2009-01-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  15,
+  19,
+  44,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 1455410.31
+  },
+  {
+   "name": "Quadra",
+   "total": 269,
+   "amount": 2013.39
+  },
+  {
+   "name": "Terno",
+   "total": 13248,
+   "amount": 54.51
+  }
+ ]
+}

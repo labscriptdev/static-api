@@ -1,1 +1,29 @@
-{"number":"1003","date":"2002-06-08T00:00:00","accumulated":0,"numbers":[26,28,52,58,79],"winners":[{"name":"Quina","total":4,"amount":172570.81},{"name":"Quadra","total":358,"amount":1162.01},{"name":"Terno","total":15042,"amount":36.73}]}
+{
+ "number": "1003",
+ "date": "2002-06-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  26,
+  28,
+  52,
+  58,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 4,
+   "amount": 172570.81
+  },
+  {
+   "name": "Quadra",
+   "total": 358,
+   "amount": 1162.01
+  },
+  {
+   "name": "Terno",
+   "total": 15042,
+   "amount": 36.73
+  }
+ ]
+}

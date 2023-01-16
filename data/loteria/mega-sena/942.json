@@ -1,1 +1,30 @@
-{"number":"942","date":"2008-02-09T00:00:00","accumulated":0,"numbers":[5,8,18,42,52,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":73,"amount":20890.58},{"name":"Quadra","total":5310,"amount":287.2}]}
+{
+ "number": "942",
+ "date": "2008-02-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  8,
+  18,
+  42,
+  52,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 73,
+   "amount": 20890.58
+  },
+  {
+   "name": "Quadra",
+   "total": 5310,
+   "amount": 287.2
+  }
+ ]
+}

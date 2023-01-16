@@ -1,1 +1,35 @@
-{"number":"623","date":"2008-01-11T00:00:00","accumulated":0,"numbers":[10,13,26,33,45,46],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "623",
+ "date": "2008-01-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  13,
+  26,
+  33,
+  45,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

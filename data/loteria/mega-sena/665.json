@@ -1,1 +1,30 @@
-{"number":"665","date":"2005-05-18T00:00:00","accumulated":0,"numbers":[7,8,18,25,47,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":185,"amount":8538.56},{"name":"Quadra","total":10055,"amount":156.51}]}
+{
+ "number": "665",
+ "date": "2005-05-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  8,
+  18,
+  25,
+  47,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 185,
+   "amount": 8538.56
+  },
+  {
+   "name": "Quadra",
+   "total": 10055,
+   "amount": 156.51
+  }
+ ]
+}

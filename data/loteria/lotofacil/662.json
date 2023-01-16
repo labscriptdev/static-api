@@ -1,1 +1,49 @@
-{"number":"662","date":"2011-08-18T00:00:00","accumulated":0,"numbers":[1,2,3,6,7,8,9,11,13,14,15,16,19,20,22],"winners":[{"name":"15 números","total":8,"amount":1008663.25},{"name":"14 números","total":27285,"amount":1928.08},{"name":"13 números","total":27285,"amount":12.5},{"name":"12 números","total":378957,"amount":5},{"name":"11 números","total":2273297,"amount":2.5}]}
+{
+ "number": "662",
+ "date": "2011-08-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  6,
+  7,
+  8,
+  9,
+  11,
+  13,
+  14,
+  15,
+  16,
+  19,
+  20,
+  22
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 8,
+   "amount": 1008663.25
+  },
+  {
+   "name": "14 números",
+   "total": 27285,
+   "amount": 1928.08
+  },
+  {
+   "name": "13 números",
+   "total": 27285,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 378957,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 2273297,
+   "amount": 2.5
+  }
+ ]
+}

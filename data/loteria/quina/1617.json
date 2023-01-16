@@ -1,1 +1,29 @@
-{"number":"1617","date":"2006-06-24T00:00:00","accumulated":0,"numbers":[11,21,52,63,70],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":79,"amount":3731.9},{"name":"Terno","total":4383,"amount":89.35}]}
+{
+ "number": "1617",
+ "date": "2006-06-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  21,
+  52,
+  63,
+  70
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 79,
+   "amount": 3731.9
+  },
+  {
+   "name": "Terno",
+   "total": 4383,
+   "amount": 89.35
+  }
+ ]
+}

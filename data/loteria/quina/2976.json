@@ -1,1 +1,29 @@
-{"number":"2976","date":"2012-08-22T00:00:00","accumulated":0,"numbers":[1,33,40,67,75],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":59,"amount":5644.87},{"name":"Terno","total":3820,"amount":124.55}]}
+{
+ "number": "2976",
+ "date": "2012-08-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  33,
+  40,
+  67,
+  75
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 59,
+   "amount": 5644.87
+  },
+  {
+   "name": "Terno",
+   "total": 3820,
+   "amount": 124.55
+  }
+ ]
+}

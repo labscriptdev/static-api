@@ -1,1 +1,30 @@
-{"number":"1063","date":"2009-04-08T00:00:00","accumulated":0,"numbers":[1,22,44,47,49,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":68,"amount":17776.43},{"name":"Quadra","total":4202,"amount":287.67}]}
+{
+ "number": "1063",
+ "date": "2009-04-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  22,
+  44,
+  47,
+  49,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 68,
+   "amount": 17776.43
+  },
+  {
+   "name": "Quadra",
+   "total": 4202,
+   "amount": 287.67
+  }
+ ]
+}

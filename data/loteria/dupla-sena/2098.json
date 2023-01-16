@@ -1,1 +1,35 @@
-{"number":"2098","date":"2020-06-30T00:00:00","accumulated":0,"numbers":[11,26,28,30,36,44],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":18,"amount":7908.71},{"name":"Quadra","total":1523,"amount":106.82},{"name":"Terno","total":30112,"amount":2.7}]}
+{
+ "number": "2098",
+ "date": "2020-06-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  26,
+  28,
+  30,
+  36,
+  44
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 18,
+   "amount": 7908.71
+  },
+  {
+   "name": "Quadra",
+   "total": 1523,
+   "amount": 106.82
+  },
+  {
+   "name": "Terno",
+   "total": 30112,
+   "amount": 2.7
+  }
+ ]
+}

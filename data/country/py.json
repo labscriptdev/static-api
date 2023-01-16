@@ -1,1 +1,16 @@
-{"name":"Paraguay","cca2":"py","cca3":"pry","languages":["grn","spa"],"latlng":[-23,-58],"flags":"https://flagcdn.com/py.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Paraguay",
+ "cca2": "py",
+ "cca3": "pry",
+ "languages": [
+  "grn",
+  "spa"
+ ],
+ "latlng": [
+  -23,
+  -58
+ ],
+ "flags": "https://flagcdn.com/py.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

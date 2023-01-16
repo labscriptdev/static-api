@@ -1,1 +1,29 @@
-{"number":"581","date":"1999-07-27T00:00:00","accumulated":0,"numbers":[21,30,54,66,72],"winners":[{"name":"Quina","total":3,"amount":84734.03},{"name":"Quadra","total":163,"amount":1559.52},{"name":"Terno","total":7785,"amount":43.38}]}
+{
+ "number": "581",
+ "date": "1999-07-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  21,
+  30,
+  54,
+  66,
+  72
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 84734.03
+  },
+  {
+   "name": "Quadra",
+   "total": 163,
+   "amount": 1559.52
+  },
+  {
+   "name": "Terno",
+   "total": 7785,
+   "amount": 43.38
+  }
+ ]
+}

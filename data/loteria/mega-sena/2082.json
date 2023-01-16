@@ -1,1 +1,30 @@
-{"number":"2082","date":"2018-09-26T00:00:00","accumulated":0,"numbers":[6,25,33,42,48,49],"winners":[{"name":"Sena","total":1,"amount":2420701.1},{"name":"Quina","total":32,"amount":41065.46},{"name":"Quadra","total":2640,"amount":711.09}]}
+{
+ "number": "2082",
+ "date": "2018-09-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  25,
+  33,
+  42,
+  48,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 2420701.1
+  },
+  {
+   "name": "Quina",
+   "total": 32,
+   "amount": 41065.46
+  },
+  {
+   "name": "Quadra",
+   "total": 2640,
+   "amount": 711.09
+  }
+ ]
+}

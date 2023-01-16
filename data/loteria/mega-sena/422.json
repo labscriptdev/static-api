@@ -1,1 +1,30 @@
-{"number":"422","date":"2002-12-14T00:00:00","accumulated":0,"numbers":[12,37,43,55,56,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":80,"amount":16823.65},{"name":"Quadra","total":6516,"amount":205.77}]}
+{
+ "number": "422",
+ "date": "2002-12-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  37,
+  43,
+  55,
+  56,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 80,
+   "amount": 16823.65
+  },
+  {
+   "name": "Quadra",
+   "total": 6516,
+   "amount": 205.77
+  }
+ ]
+}

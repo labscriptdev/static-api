@@ -1,1 +1,35 @@
-{"number":"295","date":"2004-10-05T00:00:00","accumulated":0,"numbers":[5,15,16,21,30,40],"winners":[{"name":"Sena","total":1,"amount":3218590.66},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "295",
+ "date": "2004-10-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  15,
+  16,
+  21,
+  30,
+  40
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 3218590.66
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

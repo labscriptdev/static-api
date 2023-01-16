@@ -1,1 +1,15 @@
-{"name":"Mayotte","cca2":"yt","cca3":"myt","languages":["fra"],"latlng":[-12.83333333,45.16666666],"flags":"https://flagcdn.com/yt.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Mayotte",
+ "cca2": "yt",
+ "cca3": "myt",
+ "languages": [
+  "fra"
+ ],
+ "latlng": [
+  -12.83333333,
+  45.16666666
+ ],
+ "flags": "https://flagcdn.com/yt.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

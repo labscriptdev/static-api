@@ -1,1 +1,49 @@
-{"number":"2346","date":"2021-10-13T00:00:00","accumulated":0,"numbers":[1,4,5,8,10,11,12,14,16,17,18,19,21,22,25],"winners":[{"name":"15 números","total":2,"amount":893350.27},{"name":"14 números","total":9288,"amount":1792.49},{"name":"13 números","total":9288,"amount":25},{"name":"12 números","total":121703,"amount":10},{"name":"11 números","total":687902,"amount":5}]}
+{
+ "number": "2346",
+ "date": "2021-10-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  5,
+  8,
+  10,
+  11,
+  12,
+  14,
+  16,
+  17,
+  18,
+  19,
+  21,
+  22,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 893350.27
+  },
+  {
+   "name": "14 números",
+   "total": 9288,
+   "amount": 1792.49
+  },
+  {
+   "name": "13 números",
+   "total": 9288,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 121703,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 687902,
+   "amount": 5
+  }
+ ]
+}

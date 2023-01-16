@@ -1,1 +1,59 @@
-{"number":"1986","date":"2019-07-12T00:00:00","accumulated":0,"numbers":[8,9,10,38,39,40,43,48,53,54,55,58,67,68,71,74,76,83,89,91],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":12,"amount":19138.11},{"name":"18 números","total":131,"amount":1565.27},{"name":"17 números","total":1089,"amount":131.8},{"name":"16 números","total":6783,"amount":21.16},{"name":"nenhum número","total":28865,"amount":4.97}]}
+{
+ "number": "1986",
+ "date": "2019-07-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  9,
+  10,
+  38,
+  39,
+  40,
+  43,
+  48,
+  53,
+  54,
+  55,
+  58,
+  67,
+  68,
+  71,
+  74,
+  76,
+  83,
+  89,
+  91
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 19138.11
+  },
+  {
+   "name": "18 números",
+   "total": 131,
+   "amount": 1565.27
+  },
+  {
+   "name": "17 números",
+   "total": 1089,
+   "amount": 131.8
+  },
+  {
+   "name": "16 números",
+   "total": 6783,
+   "amount": 21.16
+  },
+  {
+   "name": "nenhum número",
+   "total": 28865,
+   "amount": 4.97
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"2505","date":"2011-01-24T00:00:00","accumulated":0,"numbers":[25,38,39,52,53],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":161,"amount":1805.21},{"name":"Terno","total":7844,"amount":52.93}]}
+{
+ "number": "2505",
+ "date": "2011-01-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  25,
+  38,
+  39,
+  52,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 161,
+   "amount": 1805.21
+  },
+  {
+   "name": "Terno",
+   "total": 7844,
+   "amount": 52.93
+  }
+ ]
+}

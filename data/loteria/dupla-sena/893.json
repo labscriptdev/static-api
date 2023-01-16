@@ -1,1 +1,35 @@
-{"number":"893","date":"2010-08-27T00:00:00","accumulated":0,"numbers":[12,14,22,24,29,38],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":31,"amount":3311.58},{"name":"Quadra","total":1508,"amount":64.83},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "893",
+ "date": "2010-08-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  14,
+  22,
+  24,
+  29,
+  38
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 31,
+   "amount": 3311.58
+  },
+  {
+   "name": "Quadra",
+   "total": 1508,
+   "amount": 64.83
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

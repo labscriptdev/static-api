@@ -1,1 +1,59 @@
-{"number":"830","date":"2008-05-24T00:00:00","accumulated":0,"numbers":[0,5,8,11,18,23,29,30,34,35,39,51,59,69,74,76,89,90,91,92],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":5,"amount":39690.01},{"name":"18 números","total":110,"amount":1804.09},{"name":"17 números","total":869,"amount":114.18},{"name":"16 números","total":5463,"amount":18.16},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "830",
+ "date": "2008-05-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  5,
+  8,
+  11,
+  18,
+  23,
+  29,
+  30,
+  34,
+  35,
+  39,
+  51,
+  59,
+  69,
+  74,
+  76,
+  89,
+  90,
+  91,
+  92
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 5,
+   "amount": 39690.01
+  },
+  {
+   "name": "18 números",
+   "total": 110,
+   "amount": 1804.09
+  },
+  {
+   "name": "17 números",
+   "total": 869,
+   "amount": 114.18
+  },
+  {
+   "name": "16 números",
+   "total": 5463,
+   "amount": 18.16
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,59 @@
-{"number":"1943","date":"2019-02-12T00:00:00","accumulated":0,"numbers":[0,10,19,24,31,35,38,41,42,46,47,49,55,64,65,76,84,85,86,92],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":8,"amount":31772.17},{"name":"18 números","total":104,"amount":1527.51},{"name":"17 números","total":1172,"amount":135.54},{"name":"16 números","total":7154,"amount":22.2},{"name":"nenhum número","total":32860,"amount":4.83}]}
+{
+ "number": "1943",
+ "date": "2019-02-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  10,
+  19,
+  24,
+  31,
+  35,
+  38,
+  41,
+  42,
+  46,
+  47,
+  49,
+  55,
+  64,
+  65,
+  76,
+  84,
+  85,
+  86,
+  92
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 8,
+   "amount": 31772.17
+  },
+  {
+   "name": "18 números",
+   "total": 104,
+   "amount": 1527.51
+  },
+  {
+   "name": "17 números",
+   "total": 1172,
+   "amount": 135.54
+  },
+  {
+   "name": "16 números",
+   "total": 7154,
+   "amount": 22.2
+  },
+  {
+   "name": "nenhum número",
+   "total": 32860,
+   "amount": 4.83
+  }
+ ]
+}

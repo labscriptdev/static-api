@@ -1,1 +1,59 @@
-{"number":"283","date":"2003-01-18T00:00:00","accumulated":0,"numbers":[5,7,19,27,30,39,40,45,47,48,49,50,51,54,60,61,64,81,82,91],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":50,"amount":9735.95},{"name":"18 números","total":393,"amount":1238.67},{"name":"17 números","total":3849,"amount":63},{"name":"16 números","total":15910,"amount":15.25},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "283",
+ "date": "2003-01-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  7,
+  19,
+  27,
+  30,
+  39,
+  40,
+  45,
+  47,
+  48,
+  49,
+  50,
+  51,
+  54,
+  60,
+  61,
+  64,
+  81,
+  82,
+  91
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 50,
+   "amount": 9735.95
+  },
+  {
+   "name": "18 números",
+   "total": 393,
+   "amount": 1238.67
+  },
+  {
+   "name": "17 números",
+   "total": 3849,
+   "amount": 63
+  },
+  {
+   "name": "16 números",
+   "total": 15910,
+   "amount": 15.25
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

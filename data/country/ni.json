@@ -1,1 +1,15 @@
-{"name":"Nicaragua","cca2":"ni","cca3":"nic","languages":["spa"],"latlng":[13,-85],"flags":"https://flagcdn.com/ni.svg","postalCodeMask":"###-###-#","phoneMask":false}
+{
+ "name": "Nicaragua",
+ "cca2": "ni",
+ "cca3": "nic",
+ "languages": [
+  "spa"
+ ],
+ "latlng": [
+  13,
+  -85
+ ],
+ "flags": "https://flagcdn.com/ni.svg",
+ "postalCodeMask": "###-###-#",
+ "phoneMask": false
+}

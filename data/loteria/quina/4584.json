@@ -1,1 +1,29 @@
-{"number":"4584","date":"2018-01-18T00:00:00","accumulated":0,"numbers":[27,41,62,77,80],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":53,"amount":7620.41},{"name":"Terno","total":4310,"amount":140.91}]}
+{
+ "number": "4584",
+ "date": "2018-01-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  27,
+  41,
+  62,
+  77,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 53,
+   "amount": 7620.41
+  },
+  {
+   "name": "Terno",
+   "total": 4310,
+   "amount": 140.91
+  }
+ ]
+}

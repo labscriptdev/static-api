@@ -1,1 +1,35 @@
-{"number":"2227","date":"2021-05-25T00:00:00","accumulated":0,"numbers":[4,6,10,34,39,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":10,"amount":5459.92},{"name":"Quadra","total":606,"amount":102.96},{"name":"Terno","total":11471,"amount":2.71}]}
+{
+ "number": "2227",
+ "date": "2021-05-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  6,
+  10,
+  34,
+  39,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 10,
+   "amount": 5459.92
+  },
+  {
+   "name": "Quadra",
+   "total": 606,
+   "amount": 102.96
+  },
+  {
+   "name": "Terno",
+   "total": 11471,
+   "amount": 2.71
+  }
+ ]
+}

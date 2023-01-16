@@ -1,1 +1,29 @@
-{"number":"5443","date":"2020-12-16T00:00:00","accumulated":0,"numbers":[5,8,10,22,54],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":239,"amount":2528.96},{"name":"Terno","total":11988,"amount":75.81}]}
+{
+ "number": "5443",
+ "date": "2020-12-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  8,
+  10,
+  22,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 239,
+   "amount": 2528.96
+  },
+  {
+   "name": "Terno",
+   "total": 11988,
+   "amount": 75.81
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"2046","date":"2009-04-30T00:00:00","accumulated":0,"numbers":[20,29,49,72,74],"winners":[{"name":"Quina","total":1,"amount":1336801.55},{"name":"Quadra","total":60,"amount":8090.2},{"name":"Terno","total":4831,"amount":191.38}]}
+{
+ "number": "2046",
+ "date": "2009-04-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  29,
+  49,
+  72,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 1336801.55
+  },
+  {
+   "name": "Quadra",
+   "total": 60,
+   "amount": 8090.2
+  },
+  {
+   "name": "Terno",
+   "total": 4831,
+   "amount": 191.38
+  }
+ ]
+}

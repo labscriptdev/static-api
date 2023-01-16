@@ -1,1 +1,30 @@
-{"number":"2007","date":"2018-01-24T00:00:00","accumulated":0,"numbers":[4,14,39,41,54,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":42,"amount":53296.38},{"name":"Quadra","total":3340,"amount":957.42}]}
+{
+ "number": "2007",
+ "date": "2018-01-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  14,
+  39,
+  41,
+  54,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 42,
+   "amount": 53296.38
+  },
+  {
+   "name": "Quadra",
+   "total": 3340,
+   "amount": 957.42
+  }
+ ]
+}

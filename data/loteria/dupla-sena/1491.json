@@ -1,1 +1,35 @@
-{"number":"1491","date":"2016-05-12T00:00:00","accumulated":0,"numbers":[14,20,22,31,43,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":12,"amount":5663.51},{"name":"Quadra","total":780,"amount":99.57},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1491",
+ "date": "2016-05-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  20,
+  22,
+  31,
+  43,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 12,
+   "amount": 5663.51
+  },
+  {
+   "name": "Quadra",
+   "total": 780,
+   "amount": 99.57
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

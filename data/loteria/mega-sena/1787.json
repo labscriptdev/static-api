@@ -1,1 +1,30 @@
-{"number":"1787","date":"2016-02-04T00:00:00","accumulated":0,"numbers":[1,5,13,25,26,29],"winners":[{"name":"Sena","total":2,"amount":17008680.52},{"name":"Quina","total":167,"amount":14880.66},{"name":"Quadra","total":8897,"amount":399.02}]}
+{
+ "number": "1787",
+ "date": "2016-02-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  13,
+  25,
+  26,
+  29
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 17008680.52
+  },
+  {
+   "name": "Quina",
+   "total": 167,
+   "amount": 14880.66
+  },
+  {
+   "name": "Quadra",
+   "total": 8897,
+   "amount": 399.02
+  }
+ ]
+}

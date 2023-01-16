@@ -1,1 +1,30 @@
-{"number":"70","date":"1997-07-06T00:00:00","accumulated":0,"numbers":[17,23,27,40,43,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":95,"amount":12899.52},{"name":"Quadra","total":6071,"amount":201.46}]}
+{
+ "number": "70",
+ "date": "1997-07-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  23,
+  27,
+  40,
+  43,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 95,
+   "amount": 12899.52
+  },
+  {
+   "name": "Quadra",
+   "total": 6071,
+   "amount": 201.46
+  }
+ ]
+}

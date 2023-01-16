@@ -1,1 +1,29 @@
-{"number":"5373","date":"2020-09-23T00:00:00","accumulated":0,"numbers":[11,45,46,54,67],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":69,"amount":8916.77},{"name":"Terno","total":5581,"amount":165.77}]}
+{
+ "number": "5373",
+ "date": "2020-09-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  45,
+  46,
+  54,
+  67
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 69,
+   "amount": 8916.77
+  },
+  {
+   "name": "Terno",
+   "total": 5581,
+   "amount": 165.77
+  }
+ ]
+}

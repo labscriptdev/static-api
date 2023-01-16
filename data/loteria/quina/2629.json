@@ -1,1 +1,29 @@
-{"number":"2629","date":"2011-06-27T00:00:00","accumulated":0,"numbers":[43,45,48,66,69],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":70,"amount":4206.12},{"name":"Terno","total":4328,"amount":97.18}]}
+{
+ "number": "2629",
+ "date": "2011-06-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  43,
+  45,
+  48,
+  66,
+  69
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 70,
+   "amount": 4206.12
+  },
+  {
+   "name": "Terno",
+   "total": 4328,
+   "amount": 97.18
+  }
+ ]
+}

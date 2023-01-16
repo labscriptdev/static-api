@@ -1,1 +1,15 @@
-{"name":"Cuba","cca2":"cu","cca3":"cub","languages":["spa"],"latlng":[21.5,-80],"flags":"https://flagcdn.com/cu.svg","postalCodeMask":"CP #####","phoneMask":false}
+{
+ "name": "Cuba",
+ "cca2": "cu",
+ "cca3": "cub",
+ "languages": [
+  "spa"
+ ],
+ "latlng": [
+  21.5,
+  -80
+ ],
+ "flags": "https://flagcdn.com/cu.svg",
+ "postalCodeMask": "CP #####",
+ "phoneMask": false
+}

@@ -1,1 +1,15 @@
-{"name":"Armenia","cca2":"am","cca3":"arm","languages":["hye"],"latlng":[40,45],"flags":"https://flagcdn.com/am.svg","postalCodeMask":"######","phoneMask":false}
+{
+ "name": "Armenia",
+ "cca2": "am",
+ "cca3": "arm",
+ "languages": [
+  "hye"
+ ],
+ "latlng": [
+  40,
+  45
+ ],
+ "flags": "https://flagcdn.com/am.svg",
+ "postalCodeMask": "######",
+ "phoneMask": false
+}

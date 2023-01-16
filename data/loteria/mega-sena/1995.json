@@ -1,1 +1,30 @@
-{"number":"1995","date":"2017-12-09T00:00:00","accumulated":0,"numbers":[14,26,29,35,37,39],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":66,"amount":38617.02},{"name":"Quadra","total":4840,"amount":752.27}]}
+{
+ "number": "1995",
+ "date": "2017-12-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  26,
+  29,
+  35,
+  37,
+  39
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 66,
+   "amount": 38617.02
+  },
+  {
+   "name": "Quadra",
+   "total": 4840,
+   "amount": 752.27
+  }
+ ]
+}

@@ -1,1 +1,59 @@
-{"number":"1752","date":"2017-04-11T00:00:00","accumulated":0,"numbers":[8,12,17,19,21,26,33,35,42,57,62,66,73,83,85,87,90,93,98,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":12,"amount":19360.11},{"name":"18 números","total":181,"amount":1146.02},{"name":"17 números","total":1361,"amount":106.68},{"name":"16 números","total":7800,"amount":18.61},{"name":"nenhum número","total":30854,"amount":4.7}]}
+{
+ "number": "1752",
+ "date": "2017-04-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  12,
+  17,
+  19,
+  21,
+  26,
+  33,
+  35,
+  42,
+  57,
+  62,
+  66,
+  73,
+  83,
+  85,
+  87,
+  90,
+  93,
+  98,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 19360.11
+  },
+  {
+   "name": "18 números",
+   "total": 181,
+   "amount": 1146.02
+  },
+  {
+   "name": "17 números",
+   "total": 1361,
+   "amount": 106.68
+  },
+  {
+   "name": "16 números",
+   "total": 7800,
+   "amount": 18.61
+  },
+  {
+   "name": "nenhum número",
+   "total": 30854,
+   "amount": 4.7
+  }
+ ]
+}

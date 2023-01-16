@@ -1,1 +1,29 @@
-{"number":"497","date":"1998-12-31T00:00:00","accumulated":0,"numbers":[6,13,29,48,76],"winners":[{"name":"Quina","total":3,"amount":104793.66},{"name":"Quadra","total":483,"amount":650.89},{"name":"Terno","total":17257,"amount":24.25}]}
+{
+ "number": "497",
+ "date": "1998-12-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  13,
+  29,
+  48,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 104793.66
+  },
+  {
+   "name": "Quadra",
+   "total": 483,
+   "amount": 650.89
+  },
+  {
+   "name": "Terno",
+   "total": 17257,
+   "amount": 24.25
+  }
+ ]
+}

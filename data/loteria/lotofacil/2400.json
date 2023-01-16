@@ -1,1 +1,49 @@
-{"number":"2400","date":"2021-12-17T00:00:00","accumulated":0,"numbers":[2,3,5,9,10,11,12,13,14,15,16,20,21,23,25],"winners":[{"name":"15 números","total":3,"amount":2885513.44},{"name":"14 números","total":22687,"amount":1442.97},{"name":"13 números","total":22687,"amount":25},{"name":"12 números","total":295160,"amount":10},{"name":"11 números","total":1523910,"amount":5}]}
+{
+ "number": "2400",
+ "date": "2021-12-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  5,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  20,
+  21,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 3,
+   "amount": 2885513.44
+  },
+  {
+   "name": "14 números",
+   "total": 22687,
+   "amount": 1442.97
+  },
+  {
+   "name": "13 números",
+   "total": 22687,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 295160,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 1523910,
+   "amount": 5
+  }
+ ]
+}

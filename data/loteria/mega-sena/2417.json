@@ -1,1 +1,30 @@
-{"number":"2417","date":"2021-10-09T00:00:00","accumulated":0,"numbers":[3,7,10,11,27,46],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":131,"amount":15067.6},{"name":"Quadra","total":7708,"amount":365.82}]}
+{
+ "number": "2417",
+ "date": "2021-10-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  7,
+  10,
+  11,
+  27,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 131,
+   "amount": 15067.6
+  },
+  {
+   "name": "Quadra",
+   "total": 7708,
+   "amount": 365.82
+  }
+ ]
+}

@@ -1,1 +1,49 @@
-{"number":"613","date":"2011-02-28T00:00:00","accumulated":0,"numbers":[2,5,6,7,10,11,12,13,14,16,17,20,22,23,25],"winners":[{"name":"15 números","total":1,"amount":1732890.56},{"name":"14 números","total":18083,"amount":1350.3},{"name":"13 números","total":18083,"amount":12.5},{"name":"12 números","total":220899,"amount":5},{"name":"11 números","total":1226595,"amount":2.5}]}
+{
+ "number": "613",
+ "date": "2011-02-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  6,
+  7,
+  10,
+  11,
+  12,
+  13,
+  14,
+  16,
+  17,
+  20,
+  22,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1732890.56
+  },
+  {
+   "name": "14 números",
+   "total": 18083,
+   "amount": 1350.3
+  },
+  {
+   "name": "13 números",
+   "total": 18083,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 220899,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1226595,
+   "amount": 2.5
+  }
+ ]
+}

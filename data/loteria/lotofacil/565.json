@@ -1,1 +1,49 @@
-{"number":"565","date":"2010-09-13T00:00:00","accumulated":0,"numbers":[1,4,6,7,9,10,12,15,17,18,19,20,21,23,24],"winners":[{"name":"15 números","total":4,"amount":387484.25},{"name":"14 números","total":26403,"amount":1363.42},{"name":"13 números","total":26403,"amount":12.5},{"name":"12 números","total":308783,"amount":5},{"name":"11 números","total":1310061,"amount":2.5}]}
+{
+ "number": "565",
+ "date": "2010-09-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  6,
+  7,
+  9,
+  10,
+  12,
+  15,
+  17,
+  18,
+  19,
+  20,
+  21,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 387484.25
+  },
+  {
+   "name": "14 números",
+   "total": 26403,
+   "amount": 1363.42
+  },
+  {
+   "name": "13 números",
+   "total": 26403,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 308783,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1310061,
+   "amount": 2.5
+  }
+ ]
+}

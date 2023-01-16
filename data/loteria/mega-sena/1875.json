@@ -1,1 +1,30 @@
-{"number":"1875","date":"2016-11-10T00:00:00","accumulated":0,"numbers":[1,45,47,52,53,55],"winners":[{"name":"Sena","total":1,"amount":29697112.87},{"name":"Quina","total":45,"amount":51595.3},{"name":"Quadra","total":2828,"amount":1172.85}]}
+{
+ "number": "1875",
+ "date": "2016-11-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  45,
+  47,
+  52,
+  53,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 29697112.87
+  },
+  {
+   "name": "Quina",
+   "total": 45,
+   "amount": 51595.3
+  },
+  {
+   "name": "Quadra",
+   "total": 2828,
+   "amount": 1172.85
+  }
+ ]
+}

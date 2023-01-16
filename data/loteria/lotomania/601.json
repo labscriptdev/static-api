@@ -1,1 +1,59 @@
-{"number":"601","date":"2006-03-11T00:00:00","accumulated":0,"numbers":[2,3,8,13,18,28,30,42,44,51,71,72,75,79,82,86,88,90,92,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":13,"amount":21708.69},{"name":"18 números","total":199,"amount":1418.16},{"name":"17 números","total":2114,"amount":66.5},{"name":"16 números","total":21374,"amount":9.4},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "601",
+ "date": "2006-03-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  8,
+  13,
+  18,
+  28,
+  30,
+  42,
+  44,
+  51,
+  71,
+  72,
+  75,
+  79,
+  82,
+  86,
+  88,
+  90,
+  92,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 13,
+   "amount": 21708.69
+  },
+  {
+   "name": "18 números",
+   "total": 199,
+   "amount": 1418.16
+  },
+  {
+   "name": "17 números",
+   "total": 2114,
+   "amount": 66.5
+  },
+  {
+   "name": "16 números",
+   "total": 21374,
+   "amount": 9.4
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"900","date":"2010-09-21T00:00:00","accumulated":0,"numbers":[9,17,27,35,38,40],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":44,"amount":2256.52},{"name":"Quadra","total":1905,"amount":49.63},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "900",
+ "date": "2010-09-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  17,
+  27,
+  35,
+  38,
+  40
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 44,
+   "amount": 2256.52
+  },
+  {
+   "name": "Quadra",
+   "total": 1905,
+   "amount": 49.63
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

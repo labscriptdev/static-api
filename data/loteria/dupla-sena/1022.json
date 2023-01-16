@@ -1,1 +1,35 @@
-{"number":"1022","date":"2011-11-22T00:00:00","accumulated":0,"numbers":[4,11,25,32,33,35],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":26,"amount":4250.68},{"name":"Quadra","total":1998,"amount":52.68},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1022",
+ "date": "2011-11-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  11,
+  25,
+  32,
+  33,
+  35
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 26,
+   "amount": 4250.68
+  },
+  {
+   "name": "Quadra",
+   "total": 1998,
+   "amount": 52.68
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

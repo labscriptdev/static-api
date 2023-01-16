@@ -1,1 +1,29 @@
-{"number":"3342","date":"2013-11-16T00:00:00","accumulated":0,"numbers":[4,16,18,22,73],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":137,"amount":2887.52},{"name":"Terno","total":8477,"amount":66.66}]}
+{
+ "number": "3342",
+ "date": "2013-11-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  16,
+  18,
+  22,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 137,
+   "amount": 2887.52
+  },
+  {
+   "name": "Terno",
+   "total": 8477,
+   "amount": 66.66
+  }
+ ]
+}

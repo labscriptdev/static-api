@@ -1,1 +1,30 @@
-{"number":"2053","date":"2018-06-27T00:00:00","accumulated":0,"numbers":[12,22,27,37,40,55],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":17,"amount":66063.41},{"name":"Quadra","total":1582,"amount":1014.15}]}
+{
+ "number": "2053",
+ "date": "2018-06-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  22,
+  27,
+  37,
+  40,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 17,
+   "amount": 66063.41
+  },
+  {
+   "name": "Quadra",
+   "total": 1582,
+   "amount": 1014.15
+  }
+ ]
+}

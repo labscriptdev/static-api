@@ -1,1 +1,29 @@
-{"number":"3836","date":"2015-07-20T00:00:00","accumulated":0,"numbers":[2,10,26,41,47],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":72,"amount":8512.88},{"name":"Terno","total":5265,"amount":166.3}]}
+{
+ "number": "3836",
+ "date": "2015-07-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  10,
+  26,
+  41,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 72,
+   "amount": 8512.88
+  },
+  {
+   "name": "Terno",
+   "total": 5265,
+   "amount": 166.3
+  }
+ ]
+}

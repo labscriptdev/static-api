@@ -1,1 +1,49 @@
-{"number":"1842","date":"2019-07-19T00:00:00","accumulated":0,"numbers":[3,4,5,6,9,11,12,13,14,16,17,19,20,21,23],"winners":[{"name":"15 números","total":2,"amount":1173213.54},{"name":"14 números","total":15699,"amount":1675.13},{"name":"13 números","total":15699,"amount":20},{"name":"12 números","total":203230,"amount":8},{"name":"11 números","total":1123372,"amount":4}]}
+{
+ "number": "1842",
+ "date": "2019-07-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  5,
+  6,
+  9,
+  11,
+  12,
+  13,
+  14,
+  16,
+  17,
+  19,
+  20,
+  21,
+  23
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 1173213.54
+  },
+  {
+   "name": "14 números",
+   "total": 15699,
+   "amount": 1675.13
+  },
+  {
+   "name": "13 números",
+   "total": 15699,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 203230,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1123372,
+   "amount": 4
+  }
+ ]
+}

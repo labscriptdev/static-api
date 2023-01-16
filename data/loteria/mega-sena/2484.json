@@ -1,1 +1,30 @@
-{"number":"2484","date":"2022-05-25T00:00:00","accumulated":0,"numbers":[11,14,36,41,54,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":121,"amount":45019.83},{"name":"Quadra","total":7558,"amount":1029.63}]}
+{
+ "number": "2484",
+ "date": "2022-05-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  14,
+  36,
+  41,
+  54,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 121,
+   "amount": 45019.83
+  },
+  {
+   "name": "Quadra",
+   "total": 7558,
+   "amount": 1029.63
+  }
+ ]
+}

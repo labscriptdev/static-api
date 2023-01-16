@@ -1,1 +1,59 @@
-{"number":"761","date":"2007-09-26T00:00:00","accumulated":0,"numbers":[3,4,7,9,10,15,21,34,39,42,45,46,48,50,55,56,63,71,85,90],"winners":[{"name":"20 números","total":1,"amount":3511483.25},{"name":"19 números","total":16,"amount":21216.35},{"name":"18 números","total":233,"amount":1456.91},{"name":"17 números","total":2100,"amount":80.53},{"name":"16 números","total":12464,"amount":13.57},{"name":"nenhum número","total":1,"amount":169730.8}]}
+{
+ "number": "761",
+ "date": "2007-09-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  7,
+  9,
+  10,
+  15,
+  21,
+  34,
+  39,
+  42,
+  45,
+  46,
+  48,
+  50,
+  55,
+  56,
+  63,
+  71,
+  85,
+  90
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 3511483.25
+  },
+  {
+   "name": "19 números",
+   "total": 16,
+   "amount": 21216.35
+  },
+  {
+   "name": "18 números",
+   "total": 233,
+   "amount": 1456.91
+  },
+  {
+   "name": "17 números",
+   "total": 2100,
+   "amount": 80.53
+  },
+  {
+   "name": "16 números",
+   "total": 12464,
+   "amount": 13.57
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 169730.8
+  }
+ ]
+}

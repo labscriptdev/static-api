@@ -1,1 +1,29 @@
-{"number":"1573","date":"2006-03-11T00:00:00","accumulated":0,"numbers":[8,37,47,58,64],"winners":[{"name":"Quina","total":1,"amount":343412.43},{"name":"Quadra","total":148,"amount":2320.36},{"name":"Terno","total":7694,"amount":59.29}]}
+{
+ "number": "1573",
+ "date": "2006-03-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  37,
+  47,
+  58,
+  64
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 343412.43
+  },
+  {
+   "name": "Quadra",
+   "total": 148,
+   "amount": 2320.36
+  },
+  {
+   "name": "Terno",
+   "total": 7694,
+   "amount": 59.29
+  }
+ ]
+}

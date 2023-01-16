@@ -1,1 +1,59 @@
-{"number":"85","date":"2001-01-31T00:00:00","accumulated":0,"numbers":[2,4,7,10,13,23,25,30,31,36,44,45,47,51,58,60,63,71,84,92],"winners":[{"name":"20 números","total":2,"amount":206261.87},{"name":"19 números","total":21,"amount":13095.99},{"name":"18 números","total":277,"amount":992.84},{"name":"17 números","total":2104,"amount":65.17},{"name":"16 números","total":11174,"amount":12.28},{"name":"nenhum número","total":1,"amount":137507.93}]}
+{
+ "number": "85",
+ "date": "2001-01-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  7,
+  10,
+  13,
+  23,
+  25,
+  30,
+  31,
+  36,
+  44,
+  45,
+  47,
+  51,
+  58,
+  60,
+  63,
+  71,
+  84,
+  92
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 2,
+   "amount": 206261.87
+  },
+  {
+   "name": "19 números",
+   "total": 21,
+   "amount": 13095.99
+  },
+  {
+   "name": "18 números",
+   "total": 277,
+   "amount": 992.84
+  },
+  {
+   "name": "17 números",
+   "total": 2104,
+   "amount": 65.17
+  },
+  {
+   "name": "16 números",
+   "total": 11174,
+   "amount": 12.28
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 137507.93
+  }
+ ]
+}

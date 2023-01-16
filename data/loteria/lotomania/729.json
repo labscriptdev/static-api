@@ -1,1 +1,59 @@
-{"number":"729","date":"2007-06-06T00:00:00","accumulated":0,"numbers":[0,3,4,8,20,24,26,27,30,33,40,42,46,56,60,62,75,79,89,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":7,"amount":33729.52},{"name":"18 números","total":124,"amount":1904.09},{"name":"17 números","total":1093,"amount":107.6},{"name":"16 números","total":6922,"amount":17},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "729",
+ "date": "2007-06-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  3,
+  4,
+  8,
+  20,
+  24,
+  26,
+  27,
+  30,
+  33,
+  40,
+  42,
+  46,
+  56,
+  60,
+  62,
+  75,
+  79,
+  89,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 7,
+   "amount": 33729.52
+  },
+  {
+   "name": "18 números",
+   "total": 124,
+   "amount": 1904.09
+  },
+  {
+   "name": "17 números",
+   "total": 1093,
+   "amount": 107.6
+  },
+  {
+   "name": "16 números",
+   "total": 6922,
+   "amount": 17
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

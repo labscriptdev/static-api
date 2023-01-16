@@ -1,1 +1,59 @@
-{"number":"433","date":"2004-07-10T00:00:00","accumulated":0,"numbers":[1,9,14,17,18,22,24,27,34,40,43,44,45,48,68,74,88,89,92,95],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":16,"amount":25137.33},{"name":"18 números","total":331,"amount":1215.1},{"name":"17 números","total":3044,"amount":65.81},{"name":"16 números","total":16429,"amount":12.2},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "433",
+ "date": "2004-07-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  9,
+  14,
+  17,
+  18,
+  22,
+  24,
+  27,
+  34,
+  40,
+  43,
+  44,
+  45,
+  48,
+  68,
+  74,
+  88,
+  89,
+  92,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 16,
+   "amount": 25137.33
+  },
+  {
+   "name": "18 números",
+   "total": 331,
+   "amount": 1215.1
+  },
+  {
+   "name": "17 números",
+   "total": 3044,
+   "amount": 65.81
+  },
+  {
+   "name": "16 números",
+   "total": 16429,
+   "amount": 12.2
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

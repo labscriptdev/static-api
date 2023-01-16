@@ -1,1 +1,59 @@
-{"number":"2195","date":"2021-07-13T00:00:00","accumulated":0,"numbers":[6,18,19,23,31,40,51,53,54,64,69,74,79,84,88,92,95,96,97,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":4,"amount":74394.9},{"name":"18 números","total":62,"amount":2999.8},{"name":"17 números","total":630,"amount":295.21},{"name":"16 números","total":3885,"amount":47.87},{"name":"nenhum número","total":18007,"amount":10.32}]}
+{
+ "number": "2195",
+ "date": "2021-07-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  18,
+  19,
+  23,
+  31,
+  40,
+  51,
+  53,
+  54,
+  64,
+  69,
+  74,
+  79,
+  84,
+  88,
+  92,
+  95,
+  96,
+  97,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 4,
+   "amount": 74394.9
+  },
+  {
+   "name": "18 números",
+   "total": 62,
+   "amount": 2999.8
+  },
+  {
+   "name": "17 números",
+   "total": 630,
+   "amount": 295.21
+  },
+  {
+   "name": "16 números",
+   "total": 3885,
+   "amount": 47.87
+  },
+  {
+   "name": "nenhum número",
+   "total": 18007,
+   "amount": 10.32
+  }
+ ]
+}

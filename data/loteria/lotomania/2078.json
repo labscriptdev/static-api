@@ -1,1 +1,59 @@
-{"number":"2078","date":"2020-05-29T00:00:00","accumulated":0,"numbers":[5,14,15,22,24,26,28,30,42,43,50,53,55,58,59,68,78,96,99,100],"winners":[{"name":"20 números","total":1,"amount":824617.74},{"name":"19 números","total":4,"amount":54885.46},{"name":"18 números","total":48,"amount":2858.62},{"name":"17 números","total":593,"amount":231.38},{"name":"16 números","total":3680,"amount":37.28},{"name":"nenhum número","total":16231,"amount":8.45}]}
+{
+ "number": "2078",
+ "date": "2020-05-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  14,
+  15,
+  22,
+  24,
+  26,
+  28,
+  30,
+  42,
+  43,
+  50,
+  53,
+  55,
+  58,
+  59,
+  68,
+  78,
+  96,
+  99,
+  100
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 824617.74
+  },
+  {
+   "name": "19 números",
+   "total": 4,
+   "amount": 54885.46
+  },
+  {
+   "name": "18 números",
+   "total": 48,
+   "amount": 2858.62
+  },
+  {
+   "name": "17 números",
+   "total": 593,
+   "amount": 231.38
+  },
+  {
+   "name": "16 números",
+   "total": 3680,
+   "amount": 37.28
+  },
+  {
+   "name": "nenhum número",
+   "total": 16231,
+   "amount": 8.45
+  }
+ ]
+}

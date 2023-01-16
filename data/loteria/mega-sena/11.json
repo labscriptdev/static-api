@@ -1,1 +1,30 @@
-{"number":"11","date":"1996-05-20T00:00:00","accumulated":0,"numbers":[15,25,37,38,58,59],"winners":[{"name":"Sena","total":1,"amount":15591365.07},{"name":"Quina","total":148,"amount":12706.05},{"name":"Quadra","total":9442,"amount":199.16}]}
+{
+ "number": "11",
+ "date": "1996-05-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  15,
+  25,
+  37,
+  38,
+  58,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 15591365.07
+  },
+  {
+   "name": "Quina",
+   "total": 148,
+   "amount": 12706.05
+  },
+  {
+   "name": "Quadra",
+   "total": 9442,
+   "amount": 199.16
+  }
+ ]
+}

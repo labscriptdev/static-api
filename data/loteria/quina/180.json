@@ -1,1 +1,29 @@
-{"number":"180","date":"1996-02-15T00:00:00","accumulated":0,"numbers":[1,20,23,25,49],"winners":[{"name":"Quina","total":1,"amount":285225.15},{"name":"Quadra","total":303,"amount":941.34},{"name":"Terno","total":13615,"amount":27.93}]}
+{
+ "number": "180",
+ "date": "1996-02-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  20,
+  23,
+  25,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 285225.15
+  },
+  {
+   "name": "Quadra",
+   "total": 303,
+   "amount": 941.34
+  },
+  {
+   "name": "Terno",
+   "total": 13615,
+   "amount": 27.93
+  }
+ ]
+}

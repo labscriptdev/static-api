@@ -1,1 +1,59 @@
-{"number":"1328","date":"2013-03-02T00:00:00","accumulated":0,"numbers":[0,1,9,10,14,23,26,28,30,32,45,52,55,61,66,68,69,80,86,94],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":9,"amount":32573.25},{"name":"18 números","total":201,"amount":1458.5},{"name":"17 números","total":1625,"amount":112.75},{"name":"16 números","total":8793,"amount":20.83},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1328",
+ "date": "2013-03-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  1,
+  9,
+  10,
+  14,
+  23,
+  26,
+  28,
+  30,
+  32,
+  45,
+  52,
+  55,
+  61,
+  66,
+  68,
+  69,
+  80,
+  86,
+  94
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 32573.25
+  },
+  {
+   "name": "18 números",
+   "total": 201,
+   "amount": 1458.5
+  },
+  {
+   "name": "17 números",
+   "total": 1625,
+   "amount": 112.75
+  },
+  {
+   "name": "16 números",
+   "total": 8793,
+   "amount": 20.83
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"930","date":"2011-01-04T00:00:00","accumulated":0,"numbers":[9,11,34,37,39,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":38,"amount":2109.41},{"name":"Quadra","total":2384,"amount":32.02},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "930",
+ "date": "2011-01-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  11,
+  34,
+  37,
+  39,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 38,
+   "amount": 2109.41
+  },
+  {
+   "name": "Quadra",
+   "total": 2384,
+   "amount": 32.02
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

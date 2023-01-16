@@ -1,1 +1,15 @@
-{"name":"Slovakia","cca2":"sk","cca3":"svk","languages":["slk"],"latlng":[48.66666666,19.5],"flags":"https://flagcdn.com/sk.svg","postalCodeMask":"###  ##","phoneMask":false}
+{
+ "name": "Slovakia",
+ "cca2": "sk",
+ "cca3": "svk",
+ "languages": [
+  "slk"
+ ],
+ "latlng": [
+  48.66666666,
+  19.5
+ ],
+ "flags": "https://flagcdn.com/sk.svg",
+ "postalCodeMask": "###  ##",
+ "phoneMask": false
+}

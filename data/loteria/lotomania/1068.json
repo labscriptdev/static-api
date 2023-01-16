@@ -1,1 +1,59 @@
-{"number":"1068","date":"2010-09-04T00:00:00","accumulated":0,"numbers":[0,2,9,24,28,32,34,36,44,51,52,55,60,67,72,75,84,85,86,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":11,"amount":26581.75},{"name":"18 números","total":133,"amount":2198.49},{"name":"17 números","total":1501,"amount":139.14},{"name":"16 números","total":9032,"amount":23.12},{"name":"nenhum número","total":1,"amount":146199.64}]}
+{
+ "number": "1068",
+ "date": "2010-09-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  2,
+  9,
+  24,
+  28,
+  32,
+  34,
+  36,
+  44,
+  51,
+  52,
+  55,
+  60,
+  67,
+  72,
+  75,
+  84,
+  85,
+  86,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 11,
+   "amount": 26581.75
+  },
+  {
+   "name": "18 números",
+   "total": 133,
+   "amount": 2198.49
+  },
+  {
+   "name": "17 números",
+   "total": 1501,
+   "amount": 139.14
+  },
+  {
+   "name": "16 números",
+   "total": 9032,
+   "amount": 23.12
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 146199.64
+  }
+ ]
+}

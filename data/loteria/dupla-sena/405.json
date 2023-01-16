@@ -1,1 +1,35 @@
-{"number":"405","date":"2005-11-18T00:00:00","accumulated":0,"numbers":[3,5,18,19,26,33],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "405",
+ "date": "2005-11-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  18,
+  19,
+  26,
+  33
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

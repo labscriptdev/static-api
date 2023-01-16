@@ -1,1 +1,30 @@
-{"number":"2126","date":"2019-02-20T00:00:00","accumulated":0,"numbers":[7,12,24,27,39,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":130,"amount":21346.79},{"name":"Quadra","total":8139,"amount":487.08}]}
+{
+ "number": "2126",
+ "date": "2019-02-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  12,
+  24,
+  27,
+  39,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 130,
+   "amount": 21346.79
+  },
+  {
+   "name": "Quadra",
+   "total": 8139,
+   "amount": 487.08
+  }
+ ]
+}

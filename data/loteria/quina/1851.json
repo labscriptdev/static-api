@@ -1,1 +1,29 @@
-{"number":"1851","date":"2008-01-15T00:00:00","accumulated":0,"numbers":[6,23,36,66,69],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":179,"amount":1884.11},{"name":"Terno","total":7610,"amount":59.09}]}
+{
+ "number": "1851",
+ "date": "2008-01-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  23,
+  36,
+  66,
+  69
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 179,
+   "amount": 1884.11
+  },
+  {
+   "name": "Terno",
+   "total": 7610,
+   "amount": 59.09
+  }
+ ]
+}

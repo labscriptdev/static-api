@@ -1,1 +1,35 @@
-{"number":"307","date":"2004-11-23T00:00:00","accumulated":0,"numbers":[5,8,16,26,28,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "307",
+ "date": "2004-11-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  8,
+  16,
+  26,
+  28,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

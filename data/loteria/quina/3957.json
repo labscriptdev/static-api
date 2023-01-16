@@ -1,1 +1,29 @@
-{"number":"3957","date":"2015-12-11T00:00:00","accumulated":0,"numbers":[23,38,42,49,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":104,"amount":9523.15},{"name":"Terno","total":6846,"amount":206.67}]}
+{
+ "number": "3957",
+ "date": "2015-12-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  23,
+  38,
+  42,
+  49,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 104,
+   "amount": 9523.15
+  },
+  {
+   "name": "Terno",
+   "total": 6846,
+   "amount": 206.67
+  }
+ ]
+}

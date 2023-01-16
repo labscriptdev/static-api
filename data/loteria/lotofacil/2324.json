@@ -1,1 +1,49 @@
-{"number":"2324","date":"2021-09-16T00:00:00","accumulated":0,"numbers":[1,2,3,5,8,9,10,11,13,14,16,17,19,20,25],"winners":[{"name":"15 números","total":1,"amount":1245784.39},{"name":"14 números","total":9258,"amount":1751.93},{"name":"13 números","total":9258,"amount":25},{"name":"12 números","total":122740,"amount":10},{"name":"11 números","total":668265,"amount":5}]}
+{
+ "number": "2324",
+ "date": "2021-09-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  8,
+  9,
+  10,
+  11,
+  13,
+  14,
+  16,
+  17,
+  19,
+  20,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1245784.39
+  },
+  {
+   "name": "14 números",
+   "total": 9258,
+   "amount": 1751.93
+  },
+  {
+   "name": "13 números",
+   "total": 9258,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 122740,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 668265,
+   "amount": 5
+  }
+ ]
+}

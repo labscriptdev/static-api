@@ -1,1 +1,59 @@
-{"number":"403","date":"2004-03-27T00:00:00","accumulated":0,"numbers":[17,25,36,37,38,40,42,48,50,55,57,62,71,72,73,79,80,82,92,93],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":10,"amount":28242.09},{"name":"18 números","total":139,"amount":2031.8},{"name":"17 números","total":1253,"amount":112.28},{"name":"16 números","total":8042,"amount":17.5},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "403",
+ "date": "2004-03-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  25,
+  36,
+  37,
+  38,
+  40,
+  42,
+  48,
+  50,
+  55,
+  57,
+  62,
+  71,
+  72,
+  73,
+  79,
+  80,
+  82,
+  92,
+  93
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 10,
+   "amount": 28242.09
+  },
+  {
+   "name": "18 números",
+   "total": 139,
+   "amount": 2031.8
+  },
+  {
+   "name": "17 números",
+   "total": 1253,
+   "amount": 112.28
+  },
+  {
+   "name": "16 números",
+   "total": 8042,
+   "amount": 17.5
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

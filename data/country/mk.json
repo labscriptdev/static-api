@@ -1,1 +1,15 @@
-{"name":"North Macedonia","cca2":"mk","cca3":"mkd","languages":["mkd"],"latlng":[41.83333333,22],"flags":"https://flagcdn.com/mk.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "North Macedonia",
+ "cca2": "mk",
+ "cca3": "mkd",
+ "languages": [
+  "mkd"
+ ],
+ "latlng": [
+  41.83333333,
+  22
+ ],
+ "flags": "https://flagcdn.com/mk.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

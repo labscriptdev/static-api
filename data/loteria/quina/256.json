@@ -1,1 +1,29 @@
-{"number":"256","date":"1996-11-28T00:00:00","accumulated":0,"numbers":[4,6,18,40,74],"winners":[{"name":"Quina","total":4,"amount":186227.7},{"name":"Quadra","total":479,"amount":760.02},{"name":"Terno","total":19943,"amount":24.34}]}
+{
+ "number": "256",
+ "date": "1996-11-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  6,
+  18,
+  40,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 4,
+   "amount": 186227.7
+  },
+  {
+   "name": "Quadra",
+   "total": 479,
+   "amount": 760.02
+  },
+  {
+   "name": "Terno",
+   "total": 19943,
+   "amount": 24.34
+  }
+ ]
+}

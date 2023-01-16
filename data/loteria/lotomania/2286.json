@@ -1,1 +1,59 @@
-{"number":"2286","date":"2022-03-14T00:00:00","accumulated":0,"numbers":[3,5,17,18,22,34,39,45,56,57,61,66,67,71,73,80,83,87,98,100],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":6,"amount":35449.15},{"name":"18 números","total":40,"amount":3323.36},{"name":"17 números","total":474,"amount":280.45},{"name":"16 números","total":2879,"amount":46.17},{"name":"nenhum número","total":13153,"amount":10.1}]}
+{
+ "number": "2286",
+ "date": "2022-03-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  17,
+  18,
+  22,
+  34,
+  39,
+  45,
+  56,
+  57,
+  61,
+  66,
+  67,
+  71,
+  73,
+  80,
+  83,
+  87,
+  98,
+  100
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 35449.15
+  },
+  {
+   "name": "18 números",
+   "total": 40,
+   "amount": 3323.36
+  },
+  {
+   "name": "17 números",
+   "total": 474,
+   "amount": 280.45
+  },
+  {
+   "name": "16 números",
+   "total": 2879,
+   "amount": 46.17
+  },
+  {
+   "name": "nenhum número",
+   "total": 13153,
+   "amount": 10.1
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"697","date":"2000-05-13T00:00:00","accumulated":0,"numbers":[19,28,31,53,66],"winners":[{"name":"Quina","total":3,"amount":114451.05},{"name":"Quadra","total":333,"amount":1031.09},{"name":"Terno","total":14215,"amount":32.08}]}
+{
+ "number": "697",
+ "date": "2000-05-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  19,
+  28,
+  31,
+  53,
+  66
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 114451.05
+  },
+  {
+   "name": "Quadra",
+   "total": 333,
+   "amount": 1031.09
+  },
+  {
+   "name": "Terno",
+   "total": 14215,
+   "amount": 32.08
+  }
+ ]
+}

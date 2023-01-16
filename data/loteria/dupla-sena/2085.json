@@ -1,1 +1,35 @@
-{"number":"2085","date":"2020-05-30T00:00:00","accumulated":0,"numbers":[5,21,28,35,36,39],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":13,"amount":4557.73},{"name":"Quadra","total":534,"amount":126.8},{"name":"Terno","total":12344,"amount":2.74}]}
+{
+ "number": "2085",
+ "date": "2020-05-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  21,
+  28,
+  35,
+  36,
+  39
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 13,
+   "amount": 4557.73
+  },
+  {
+   "name": "Quadra",
+   "total": 534,
+   "amount": 126.8
+  },
+  {
+   "name": "Terno",
+   "total": 12344,
+   "amount": 2.74
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"1516","date":"2016-07-12T00:00:00","accumulated":0,"numbers":[1,24,26,30,39,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":16,"amount":4696.42},{"name":"Quadra","total":805,"amount":106.68},{"name":"Terno","total":16483,"amount":2.6}]}
+{
+ "number": "1516",
+ "date": "2016-07-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  24,
+  26,
+  30,
+  39,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 16,
+   "amount": 4696.42
+  },
+  {
+   "name": "Quadra",
+   "total": 805,
+   "amount": 106.68
+  },
+  {
+   "name": "Terno",
+   "total": 16483,
+   "amount": 2.6
+  }
+ ]
+}

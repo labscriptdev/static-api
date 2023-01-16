@@ -1,1 +1,30 @@
-{"number":"507","date":"2003-10-22T00:00:00","accumulated":0,"numbers":[3,5,27,33,44,58],"winners":[{"name":"Sena","total":2,"amount":1963484.53},{"name":"Quina","total":212,"amount":3273.22},{"name":"Quadra","total":6604,"amount":104.68}]}
+{
+ "number": "507",
+ "date": "2003-10-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  27,
+  33,
+  44,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 1963484.53
+  },
+  {
+   "name": "Quina",
+   "total": 212,
+   "amount": 3273.22
+  },
+  {
+   "name": "Quadra",
+   "total": 6604,
+   "amount": 104.68
+  }
+ ]
+}

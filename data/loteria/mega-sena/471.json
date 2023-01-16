@@ -1,1 +1,30 @@
-{"number":"471","date":"2003-06-14T00:00:00","accumulated":0,"numbers":[5,31,32,36,51,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":76,"amount":19668.02},{"name":"Quadra","total":5490,"amount":271.24}]}
+{
+ "number": "471",
+ "date": "2003-06-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  31,
+  32,
+  36,
+  51,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 76,
+   "amount": 19668.02
+  },
+  {
+   "name": "Quadra",
+   "total": 5490,
+   "amount": 271.24
+  }
+ ]
+}

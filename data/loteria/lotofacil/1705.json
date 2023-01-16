@@ -1,1 +1,49 @@
-{"number":"1705","date":"2018-08-22T00:00:00","accumulated":0,"numbers":[2,3,4,5,9,12,14,16,17,18,19,20,21,23,24],"winners":[{"name":"15 números","total":2,"amount":973256.16},{"name":"14 números","total":11524,"amount":2330.46},{"name":"13 números","total":11524,"amount":20},{"name":"12 números","total":171043,"amount":8},{"name":"11 números","total":977956,"amount":4}]}
+{
+ "number": "1705",
+ "date": "2018-08-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  4,
+  5,
+  9,
+  12,
+  14,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 973256.16
+  },
+  {
+   "name": "14 números",
+   "total": 11524,
+   "amount": 2330.46
+  },
+  {
+   "name": "13 números",
+   "total": 11524,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 171043,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 977956,
+   "amount": 4
+  }
+ ]
+}

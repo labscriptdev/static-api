@@ -1,1 +1,17 @@
-{"name":"Peru","cca2":"pe","cca3":"per","languages":["aym","que","spa"],"latlng":[-10,-76],"flags":"https://flagcdn.com/pe.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Peru",
+ "cca2": "pe",
+ "cca3": "per",
+ "languages": [
+  "aym",
+  "que",
+  "spa"
+ ],
+ "latlng": [
+  -10,
+  -76
+ ],
+ "flags": "https://flagcdn.com/pe.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

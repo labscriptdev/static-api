@@ -1,1 +1,29 @@
-{"number":"769","date":"2000-11-07T00:00:00","accumulated":0,"numbers":[8,28,34,60,65],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":235,"amount":1045.48},{"name":"Terno","total":9891,"amount":33.03}]}
+{
+ "number": "769",
+ "date": "2000-11-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  28,
+  34,
+  60,
+  65
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 235,
+   "amount": 1045.48
+  },
+  {
+   "name": "Terno",
+   "total": 9891,
+   "amount": 33.03
+  }
+ ]
+}

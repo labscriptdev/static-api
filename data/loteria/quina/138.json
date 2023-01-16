@@ -1,1 +1,29 @@
-{"number":"138","date":"1995-08-31T00:00:00","accumulated":0,"numbers":[13,23,37,56,80],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":305,"amount":857.43},{"name":"Terno","total":14000,"amount":24.91}]}
+{
+ "number": "138",
+ "date": "1995-08-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  23,
+  37,
+  56,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 305,
+   "amount": 857.43
+  },
+  {
+   "name": "Terno",
+   "total": 14000,
+   "amount": 24.91
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"2025","date":"2018-03-24T00:00:00","accumulated":0,"numbers":[4,24,46,52,55,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":53,"amount":47718.26},{"name":"Quadra","total":3730,"amount":968.62}]}
+{
+ "number": "2025",
+ "date": "2018-03-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  24,
+  46,
+  52,
+  55,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 53,
+   "amount": 47718.26
+  },
+  {
+   "name": "Quadra",
+   "total": 3730,
+   "amount": 968.62
+  }
+ ]
+}

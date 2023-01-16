@@ -1,1 +1,49 @@
-{"number":"1725","date":"2018-10-17T00:00:00","accumulated":0,"numbers":[1,5,6,8,12,13,14,15,18,19,21,22,23,24,25],"winners":[{"name":"15 números","total":2,"amount":1068840.62},{"name":"14 números","total":14581,"amount":1963.43},{"name":"13 números","total":14581,"amount":20},{"name":"12 números","total":184487,"amount":8},{"name":"11 números","total":1066420,"amount":4}]}
+{
+ "number": "1725",
+ "date": "2018-10-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  6,
+  8,
+  12,
+  13,
+  14,
+  15,
+  18,
+  19,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 1068840.62
+  },
+  {
+   "name": "14 números",
+   "total": 14581,
+   "amount": 1963.43
+  },
+  {
+   "name": "13 números",
+   "total": 14581,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 184487,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1066420,
+   "amount": 4
+  }
+ ]
+}

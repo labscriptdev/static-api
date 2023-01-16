@@ -1,1 +1,35 @@
-{"number":"443","date":"2006-04-04T00:00:00","accumulated":0,"numbers":[22,23,25,35,41,47],"winners":[{"name":"Sena","total":1,"amount":13768755.84},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "443",
+ "date": "2006-04-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  22,
+  23,
+  25,
+  35,
+  41,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 13768755.84
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

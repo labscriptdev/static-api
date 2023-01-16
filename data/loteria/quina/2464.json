@@ -1,1 +1,29 @@
-{"number":"2464","date":"2010-12-04T00:00:00","accumulated":0,"numbers":[8,25,30,52,67],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":149,"amount":2503.17},{"name":"Terno","total":7931,"amount":67.18}]}
+{
+ "number": "2464",
+ "date": "2010-12-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  25,
+  30,
+  52,
+  67
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 149,
+   "amount": 2503.17
+  },
+  {
+   "name": "Terno",
+   "total": 7931,
+   "amount": 67.18
+  }
+ ]
+}

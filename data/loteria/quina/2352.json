@@ -1,1 +1,29 @@
-{"number":"2352","date":"2010-07-22T00:00:00","accumulated":0,"numbers":[25,30,32,68,75],"winners":[{"name":"Quina","total":1,"amount":425109.86},{"name":"Quadra","total":60,"amount":5313.87},{"name":"Terno","total":4340,"amount":104.94}]}
+{
+ "number": "2352",
+ "date": "2010-07-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  25,
+  30,
+  32,
+  68,
+  75
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 425109.86
+  },
+  {
+   "name": "Quadra",
+   "total": 60,
+   "amount": 5313.87
+  },
+  {
+   "name": "Terno",
+   "total": 4340,
+   "amount": 104.94
+  }
+ ]
+}

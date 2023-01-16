@@ -1,1 +1,29 @@
-{"number":"5293","date":"2020-06-12T00:00:00","accumulated":0,"numbers":[2,18,20,23,38],"winners":[{"name":"Quina","total":1,"amount":2566267.81},{"name":"Quadra","total":150,"amount":3730.51},{"name":"Terno","total":8016,"amount":104.97}]}
+{
+ "number": "5293",
+ "date": "2020-06-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  18,
+  20,
+  23,
+  38
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 2566267.81
+  },
+  {
+   "name": "Quadra",
+   "total": 150,
+   "amount": 3730.51
+  },
+  {
+   "name": "Terno",
+   "total": 8016,
+   "amount": 104.97
+  }
+ ]
+}

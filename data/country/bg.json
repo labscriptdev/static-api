@@ -1,1 +1,15 @@
-{"name":"Bulgaria","cca2":"bg","cca3":"bgr","languages":["bul"],"latlng":[43,25],"flags":"https://flagcdn.com/bg.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Bulgaria",
+ "cca2": "bg",
+ "cca3": "bgr",
+ "languages": [
+  "bul"
+ ],
+ "latlng": [
+  43,
+  25
+ ],
+ "flags": "https://flagcdn.com/bg.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

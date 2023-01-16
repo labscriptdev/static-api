@@ -1,1 +1,30 @@
-{"number":"114","date":"1998-05-09T00:00:00","accumulated":0,"numbers":[6,12,18,37,47,54],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":71,"amount":9626.08},{"name":"Quadra","total":4908,"amount":138.99}]}
+{
+ "number": "114",
+ "date": "1998-05-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  12,
+  18,
+  37,
+  47,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 71,
+   "amount": 9626.08
+  },
+  {
+   "name": "Quadra",
+   "total": 4908,
+   "amount": 138.99
+  }
+ ]
+}

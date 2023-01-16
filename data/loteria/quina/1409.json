@@ -1,1 +1,29 @@
-{"number":"1409","date":"2005-02-12T00:00:00","accumulated":0,"numbers":[12,48,50,65,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":136,"amount":2362.92},{"name":"Terno","total":6533,"amount":65.35}]}
+{
+ "number": "1409",
+ "date": "2005-02-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  48,
+  50,
+  65,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 136,
+   "amount": 2362.92
+  },
+  {
+   "name": "Terno",
+   "total": 6533,
+   "amount": 65.35
+  }
+ ]
+}

@@ -1,1 +1,59 @@
-{"number":"767","date":"2007-10-17T00:00:00","accumulated":0,"numbers":[6,7,8,12,15,18,34,36,39,46,49,51,52,59,60,73,76,89,91,94],"winners":[{"name":"20 números","total":1,"amount":3216780.6},{"name":"19 números","total":11,"amount":29208.53},{"name":"18 números","total":165,"amount":1947.24},{"name":"17 números","total":1425,"amount":112.31},{"name":"16 números","total":9102,"amount":17.59},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "767",
+ "date": "2007-10-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  7,
+  8,
+  12,
+  15,
+  18,
+  34,
+  36,
+  39,
+  46,
+  49,
+  51,
+  52,
+  59,
+  60,
+  73,
+  76,
+  89,
+  91,
+  94
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 3216780.6
+  },
+  {
+   "name": "19 números",
+   "total": 11,
+   "amount": 29208.53
+  },
+  {
+   "name": "18 números",
+   "total": 165,
+   "amount": 1947.24
+  },
+  {
+   "name": "17 números",
+   "total": 1425,
+   "amount": 112.31
+  },
+  {
+   "name": "16 números",
+   "total": 9102,
+   "amount": 17.59
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

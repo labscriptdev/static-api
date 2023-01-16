@@ -1,1 +1,29 @@
-{"number":"1969","date":"2008-10-23T00:00:00","accumulated":0,"numbers":[5,16,26,60,80],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":92,"amount":5269.07},{"name":"Terno","total":6731,"amount":96.02}]}
+{
+ "number": "1969",
+ "date": "2008-10-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  16,
+  26,
+  60,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 92,
+   "amount": 5269.07
+  },
+  {
+   "name": "Terno",
+   "total": 6731,
+   "amount": 96.02
+  }
+ ]
+}

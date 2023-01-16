@@ -1,1 +1,35 @@
-{"number":"899","date":"2010-09-17T00:00:00","accumulated":0,"numbers":[9,23,37,39,42,43],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":34,"amount":2950.37},{"name":"Quadra","total":2045,"amount":46.71},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "899",
+ "date": "2010-09-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  23,
+  37,
+  39,
+  42,
+  43
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 34,
+   "amount": 2950.37
+  },
+  {
+   "name": "Quadra",
+   "total": 2045,
+   "amount": 46.71
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

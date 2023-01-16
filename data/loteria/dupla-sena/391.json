@@ -1,1 +1,35 @@
-{"number":"391","date":"2005-09-27T00:00:00","accumulated":0,"numbers":[4,26,28,37,38,42],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "391",
+ "date": "2005-09-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  26,
+  28,
+  37,
+  38,
+  42
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

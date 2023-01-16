@@ -1,1 +1,49 @@
-{"number":"2020","date":"2020-08-25T00:00:00","accumulated":0,"numbers":[2,3,4,5,7,8,9,12,15,16,17,19,20,21,25],"winners":[{"name":"15 números","total":4,"amount":932809.46},{"name":"14 números","total":8974,"amount":1483.19},{"name":"13 números","total":8974,"amount":25},{"name":"12 números","total":117344,"amount":10},{"name":"11 números","total":659053,"amount":5}]}
+{
+ "number": "2020",
+ "date": "2020-08-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  4,
+  5,
+  7,
+  8,
+  9,
+  12,
+  15,
+  16,
+  17,
+  19,
+  20,
+  21,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 932809.46
+  },
+  {
+   "name": "14 números",
+   "total": 8974,
+   "amount": 1483.19
+  },
+  {
+   "name": "13 números",
+   "total": 8974,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 117344,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 659053,
+   "amount": 5
+  }
+ ]
+}

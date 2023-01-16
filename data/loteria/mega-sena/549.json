@@ -1,1 +1,30 @@
-{"number":"549","date":"2004-03-27T00:00:00","accumulated":0,"numbers":[8,13,22,46,51,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":34,"amount":17519.41},{"name":"Quadra","total":2772,"amount":214.07}]}
+{
+ "number": "549",
+ "date": "2004-03-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  13,
+  22,
+  46,
+  51,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 34,
+   "amount": 17519.41
+  },
+  {
+   "name": "Quadra",
+   "total": 2772,
+   "amount": 214.07
+  }
+ ]
+}

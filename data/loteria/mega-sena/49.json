@@ -1,1 +1,30 @@
-{"number":"49","date":"1997-02-09T00:00:00","accumulated":0,"numbers":[7,13,33,35,43,55],"winners":[{"name":"Sena","total":1,"amount":8405156.76},{"name":"Quina","total":155,"amount":6916.34},{"name":"Quadra","total":9830,"amount":108.85}]}
+{
+ "number": "49",
+ "date": "1997-02-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  13,
+  33,
+  35,
+  43,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 8405156.76
+  },
+  {
+   "name": "Quina",
+   "total": 155,
+   "amount": 6916.34
+  },
+  {
+   "name": "Quadra",
+   "total": 9830,
+   "amount": 108.85
+  }
+ ]
+}

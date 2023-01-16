@@ -1,1 +1,59 @@
-{"number":"1892","date":"2018-08-14T00:00:00","accumulated":0,"numbers":[1,6,13,16,17,29,30,33,43,50,51,52,56,60,62,76,78,82,83,86],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":13,"amount":16908.31},{"name":"18 números","total":90,"amount":1526.45},{"name":"17 números","total":785,"amount":175},{"name":"16 números","total":5125,"amount":26.8},{"name":"nenhum número","total":23108,"amount":5.94}]}
+{
+ "number": "1892",
+ "date": "2018-08-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  6,
+  13,
+  16,
+  17,
+  29,
+  30,
+  33,
+  43,
+  50,
+  51,
+  52,
+  56,
+  60,
+  62,
+  76,
+  78,
+  82,
+  83,
+  86
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 13,
+   "amount": 16908.31
+  },
+  {
+   "name": "18 números",
+   "total": 90,
+   "amount": 1526.45
+  },
+  {
+   "name": "17 números",
+   "total": 785,
+   "amount": 175
+  },
+  {
+   "name": "16 números",
+   "total": 5125,
+   "amount": 26.8
+  },
+  {
+   "name": "nenhum número",
+   "total": 23108,
+   "amount": 5.94
+  }
+ ]
+}

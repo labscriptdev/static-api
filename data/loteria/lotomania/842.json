@@ -1,1 +1,59 @@
-{"number":"842","date":"2008-07-05T00:00:00","accumulated":0,"numbers":[8,10,11,18,28,31,37,38,40,45,46,49,55,62,79,81,85,86,91,95],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":6,"amount":45800.02},{"name":"18 números","total":122,"amount":2252.46},{"name":"17 números","total":1171,"amount":117.34},{"name":"16 números","total":7195,"amount":19.1},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "842",
+ "date": "2008-07-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  10,
+  11,
+  18,
+  28,
+  31,
+  37,
+  38,
+  40,
+  45,
+  46,
+  49,
+  55,
+  62,
+  79,
+  81,
+  85,
+  86,
+  91,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 45800.02
+  },
+  {
+   "name": "18 números",
+   "total": 122,
+   "amount": 2252.46
+  },
+  {
+   "name": "17 números",
+   "total": 1171,
+   "amount": 117.34
+  },
+  {
+   "name": "16 números",
+   "total": 7195,
+   "amount": 19.1
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

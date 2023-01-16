@@ -1,1 +1,29 @@
-{"number":"654","date":"2000-01-27T00:00:00","accumulated":0,"numbers":[3,13,48,55,68],"winners":[{"name":"Quina","total":2,"amount":125305.32},{"name":"Quadra","total":326,"amount":768.74},{"name":"Terno","total":13229,"amount":25.17}]}
+{
+ "number": "654",
+ "date": "2000-01-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  13,
+  48,
+  55,
+  68
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 125305.32
+  },
+  {
+   "name": "Quadra",
+   "total": 326,
+   "amount": 768.74
+  },
+  {
+   "name": "Terno",
+   "total": 13229,
+   "amount": 25.17
+  }
+ ]
+}

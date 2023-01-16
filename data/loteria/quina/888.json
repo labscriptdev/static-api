@@ -1,1 +1,29 @@
-{"number":"888","date":"2001-08-28T00:00:00","accumulated":0,"numbers":[18,22,31,45,79],"winners":[{"name":"Quina","total":4,"amount":67136.56},{"name":"Quadra","total":235,"amount":1142.75},{"name":"Terno","total":10532,"amount":33.88}]}
+{
+ "number": "888",
+ "date": "2001-08-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  22,
+  31,
+  45,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 4,
+   "amount": 67136.56
+  },
+  {
+   "name": "Quadra",
+   "total": 235,
+   "amount": 1142.75
+  },
+  {
+   "name": "Terno",
+   "total": 10532,
+   "amount": 33.88
+  }
+ ]
+}

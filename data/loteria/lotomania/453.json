@@ -1,1 +1,59 @@
-{"number":"453","date":"2004-09-18T00:00:00","accumulated":0,"numbers":[0,5,6,11,16,20,24,31,36,43,47,52,54,56,59,68,72,74,96,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":17,"amount":15299.85},{"name":"18 números","total":212,"amount":1226.87},{"name":"17 números","total":1840,"amount":70.42},{"name":"16 números","total":10914,"amount":11.88},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "453",
+ "date": "2004-09-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  5,
+  6,
+  11,
+  16,
+  20,
+  24,
+  31,
+  36,
+  43,
+  47,
+  52,
+  54,
+  56,
+  59,
+  68,
+  72,
+  74,
+  96,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 17,
+   "amount": 15299.85
+  },
+  {
+   "name": "18 números",
+   "total": 212,
+   "amount": 1226.87
+  },
+  {
+   "name": "17 números",
+   "total": 1840,
+   "amount": 70.42
+  },
+  {
+   "name": "16 números",
+   "total": 10914,
+   "amount": 11.88
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"534","date":"2007-02-27T00:00:00","accumulated":0,"numbers":[8,14,28,30,37,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "534",
+ "date": "2007-02-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  14,
+  28,
+  30,
+  37,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"5152","date":"2019-12-20T00:00:00","accumulated":0,"numbers":[9,37,41,71,73],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":52,"amount":9162.75},{"name":"Terno","total":4270,"amount":167.79}]}
+{
+ "number": "5152",
+ "date": "2019-12-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  37,
+  41,
+  71,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 52,
+   "amount": 9162.75
+  },
+  {
+   "name": "Terno",
+   "total": 4270,
+   "amount": 167.79
+  }
+ ]
+}

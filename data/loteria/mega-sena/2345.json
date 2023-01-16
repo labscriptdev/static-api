@@ -1,1 +1,30 @@
-{"number":"2345","date":"2021-02-17T00:00:00","accumulated":0,"numbers":[7,16,19,22,28,55],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":75,"amount":30067.59},{"name":"Quadra","total":4970,"amount":648.19}]}
+{
+ "number": "2345",
+ "date": "2021-02-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  16,
+  19,
+  22,
+  28,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 75,
+   "amount": 30067.59
+  },
+  {
+   "name": "Quadra",
+   "total": 4970,
+   "amount": 648.19
+  }
+ ]
+}

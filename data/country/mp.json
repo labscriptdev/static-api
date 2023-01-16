@@ -1,1 +1,17 @@
-{"name":"Northern Mariana Islands","cca2":"mp","cca3":"mnp","languages":["cal","cha","eng"],"latlng":[15.2,145.75],"flags":"https://flagcdn.com/mp.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Northern Mariana Islands",
+ "cca2": "mp",
+ "cca3": "mnp",
+ "languages": [
+  "cal",
+  "cha",
+  "eng"
+ ],
+ "latlng": [
+  15.2,
+  145.75
+ ],
+ "flags": "https://flagcdn.com/mp.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

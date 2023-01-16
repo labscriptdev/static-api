@@ -1,1 +1,29 @@
-{"number":"2178","date":"2009-12-22T00:00:00","accumulated":0,"numbers":[10,45,61,62,80],"winners":[{"name":"Quina","total":2,"amount":2127388.17},{"name":"Quadra","total":180,"amount":3102.19},{"name":"Terno","total":10598,"amount":75.26}]}
+{
+ "number": "2178",
+ "date": "2009-12-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  45,
+  61,
+  62,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 2127388.17
+  },
+  {
+   "name": "Quadra",
+   "total": 180,
+   "amount": 3102.19
+  },
+  {
+   "name": "Terno",
+   "total": 10598,
+   "amount": 75.26
+  }
+ ]
+}

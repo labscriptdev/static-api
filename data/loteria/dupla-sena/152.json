@@ -1,1 +1,35 @@
-{"number":"152","date":"2003-05-13T00:00:00","accumulated":0,"numbers":[8,24,25,42,47,49],"winners":[{"name":"Sena","total":1,"amount":2419133.61},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "152",
+ "date": "2003-05-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  24,
+  25,
+  42,
+  47,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 2419133.61
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

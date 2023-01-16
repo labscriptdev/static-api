@@ -1,1 +1,29 @@
-{"number":"6046","date":"2023-01-09T00:00:00","accumulated":0,"numbers":[1,40,69,73,76],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":18,"amount":16718.89},{"name":"Terno","total":2195,"amount":130.57}]}
+{
+ "number": "6046",
+ "date": "2023-01-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  40,
+  69,
+  73,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 18,
+   "amount": 16718.89
+  },
+  {
+   "name": "Terno",
+   "total": 2195,
+   "amount": 130.57
+  }
+ ]
+}

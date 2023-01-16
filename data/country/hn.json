@@ -1,1 +1,15 @@
-{"name":"Honduras","cca2":"hn","cca3":"hnd","languages":["spa"],"latlng":[15,-86.5],"flags":"https://flagcdn.com/hn.svg","postalCodeMask":"@@####","phoneMask":false}
+{
+ "name": "Honduras",
+ "cca2": "hn",
+ "cca3": "hnd",
+ "languages": [
+  "spa"
+ ],
+ "latlng": [
+  15,
+  -86.5
+ ],
+ "flags": "https://flagcdn.com/hn.svg",
+ "postalCodeMask": "@@####",
+ "phoneMask": false
+}

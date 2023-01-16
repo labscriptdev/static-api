@@ -1,1 +1,59 @@
-{"number":"1913","date":"2018-10-26T00:00:00","accumulated":0,"numbers":[7,13,21,29,30,31,42,43,51,53,63,64,67,69,74,77,83,89,92,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":11,"amount":22633.68},{"name":"18 números","total":115,"amount":1353.1},{"name":"17 números","total":1003,"amount":155.14},{"name":"16 números","total":6446,"amount":24.14},{"name":"nenhum número","total":28610,"amount":5.43}]}
+{
+ "number": "1913",
+ "date": "2018-10-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  13,
+  21,
+  29,
+  30,
+  31,
+  42,
+  43,
+  51,
+  53,
+  63,
+  64,
+  67,
+  69,
+  74,
+  77,
+  83,
+  89,
+  92,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 11,
+   "amount": 22633.68
+  },
+  {
+   "name": "18 números",
+   "total": 115,
+   "amount": 1353.1
+  },
+  {
+   "name": "17 números",
+   "total": 1003,
+   "amount": 155.14
+  },
+  {
+   "name": "16 números",
+   "total": 6446,
+   "amount": 24.14
+  },
+  {
+   "name": "nenhum número",
+   "total": 28610,
+   "amount": 5.43
+  }
+ ]
+}

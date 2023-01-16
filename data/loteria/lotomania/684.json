@@ -1,1 +1,59 @@
-{"number":"684","date":"2006-12-30T00:00:00","accumulated":0,"numbers":[0,1,13,17,21,27,35,37,40,48,52,54,59,64,69,77,79,87,93,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":20,"amount":14734.02},{"name":"18 números","total":264,"amount":1116.22},{"name":"17 números","total":2074,"amount":70.78},{"name":"16 números","total":10979,"amount":13.37},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "684",
+ "date": "2006-12-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  1,
+  13,
+  17,
+  21,
+  27,
+  35,
+  37,
+  40,
+  48,
+  52,
+  54,
+  59,
+  64,
+  69,
+  77,
+  79,
+  87,
+  93,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 20,
+   "amount": 14734.02
+  },
+  {
+   "name": "18 números",
+   "total": 264,
+   "amount": 1116.22
+  },
+  {
+   "name": "17 números",
+   "total": 2074,
+   "amount": 70.78
+  },
+  {
+   "name": "16 números",
+   "total": 10979,
+   "amount": 13.37
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

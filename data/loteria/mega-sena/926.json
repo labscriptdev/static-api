@@ -1,1 +1,30 @@
-{"number":"926","date":"2007-12-08T00:00:00","accumulated":0,"numbers":[21,33,34,40,41,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":24,"amount":35599.69},{"name":"Quadra","total":2019,"amount":421.58}]}
+{
+ "number": "926",
+ "date": "2007-12-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  21,
+  33,
+  34,
+  40,
+  41,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 24,
+   "amount": 35599.69
+  },
+  {
+   "name": "Quadra",
+   "total": 2019,
+   "amount": 421.58
+  }
+ ]
+}

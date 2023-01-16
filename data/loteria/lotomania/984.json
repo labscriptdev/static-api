@@ -1,1 +1,59 @@
-{"number":"984","date":"2009-11-14T00:00:00","accumulated":0,"numbers":[0,5,6,9,13,14,18,24,30,38,43,45,52,53,56,62,75,80,86,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":15,"amount":19733.53},{"name":"18 números","total":213,"amount":1389.69},{"name":"17 números","total":1646,"amount":128.45},{"name":"16 números","total":10115,"amount":20.9},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "984",
+ "date": "2009-11-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  5,
+  6,
+  9,
+  13,
+  14,
+  18,
+  24,
+  30,
+  38,
+  43,
+  45,
+  52,
+  53,
+  56,
+  62,
+  75,
+  80,
+  86,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 15,
+   "amount": 19733.53
+  },
+  {
+   "name": "18 números",
+   "total": 213,
+   "amount": 1389.69
+  },
+  {
+   "name": "17 números",
+   "total": 1646,
+   "amount": 128.45
+  },
+  {
+   "name": "16 números",
+   "total": 10115,
+   "amount": 20.9
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

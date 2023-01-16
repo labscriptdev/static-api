@@ -1,1 +1,30 @@
-{"number":"365","date":"2002-05-29T00:00:00","accumulated":0,"numbers":[19,23,34,37,52,58],"winners":[{"name":"Sena","total":1,"amount":462752.26},{"name":"Quina","total":45,"amount":8569.49},{"name":"Quadra","total":2433,"amount":157.9}]}
+{
+ "number": "365",
+ "date": "2002-05-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  19,
+  23,
+  34,
+  37,
+  52,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 462752.26
+  },
+  {
+   "name": "Quina",
+   "total": 45,
+   "amount": 8569.49
+  },
+  {
+   "name": "Quadra",
+   "total": 2433,
+   "amount": 157.9
+  }
+ ]
+}

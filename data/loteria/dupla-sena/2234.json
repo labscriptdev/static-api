@@ -1,1 +1,35 @@
-{"number":"2234","date":"2021-06-12T00:00:00","accumulated":0,"numbers":[1,9,24,35,36,38],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":14,"amount":5446.84},{"name":"Quadra","total":756,"amount":115.27},{"name":"Terno","total":15233,"amount":2.86}]}
+{
+ "number": "2234",
+ "date": "2021-06-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  9,
+  24,
+  35,
+  36,
+  38
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 14,
+   "amount": 5446.84
+  },
+  {
+   "name": "Quadra",
+   "total": 756,
+   "amount": 115.27
+  },
+  {
+   "name": "Terno",
+   "total": 15233,
+   "amount": 2.86
+  }
+ ]
+}

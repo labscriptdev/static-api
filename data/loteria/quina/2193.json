@@ -1,1 +1,29 @@
-{"number":"2193","date":"2010-01-11T00:00:00","accumulated":0,"numbers":[10,19,41,47,54],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":131,"amount":2347.85},{"name":"Terno","total":6942,"amount":63.29}]}
+{
+ "number": "2193",
+ "date": "2010-01-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  19,
+  41,
+  47,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 131,
+   "amount": 2347.85
+  },
+  {
+   "name": "Terno",
+   "total": 6942,
+   "amount": 63.29
+  }
+ ]
+}

@@ -1,1 +1,49 @@
-{"number":"1356","date":"2016-05-02T00:00:00","accumulated":0,"numbers":[3,4,6,8,9,10,11,12,13,14,15,16,17,19,20],"winners":[{"name":"15 números","total":2,"amount":2307596.13},{"name":"14 números","total":30330,"amount":1638.07},{"name":"13 números","total":30330,"amount":20},{"name":"12 números","total":219973,"amount":8},{"name":"11 números","total":1206589,"amount":4}]}
+{
+ "number": "1356",
+ "date": "2016-05-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  6,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  19,
+  20
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 2307596.13
+  },
+  {
+   "name": "14 números",
+   "total": 30330,
+   "amount": 1638.07
+  },
+  {
+   "name": "13 números",
+   "total": 30330,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 219973,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1206589,
+   "amount": 4
+  }
+ ]
+}

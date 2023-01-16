@@ -1,1 +1,59 @@
-{"number":"342","date":"2003-08-16T00:00:00","accumulated":0,"numbers":[12,18,19,21,22,36,40,43,46,49,50,51,61,62,63,64,72,75,78,79],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":18,"amount":27049},{"name":"18 números","total":272,"amount":1790.01},{"name":"17 números","total":2529,"amount":95.9},{"name":"16 números","total":15142,"amount":16.02},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "342",
+ "date": "2003-08-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  18,
+  19,
+  21,
+  22,
+  36,
+  40,
+  43,
+  46,
+  49,
+  50,
+  51,
+  61,
+  62,
+  63,
+  64,
+  72,
+  75,
+  78,
+  79
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 18,
+   "amount": 27049
+  },
+  {
+   "name": "18 números",
+   "total": 272,
+   "amount": 1790.01
+  },
+  {
+   "name": "17 números",
+   "total": 2529,
+   "amount": 95.9
+  },
+  {
+   "name": "16 números",
+   "total": 15142,
+   "amount": 16.02
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"British Virgin Islands","cca2":"vg","cca3":"vgb","languages":["eng"],"latlng":[18.431383,-64.62305],"flags":"https://flagcdn.com/vg.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "British Virgin Islands",
+ "cca2": "vg",
+ "cca3": "vgb",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  18.431383,
+  -64.62305
+ ],
+ "flags": "https://flagcdn.com/vg.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

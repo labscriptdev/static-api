@@ -1,1 +1,35 @@
-{"number":"1080","date":"2012-06-12T00:00:00","accumulated":0,"numbers":[26,27,37,40,47,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":43,"amount":4365.31},{"name":"Quadra","total":2870,"amount":62.28},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1080",
+ "date": "2012-06-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  26,
+  27,
+  37,
+  40,
+  47,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 43,
+   "amount": 4365.31
+  },
+  {
+   "name": "Quadra",
+   "total": 2870,
+   "amount": 62.28
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

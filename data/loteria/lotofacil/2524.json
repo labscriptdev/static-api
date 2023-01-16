@@ -1,1 +1,49 @@
-{"number":"2524","date":"2022-05-18T00:00:00","accumulated":0,"numbers":[1,2,3,5,6,7,12,14,15,16,19,20,23,24,25],"winners":[{"name":"15 números","total":1,"amount":1370463.72},{"name":"14 números","total":10736,"amount":1382.18},{"name":"13 números","total":10736,"amount":25},{"name":"12 números","total":115470,"amount":10},{"name":"11 números","total":619076,"amount":5}]}
+{
+ "number": "2524",
+ "date": "2022-05-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  6,
+  7,
+  12,
+  14,
+  15,
+  16,
+  19,
+  20,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1370463.72
+  },
+  {
+   "name": "14 números",
+   "total": 10736,
+   "amount": 1382.18
+  },
+  {
+   "name": "13 números",
+   "total": 10736,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 115470,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 619076,
+   "amount": 5
+  }
+ ]
+}

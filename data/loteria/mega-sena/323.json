@@ -1,1 +1,30 @@
-{"number":"323","date":"2001-12-19T00:00:00","accumulated":0,"numbers":[26,31,33,40,49,54],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":56,"amount":19921.91},{"name":"Quadra","total":4244,"amount":261.89}]}
+{
+ "number": "323",
+ "date": "2001-12-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  26,
+  31,
+  33,
+  40,
+  49,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 56,
+   "amount": 19921.91
+  },
+  {
+   "name": "Quadra",
+   "total": 4244,
+   "amount": 261.89
+  }
+ ]
+}

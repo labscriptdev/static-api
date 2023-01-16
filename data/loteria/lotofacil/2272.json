@@ -1,1 +1,49 @@
-{"number":"2272","date":"2021-07-03T00:00:00","accumulated":0,"numbers":[1,2,5,7,8,10,11,13,14,15,16,18,21,22,24],"winners":[{"name":"15 números","total":7,"amount":189142.97},{"name":"14 números","total":9027,"amount":1279.32},{"name":"13 números","total":9027,"amount":25},{"name":"12 números","total":101649,"amount":10},{"name":"11 números","total":528520,"amount":5}]}
+{
+ "number": "2272",
+ "date": "2021-07-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  5,
+  7,
+  8,
+  10,
+  11,
+  13,
+  14,
+  15,
+  16,
+  18,
+  21,
+  22,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 7,
+   "amount": 189142.97
+  },
+  {
+   "name": "14 números",
+   "total": 9027,
+   "amount": 1279.32
+  },
+  {
+   "name": "13 números",
+   "total": 9027,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 101649,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 528520,
+   "amount": 5
+  }
+ ]
+}

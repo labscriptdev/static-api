@@ -1,1 +1,15 @@
-{"name":"Barbados","cca2":"bb","cca3":"brb","languages":["eng"],"latlng":[13.16666666,-59.53333333],"flags":"https://flagcdn.com/bb.svg","postalCodeMask":"BB#####","phoneMask":false}
+{
+ "name": "Barbados",
+ "cca2": "bb",
+ "cca3": "brb",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  13.16666666,
+  -59.53333333
+ ],
+ "flags": "https://flagcdn.com/bb.svg",
+ "postalCodeMask": "BB#####",
+ "phoneMask": false
+}

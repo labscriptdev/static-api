@@ -1,1 +1,29 @@
-{"number":"4205","date":"2016-10-10T00:00:00","accumulated":0,"numbers":[4,20,32,75,77],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":48,"amount":8843.36},{"name":"Terno","total":4636,"amount":137.68}]}
+{
+ "number": "4205",
+ "date": "2016-10-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  20,
+  32,
+  75,
+  77
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 48,
+   "amount": 8843.36
+  },
+  {
+   "name": "Terno",
+   "total": 4636,
+   "amount": 137.68
+  }
+ ]
+}

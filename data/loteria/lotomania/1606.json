@@ -1,1 +1,59 @@
-{"number":"1606","date":"2015-11-11T00:00:00","accumulated":0,"numbers":[2,5,12,13,23,29,33,38,43,52,54,58,60,61,65,70,85,86,97,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":6,"amount":34304.83},{"name":"18 números","total":82,"amount":2510.11},{"name":"17 números","total":722,"amount":178.17},{"name":"16 números","total":4518,"amount":28.47},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1606",
+ "date": "2015-11-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  12,
+  13,
+  23,
+  29,
+  33,
+  38,
+  43,
+  52,
+  54,
+  58,
+  60,
+  61,
+  65,
+  70,
+  85,
+  86,
+  97,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 34304.83
+  },
+  {
+   "name": "18 números",
+   "total": 82,
+   "amount": 2510.11
+  },
+  {
+   "name": "17 números",
+   "total": 722,
+   "amount": 178.17
+  },
+  {
+   "name": "16 números",
+   "total": 4518,
+   "amount": 28.47
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

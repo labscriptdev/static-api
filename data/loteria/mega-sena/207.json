@@ -1,1 +1,30 @@
-{"number":"207","date":"2000-02-19T00:00:00","accumulated":0,"numbers":[3,7,19,24,53,55],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":90,"amount":9663.76},{"name":"Quadra","total":6510,"amount":133.1}]}
+{
+ "number": "207",
+ "date": "2000-02-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  7,
+  19,
+  24,
+  53,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 90,
+   "amount": 9663.76
+  },
+  {
+   "name": "Quadra",
+   "total": 6510,
+   "amount": 133.1
+  }
+ ]
+}

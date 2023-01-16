@@ -1,1 +1,30 @@
-{"number":"2296","date":"2020-09-05T00:00:00","accumulated":0,"numbers":[1,6,21,29,36,59],"winners":[{"name":"Sena","total":2,"amount":47160446.98},{"name":"Quina","total":166,"amount":39028.74},{"name":"Quadra","total":8642,"amount":1070.97}]}
+{
+ "number": "2296",
+ "date": "2020-09-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  6,
+  21,
+  29,
+  36,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 47160446.98
+  },
+  {
+   "name": "Quina",
+   "total": 166,
+   "amount": 39028.74
+  },
+  {
+   "name": "Quadra",
+   "total": 8642,
+   "amount": 1070.97
+  }
+ ]
+}

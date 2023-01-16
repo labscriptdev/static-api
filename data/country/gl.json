@@ -1,1 +1,15 @@
-{"name":"Greenland","cca2":"gl","cca3":"grl","languages":["kal"],"latlng":[72,-40],"flags":"https://flagcdn.com/gl.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Greenland",
+ "cca2": "gl",
+ "cca3": "grl",
+ "languages": [
+  "kal"
+ ],
+ "latlng": [
+  72,
+  -40
+ ],
+ "flags": "https://flagcdn.com/gl.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

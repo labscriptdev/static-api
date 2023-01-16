@@ -1,1 +1,30 @@
-{"number":"122","date":"1998-07-04T00:00:00","accumulated":0,"numbers":[11,17,20,39,43,53],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":83,"amount":18210.45},{"name":"Quadra","total":7203,"amount":209.43}]}
+{
+ "number": "122",
+ "date": "1998-07-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  17,
+  20,
+  39,
+  43,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 83,
+   "amount": 18210.45
+  },
+  {
+   "name": "Quadra",
+   "total": 7203,
+   "amount": 209.43
+  }
+ ]
+}

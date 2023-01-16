@@ -1,1 +1,29 @@
-{"number":"2245","date":"2010-03-15T00:00:00","accumulated":0,"numbers":[4,36,53,73,79],"winners":[{"name":"Quina","total":1,"amount":5181326.3},{"name":"Quadra","total":190,"amount":3601.72},{"name":"Terno","total":10508,"amount":93.03}]}
+{
+ "number": "2245",
+ "date": "2010-03-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  36,
+  53,
+  73,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 5181326.3
+  },
+  {
+   "name": "Quadra",
+   "total": 190,
+   "amount": 3601.72
+  },
+  {
+   "name": "Terno",
+   "total": 10508,
+   "amount": 93.03
+  }
+ ]
+}

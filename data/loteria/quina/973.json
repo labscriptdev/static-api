@@ -1,1 +1,29 @@
-{"number":"973","date":"2002-03-28T00:00:00","accumulated":0,"numbers":[6,19,34,42,52],"winners":[{"name":"Quina","total":1,"amount":263176.06},{"name":"Quadra","total":333,"amount":787.32},{"name":"Terno","total":12894,"amount":27.11}]}
+{
+ "number": "973",
+ "date": "2002-03-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  19,
+  34,
+  42,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 263176.06
+  },
+  {
+   "name": "Quadra",
+   "total": 333,
+   "amount": 787.32
+  },
+  {
+   "name": "Terno",
+   "total": 12894,
+   "amount": 27.11
+  }
+ ]
+}

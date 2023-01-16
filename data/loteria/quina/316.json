@@ -1,1 +1,29 @@
-{"number":"316","date":"1997-07-20T00:00:00","accumulated":0,"numbers":[27,28,50,65,76],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":215,"amount":1801.62},{"name":"Terno","total":11402,"amount":45.2}]}
+{
+ "number": "316",
+ "date": "1997-07-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  27,
+  28,
+  50,
+  65,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 215,
+   "amount": 1801.62
+  },
+  {
+   "name": "Terno",
+   "total": 11402,
+   "amount": 45.2
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"Martinique","cca2":"mq","cca3":"mtq","languages":["fra"],"latlng":[14.666667,-61],"flags":"https://flagcdn.com/mq.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Martinique",
+ "cca2": "mq",
+ "cca3": "mtq",
+ "languages": [
+  "fra"
+ ],
+ "latlng": [
+  14.666667,
+  -61
+ ],
+ "flags": "https://flagcdn.com/mq.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

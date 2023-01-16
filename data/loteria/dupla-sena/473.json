@@ -1,1 +1,35 @@
-{"number":"473","date":"2006-07-25T00:00:00","accumulated":0,"numbers":[1,28,31,32,42,43],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "473",
+ "date": "2006-07-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  28,
+  31,
+  32,
+  42,
+  43
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

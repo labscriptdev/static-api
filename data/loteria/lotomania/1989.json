@@ -1,1 +1,59 @@
-{"number":"1989","date":"2019-07-23T00:00:00","accumulated":0,"numbers":[2,11,17,20,21,27,31,34,37,38,41,44,45,48,51,53,64,79,88,96],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":3,"amount":64060.25},{"name":"18 números","total":73,"amount":1645.38},{"name":"17 números","total":755,"amount":159.09},{"name":"16 números","total":5317,"amount":22.59},{"name":"nenhum número","total":23364,"amount":5.14}]}
+{
+ "number": "1989",
+ "date": "2019-07-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  11,
+  17,
+  20,
+  21,
+  27,
+  31,
+  34,
+  37,
+  38,
+  41,
+  44,
+  45,
+  48,
+  51,
+  53,
+  64,
+  79,
+  88,
+  96
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 3,
+   "amount": 64060.25
+  },
+  {
+   "name": "18 números",
+   "total": 73,
+   "amount": 1645.38
+  },
+  {
+   "name": "17 números",
+   "total": 755,
+   "amount": 159.09
+  },
+  {
+   "name": "16 números",
+   "total": 5317,
+   "amount": 22.59
+  },
+  {
+   "name": "nenhum número",
+   "total": 23364,
+   "amount": 5.14
+  }
+ ]
+}

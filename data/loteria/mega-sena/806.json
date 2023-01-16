@@ -1,1 +1,30 @@
-{"number":"806","date":"2006-10-12T00:00:00","accumulated":0,"numbers":[18,26,35,41,47,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":50,"amount":18518.81},{"name":"Quadra","total":3179,"amount":290.17}]}
+{
+ "number": "806",
+ "date": "2006-10-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  26,
+  35,
+  41,
+  47,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 50,
+   "amount": 18518.81
+  },
+  {
+   "name": "Quadra",
+   "total": 3179,
+   "amount": 290.17
+  }
+ ]
+}

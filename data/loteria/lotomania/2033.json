@@ -1,1 +1,59 @@
-{"number":"2033","date":"2019-12-24T00:00:00","accumulated":0,"numbers":[6,8,10,20,21,23,31,34,35,37,40,48,56,75,80,81,86,90,98,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":5,"amount":76781.88},{"name":"18 números","total":159,"amount":1509.08},{"name":"17 números","total":1194,"amount":200.95},{"name":"16 números","total":7153,"amount":33.54},{"name":"nenhum número","total":28197,"amount":8.5}]}
+{
+ "number": "2033",
+ "date": "2019-12-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  8,
+  10,
+  20,
+  21,
+  23,
+  31,
+  34,
+  35,
+  37,
+  40,
+  48,
+  56,
+  75,
+  80,
+  81,
+  86,
+  90,
+  98,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 5,
+   "amount": 76781.88
+  },
+  {
+   "name": "18 números",
+   "total": 159,
+   "amount": 1509.08
+  },
+  {
+   "name": "17 números",
+   "total": 1194,
+   "amount": 200.95
+  },
+  {
+   "name": "16 números",
+   "total": 7153,
+   "amount": 33.54
+  },
+  {
+   "name": "nenhum número",
+   "total": 28197,
+   "amount": 8.5
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"2281","date":"2020-07-18T00:00:00","accumulated":0,"numbers":[14,27,35,40,50,55],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":43,"amount":52989.08},{"name":"Quadra","total":2462,"amount":1322.11}]}
+{
+ "number": "2281",
+ "date": "2020-07-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  27,
+  35,
+  40,
+  50,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 43,
+   "amount": 52989.08
+  },
+  {
+   "name": "Quadra",
+   "total": 2462,
+   "amount": 1322.11
+  }
+ ]
+}

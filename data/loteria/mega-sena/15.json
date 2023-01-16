@@ -1,1 +1,30 @@
-{"number":"15","date":"1996-06-17T00:00:00","accumulated":0,"numbers":[12,33,35,51,52,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":57,"amount":17919.89},{"name":"Quadra","total":3931,"amount":259.84}]}
+{
+ "number": "15",
+ "date": "1996-06-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  33,
+  35,
+  51,
+  52,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 57,
+   "amount": 17919.89
+  },
+  {
+   "name": "Quadra",
+   "total": 3931,
+   "amount": 259.84
+  }
+ ]
+}

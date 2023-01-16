@@ -1,1 +1,30 @@
-{"number":"389","date":"2002-08-21T00:00:00","accumulated":0,"numbers":[5,14,18,43,46,54],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":63,"amount":11305.19},{"name":"Quadra","total":4169,"amount":170.2}]}
+{
+ "number": "389",
+ "date": "2002-08-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  14,
+  18,
+  43,
+  46,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 63,
+   "amount": 11305.19
+  },
+  {
+   "name": "Quadra",
+   "total": 4169,
+   "amount": 170.2
+  }
+ ]
+}

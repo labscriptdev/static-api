@@ -1,1 +1,49 @@
-{"number":"2379","date":"2021-11-23T00:00:00","accumulated":0,"numbers":[1,2,3,5,7,8,9,11,12,15,16,20,23,24,25],"winners":[{"name":"15 números","total":3,"amount":398164.76},{"name":"14 números","total":8410,"amount":1330.1},{"name":"13 números","total":8410,"amount":25},{"name":"12 números","total":99787,"amount":10},{"name":"11 números","total":556289,"amount":5}]}
+{
+ "number": "2379",
+ "date": "2021-11-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  7,
+  8,
+  9,
+  11,
+  12,
+  15,
+  16,
+  20,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 3,
+   "amount": 398164.76
+  },
+  {
+   "name": "14 números",
+   "total": 8410,
+   "amount": 1330.1
+  },
+  {
+   "name": "13 números",
+   "total": 8410,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 99787,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 556289,
+   "amount": 5
+  }
+ ]
+}

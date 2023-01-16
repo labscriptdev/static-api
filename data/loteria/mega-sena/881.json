@@ -1,1 +1,30 @@
-{"number":"881","date":"2007-07-04T00:00:00","accumulated":0,"numbers":[4,18,24,43,51,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":99,"amount":14336.7},{"name":"Quadra","total":6959,"amount":203.19}]}
+{
+ "number": "881",
+ "date": "2007-07-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  18,
+  24,
+  43,
+  51,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 99,
+   "amount": 14336.7
+  },
+  {
+   "name": "Quadra",
+   "total": 6959,
+   "amount": 203.19
+  }
+ ]
+}

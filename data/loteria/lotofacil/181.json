@@ -1,1 +1,49 @@
-{"number":"181","date":"2006-12-28T00:00:00","accumulated":0,"numbers":[1,4,5,6,7,8,14,15,16,17,19,20,21,22,23],"winners":[{"name":"15 números","total":2,"amount":648701.32},{"name":"14 números","total":9926,"amount":1544.53},{"name":"13 números","total":9926,"amount":10},{"name":"12 números","total":121305,"amount":4},{"name":"11 números","total":708743,"amount":2}]}
+{
+ "number": "181",
+ "date": "2006-12-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  5,
+  6,
+  7,
+  8,
+  14,
+  15,
+  16,
+  17,
+  19,
+  20,
+  21,
+  22,
+  23
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 648701.32
+  },
+  {
+   "name": "14 números",
+   "total": 9926,
+   "amount": 1544.53
+  },
+  {
+   "name": "13 números",
+   "total": 9926,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 121305,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 708743,
+   "amount": 2
+  }
+ ]
+}

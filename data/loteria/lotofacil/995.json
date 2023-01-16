@@ -1,1 +1,49 @@
-{"number":"995","date":"2013-12-16T00:00:00","accumulated":0,"numbers":[1,2,3,4,7,8,9,12,13,14,17,20,22,23,24],"winners":[{"name":"15 números","total":8,"amount":144485.25},{"name":"14 números","total":47471,"amount":365.52},{"name":"13 números","total":47471,"amount":12.5},{"name":"12 números","total":315664,"amount":5},{"name":"11 números","total":1506672,"amount":2.5}]}
+{
+ "number": "995",
+ "date": "2013-12-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  4,
+  7,
+  8,
+  9,
+  12,
+  13,
+  14,
+  17,
+  20,
+  22,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 8,
+   "amount": 144485.25
+  },
+  {
+   "name": "14 números",
+   "total": 47471,
+   "amount": 365.52
+  },
+  {
+   "name": "13 números",
+   "total": 47471,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 315664,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1506672,
+   "amount": 2.5
+  }
+ ]
+}

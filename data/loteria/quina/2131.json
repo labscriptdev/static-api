@@ -1,1 +1,29 @@
-{"number":"2131","date":"2009-10-27T00:00:00","accumulated":0,"numbers":[13,35,60,63,73],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":63,"amount":5003.57},{"name":"Terno","total":4758,"amount":94.64}]}
+{
+ "number": "2131",
+ "date": "2009-10-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  35,
+  60,
+  63,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 63,
+   "amount": 5003.57
+  },
+  {
+   "name": "Terno",
+   "total": 4758,
+   "amount": 94.64
+  }
+ ]
+}

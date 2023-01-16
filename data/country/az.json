@@ -1,1 +1,16 @@
-{"name":"Azerbaijan","cca2":"az","cca3":"aze","languages":["aze","rus"],"latlng":[40.5,47.5],"flags":"https://flagcdn.com/az.svg","postalCodeMask":"AZ ####","phoneMask":false}
+{
+ "name": "Azerbaijan",
+ "cca2": "az",
+ "cca3": "aze",
+ "languages": [
+  "aze",
+  "rus"
+ ],
+ "latlng": [
+  40.5,
+  47.5
+ ],
+ "flags": "https://flagcdn.com/az.svg",
+ "postalCodeMask": "AZ ####",
+ "phoneMask": false
+}

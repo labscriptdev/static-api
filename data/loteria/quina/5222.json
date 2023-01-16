@@ -1,1 +1,29 @@
-{"number":"5222","date":"2020-03-17T00:00:00","accumulated":0,"numbers":[8,10,26,43,45],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":65,"amount":6068.87},{"name":"Terno","total":5155,"amount":115.07}]}
+{
+ "number": "5222",
+ "date": "2020-03-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  10,
+  26,
+  43,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 65,
+   "amount": 6068.87
+  },
+  {
+   "name": "Terno",
+   "total": 5155,
+   "amount": 115.07
+  }
+ ]
+}

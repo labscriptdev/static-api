@@ -1,1 +1,29 @@
-{"number":"3427","date":"2014-02-26T00:00:00","accumulated":0,"numbers":[33,38,73,76,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":101,"amount":3783.74},{"name":"Terno","total":5472,"amount":99.76}]}
+{
+ "number": "3427",
+ "date": "2014-02-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  33,
+  38,
+  73,
+  76,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 101,
+   "amount": 3783.74
+  },
+  {
+   "name": "Terno",
+   "total": 5472,
+   "amount": 99.76
+  }
+ ]
+}

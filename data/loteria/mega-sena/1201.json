@@ -1,1 +1,30 @@
-{"number":"1201","date":"2010-07-31T00:00:00","accumulated":0,"numbers":[28,32,36,49,55,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":67,"amount":16653.27},{"name":"Quadra","total":3425,"amount":465.38}]}
+{
+ "number": "1201",
+ "date": "2010-07-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  28,
+  32,
+  36,
+  49,
+  55,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 67,
+   "amount": 16653.27
+  },
+  {
+   "name": "Quadra",
+   "total": 3425,
+   "amount": 465.38
+  }
+ ]
+}

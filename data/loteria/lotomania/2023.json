@@ -1,1 +1,59 @@
-{"number":"2023","date":"2019-11-19T00:00:00","accumulated":0,"numbers":[10,11,25,27,29,32,48,49,50,53,54,59,60,63,67,70,75,80,84,100],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":3,"amount":63568.81},{"name":"18 números","total":23,"amount":5182.24},{"name":"17 números","total":408,"amount":292.13},{"name":"16 números","total":2546,"amount":46.81},{"name":"nenhum número","total":11458,"amount":10.4}]}
+{
+ "number": "2023",
+ "date": "2019-11-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  11,
+  25,
+  27,
+  29,
+  32,
+  48,
+  49,
+  50,
+  53,
+  54,
+  59,
+  60,
+  63,
+  67,
+  70,
+  75,
+  80,
+  84,
+  100
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 3,
+   "amount": 63568.81
+  },
+  {
+   "name": "18 números",
+   "total": 23,
+   "amount": 5182.24
+  },
+  {
+   "name": "17 números",
+   "total": 408,
+   "amount": 292.13
+  },
+  {
+   "name": "16 números",
+   "total": 2546,
+   "amount": 46.81
+  },
+  {
+   "name": "nenhum número",
+   "total": 11458,
+   "amount": 10.4
+  }
+ ]
+}

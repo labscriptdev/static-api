@@ -1,1 +1,29 @@
-{"number":"5519","date":"2021-03-19T00:00:00","accumulated":0,"numbers":[7,8,12,19,59],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":169,"amount":2203.58},{"name":"Terno","total":8053,"amount":69.54}]}
+{
+ "number": "5519",
+ "date": "2021-03-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  8,
+  12,
+  19,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 169,
+   "amount": 2203.58
+  },
+  {
+   "name": "Terno",
+   "total": 8053,
+   "amount": 69.54
+  }
+ ]
+}

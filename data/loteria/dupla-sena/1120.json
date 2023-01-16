@@ -1,1 +1,35 @@
-{"number":"1120","date":"2012-10-30T00:00:00","accumulated":0,"numbers":[14,16,28,31,39,47],"winners":[{"name":"Sena","total":2,"amount":2312441.92},{"name":"Quina","total":82,"amount":2385.05},{"name":"Quadra","total":4157,"amount":44.8},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1120",
+ "date": "2012-10-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  16,
+  28,
+  31,
+  39,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 2312441.92
+  },
+  {
+   "name": "Quina",
+   "total": 82,
+   "amount": 2385.05
+  },
+  {
+   "name": "Quadra",
+   "total": 4157,
+   "amount": 44.8
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

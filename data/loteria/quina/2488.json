@@ -1,1 +1,29 @@
-{"number":"2488","date":"2011-01-04T00:00:00","accumulated":0,"numbers":[2,4,26,49,55],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":159,"amount":2009.31},{"name":"Terno","total":9174,"amount":49.74}]}
+{
+ "number": "2488",
+ "date": "2011-01-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  26,
+  49,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 159,
+   "amount": 2009.31
+  },
+  {
+   "name": "Terno",
+   "total": 9174,
+   "amount": 49.74
+  }
+ ]
+}

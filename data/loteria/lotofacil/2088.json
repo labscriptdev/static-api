@@ -1,1 +1,49 @@
-{"number":"2088","date":"2020-11-21T00:00:00","accumulated":0,"numbers":[1,2,4,5,6,7,9,11,13,14,15,21,22,23,24],"winners":[{"name":"15 números","total":1,"amount":1247782.56},{"name":"14 números","total":5564,"amount":1816.89},{"name":"13 números","total":5564,"amount":25},{"name":"12 números","total":86032,"amount":10},{"name":"11 números","total":480618,"amount":5}]}
+{
+ "number": "2088",
+ "date": "2020-11-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  9,
+  11,
+  13,
+  14,
+  15,
+  21,
+  22,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1247782.56
+  },
+  {
+   "name": "14 números",
+   "total": 5564,
+   "amount": 1816.89
+  },
+  {
+   "name": "13 números",
+   "total": 5564,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 86032,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 480618,
+   "amount": 5
+  }
+ ]
+}

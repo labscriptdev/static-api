@@ -1,1 +1,49 @@
-{"number":"1812","date":"2019-05-10T00:00:00","accumulated":0,"numbers":[2,4,6,7,9,11,12,13,18,19,20,21,23,24,25],"winners":[{"name":"15 números","total":6,"amount":328799.92},{"name":"14 números","total":19735,"amount":1309.91},{"name":"13 números","total":19735,"amount":20},{"name":"12 números","total":226138,"amount":8},{"name":"11 números","total":1153479,"amount":4}]}
+{
+ "number": "1812",
+ "date": "2019-05-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  6,
+  7,
+  9,
+  11,
+  12,
+  13,
+  18,
+  19,
+  20,
+  21,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 6,
+   "amount": 328799.92
+  },
+  {
+   "name": "14 números",
+   "total": 19735,
+   "amount": 1309.91
+  },
+  {
+   "name": "13 números",
+   "total": 19735,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 226138,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1153479,
+   "amount": 4
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"2920","date":"2012-06-12T00:00:00","accumulated":0,"numbers":[10,52,64,67,72],"winners":[{"name":"Quina","total":1,"amount":457637.99},{"name":"Quadra","total":68,"amount":4807.12},{"name":"Terno","total":3846,"amount":121.41}]}
+{
+ "number": "2920",
+ "date": "2012-06-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  52,
+  64,
+  67,
+  72
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 457637.99
+  },
+  {
+   "name": "Quadra",
+   "total": 68,
+   "amount": 4807.12
+  },
+  {
+   "name": "Terno",
+   "total": 3846,
+   "amount": 121.41
+  }
+ ]
+}

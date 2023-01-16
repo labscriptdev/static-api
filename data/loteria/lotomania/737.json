@@ -1,1 +1,59 @@
-{"number":"737","date":"2007-07-04T00:00:00","accumulated":0,"numbers":[2,3,15,18,24,25,34,37,39,44,54,59,69,71,73,77,89,92,93,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":11,"amount":25507.05},{"name":"18 números","total":174,"amount":1612.52},{"name":"17 números","total":1544,"amount":90.52},{"name":"16 números","total":9183,"amount":15.23},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "737",
+ "date": "2007-07-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  15,
+  18,
+  24,
+  25,
+  34,
+  37,
+  39,
+  44,
+  54,
+  59,
+  69,
+  71,
+  73,
+  77,
+  89,
+  92,
+  93,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 11,
+   "amount": 25507.05
+  },
+  {
+   "name": "18 números",
+   "total": 174,
+   "amount": 1612.52
+  },
+  {
+   "name": "17 números",
+   "total": 1544,
+   "amount": 90.52
+  },
+  {
+   "name": "16 números",
+   "total": 9183,
+   "amount": 15.23
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

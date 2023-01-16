@@ -1,1 +1,30 @@
-{"number":"1923","date":"2017-04-22T00:00:00","accumulated":0,"numbers":[9,34,42,45,46,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":110,"amount":50376.11},{"name":"Quadra","total":9351,"amount":846.56}]}
+{
+ "number": "1923",
+ "date": "2017-04-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  34,
+  42,
+  45,
+  46,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 110,
+   "amount": 50376.11
+  },
+  {
+   "name": "Quadra",
+   "total": 9351,
+   "amount": 846.56
+  }
+ ]
+}

@@ -1,1 +1,59 @@
-{"number":"1412","date":"2013-12-26T00:00:00","accumulated":0,"numbers":[0,12,13,19,20,21,23,30,33,35,36,37,48,58,62,66,67,76,83,88],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":6,"amount":32432.66},{"name":"18 números","total":97,"amount":2006.14},{"name":"17 números","total":804,"amount":151.27},{"name":"16 números","total":5186,"amount":23.45},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1412",
+ "date": "2013-12-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  12,
+  13,
+  19,
+  20,
+  21,
+  23,
+  30,
+  33,
+  35,
+  36,
+  37,
+  48,
+  58,
+  62,
+  66,
+  67,
+  76,
+  83,
+  88
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 32432.66
+  },
+  {
+   "name": "18 números",
+   "total": 97,
+   "amount": 2006.14
+  },
+  {
+   "name": "17 números",
+   "total": 804,
+   "amount": 151.27
+  },
+  {
+   "name": "16 números",
+   "total": 5186,
+   "amount": 23.45
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

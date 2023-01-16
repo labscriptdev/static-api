@@ -1,1 +1,59 @@
-{"number":"49","date":"2000-09-02T00:00:00","accumulated":0,"numbers":[21,29,31,37,40,44,45,50,55,61,62,79,80,81,83,85,86,88,95,97],"winners":[{"name":"20 números","total":1,"amount":819254},{"name":"19 números","total":9,"amount":60685.48},{"name":"18 números","total":211,"amount":2588.48},{"name":"17 números","total":2031,"amount":134.06},{"name":"16 números","total":13676,"amount":19.92},{"name":"nenhum número","total":1,"amount":273084.68}]}
+{
+ "number": "49",
+ "date": "2000-09-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  21,
+  29,
+  31,
+  37,
+  40,
+  44,
+  45,
+  50,
+  55,
+  61,
+  62,
+  79,
+  80,
+  81,
+  83,
+  85,
+  86,
+  88,
+  95,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 819254
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 60685.48
+  },
+  {
+   "name": "18 números",
+   "total": 211,
+   "amount": 2588.48
+  },
+  {
+   "name": "17 números",
+   "total": 2031,
+   "amount": 134.06
+  },
+  {
+   "name": "16 números",
+   "total": 13676,
+   "amount": 19.92
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 273084.68
+  }
+ ]
+}

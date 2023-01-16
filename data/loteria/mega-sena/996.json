@@ -1,1 +1,30 @@
-{"number":"996","date":"2008-08-16T00:00:00","accumulated":0,"numbers":[7,15,20,21,23,29],"winners":[{"name":"Sena","total":2,"amount":14458257.67},{"name":"Quina","total":165,"amount":13209.87},{"name":"Quadra","total":11901,"amount":183.15}]}
+{
+ "number": "996",
+ "date": "2008-08-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  15,
+  20,
+  21,
+  23,
+  29
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 14458257.67
+  },
+  {
+   "name": "Quina",
+   "total": 165,
+   "amount": 13209.87
+  },
+  {
+   "name": "Quadra",
+   "total": 11901,
+   "amount": 183.15
+  }
+ ]
+}

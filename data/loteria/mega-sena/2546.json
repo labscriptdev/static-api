@@ -1,1 +1,30 @@
-{"number":"2546","date":"2022-12-07T00:00:00","accumulated":0,"numbers":[3,23,28,34,38,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":128,"amount":49345.74},{"name":"Quadra","total":9138,"amount":987.43}]}
+{
+ "number": "2546",
+ "date": "2022-12-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  23,
+  28,
+  34,
+  38,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 128,
+   "amount": 49345.74
+  },
+  {
+   "name": "Quadra",
+   "total": 9138,
+   "amount": 987.43
+  }
+ ]
+}

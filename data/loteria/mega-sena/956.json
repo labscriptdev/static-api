@@ -1,1 +1,30 @@
-{"number":"956","date":"2008-03-29T00:00:00","accumulated":0,"numbers":[46,47,51,54,57,59],"winners":[{"name":"Sena","total":1,"amount":1385109.95},{"name":"Quina","total":38,"amount":20828.72},{"name":"Quadra","total":2468,"amount":320.7}]}
+{
+ "number": "956",
+ "date": "2008-03-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  46,
+  47,
+  51,
+  54,
+  57,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 1385109.95
+  },
+  {
+   "name": "Quina",
+   "total": 38,
+   "amount": 20828.72
+  },
+  {
+   "name": "Quadra",
+   "total": 2468,
+   "amount": 320.7
+  }
+ ]
+}

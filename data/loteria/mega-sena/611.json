@@ -1,1 +1,30 @@
-{"number":"611","date":"2004-10-30T00:00:00","accumulated":0,"numbers":[16,21,22,33,48,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":69,"amount":16349.76},{"name":"Quadra","total":4531,"amount":248.04}]}
+{
+ "number": "611",
+ "date": "2004-10-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  16,
+  21,
+  22,
+  33,
+  48,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 69,
+   "amount": 16349.76
+  },
+  {
+   "name": "Quadra",
+   "total": 4531,
+   "amount": 248.04
+  }
+ ]
+}

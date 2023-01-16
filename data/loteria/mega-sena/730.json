@@ -1,1 +1,30 @@
-{"number":"730","date":"2006-01-18T00:00:00","accumulated":0,"numbers":[2,15,16,45,50,54],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":34,"amount":23412.97},{"name":"Quadra","total":2824,"amount":280.82}]}
+{
+ "number": "730",
+ "date": "2006-01-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  15,
+  16,
+  45,
+  50,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 34,
+   "amount": 23412.97
+  },
+  {
+   "name": "Quadra",
+   "total": 2824,
+   "amount": 280.82
+  }
+ ]
+}

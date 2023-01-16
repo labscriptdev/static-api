@@ -1,1 +1,29 @@
-{"number":"93","date":"1995-03-12T00:00:00","accumulated":0,"numbers":[4,6,27,68,74],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":411,"amount":807.09},{"name":"Terno","total":16755,"amount":26.4}]}
+{
+ "number": "93",
+ "date": "1995-03-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  6,
+  27,
+  68,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 411,
+   "amount": 807.09
+  },
+  {
+   "name": "Terno",
+   "total": 16755,
+   "amount": 26.4
+  }
+ ]
+}

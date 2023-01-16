@@ -1,1 +1,49 @@
-{"number":"678","date":"2011-10-13T00:00:00","accumulated":0,"numbers":[2,3,5,7,9,10,12,15,18,19,20,21,23,24,25],"winners":[{"name":"15 números","total":7,"amount":201575.83},{"name":"14 números","total":29255,"amount":839.54},{"name":"13 números","total":29255,"amount":12.5},{"name":"12 números","total":311672,"amount":5},{"name":"11 números","total":1534522,"amount":2.5}]}
+{
+ "number": "678",
+ "date": "2011-10-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  5,
+  7,
+  9,
+  10,
+  12,
+  15,
+  18,
+  19,
+  20,
+  21,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 7,
+   "amount": 201575.83
+  },
+  {
+   "name": "14 números",
+   "total": 29255,
+   "amount": 839.54
+  },
+  {
+   "name": "13 números",
+   "total": 29255,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 311672,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1534522,
+   "amount": 2.5
+  }
+ ]
+}

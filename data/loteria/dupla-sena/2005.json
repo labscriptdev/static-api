@@ -1,1 +1,35 @@
-{"number":"2005","date":"2019-10-31T00:00:00","accumulated":0,"numbers":[11,15,17,28,30,36],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":60,"amount":3720.52},{"name":"Quadra","total":3169,"amount":80.5},{"name":"Terno","total":58257,"amount":2.18}]}
+{
+ "number": "2005",
+ "date": "2019-10-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  15,
+  17,
+  28,
+  30,
+  36
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 60,
+   "amount": 3720.52
+  },
+  {
+   "name": "Quadra",
+   "total": 3169,
+   "amount": 80.5
+  },
+  {
+   "name": "Terno",
+   "total": 58257,
+   "amount": 2.18
+  }
+ ]
+}

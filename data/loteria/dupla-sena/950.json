@@ -1,1 +1,35 @@
-{"number":"950","date":"2011-03-15T00:00:00","accumulated":0,"numbers":[2,7,12,19,39,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":31,"amount":3099.5},{"name":"Quadra","total":2128,"amount":43},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "950",
+ "date": "2011-03-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  7,
+  12,
+  19,
+  39,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 31,
+   "amount": 3099.5
+  },
+  {
+   "name": "Quadra",
+   "total": 2128,
+   "amount": 43
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

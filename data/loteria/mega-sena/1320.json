@@ -1,1 +1,30 @@
-{"number":"1320","date":"2011-09-17T00:00:00","accumulated":0,"numbers":[17,24,25,38,41,55],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":128,"amount":20240.7},{"name":"Quadra","total":8496,"amount":435.63}]}
+{
+ "number": "1320",
+ "date": "2011-09-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  24,
+  25,
+  38,
+  41,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 128,
+   "amount": 20240.7
+  },
+  {
+   "name": "Quadra",
+   "total": 8496,
+   "amount": 435.63
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"106","date":"1998-03-15T00:00:00","accumulated":0,"numbers":[5,16,24,35,38,39],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":94,"amount":7678.27},{"name":"Quadra","total":5390,"amount":133.65}]}
+{
+ "number": "106",
+ "date": "1998-03-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  16,
+  24,
+  35,
+  38,
+  39
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 94,
+   "amount": 7678.27
+  },
+  {
+   "name": "Quadra",
+   "total": 5390,
+   "amount": 133.65
+  }
+ ]
+}

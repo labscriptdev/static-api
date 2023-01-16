@@ -1,1 +1,29 @@
-{"number":"999","date":"2002-05-28T00:00:00","accumulated":0,"numbers":[3,12,44,46,49],"winners":[{"name":"Quina","total":1,"amount":266515.53},{"name":"Quadra","total":338,"amount":785.52},{"name":"Terno","total":14017,"amount":25.26}]}
+{
+ "number": "999",
+ "date": "2002-05-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  12,
+  44,
+  46,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 266515.53
+  },
+  {
+   "name": "Quadra",
+   "total": 338,
+   "amount": 785.52
+  },
+  {
+   "name": "Terno",
+   "total": 14017,
+   "amount": 25.26
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"Dominica","cca2":"dm","cca3":"dma","languages":["eng"],"latlng":[15.41666666,-61.33333333],"flags":"https://flagcdn.com/dm.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Dominica",
+ "cca2": "dm",
+ "cca3": "dma",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  15.41666666,
+  -61.33333333
+ ],
+ "flags": "https://flagcdn.com/dm.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

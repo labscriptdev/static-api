@@ -1,1 +1,35 @@
-{"number":"2026","date":"2019-12-19T00:00:00","accumulated":0,"numbers":[1,5,8,22,23,46],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":7,"amount":10662.45},{"name":"Quadra","total":940,"amount":90.74},{"name":"Terno","total":17463,"amount":2.44}]}
+{
+ "number": "2026",
+ "date": "2019-12-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  8,
+  22,
+  23,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 7,
+   "amount": 10662.45
+  },
+  {
+   "name": "Quadra",
+   "total": 940,
+   "amount": 90.74
+  },
+  {
+   "name": "Terno",
+   "total": 17463,
+   "amount": 2.44
+  }
+ ]
+}

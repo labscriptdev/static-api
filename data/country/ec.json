@@ -1,1 +1,15 @@
-{"name":"Ecuador","cca2":"ec","cca3":"ecu","languages":["spa"],"latlng":[-2,-77.5],"flags":"https://flagcdn.com/ec.svg","postalCodeMask":"@####@","phoneMask":false}
+{
+ "name": "Ecuador",
+ "cca2": "ec",
+ "cca3": "ecu",
+ "languages": [
+  "spa"
+ ],
+ "latlng": [
+  -2,
+  -77.5
+ ],
+ "flags": "https://flagcdn.com/ec.svg",
+ "postalCodeMask": "@####@",
+ "phoneMask": false
+}

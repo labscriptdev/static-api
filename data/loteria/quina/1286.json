@@ -1,1 +1,29 @@
-{"number":"1286","date":"2004-04-13T00:00:00","accumulated":0,"numbers":[41,43,49,56,58],"winners":[{"name":"Quina","total":2,"amount":137118.84},{"name":"Quadra","total":79,"amount":3471.37},{"name":"Terno","total":5188,"amount":70.22}]}
+{
+ "number": "1286",
+ "date": "2004-04-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  41,
+  43,
+  49,
+  56,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 137118.84
+  },
+  {
+   "name": "Quadra",
+   "total": 79,
+   "amount": 3471.37
+  },
+  {
+   "name": "Terno",
+   "total": 5188,
+   "amount": 70.22
+  }
+ ]
+}

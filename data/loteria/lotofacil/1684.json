@@ -1,1 +1,49 @@
-{"number":"1684","date":"2018-07-04T00:00:00","accumulated":0,"numbers":[2,4,7,9,10,12,13,14,15,16,17,22,23,24,25],"winners":[{"name":"15 números","total":4,"amount":434522.89},{"name":"14 números","total":17841,"amount":1764.42},{"name":"13 números","total":17841,"amount":20},{"name":"12 números","total":216923,"amount":8},{"name":"11 números","total":1069149,"amount":4}]}
+{
+ "number": "1684",
+ "date": "2018-07-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  4,
+  7,
+  9,
+  10,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  22,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 434522.89
+  },
+  {
+   "name": "14 números",
+   "total": 17841,
+   "amount": 1764.42
+  },
+  {
+   "name": "13 números",
+   "total": 17841,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 216923,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1069149,
+   "amount": 4
+  }
+ ]
+}

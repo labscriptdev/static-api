@@ -1,1 +1,49 @@
-{"number":"45","date":"2004-08-02T00:00:00","accumulated":0,"numbers":[1,2,3,5,7,9,14,16,17,18,19,21,23,24,25],"winners":[{"name":"15 números","total":4,"amount":731525.88},{"name":"14 números","total":23232,"amount":941.91},{"name":"13 números","total":23232,"amount":10},{"name":"12 números","total":353114,"amount":4},{"name":"11 números","total":1591989,"amount":2}]}
+{
+ "number": "45",
+ "date": "2004-08-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  7,
+  9,
+  14,
+  16,
+  17,
+  18,
+  19,
+  21,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 731525.88
+  },
+  {
+   "name": "14 números",
+   "total": 23232,
+   "amount": 941.91
+  },
+  {
+   "name": "13 números",
+   "total": 23232,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 353114,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1591989,
+   "amount": 2
+  }
+ ]
+}

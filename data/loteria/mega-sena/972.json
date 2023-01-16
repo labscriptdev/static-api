@@ -1,1 +1,30 @@
-{"number":"972","date":"2008-05-24T00:00:00","accumulated":0,"numbers":[15,18,31,33,34,56],"winners":[{"name":"Sena","total":3,"amount":912435.75},{"name":"Quina","total":723,"amount":1112.86},{"name":"Quadra","total":4082,"amount":197.11}]}
+{
+ "number": "972",
+ "date": "2008-05-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  15,
+  18,
+  31,
+  33,
+  34,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 3,
+   "amount": 912435.75
+  },
+  {
+   "name": "Quina",
+   "total": 723,
+   "amount": 1112.86
+  },
+  {
+   "name": "Quadra",
+   "total": 4082,
+   "amount": 197.11
+  }
+ ]
+}

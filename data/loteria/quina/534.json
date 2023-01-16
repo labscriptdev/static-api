@@ -1,1 +1,29 @@
-{"number":"534","date":"1999-04-03T00:00:00","accumulated":0,"numbers":[7,43,53,59,72],"winners":[{"name":"Quina","total":3,"amount":109685.51},{"name":"Quadra","total":267,"amount":1232.42},{"name":"Terno","total":12067,"amount":36.36}]}
+{
+ "number": "534",
+ "date": "1999-04-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  43,
+  53,
+  59,
+  72
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 109685.51
+  },
+  {
+   "name": "Quadra",
+   "total": 267,
+   "amount": 1232.42
+  },
+  {
+   "name": "Terno",
+   "total": 12067,
+   "amount": 36.36
+  }
+ ]
+}

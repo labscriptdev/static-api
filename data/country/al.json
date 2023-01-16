@@ -1,1 +1,15 @@
-{"name":"Albania","cca2":"al","cca3":"alb","languages":["sqi"],"latlng":[41,20],"flags":"https://flagcdn.com/al.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Albania",
+ "cca2": "al",
+ "cca3": "alb",
+ "languages": [
+  "sqi"
+ ],
+ "latlng": [
+  41,
+  20
+ ],
+ "flags": "https://flagcdn.com/al.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

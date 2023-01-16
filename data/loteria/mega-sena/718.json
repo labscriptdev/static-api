@@ -1,1 +1,30 @@
-{"number":"718","date":"2005-11-30T00:00:00","accumulated":0,"numbers":[7,21,33,35,39,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":41,"amount":13759.23},{"name":"Quadra","total":2893,"amount":194.26}]}
+{
+ "number": "718",
+ "date": "2005-11-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  21,
+  33,
+  35,
+  39,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 41,
+   "amount": 13759.23
+  },
+  {
+   "name": "Quadra",
+   "total": 2893,
+   "amount": 194.26
+  }
+ ]
+}

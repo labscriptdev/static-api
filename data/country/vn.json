@@ -1,1 +1,15 @@
-{"name":"Vietnam","cca2":"vn","cca3":"vnm","languages":["vie"],"latlng":[16.16666666,107.83333333],"flags":"https://flagcdn.com/vn.svg","postalCodeMask":"######","phoneMask":false}
+{
+ "name": "Vietnam",
+ "cca2": "vn",
+ "cca3": "vnm",
+ "languages": [
+  "vie"
+ ],
+ "latlng": [
+  16.16666666,
+  107.83333333
+ ],
+ "flags": "https://flagcdn.com/vn.svg",
+ "postalCodeMask": "######",
+ "phoneMask": false
+}

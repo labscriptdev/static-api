@@ -1,1 +1,49 @@
-{"number":"386","date":"2008-12-22T00:00:00","accumulated":0,"numbers":[1,2,3,4,6,7,9,11,15,18,19,20,21,23,25],"winners":[{"name":"15 números","total":3,"amount":490605},{"name":"14 números","total":19690,"amount":1330.75},{"name":"13 números","total":19690,"amount":10},{"name":"12 números","total":280416,"amount":4},{"name":"11 números","total":1499549,"amount":2}]}
+{
+ "number": "386",
+ "date": "2008-12-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  4,
+  6,
+  7,
+  9,
+  11,
+  15,
+  18,
+  19,
+  20,
+  21,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 3,
+   "amount": 490605
+  },
+  {
+   "name": "14 números",
+   "total": 19690,
+   "amount": 1330.75
+  },
+  {
+   "name": "13 números",
+   "total": 19690,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 280416,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1499549,
+   "amount": 2
+  }
+ ]
+}

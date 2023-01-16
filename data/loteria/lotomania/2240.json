@@ -1,1 +1,59 @@
-{"number":"2240","date":"2021-11-24T00:00:00","accumulated":0,"numbers":[4,8,10,14,15,23,25,26,34,38,43,47,54,59,74,77,80,86,90,93],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":9,"amount":35471.42},{"name":"18 números","total":109,"amount":1830.52},{"name":"17 números","total":909,"amount":219.5},{"name":"16 números","total":5380,"amount":37.08},{"name":"nenhum número","total":23069,"amount":8.64}]}
+{
+ "number": "2240",
+ "date": "2021-11-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  8,
+  10,
+  14,
+  15,
+  23,
+  25,
+  26,
+  34,
+  38,
+  43,
+  47,
+  54,
+  59,
+  74,
+  77,
+  80,
+  86,
+  90,
+  93
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 35471.42
+  },
+  {
+   "name": "18 números",
+   "total": 109,
+   "amount": 1830.52
+  },
+  {
+   "name": "17 números",
+   "total": 909,
+   "amount": 219.5
+  },
+  {
+   "name": "16 números",
+   "total": 5380,
+   "amount": 37.08
+  },
+  {
+   "name": "nenhum número",
+   "total": 23069,
+   "amount": 8.64
+  }
+ ]
+}

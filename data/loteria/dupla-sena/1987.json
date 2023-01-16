@@ -1,1 +1,35 @@
-{"number":"1987","date":"2019-09-17T00:00:00","accumulated":0,"numbers":[4,7,15,20,32,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":22,"amount":3687.5},{"name":"Quadra","total":1093,"amount":84.82},{"name":"Terno","total":20680,"amount":2.24}]}
+{
+ "number": "1987",
+ "date": "2019-09-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  7,
+  15,
+  20,
+  32,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 22,
+   "amount": 3687.5
+  },
+  {
+   "name": "Quadra",
+   "total": 1093,
+   "amount": 84.82
+  },
+  {
+   "name": "Terno",
+   "total": 20680,
+   "amount": 2.24
+  }
+ ]
+}

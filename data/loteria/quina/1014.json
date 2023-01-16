@@ -1,1 +1,29 @@
-{"number":"1014","date":"2002-07-04T00:00:00","accumulated":0,"numbers":[31,32,38,42,64],"winners":[{"name":"Quina","total":3,"amount":92823.84},{"name":"Quadra","total":254,"amount":1096.34},{"name":"Terno","total":10863,"amount":34.06}]}
+{
+ "number": "1014",
+ "date": "2002-07-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  31,
+  32,
+  38,
+  42,
+  64
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 92823.84
+  },
+  {
+   "name": "Quadra",
+   "total": 254,
+   "amount": 1096.34
+  },
+  {
+   "name": "Terno",
+   "total": 10863,
+   "amount": 34.06
+  }
+ ]
+}

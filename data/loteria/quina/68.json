@@ -1,1 +1,29 @@
-{"number":"68","date":"1994-12-04T00:00:00","accumulated":0,"numbers":[7,52,68,69,76],"winners":[{"name":"Quina","total":1,"amount":293047.58},{"name":"Quadra","total":234,"amount":1252.34},{"name":"Terno","total":11636,"amount":33.5}]}
+{
+ "number": "68",
+ "date": "1994-12-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  52,
+  68,
+  69,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 293047.58
+  },
+  {
+   "name": "Quadra",
+   "total": 234,
+   "amount": 1252.34
+  },
+  {
+   "name": "Terno",
+   "total": 11636,
+   "amount": 33.5
+  }
+ ]
+}

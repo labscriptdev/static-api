@@ -1,1 +1,15 @@
-{"name":"United Kingdom","cca2":"gb","cca3":"gbr","languages":["eng"],"latlng":[54,-2],"flags":"https://flagcdn.com/gb.svg","postalCodeMask":"@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA","phoneMask":false}
+{
+ "name": "United Kingdom",
+ "cca2": "gb",
+ "cca3": "gbr",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  54,
+  -2
+ ],
+ "flags": "https://flagcdn.com/gb.svg",
+ "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+ "phoneMask": false
+}

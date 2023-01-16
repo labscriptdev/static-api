@@ -1,1 +1,35 @@
-{"number":"22","date":"2002-01-25T00:00:00","accumulated":0,"numbers":[2,17,27,29,34,42],"winners":[{"name":"Sena","total":1,"amount":4431627.73},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "22",
+ "date": "2002-01-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  17,
+  27,
+  29,
+  34,
+  42
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 4431627.73
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

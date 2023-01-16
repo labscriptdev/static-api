@@ -1,1 +1,29 @@
-{"number":"2315","date":"2010-06-09T00:00:00","accumulated":0,"numbers":[1,8,15,23,57],"winners":[{"name":"Quina","total":1,"amount":452453.49},{"name":"Quadra","total":176,"amount":1928.07},{"name":"Terno","total":9747,"amount":49.73}]}
+{
+ "number": "2315",
+ "date": "2010-06-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  8,
+  15,
+  23,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 452453.49
+  },
+  {
+   "name": "Quadra",
+   "total": 176,
+   "amount": 1928.07
+  },
+  {
+   "name": "Terno",
+   "total": 9747,
+   "amount": 49.73
+  }
+ ]
+}

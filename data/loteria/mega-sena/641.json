@@ -1,1 +1,30 @@
-{"number":"641","date":"2005-02-23T00:00:00","accumulated":0,"numbers":[1,9,13,17,33,34],"winners":[{"name":"Sena","total":1,"amount":31923289.19},{"name":"Quina","total":366,"amount":5766.38},{"name":"Quadra","total":20840,"amount":100.89}]}
+{
+ "number": "641",
+ "date": "2005-02-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  9,
+  13,
+  17,
+  33,
+  34
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 31923289.19
+  },
+  {
+   "name": "Quina",
+   "total": 366,
+   "amount": 5766.38
+  },
+  {
+   "name": "Quadra",
+   "total": 20840,
+   "amount": 100.89
+  }
+ ]
+}

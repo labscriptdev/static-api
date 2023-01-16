@@ -1,1 +1,30 @@
-{"number":"494","date":"2003-09-03T00:00:00","accumulated":0,"numbers":[18,20,28,32,49,53],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":32,"amount":21997.6},{"name":"Quadra","total":2766,"amount":253.53}]}
+{
+ "number": "494",
+ "date": "2003-09-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  20,
+  28,
+  32,
+  49,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 32,
+   "amount": 21997.6
+  },
+  {
+   "name": "Quadra",
+   "total": 2766,
+   "amount": 253.53
+  }
+ ]
+}

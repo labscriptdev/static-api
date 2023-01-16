@@ -1,1 +1,17 @@
-{"name":"Caribbean Netherlands","cca2":"bq","cca3":"bes","languages":["eng","nld","pap"],"latlng":[12.18,-68.25],"flags":"https://flagcdn.com/bq.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Caribbean Netherlands",
+ "cca2": "bq",
+ "cca3": "bes",
+ "languages": [
+  "eng",
+  "nld",
+  "pap"
+ ],
+ "latlng": [
+  12.18,
+  -68.25
+ ],
+ "flags": "https://flagcdn.com/bq.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

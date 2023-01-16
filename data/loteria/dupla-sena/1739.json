@@ -1,1 +1,35 @@
-{"number":"1739","date":"2018-01-04T00:00:00","accumulated":0,"numbers":[10,11,13,31,32,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":19,"amount":3807.78},{"name":"Quadra","total":1012,"amount":81.7},{"name":"Terno","total":20132,"amount":2.05}]}
+{
+ "number": "1739",
+ "date": "2018-01-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  11,
+  13,
+  31,
+  32,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 19,
+   "amount": 3807.78
+  },
+  {
+   "name": "Quadra",
+   "total": 1012,
+   "amount": 81.7
+  },
+  {
+   "name": "Terno",
+   "total": 20132,
+   "amount": 2.05
+  }
+ ]
+}

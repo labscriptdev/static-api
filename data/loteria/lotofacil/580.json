@@ -1,1 +1,49 @@
-{"number":"580","date":"2010-11-04T00:00:00","accumulated":0,"numbers":[1,4,6,7,8,9,10,12,13,14,16,17,21,24,25],"winners":[{"name":"15 números","total":4,"amount":438982.21},{"name":"14 números","total":12594,"amount":2467.35},{"name":"13 números","total":12594,"amount":12.5},{"name":"12 números","total":181480,"amount":5},{"name":"11 números","total":1062602,"amount":2.5}]}
+{
+ "number": "580",
+ "date": "2010-11-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  6,
+  7,
+  8,
+  9,
+  10,
+  12,
+  13,
+  14,
+  16,
+  17,
+  21,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 438982.21
+  },
+  {
+   "name": "14 números",
+   "total": 12594,
+   "amount": 2467.35
+  },
+  {
+   "name": "13 números",
+   "total": 12594,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 181480,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1062602,
+   "amount": 2.5
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"5602","date":"2021-07-10T00:00:00","accumulated":0,"numbers":[3,18,31,37,65],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":43,"amount":10086.58},{"name":"Terno","total":4442,"amount":146.82}]}
+{
+ "number": "5602",
+ "date": "2021-07-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  18,
+  31,
+  37,
+  65
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 43,
+   "amount": 10086.58
+  },
+  {
+   "name": "Terno",
+   "total": 4442,
+   "amount": 146.82
+  }
+ ]
+}

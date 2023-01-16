@@ -1,1 +1,35 @@
-{"number":"1442","date":"2015-12-01T00:00:00","accumulated":0,"numbers":[2,7,9,20,25,34],"winners":[{"name":"Sena","total":1,"amount":6349776.84},{"name":"Quina","total":36,"amount":6620.76},{"name":"Quadra","total":2501,"amount":90.76},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1442",
+ "date": "2015-12-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  7,
+  9,
+  20,
+  25,
+  34
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 6349776.84
+  },
+  {
+   "name": "Quina",
+   "total": 36,
+   "amount": 6620.76
+  },
+  {
+   "name": "Quadra",
+   "total": 2501,
+   "amount": 90.76
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

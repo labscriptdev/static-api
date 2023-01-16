@@ -1,1 +1,30 @@
-{"number":"1940","date":"2017-06-17T00:00:00","accumulated":0,"numbers":[9,13,16,17,36,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":95,"amount":22002.44},{"name":"Quadra","total":6468,"amount":461.66}]}
+{
+ "number": "1940",
+ "date": "2017-06-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  13,
+  16,
+  17,
+  36,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 95,
+   "amount": 22002.44
+  },
+  {
+   "name": "Quadra",
+   "total": 6468,
+   "amount": 461.66
+  }
+ ]
+}

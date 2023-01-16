@@ -1,1 +1,16 @@
-{"name":"Faroe Islands","cca2":"fo","cca3":"fro","languages":["dan","fao"],"latlng":[62,-7],"flags":"https://flagcdn.com/fo.svg","postalCodeMask":"FO-###","phoneMask":false}
+{
+ "name": "Faroe Islands",
+ "cca2": "fo",
+ "cca3": "fro",
+ "languages": [
+  "dan",
+  "fao"
+ ],
+ "latlng": [
+  62,
+  -7
+ ],
+ "flags": "https://flagcdn.com/fo.svg",
+ "postalCodeMask": "FO-###",
+ "phoneMask": false
+}

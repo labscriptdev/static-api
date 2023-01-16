@@ -1,1 +1,30 @@
-{"number":"2267","date":"2020-06-03T00:00:00","accumulated":0,"numbers":[20,32,33,48,49,53],"winners":[{"name":"Sena","total":1,"amount":45553191.42},{"name":"Quina","total":33,"amount":105176.88},{"name":"Quadra","total":4064,"amount":1220.06}]}
+{
+ "number": "2267",
+ "date": "2020-06-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  32,
+  33,
+  48,
+  49,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 45553191.42
+  },
+  {
+   "name": "Quina",
+   "total": 33,
+   "amount": 105176.88
+  },
+  {
+   "name": "Quadra",
+   "total": 4064,
+   "amount": 1220.06
+  }
+ ]
+}

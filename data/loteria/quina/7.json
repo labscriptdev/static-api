@@ -1,1 +1,29 @@
-{"number":"7","date":"1994-04-07T00:00:00","accumulated":0,"numbers":[9,21,37,42,68],"winners":[{"name":"Quina","total":2,"amount":77956048},{"name":"Quadra","total":153,"amount":1019033},{"name":"Terno","total":5621,"amount":36891}]}
+{
+ "number": "7",
+ "date": "1994-04-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  21,
+  37,
+  42,
+  68
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 77956048
+  },
+  {
+   "name": "Quadra",
+   "total": 153,
+   "amount": 1019033
+  },
+  {
+   "name": "Terno",
+   "total": 5621,
+   "amount": 36891
+  }
+ ]
+}

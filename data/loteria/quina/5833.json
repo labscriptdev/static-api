@@ -1,1 +1,29 @@
-{"number":"5833","date":"2022-04-20T00:00:00","accumulated":0,"numbers":[14,45,67,74,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":51,"amount":5952.2},{"name":"Terno","total":3639,"amount":79.44}]}
+{
+ "number": "5833",
+ "date": "2022-04-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  45,
+  67,
+  74,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 51,
+   "amount": 5952.2
+  },
+  {
+   "name": "Terno",
+   "total": 3639,
+   "amount": 79.44
+  }
+ ]
+}

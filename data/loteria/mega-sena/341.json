@@ -1,1 +1,30 @@
-{"number":"341","date":"2002-03-02T00:00:00","accumulated":0,"numbers":[5,16,22,23,43,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":166,"amount":9623.14},{"name":"Quadra","total":11103,"amount":143.34}]}
+{
+ "number": "341",
+ "date": "2002-03-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  16,
+  22,
+  23,
+  43,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 166,
+   "amount": 9623.14
+  },
+  {
+   "name": "Quadra",
+   "total": 11103,
+   "amount": 143.34
+  }
+ ]
+}

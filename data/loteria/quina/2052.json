@@ -1,1 +1,29 @@
-{"number":"2052","date":"2009-05-14T00:00:00","accumulated":0,"numbers":[17,37,40,63,79],"winners":[{"name":"Quina","total":1,"amount":3412484.01},{"name":"Quadra","total":142,"amount":5342.15},{"name":"Terno","total":9361,"amount":154.35}]}
+{
+ "number": "2052",
+ "date": "2009-05-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  37,
+  40,
+  63,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 3412484.01
+  },
+  {
+   "name": "Quadra",
+   "total": 142,
+   "amount": 5342.15
+  },
+  {
+   "name": "Terno",
+   "total": 9361,
+   "amount": 154.35
+  }
+ ]
+}

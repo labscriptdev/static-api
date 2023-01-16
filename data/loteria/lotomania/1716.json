@@ -1,1 +1,59 @@
-{"number":"1716","date":"2016-12-06T00:00:00","accumulated":0,"numbers":[5,9,15,24,27,36,39,40,50,52,54,55,60,63,66,69,73,75,82,96],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":16,"amount":15013.45},{"name":"18 números","total":194,"amount":1105.55},{"name":"17 números","total":1440,"amount":104.26},{"name":"16 números","total":8285,"amount":18.12},{"name":"nenhum número","total":32098,"amount":4.67}]}
+{
+ "number": "1716",
+ "date": "2016-12-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  9,
+  15,
+  24,
+  27,
+  36,
+  39,
+  40,
+  50,
+  52,
+  54,
+  55,
+  60,
+  63,
+  66,
+  69,
+  73,
+  75,
+  82,
+  96
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 16,
+   "amount": 15013.45
+  },
+  {
+   "name": "18 números",
+   "total": 194,
+   "amount": 1105.55
+  },
+  {
+   "name": "17 números",
+   "total": 1440,
+   "amount": 104.26
+  },
+  {
+   "name": "16 números",
+   "total": 8285,
+   "amount": 18.12
+  },
+  {
+   "name": "nenhum número",
+   "total": 32098,
+   "amount": 4.67
+  }
+ ]
+}

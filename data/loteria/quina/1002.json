@@ -1,1 +1,29 @@
-{"number":"1002","date":"2002-06-06T00:00:00","accumulated":0,"numbers":[16,30,39,56,76],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":219,"amount":1252.44},{"name":"Terno","total":8908,"amount":40.9}]}
+{
+ "number": "1002",
+ "date": "2002-06-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  16,
+  30,
+  39,
+  56,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 219,
+   "amount": 1252.44
+  },
+  {
+   "name": "Terno",
+   "total": 8908,
+   "amount": 40.9
+  }
+ ]
+}

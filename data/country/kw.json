@@ -1,1 +1,15 @@
-{"name":"Kuwait","cca2":"kw","cca3":"kwt","languages":["ara"],"latlng":[29.5,45.75],"flags":"https://flagcdn.com/kw.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Kuwait",
+ "cca2": "kw",
+ "cca3": "kwt",
+ "languages": [
+  "ara"
+ ],
+ "latlng": [
+  29.5,
+  45.75
+ ],
+ "flags": "https://flagcdn.com/kw.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

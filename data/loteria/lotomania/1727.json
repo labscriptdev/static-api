@@ -1,1 +1,59 @@
-{"number":"1727","date":"2017-01-13T00:00:00","accumulated":0,"numbers":[5,11,12,13,14,19,22,23,25,26,44,49,55,62,65,82,88,89,90,91],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":6,"amount":46101.9},{"name":"18 números","total":182,"amount":1357},{"name":"17 números","total":1794,"amount":96.36},{"name":"16 números","total":9046,"amount":19.11},{"name":"nenhum número","total":38598,"amount":4.47}]}
+{
+ "number": "1727",
+ "date": "2017-01-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  11,
+  12,
+  13,
+  14,
+  19,
+  22,
+  23,
+  25,
+  26,
+  44,
+  49,
+  55,
+  62,
+  65,
+  82,
+  88,
+  89,
+  90,
+  91
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 46101.9
+  },
+  {
+   "name": "18 números",
+   "total": 182,
+   "amount": 1357
+  },
+  {
+   "name": "17 números",
+   "total": 1794,
+   "amount": 96.36
+  },
+  {
+   "name": "16 números",
+   "total": 9046,
+   "amount": 19.11
+  },
+  {
+   "name": "nenhum número",
+   "total": 38598,
+   "amount": 4.47
+  }
+ ]
+}

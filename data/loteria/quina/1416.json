@@ -1,1 +1,29 @@
-{"number":"1416","date":"2005-03-01T00:00:00","accumulated":0,"numbers":[2,34,54,60,72],"winners":[{"name":"Quina","total":1,"amount":279981.59},{"name":"Quadra","total":96,"amount":2916.48},{"name":"Terno","total":4891,"amount":76.04}]}
+{
+ "number": "1416",
+ "date": "2005-03-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  34,
+  54,
+  60,
+  72
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 279981.59
+  },
+  {
+   "name": "Quadra",
+   "total": 96,
+   "amount": 2916.48
+  },
+  {
+   "name": "Terno",
+   "total": 4891,
+   "amount": 76.04
+  }
+ ]
+}

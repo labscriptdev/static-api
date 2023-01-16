@@ -1,1 +1,35 @@
-{"number":"873","date":"2010-06-18T00:00:00","accumulated":0,"numbers":[2,5,8,9,46,47],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":47,"amount":2443.94},{"name":"Quadra","total":2554,"amount":42.83},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "873",
+ "date": "2010-06-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  8,
+  9,
+  46,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 47,
+   "amount": 2443.94
+  },
+  {
+   "name": "Quadra",
+   "total": 2554,
+   "amount": 42.83
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

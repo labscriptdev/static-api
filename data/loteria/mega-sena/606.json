@@ -1,1 +1,30 @@
-{"number":"606","date":"2004-10-13T00:00:00","accumulated":0,"numbers":[6,23,32,35,41,55],"winners":[{"name":"Sena","total":1,"amount":11878491.65},{"name":"Quina","total":43,"amount":20736.93},{"name":"Quadra","total":3770,"amount":235.63}]}
+{
+ "number": "606",
+ "date": "2004-10-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  23,
+  32,
+  35,
+  41,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 11878491.65
+  },
+  {
+   "name": "Quina",
+   "total": 43,
+   "amount": 20736.93
+  },
+  {
+   "name": "Quadra",
+   "total": 3770,
+   "amount": 235.63
+  }
+ ]
+}

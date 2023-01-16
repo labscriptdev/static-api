@@ -1,1 +1,30 @@
-{"number":"749","date":"2006-03-25T00:00:00","accumulated":0,"numbers":[4,24,47,48,50,57],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":31,"amount":26214.36},{"name":"Quadra","total":2669,"amount":303.33}]}
+{
+ "number": "749",
+ "date": "2006-03-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  24,
+  47,
+  48,
+  50,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 31,
+   "amount": 26214.36
+  },
+  {
+   "name": "Quadra",
+   "total": 2669,
+   "amount": 303.33
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"599","date":"1999-09-09T00:00:00","accumulated":0,"numbers":[22,32,37,47,51],"winners":[{"name":"Quina","total":2,"amount":155664.36},{"name":"Quadra","total":192,"amount":1621.51},{"name":"Terno","total":10486,"amount":39.44}]}
+{
+ "number": "599",
+ "date": "1999-09-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  22,
+  32,
+  37,
+  47,
+  51
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 155664.36
+  },
+  {
+   "name": "Quadra",
+   "total": 192,
+   "amount": 1621.51
+  },
+  {
+   "name": "Terno",
+   "total": 10486,
+   "amount": 39.44
+  }
+ ]
+}

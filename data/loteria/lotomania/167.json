@@ -1,1 +1,59 @@
-{"number":"167","date":"2001-11-17T00:00:00","accumulated":0,"numbers":[1,17,23,29,30,35,36,43,51,52,57,59,63,65,76,82,86,95,96,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":12,"amount":31865.36},{"name":"18 números","total":167,"amount":2289.73},{"name":"17 números","total":1748,"amount":108.97},{"name":"16 números","total":10636,"amount":17.91},{"name":"nenhum número","total":1,"amount":388805.68}]}
+{
+ "number": "167",
+ "date": "2001-11-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  17,
+  23,
+  29,
+  30,
+  35,
+  36,
+  43,
+  51,
+  52,
+  57,
+  59,
+  63,
+  65,
+  76,
+  82,
+  86,
+  95,
+  96,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 31865.36
+  },
+  {
+   "name": "18 números",
+   "total": 167,
+   "amount": 2289.73
+  },
+  {
+   "name": "17 números",
+   "total": 1748,
+   "amount": 108.97
+  },
+  {
+   "name": "16 números",
+   "total": 10636,
+   "amount": 17.91
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 388805.68
+  }
+ ]
+}

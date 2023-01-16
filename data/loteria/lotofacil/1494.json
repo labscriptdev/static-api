@@ -1,1 +1,49 @@
-{"number":"1494","date":"2017-04-03T00:00:00","accumulated":0,"numbers":[1,2,3,4,9,10,11,12,13,15,17,19,20,22,25],"winners":[{"name":"15 números","total":3,"amount":505284.94},{"name":"14 números","total":16571,"amount":1458},{"name":"13 números","total":16571,"amount":20},{"name":"12 números","total":203250,"amount":8},{"name":"11 números","total":1048683,"amount":4}]}
+{
+ "number": "1494",
+ "date": "2017-04-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  4,
+  9,
+  10,
+  11,
+  12,
+  13,
+  15,
+  17,
+  19,
+  20,
+  22,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 3,
+   "amount": 505284.94
+  },
+  {
+   "name": "14 números",
+   "total": 16571,
+   "amount": 1458
+  },
+  {
+   "name": "13 números",
+   "total": 16571,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 203250,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1048683,
+   "amount": 4
+  }
+ ]
+}

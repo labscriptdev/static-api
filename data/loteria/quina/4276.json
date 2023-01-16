@@ -1,1 +1,29 @@
-{"number":"4276","date":"2017-01-04T00:00:00","accumulated":0,"numbers":[12,13,22,24,63],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":99,"amount":4376.92},{"name":"Terno","total":8102,"amount":80.42}]}
+{
+ "number": "4276",
+ "date": "2017-01-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  13,
+  22,
+  24,
+  63
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 99,
+   "amount": 4376.92
+  },
+  {
+   "name": "Terno",
+   "total": 8102,
+   "amount": 80.42
+  }
+ ]
+}

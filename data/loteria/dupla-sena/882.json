@@ -1,1 +1,35 @@
-{"number":"882","date":"2010-07-20T00:00:00","accumulated":0,"numbers":[12,14,19,21,31,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":56,"amount":3273.27},{"name":"Quadra","total":3625,"amount":48.15},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "882",
+ "date": "2010-07-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  14,
+  19,
+  21,
+  31,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 56,
+   "amount": 3273.27
+  },
+  {
+   "name": "Quadra",
+   "total": 3625,
+   "amount": 48.15
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

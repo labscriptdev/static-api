@@ -1,1 +1,29 @@
-{"number":"351","date":"1997-11-20T00:00:00","accumulated":0,"numbers":[12,36,38,50,53],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":310,"amount":1102.04},{"name":"Terno","total":14840,"amount":30.63}]}
+{
+ "number": "351",
+ "date": "1997-11-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  36,
+  38,
+  50,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 310,
+   "amount": 1102.04
+  },
+  {
+   "name": "Terno",
+   "total": 14840,
+   "amount": 30.63
+  }
+ ]
+}

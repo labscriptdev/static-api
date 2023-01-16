@@ -1,1 +1,29 @@
-{"number":"5872","date":"2022-06-06T00:00:00","accumulated":0,"numbers":[11,20,59,68,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":35,"amount":10438.85},{"name":"Terno","total":3075,"amount":113.15}]}
+{
+ "number": "5872",
+ "date": "2022-06-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  20,
+  59,
+  68,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 35,
+   "amount": 10438.85
+  },
+  {
+   "name": "Terno",
+   "total": 3075,
+   "amount": 113.15
+  }
+ ]
+}

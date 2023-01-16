@@ -1,1 +1,30 @@
-{"number":"352","date":"2002-04-10T00:00:00","accumulated":0,"numbers":[7,20,25,44,47,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":161,"amount":7848.74},{"name":"Quadra","total":8080,"amount":155.8}]}
+{
+ "number": "352",
+ "date": "2002-04-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  20,
+  25,
+  44,
+  47,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 161,
+   "amount": 7848.74
+  },
+  {
+   "name": "Quadra",
+   "total": 8080,
+   "amount": 155.8
+  }
+ ]
+}

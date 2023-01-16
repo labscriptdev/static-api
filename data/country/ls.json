@@ -1,1 +1,16 @@
-{"name":"Lesotho","cca2":"ls","cca3":"lso","languages":["eng","sot"],"latlng":[-29.5,28.5],"flags":"https://flagcdn.com/ls.svg","postalCodeMask":"###","phoneMask":false}
+{
+ "name": "Lesotho",
+ "cca2": "ls",
+ "cca3": "lso",
+ "languages": [
+  "eng",
+  "sot"
+ ],
+ "latlng": [
+  -29.5,
+  28.5
+ ],
+ "flags": "https://flagcdn.com/ls.svg",
+ "postalCodeMask": "###",
+ "phoneMask": false
+}

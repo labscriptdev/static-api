@@ -1,1 +1,49 @@
-{"number":"1967","date":"2020-05-15T00:00:00","accumulated":0,"numbers":[1,2,3,5,7,8,10,11,12,13,14,15,17,23,24],"winners":[{"name":"15 números","total":2,"amount":851319.15},{"name":"14 números","total":15957,"amount":1659.45},{"name":"13 números","total":15957,"amount":25},{"name":"12 números","total":233781,"amount":10},{"name":"11 números","total":1076115,"amount":5}]}
+{
+ "number": "1967",
+ "date": "2020-05-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  7,
+  8,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  17,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 851319.15
+  },
+  {
+   "name": "14 números",
+   "total": 15957,
+   "amount": 1659.45
+  },
+  {
+   "name": "13 números",
+   "total": 15957,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 233781,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 1076115,
+   "amount": 5
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"109","date":"1995-05-18T00:00:00","accumulated":0,"numbers":[1,21,27,48,78],"winners":[{"name":"Quina","total":2,"amount":134085.06},{"name":"Quadra","total":187,"amount":1434.07},{"name":"Terno","total":9870,"amount":36.23}]}
+{
+ "number": "109",
+ "date": "1995-05-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  21,
+  27,
+  48,
+  78
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 134085.06
+  },
+  {
+   "name": "Quadra",
+   "total": 187,
+   "amount": 1434.07
+  },
+  {
+   "name": "Terno",
+   "total": 9870,
+   "amount": 36.23
+  }
+ ]
+}

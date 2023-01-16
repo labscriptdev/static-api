@@ -1,1 +1,29 @@
-{"number":"1038","date":"2002-08-29T00:00:00","accumulated":0,"numbers":[19,40,49,73,79],"winners":[{"name":"Quina","total":1,"amount":280647.11},{"name":"Quadra","total":225,"amount":1247.32},{"name":"Terno","total":9526,"amount":39.14}]}
+{
+ "number": "1038",
+ "date": "2002-08-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  19,
+  40,
+  49,
+  73,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 280647.11
+  },
+  {
+   "name": "Quadra",
+   "total": 225,
+   "amount": 1247.32
+  },
+  {
+   "name": "Terno",
+   "total": 9526,
+   "amount": 39.14
+  }
+ ]
+}

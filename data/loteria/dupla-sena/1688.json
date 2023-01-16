@@ -1,1 +1,35 @@
-{"number":"1688","date":"2017-08-31T00:00:00","accumulated":0,"numbers":[10,31,32,38,41,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":3,"amount":16793.54},{"name":"Quadra","total":456,"amount":126.26},{"name":"Terno","total":9850,"amount":2.92}]}
+{
+ "number": "1688",
+ "date": "2017-08-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  31,
+  32,
+  38,
+  41,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 16793.54
+  },
+  {
+   "name": "Quadra",
+   "total": 456,
+   "amount": 126.26
+  },
+  {
+   "name": "Terno",
+   "total": 9850,
+   "amount": 2.92
+  }
+ ]
+}

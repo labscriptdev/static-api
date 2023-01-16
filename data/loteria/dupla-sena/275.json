@@ -1,1 +1,35 @@
-{"number":"275","date":"2004-07-23T00:00:00","accumulated":0,"numbers":[5,12,20,31,42,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "275",
+ "date": "2004-07-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  12,
+  20,
+  31,
+  42,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

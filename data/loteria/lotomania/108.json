@@ -1,1 +1,59 @@
-{"number":"108","date":"2001-04-25T00:00:00","accumulated":0,"numbers":[1,9,18,25,28,32,35,41,43,44,48,53,59,61,62,67,85,86,90,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":6,"amount":62487.62},{"name":"18 números","total":141,"amount":2659.05},{"name":"17 números","total":1607,"amount":116.21},{"name":"16 números","total":9864,"amount":18.93},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "108",
+ "date": "2001-04-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  9,
+  18,
+  25,
+  28,
+  32,
+  35,
+  41,
+  43,
+  44,
+  48,
+  53,
+  59,
+  61,
+  62,
+  67,
+  85,
+  86,
+  90,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 62487.62
+  },
+  {
+   "name": "18 números",
+   "total": 141,
+   "amount": 2659.05
+  },
+  {
+   "name": "17 números",
+   "total": 1607,
+   "amount": 116.21
+  },
+  {
+   "name": "16 números",
+   "total": 9864,
+   "amount": 18.93
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

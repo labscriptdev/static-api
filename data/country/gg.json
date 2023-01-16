@@ -1,1 +1,17 @@
-{"name":"Guernsey","cca2":"gg","cca3":"ggy","languages":["eng","fra","nfr"],"latlng":[49.46666666,-2.58333333],"flags":"https://flagcdn.com/gg.svg","postalCodeMask":"@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA","phoneMask":false}
+{
+ "name": "Guernsey",
+ "cca2": "gg",
+ "cca3": "ggy",
+ "languages": [
+  "eng",
+  "fra",
+  "nfr"
+ ],
+ "latlng": [
+  49.46666666,
+  -2.58333333
+ ],
+ "flags": "https://flagcdn.com/gg.svg",
+ "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+ "phoneMask": false
+}

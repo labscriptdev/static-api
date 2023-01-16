@@ -1,1 +1,15 @@
-{"name":"Cocos (Keeling) Islands","cca2":"cc","cca3":"cck","languages":["eng"],"latlng":[12.1642,96.871],"flags":"https://flagcdn.com/cc.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Cocos (Keeling) Islands",
+ "cca2": "cc",
+ "cca3": "cck",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  12.1642,
+  96.871
+ ],
+ "flags": "https://flagcdn.com/cc.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

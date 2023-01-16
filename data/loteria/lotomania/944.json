@@ -1,1 +1,59 @@
-{"number":"944","date":"2009-06-27T00:00:00","accumulated":0,"numbers":[2,5,6,9,11,17,18,25,26,28,33,37,44,52,55,56,65,71,76,86],"winners":[{"name":"20 números","total":3,"amount":1637962.93},{"name":"19 números","total":44,"amount":9656.93},{"name":"18 números","total":546,"amount":1111.73},{"name":"17 números","total":4215,"amount":72},{"name":"16 números","total":22436,"amount":13.52},{"name":"nenhum número","total":1,"amount":212452.48}]}
+{
+ "number": "944",
+ "date": "2009-06-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  6,
+  9,
+  11,
+  17,
+  18,
+  25,
+  26,
+  28,
+  33,
+  37,
+  44,
+  52,
+  55,
+  56,
+  65,
+  71,
+  76,
+  86
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 3,
+   "amount": 1637962.93
+  },
+  {
+   "name": "19 números",
+   "total": 44,
+   "amount": 9656.93
+  },
+  {
+   "name": "18 números",
+   "total": 546,
+   "amount": 1111.73
+  },
+  {
+   "name": "17 números",
+   "total": 4215,
+   "amount": 72
+  },
+  {
+   "name": "16 números",
+   "total": 22436,
+   "amount": 13.52
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 212452.48
+  }
+ ]
+}

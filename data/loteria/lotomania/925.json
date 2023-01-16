@@ -1,1 +1,59 @@
-{"number":"925","date":"2009-04-22T00:00:00","accumulated":0,"numbers":[2,12,17,20,23,24,31,34,40,52,53,55,70,73,77,80,81,87,89,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":15,"amount":18396.59},{"name":"18 números","total":123,"amount":2243.48},{"name":"17 números","total":1111,"amount":177.41},{"name":"16 números","total":7120,"amount":27.68},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "925",
+ "date": "2009-04-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  12,
+  17,
+  20,
+  23,
+  24,
+  31,
+  34,
+  40,
+  52,
+  53,
+  55,
+  70,
+  73,
+  77,
+  80,
+  81,
+  87,
+  89,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 15,
+   "amount": 18396.59
+  },
+  {
+   "name": "18 números",
+   "total": 123,
+   "amount": 2243.48
+  },
+  {
+   "name": "17 números",
+   "total": 1111,
+   "amount": 177.41
+  },
+  {
+   "name": "16 números",
+   "total": 7120,
+   "amount": 27.68
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"1924","date":"2008-07-10T00:00:00","accumulated":0,"numbers":[24,40,42,52,74],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":67,"amount":5444.76},{"name":"Terno","total":4832,"amount":100.66}]}
+{
+ "number": "1924",
+ "date": "2008-07-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  24,
+  40,
+  42,
+  52,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 67,
+   "amount": 5444.76
+  },
+  {
+   "name": "Terno",
+   "total": 4832,
+   "amount": 100.66
+  }
+ ]
+}

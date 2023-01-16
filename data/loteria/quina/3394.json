@@ -1,1 +1,29 @@
-{"number":"3394","date":"2014-01-18T00:00:00","accumulated":0,"numbers":[11,28,58,74,76],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":66,"amount":5843.49},{"name":"Terno","total":4653,"amount":118.4}]}
+{
+ "number": "3394",
+ "date": "2014-01-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  28,
+  58,
+  74,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 66,
+   "amount": 5843.49
+  },
+  {
+   "name": "Terno",
+   "total": 4653,
+   "amount": 118.4
+  }
+ ]
+}

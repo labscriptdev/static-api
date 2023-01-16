@@ -1,1 +1,49 @@
-{"number":"64","date":"2004-12-13T00:00:00","accumulated":0,"numbers":[1,2,3,6,7,8,9,10,13,14,17,18,20,23,25],"winners":[{"name":"15 números","total":4,"amount":323455.35},{"name":"14 números","total":20308,"amount":1056.18},{"name":"13 números","total":20308,"amount":10},{"name":"12 números","total":280806,"amount":4},{"name":"11 números","total":1586899,"amount":2}]}
+{
+ "number": "64",
+ "date": "2004-12-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  6,
+  7,
+  8,
+  9,
+  10,
+  13,
+  14,
+  17,
+  18,
+  20,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 323455.35
+  },
+  {
+   "name": "14 números",
+   "total": 20308,
+   "amount": 1056.18
+  },
+  {
+   "name": "13 números",
+   "total": 20308,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 280806,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1586899,
+   "amount": 2
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"866","date":"2007-05-12T00:00:00","accumulated":0,"numbers":[5,27,36,40,46,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":46,"amount":23174.32},{"name":"Quadra","total":3704,"amount":286.71}]}
+{
+ "number": "866",
+ "date": "2007-05-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  27,
+  36,
+  40,
+  46,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 46,
+   "amount": 23174.32
+  },
+  {
+   "name": "Quadra",
+   "total": 3704,
+   "amount": 286.71
+  }
+ ]
+}

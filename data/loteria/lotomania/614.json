@@ -1,1 +1,59 @@
-{"number":"614","date":"2006-04-26T00:00:00","accumulated":0,"numbers":[10,11,12,13,19,21,24,31,36,44,46,47,50,62,69,75,77,85,86,90],"winners":[{"name":"20 números","total":1,"amount":1051839.57},{"name":"19 números","total":8,"amount":34995.97},{"name":"18 números","total":139,"amount":2014.16},{"name":"17 números","total":1396,"amount":99.89},{"name":"16 números","total":8741,"amount":15.95},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "614",
+ "date": "2006-04-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  11,
+  12,
+  13,
+  19,
+  21,
+  24,
+  31,
+  36,
+  44,
+  46,
+  47,
+  50,
+  62,
+  69,
+  75,
+  77,
+  85,
+  86,
+  90
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 1051839.57
+  },
+  {
+   "name": "19 números",
+   "total": 8,
+   "amount": 34995.97
+  },
+  {
+   "name": "18 números",
+   "total": 139,
+   "amount": 2014.16
+  },
+  {
+   "name": "17 números",
+   "total": 1396,
+   "amount": 99.89
+  },
+  {
+   "name": "16 números",
+   "total": 8741,
+   "amount": 15.95
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

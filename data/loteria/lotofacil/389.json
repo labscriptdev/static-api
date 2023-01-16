@@ -1,1 +1,49 @@
-{"number":"389","date":"2009-01-02T00:00:00","accumulated":0,"numbers":[2,3,4,5,6,9,10,12,13,17,18,19,23,24,25],"winners":[{"name":"15 números","total":5,"amount":508398.23},{"name":"14 números","total":27337,"amount":223.02},{"name":"13 números","total":27337,"amount":10},{"name":"12 números","total":306754,"amount":4},{"name":"11 números","total":1452691,"amount":2}]}
+{
+ "number": "389",
+ "date": "2009-01-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  9,
+  10,
+  12,
+  13,
+  17,
+  18,
+  19,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 5,
+   "amount": 508398.23
+  },
+  {
+   "name": "14 números",
+   "total": 27337,
+   "amount": 223.02
+  },
+  {
+   "name": "13 números",
+   "total": 27337,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 306754,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1452691,
+   "amount": 2
+  }
+ ]
+}

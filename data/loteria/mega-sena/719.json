@@ -1,1 +1,30 @@
-{"number":"719","date":"2005-12-03T00:00:00","accumulated":0,"numbers":[3,32,37,39,47,53],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":63,"amount":12737},{"name":"Quadra","total":3553,"amount":225}]}
+{
+ "number": "719",
+ "date": "2005-12-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  32,
+  37,
+  39,
+  47,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 63,
+   "amount": 12737
+  },
+  {
+   "name": "Quadra",
+   "total": 3553,
+   "amount": 225
+  }
+ ]
+}

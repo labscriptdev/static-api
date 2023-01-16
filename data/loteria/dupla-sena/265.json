@@ -1,1 +1,35 @@
-{"number":"265","date":"2004-06-18T00:00:00","accumulated":0,"numbers":[3,15,17,21,47,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "265",
+ "date": "2004-06-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  15,
+  17,
+  21,
+  47,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"Turkey","cca2":"tr","cca3":"tur","languages":["tur"],"latlng":[39,35],"flags":"https://flagcdn.com/tr.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Turkey",
+ "cca2": "tr",
+ "cca3": "tur",
+ "languages": [
+  "tur"
+ ],
+ "latlng": [
+  39,
+  35
+ ],
+ "flags": "https://flagcdn.com/tr.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

@@ -1,1 +1,30 @@
-{"number":"638","date":"2005-02-12T00:00:00","accumulated":0,"numbers":[10,11,36,41,42,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":65,"amount":22677.35},{"name":"Quadra","total":4518,"amount":325.03}]}
+{
+ "number": "638",
+ "date": "2005-02-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  11,
+  36,
+  41,
+  42,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 65,
+   "amount": 22677.35
+  },
+  {
+   "name": "Quadra",
+   "total": 4518,
+   "amount": 325.03
+  }
+ ]
+}

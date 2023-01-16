@@ -1,1 +1,59 @@
-{"number":"819","date":"2008-04-16T00:00:00","accumulated":0,"numbers":[2,10,12,23,27,35,37,39,42,43,46,48,54,55,62,73,82,85,96,99],"winners":[{"name":"20 números","total":3,"amount":162007.4},{"name":"19 números","total":20,"amount":11733.68},{"name":"18 números","total":337,"amount":696.36},{"name":"17 números","total":2449,"amount":47.91},{"name":"16 números","total":12854,"amount":9.13},{"name":"nenhum número","total":1,"amount":117336.75}]}
+{
+ "number": "819",
+ "date": "2008-04-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  10,
+  12,
+  23,
+  27,
+  35,
+  37,
+  39,
+  42,
+  43,
+  46,
+  48,
+  54,
+  55,
+  62,
+  73,
+  82,
+  85,
+  96,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 3,
+   "amount": 162007.4
+  },
+  {
+   "name": "19 números",
+   "total": 20,
+   "amount": 11733.68
+  },
+  {
+   "name": "18 números",
+   "total": 337,
+   "amount": 696.36
+  },
+  {
+   "name": "17 números",
+   "total": 2449,
+   "amount": 47.91
+  },
+  {
+   "name": "16 números",
+   "total": 12854,
+   "amount": 9.13
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 117336.75
+  }
+ ]
+}

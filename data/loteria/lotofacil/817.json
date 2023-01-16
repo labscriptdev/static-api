@@ -1,1 +1,49 @@
-{"number":"817","date":"2012-10-17T00:00:00","accumulated":0,"numbers":[1,2,3,4,5,8,10,11,12,17,18,20,23,24,25],"winners":[{"name":"15 números","total":2,"amount":722468.13},{"name":"14 números","total":21700,"amount":1041.2},{"name":"13 números","total":21700,"amount":12.5},{"name":"12 números","total":260178,"amount":5},{"name":"11 números","total":1373657,"amount":2.5}]}
+{
+ "number": "817",
+ "date": "2012-10-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  8,
+  10,
+  11,
+  12,
+  17,
+  18,
+  20,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 722468.13
+  },
+  {
+   "name": "14 números",
+   "total": 21700,
+   "amount": 1041.2
+  },
+  {
+   "name": "13 números",
+   "total": 21700,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 260178,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1373657,
+   "amount": 2.5
+  }
+ ]
+}

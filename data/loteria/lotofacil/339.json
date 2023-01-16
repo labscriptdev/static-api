@@ -1,1 +1,49 @@
-{"number":"339","date":"2008-07-10T00:00:00","accumulated":0,"numbers":[1,2,5,8,10,13,15,16,18,19,20,21,22,23,24],"winners":[{"name":"15 números","total":4,"amount":296278.06},{"name":"14 números","total":20706,"amount":857.95},{"name":"13 números","total":20706,"amount":10},{"name":"12 números","total":240542,"amount":4},{"name":"11 números","total":1259730,"amount":2}]}
+{
+ "number": "339",
+ "date": "2008-07-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  5,
+  8,
+  10,
+  13,
+  15,
+  16,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 296278.06
+  },
+  {
+   "name": "14 números",
+   "total": 20706,
+   "amount": 857.95
+  },
+  {
+   "name": "13 números",
+   "total": 20706,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 240542,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1259730,
+   "amount": 2
+  }
+ ]
+}

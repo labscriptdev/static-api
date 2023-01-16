@@ -1,1 +1,59 @@
-{"number":"354","date":"2003-09-27T00:00:00","accumulated":0,"numbers":[0,4,13,14,19,23,24,27,29,33,40,53,55,72,76,77,81,86,90,91],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":9,"amount":43907.88},{"name":"18 números","total":197,"amount":2005.95},{"name":"17 números","total":1946,"amount":101.15},{"name":"16 números","total":11795,"amount":16.7},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "354",
+ "date": "2003-09-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  4,
+  13,
+  14,
+  19,
+  23,
+  24,
+  27,
+  29,
+  33,
+  40,
+  53,
+  55,
+  72,
+  76,
+  77,
+  81,
+  86,
+  90,
+  91
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 43907.88
+  },
+  {
+   "name": "18 números",
+   "total": 197,
+   "amount": 2005.95
+  },
+  {
+   "name": "17 números",
+   "total": 1946,
+   "amount": 101.15
+  },
+  {
+   "name": "16 números",
+   "total": 11795,
+   "amount": 16.7
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

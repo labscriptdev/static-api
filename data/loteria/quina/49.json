@@ -1,1 +1,29 @@
-{"number":"49","date":"1994-09-15T00:00:00","accumulated":0,"numbers":[10,19,39,52,66],"winners":[{"name":"Quina","total":1,"amount":585910.74},{"name":"Quadra","total":268,"amount":1061.96},{"name":"Terno","total":13716,"amount":27.61}]}
+{
+ "number": "49",
+ "date": "1994-09-15T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  19,
+  39,
+  52,
+  66
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 585910.74
+  },
+  {
+   "name": "Quadra",
+   "total": 268,
+   "amount": 1061.96
+  },
+  {
+   "name": "Terno",
+   "total": 13716,
+   "amount": 27.61
+  }
+ ]
+}

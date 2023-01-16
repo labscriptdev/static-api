@@ -1,1 +1,15 @@
-{"name":"French Southern and Antarctic Lands","cca2":"tf","cca3":"atf","languages":["fra"],"latlng":[-49.25,69.167],"flags":"https://flagcdn.com/tf.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "French Southern and Antarctic Lands",
+ "cca2": "tf",
+ "cca3": "atf",
+ "languages": [
+  "fra"
+ ],
+ "latlng": [
+  -49.25,
+  69.167
+ ],
+ "flags": "https://flagcdn.com/tf.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

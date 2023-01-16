@@ -1,1 +1,30 @@
-{"number":"977","date":"2008-06-11T00:00:00","accumulated":0,"numbers":[3,5,7,9,17,32],"winners":[{"name":"Sena","total":1,"amount":16584111.63},{"name":"Quina","total":452,"amount":3767.1},{"name":"Quadra","total":24482,"amount":69.55}]}
+{
+ "number": "977",
+ "date": "2008-06-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  7,
+  9,
+  17,
+  32
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 16584111.63
+  },
+  {
+   "name": "Quina",
+   "total": 452,
+   "amount": 3767.1
+  },
+  {
+   "name": "Quadra",
+   "total": 24482,
+   "amount": 69.55
+  }
+ ]
+}

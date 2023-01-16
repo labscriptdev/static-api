@@ -1,1 +1,29 @@
-{"number":"763","date":"2000-10-21T00:00:00","accumulated":0,"numbers":[18,25,26,47,70],"winners":[{"name":"Quina","total":1,"amount":649075.05},{"name":"Quadra","total":328,"amount":1205.88},{"name":"Terno","total":15669,"amount":33.56}]}
+{
+ "number": "763",
+ "date": "2000-10-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  25,
+  26,
+  47,
+  70
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 649075.05
+  },
+  {
+   "name": "Quadra",
+   "total": 328,
+   "amount": 1205.88
+  },
+  {
+   "name": "Terno",
+   "total": 15669,
+   "amount": 33.56
+  }
+ ]
+}

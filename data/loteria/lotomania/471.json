@@ -1,1 +1,59 @@
-{"number":"471","date":"2004-11-20T00:00:00","accumulated":0,"numbers":[0,5,7,11,12,15,18,20,21,23,28,31,32,35,44,66,69,86,90,95],"winners":[{"name":"20 números","total":1,"amount":1629657.57},{"name":"19 números","total":11,"amount":28492.3},{"name":"18 números","total":225,"amount":1392.96},{"name":"17 números","total":2003,"amount":77.95},{"name":"16 números","total":11608,"amount":13.45},{"name":"nenhum número","total":1,"amount":156707.68}]}
+{
+ "number": "471",
+ "date": "2004-11-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  5,
+  7,
+  11,
+  12,
+  15,
+  18,
+  20,
+  21,
+  23,
+  28,
+  31,
+  32,
+  35,
+  44,
+  66,
+  69,
+  86,
+  90,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 1629657.57
+  },
+  {
+   "name": "19 números",
+   "total": 11,
+   "amount": 28492.3
+  },
+  {
+   "name": "18 números",
+   "total": 225,
+   "amount": 1392.96
+  },
+  {
+   "name": "17 números",
+   "total": 2003,
+   "amount": 77.95
+  },
+  {
+   "name": "16 números",
+   "total": 11608,
+   "amount": 13.45
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 156707.68
+  }
+ ]
+}

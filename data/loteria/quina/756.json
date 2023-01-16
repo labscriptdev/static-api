@@ -1,1 +1,29 @@
-{"number":"756","date":"2000-10-03T00:00:00","accumulated":0,"numbers":[15,30,39,67,73],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":203,"amount":1281.61},{"name":"Terno","total":8565,"amount":40.38}]}
+{
+ "number": "756",
+ "date": "2000-10-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  15,
+  30,
+  39,
+  67,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 203,
+   "amount": 1281.61
+  },
+  {
+   "name": "Terno",
+   "total": 8565,
+   "amount": 40.38
+  }
+ ]
+}

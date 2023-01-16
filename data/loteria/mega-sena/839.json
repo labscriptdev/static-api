@@ -1,1 +1,30 @@
-{"number":"839","date":"2007-02-03T00:00:00","accumulated":0,"numbers":[7,8,11,18,37,43],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":77,"amount":11092.88},{"name":"Quadra","total":5314,"amount":160.13}]}
+{
+ "number": "839",
+ "date": "2007-02-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  8,
+  11,
+  18,
+  37,
+  43
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 77,
+   "amount": 11092.88
+  },
+  {
+   "name": "Quadra",
+   "total": 5314,
+   "amount": 160.13
+  }
+ ]
+}

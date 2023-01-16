@@ -1,1 +1,59 @@
-{"number":"1349","date":"2013-05-18T00:00:00","accumulated":0,"numbers":[2,3,6,8,10,14,16,17,23,31,33,41,44,45,55,65,68,78,87,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":12,"amount":29120.71},{"name":"18 números","total":188,"amount":1858.77},{"name":"17 números","total":1683,"amount":129.77},{"name":"16 números","total":10526,"amount":20.74},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1349",
+ "date": "2013-05-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  6,
+  8,
+  10,
+  14,
+  16,
+  17,
+  23,
+  31,
+  33,
+  41,
+  44,
+  45,
+  55,
+  65,
+  68,
+  78,
+  87,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 29120.71
+  },
+  {
+   "name": "18 números",
+   "total": 188,
+   "amount": 1858.77
+  },
+  {
+   "name": "17 números",
+   "total": 1683,
+   "amount": 129.77
+  },
+  {
+   "name": "16 números",
+   "total": 10526,
+   "amount": 20.74
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

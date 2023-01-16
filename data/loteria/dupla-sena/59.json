@@ -1,1 +1,35 @@
-{"number":"59","date":"2002-06-11T00:00:00","accumulated":0,"numbers":[2,16,28,33,38,46],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "59",
+ "date": "2002-06-11T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  16,
+  28,
+  33,
+  38,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

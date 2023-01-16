@@ -1,1 +1,30 @@
-{"number":"1196","date":"2010-07-14T00:00:00","accumulated":0,"numbers":[3,6,19,20,58,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":85,"amount":12208.59},{"name":"Quadra","total":5086,"amount":291.48}]}
+{
+ "number": "1196",
+ "date": "2010-07-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  6,
+  19,
+  20,
+  58,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 85,
+   "amount": 12208.59
+  },
+  {
+   "name": "Quadra",
+   "total": 5086,
+   "amount": 291.48
+  }
+ ]
+}

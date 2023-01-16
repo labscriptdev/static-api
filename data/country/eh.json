@@ -1,1 +1,17 @@
-{"name":"Western Sahara","cca2":"eh","cca3":"esh","languages":["ber","mey","spa"],"latlng":[24.5,-13],"flags":"https://flagcdn.com/eh.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Western Sahara",
+ "cca2": "eh",
+ "cca3": "esh",
+ "languages": [
+  "ber",
+  "mey",
+  "spa"
+ ],
+ "latlng": [
+  24.5,
+  -13
+ ],
+ "flags": "https://flagcdn.com/eh.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

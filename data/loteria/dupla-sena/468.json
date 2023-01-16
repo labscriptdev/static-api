@@ -1,1 +1,35 @@
-{"number":"468","date":"2006-07-07T00:00:00","accumulated":0,"numbers":[1,3,6,8,16,19],"winners":[{"name":"Sena","total":1,"amount":257161.01},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "468",
+ "date": "2006-07-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  3,
+  6,
+  8,
+  16,
+  19
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 257161.01
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

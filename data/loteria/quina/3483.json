@@ -1,1 +1,29 @@
-{"number":"3483","date":"2014-05-08T00:00:00","accumulated":0,"numbers":[17,19,39,55,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":129,"amount":4536},{"name":"Terno","total":9468,"amount":88.28}]}
+{
+ "number": "3483",
+ "date": "2014-05-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  19,
+  39,
+  55,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 129,
+   "amount": 4536
+  },
+  {
+   "name": "Terno",
+   "total": 9468,
+   "amount": 88.28
+  }
+ ]
+}

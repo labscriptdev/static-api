@@ -1,1 +1,16 @@
-{"name":"Argentina","cca2":"ar","cca3":"arg","languages":["grn","spa"],"latlng":[-34,-64],"flags":"https://flagcdn.com/ar.svg","postalCodeMask":"@####@@@","phoneMask":false}
+{
+ "name": "Argentina",
+ "cca2": "ar",
+ "cca3": "arg",
+ "languages": [
+  "grn",
+  "spa"
+ ],
+ "latlng": [
+  -34,
+  -64
+ ],
+ "flags": "https://flagcdn.com/ar.svg",
+ "postalCodeMask": "@####@@@",
+ "phoneMask": false
+}

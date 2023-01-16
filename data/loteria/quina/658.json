@@ -1,1 +1,29 @@
-{"number":"658","date":"2000-02-05T00:00:00","accumulated":0,"numbers":[3,25,44,60,69],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":326,"amount":1039.54},{"name":"Terno","total":14465,"amount":31.13}]}
+{
+ "number": "658",
+ "date": "2000-02-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  25,
+  44,
+  60,
+  69
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 326,
+   "amount": 1039.54
+  },
+  {
+   "name": "Terno",
+   "total": 14465,
+   "amount": 31.13
+  }
+ ]
+}

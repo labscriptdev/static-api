@@ -1,1 +1,29 @@
-{"number":"470","date":"1998-10-24T00:00:00","accumulated":0,"numbers":[18,28,30,45,70],"winners":[{"name":"Quina","total":2,"amount":315084.28},{"name":"Quadra","total":273,"amount":1364.88},{"name":"Terno","total":13394,"amount":37.02}]}
+{
+ "number": "470",
+ "date": "1998-10-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  28,
+  30,
+  45,
+  70
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 315084.28
+  },
+  {
+   "name": "Quadra",
+   "total": 273,
+   "amount": 1364.88
+  },
+  {
+   "name": "Terno",
+   "total": 13394,
+   "amount": 37.02
+  }
+ ]
+}

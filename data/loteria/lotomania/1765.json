@@ -1,1 +1,59 @@
-{"number":"1765","date":"2017-05-26T00:00:00","accumulated":0,"numbers":[0,8,11,12,17,20,21,23,36,37,38,41,42,45,52,56,60,64,79,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":10,"amount":30404.29},{"name":"18 números","total":144,"amount":1885.18},{"name":"17 números","total":1408,"amount":134.96},{"name":"16 números","total":10891,"amount":17.44},{"name":"nenhum número","total":37078,"amount":5.12}]}
+{
+ "number": "1765",
+ "date": "2017-05-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  8,
+  11,
+  12,
+  17,
+  20,
+  21,
+  23,
+  36,
+  37,
+  38,
+  41,
+  42,
+  45,
+  52,
+  56,
+  60,
+  64,
+  79,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 10,
+   "amount": 30404.29
+  },
+  {
+   "name": "18 números",
+   "total": 144,
+   "amount": 1885.18
+  },
+  {
+   "name": "17 números",
+   "total": 1408,
+   "amount": 134.96
+  },
+  {
+   "name": "16 números",
+   "total": 10891,
+   "amount": 17.44
+  },
+  {
+   "name": "nenhum número",
+   "total": 37078,
+   "amount": 5.12
+  }
+ ]
+}

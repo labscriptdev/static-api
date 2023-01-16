@@ -1,1 +1,29 @@
-{"number":"3584","date":"2014-09-10T00:00:00","accumulated":0,"numbers":[9,50,51,58,74],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":90,"amount":8158.88},{"name":"Terno","total":6335,"amount":165.58}]}
+{
+ "number": "3584",
+ "date": "2014-09-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  50,
+  51,
+  58,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 90,
+   "amount": 8158.88
+  },
+  {
+   "name": "Terno",
+   "total": 6335,
+   "amount": 165.58
+  }
+ ]
+}

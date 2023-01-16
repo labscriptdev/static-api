@@ -1,1 +1,29 @@
-{"number":"931","date":"2001-12-13T00:00:00","accumulated":0,"numbers":[20,31,61,76,79],"winners":[{"name":"Quina","total":1,"amount":284304.16},{"name":"Quadra","total":155,"amount":1834.22},{"name":"Terno","total":6900,"amount":54.74}]}
+{
+ "number": "931",
+ "date": "2001-12-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  20,
+  31,
+  61,
+  76,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 284304.16
+  },
+  {
+   "name": "Quadra",
+   "total": 155,
+   "amount": 1834.22
+  },
+  {
+   "name": "Terno",
+   "total": 6900,
+   "amount": 54.74
+  }
+ ]
+}

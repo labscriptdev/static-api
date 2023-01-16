@@ -1,1 +1,59 @@
-{"number":"698","date":"2007-02-17T00:00:00","accumulated":0,"numbers":[8,14,15,16,26,27,30,39,41,44,48,67,74,75,82,86,87,88,91,94],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":6,"amount":41674.55},{"name":"18 números","total":130,"amount":1923.44},{"name":"17 números","total":1021,"amount":122},{"name":"16 números","total":6654,"amount":18.72},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "698",
+ "date": "2007-02-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  14,
+  15,
+  16,
+  26,
+  27,
+  30,
+  39,
+  41,
+  44,
+  48,
+  67,
+  74,
+  75,
+  82,
+  86,
+  87,
+  88,
+  91,
+  94
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 41674.55
+  },
+  {
+   "name": "18 números",
+   "total": 130,
+   "amount": 1923.44
+  },
+  {
+   "name": "17 números",
+   "total": 1021,
+   "amount": 122
+  },
+  {
+   "name": "16 números",
+   "total": 6654,
+   "amount": 18.72
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

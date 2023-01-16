@@ -1,1 +1,29 @@
-{"number":"1528","date":"2005-11-24T00:00:00","accumulated":0,"numbers":[10,36,52,63,68],"winners":[{"name":"Quina","total":1,"amount":297888.88},{"name":"Quadra","total":98,"amount":3039.68},{"name":"Terno","total":5711,"amount":69.29}]}
+{
+ "number": "1528",
+ "date": "2005-11-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  10,
+  36,
+  52,
+  63,
+  68
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 297888.88
+  },
+  {
+   "name": "Quadra",
+   "total": 98,
+   "amount": 3039.68
+  },
+  {
+   "name": "Terno",
+   "total": 5711,
+   "amount": 69.29
+  }
+ ]
+}

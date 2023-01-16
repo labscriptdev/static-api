@@ -1,1 +1,35 @@
-{"number":"922","date":"2010-12-07T00:00:00","accumulated":0,"numbers":[3,12,20,34,39,44],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":26,"amount":4084.64},{"name":"Quadra","total":1637,"amount":61.78},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "922",
+ "date": "2010-12-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  12,
+  20,
+  34,
+  39,
+  44
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 26,
+   "amount": 4084.64
+  },
+  {
+   "name": "Quadra",
+   "total": 1637,
+   "amount": 61.78
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

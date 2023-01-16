@@ -1,1 +1,49 @@
-{"number":"1780","date":"2019-02-22T00:00:00","accumulated":0,"numbers":[3,4,5,6,8,9,10,11,13,14,15,16,17,22,25],"winners":[{"name":"15 números","total":2,"amount":1221923.36},{"name":"14 números","total":13049,"amount":2394.75},{"name":"13 números","total":13049,"amount":20},{"name":"12 números","total":176705,"amount":8},{"name":"11 números","total":1077763,"amount":4}]}
+{
+ "number": "1780",
+ "date": "2019-02-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  5,
+  6,
+  8,
+  9,
+  10,
+  11,
+  13,
+  14,
+  15,
+  16,
+  17,
+  22,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 1221923.36
+  },
+  {
+   "name": "14 números",
+   "total": 13049,
+   "amount": 2394.75
+  },
+  {
+   "name": "13 números",
+   "total": 13049,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 176705,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1077763,
+   "amount": 4
+  }
+ ]
+}

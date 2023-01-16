@@ -1,1 +1,59 @@
-{"number":"945","date":"2009-07-01T00:00:00","accumulated":0,"numbers":[3,7,18,21,26,31,32,36,41,54,55,57,60,64,66,67,74,80,94,98],"winners":[{"name":"20 números","total":1,"amount":425369.73},{"name":"19 números","total":8,"amount":35447.48},{"name":"18 números","total":123,"amount":2305.52},{"name":"17 números","total":1049,"amount":193.09},{"name":"16 números","total":6949,"amount":29.14},{"name":"nenhum número","total":1,"amount":141789.91}]}
+{
+ "number": "945",
+ "date": "2009-07-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  7,
+  18,
+  21,
+  26,
+  31,
+  32,
+  36,
+  41,
+  54,
+  55,
+  57,
+  60,
+  64,
+  66,
+  67,
+  74,
+  80,
+  94,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 425369.73
+  },
+  {
+   "name": "19 números",
+   "total": 8,
+   "amount": 35447.48
+  },
+  {
+   "name": "18 números",
+   "total": 123,
+   "amount": 2305.52
+  },
+  {
+   "name": "17 números",
+   "total": 1049,
+   "amount": 193.09
+  },
+  {
+   "name": "16 números",
+   "total": 6949,
+   "amount": 29.14
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 141789.91
+  }
+ ]
+}

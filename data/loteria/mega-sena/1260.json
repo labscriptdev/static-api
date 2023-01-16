@@ -1,1 +1,30 @@
-{"number":"1260","date":"2011-02-23T00:00:00","accumulated":0,"numbers":[19,23,29,31,41,53],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":70,"amount":30497.83},{"name":"Quadra","total":5798,"amount":526}]}
+{
+ "number": "1260",
+ "date": "2011-02-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  19,
+  23,
+  29,
+  31,
+  41,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 70,
+   "amount": 30497.83
+  },
+  {
+   "name": "Quadra",
+   "total": 5798,
+   "amount": 526
+  }
+ ]
+}

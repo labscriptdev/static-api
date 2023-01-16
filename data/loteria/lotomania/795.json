@@ -1,1 +1,59 @@
-{"number":"795","date":"2008-01-23T00:00:00","accumulated":0,"numbers":[4,18,29,30,45,47,49,50,52,55,56,59,65,70,72,74,87,91,93,95],"winners":[{"name":"20 números","total":1,"amount":1990307.19},{"name":"19 números","total":13,"amount":22265.74},{"name":"18 números","total":210,"amount":1378.35},{"name":"17 números","total":1683,"amount":85.99},{"name":"16 números","total":9589,"amount":15.1},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "795",
+ "date": "2008-01-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  18,
+  29,
+  30,
+  45,
+  47,
+  49,
+  50,
+  52,
+  55,
+  56,
+  59,
+  65,
+  70,
+  72,
+  74,
+  87,
+  91,
+  93,
+  95
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 1990307.19
+  },
+  {
+   "name": "19 números",
+   "total": 13,
+   "amount": 22265.74
+  },
+  {
+   "name": "18 números",
+   "total": 210,
+   "amount": 1378.35
+  },
+  {
+   "name": "17 números",
+   "total": 1683,
+   "amount": 85.99
+  },
+  {
+   "name": "16 números",
+   "total": 9589,
+   "amount": 15.1
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

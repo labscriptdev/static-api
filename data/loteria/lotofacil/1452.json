@@ -1,1 +1,49 @@
-{"number":"1452","date":"2016-12-23T00:00:00","accumulated":0,"numbers":[2,5,7,8,10,11,13,14,15,17,20,21,23,24,25],"winners":[{"name":"15 números","total":8,"amount":166632.69},{"name":"14 números","total":25464,"amount":573.9},{"name":"13 números","total":25464,"amount":20},{"name":"12 números","total":241290,"amount":8},{"name":"11 números","total":1136397,"amount":4}]}
+{
+ "number": "1452",
+ "date": "2016-12-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  7,
+  8,
+  10,
+  11,
+  13,
+  14,
+  15,
+  17,
+  20,
+  21,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 8,
+   "amount": 166632.69
+  },
+  {
+   "name": "14 números",
+   "total": 25464,
+   "amount": 573.9
+  },
+  {
+   "name": "13 números",
+   "total": 25464,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 241290,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1136397,
+   "amount": 4
+  }
+ ]
+}

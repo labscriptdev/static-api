@@ -1,1 +1,29 @@
-{"number":"735","date":"2000-08-12T00:00:00","accumulated":0,"numbers":[29,57,59,77,79],"winners":[{"name":"Quina","total":7,"amount":50211.11},{"name":"Quadra","total":372,"amount":944.84},{"name":"Terno","total":12149,"amount":38.46}]}
+{
+ "number": "735",
+ "date": "2000-08-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  29,
+  57,
+  59,
+  77,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 7,
+   "amount": 50211.11
+  },
+  {
+   "name": "Quadra",
+   "total": 372,
+   "amount": 944.84
+  },
+  {
+   "name": "Terno",
+   "total": 12149,
+   "amount": 38.46
+  }
+ ]
+}

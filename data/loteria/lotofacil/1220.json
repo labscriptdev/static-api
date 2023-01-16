@@ -1,1 +1,49 @@
-{"number":"1220","date":"2015-06-10T00:00:00","accumulated":0,"numbers":[2,3,4,5,6,7,9,13,14,17,18,19,20,23,25],"winners":[{"name":"15 números","total":4,"amount":1026828.47},{"name":"14 números","total":20133,"amount":1371.62},{"name":"13 números","total":20133,"amount":20},{"name":"12 números","total":266061,"amount":8},{"name":"11 números","total":1364338,"amount":4}]}
+{
+ "number": "1220",
+ "date": "2015-06-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  9,
+  13,
+  14,
+  17,
+  18,
+  19,
+  20,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 1026828.47
+  },
+  {
+   "name": "14 números",
+   "total": 20133,
+   "amount": 1371.62
+  },
+  {
+   "name": "13 números",
+   "total": 20133,
+   "amount": 20
+  },
+  {
+   "name": "12 números",
+   "total": 266061,
+   "amount": 8
+  },
+  {
+   "name": "11 números",
+   "total": 1364338,
+   "amount": 4
+  }
+ ]
+}

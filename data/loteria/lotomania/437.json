@@ -1,1 +1,59 @@
-{"number":"437","date":"2004-07-24T00:00:00","accumulated":0,"numbers":[6,26,28,30,32,36,41,43,49,53,55,59,66,68,73,75,76,78,95,97],"winners":[{"name":"20 números","total":2,"amount":213134.77},{"name":"19 números","total":34,"amount":8358.23},{"name":"18 números","total":325,"amount":874.4},{"name":"17 números","total":2362,"amount":59.94},{"name":"16 números","total":12317,"amount":11.5},{"name":"nenhum número","total":4,"amount":35522.46}]}
+{
+ "number": "437",
+ "date": "2004-07-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  26,
+  28,
+  30,
+  32,
+  36,
+  41,
+  43,
+  49,
+  53,
+  55,
+  59,
+  66,
+  68,
+  73,
+  75,
+  76,
+  78,
+  95,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 2,
+   "amount": 213134.77
+  },
+  {
+   "name": "19 números",
+   "total": 34,
+   "amount": 8358.23
+  },
+  {
+   "name": "18 números",
+   "total": 325,
+   "amount": 874.4
+  },
+  {
+   "name": "17 números",
+   "total": 2362,
+   "amount": 59.94
+  },
+  {
+   "name": "16 números",
+   "total": 12317,
+   "amount": 11.5
+  },
+  {
+   "name": "nenhum número",
+   "total": 4,
+   "amount": 35522.46
+  }
+ ]
+}

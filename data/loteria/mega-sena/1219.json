@@ -1,1 +1,30 @@
-{"number":"1219","date":"2010-10-02T00:00:00","accumulated":0,"numbers":[2,33,34,37,41,53],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":220,"amount":28644.89},{"name":"Quadra","total":17919,"amount":502.4}]}
+{
+ "number": "1219",
+ "date": "2010-10-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  33,
+  34,
+  37,
+  41,
+  53
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 220,
+   "amount": 28644.89
+  },
+  {
+   "name": "Quadra",
+   "total": 17919,
+   "amount": 502.4
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"Micronesia","cca2":"fm","cca3":"fsm","languages":["eng"],"latlng":[6.91666666,158.25],"flags":"https://flagcdn.com/fm.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Micronesia",
+ "cca2": "fm",
+ "cca3": "fsm",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  6.91666666,
+  158.25
+ ],
+ "flags": "https://flagcdn.com/fm.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

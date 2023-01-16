@@ -1,1 +1,35 @@
-{"number":"1759","date":"2018-02-22T00:00:00","accumulated":0,"numbers":[12,16,26,34,43,45],"winners":[{"name":"Sena","total":1,"amount":1809242.34},{"name":"Quina","total":25,"amount":2871.88},{"name":"Quadra","total":1226,"amount":66.92},{"name":"Terno","total":20865,"amount":1.96}]}
+{
+ "number": "1759",
+ "date": "2018-02-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  12,
+  16,
+  26,
+  34,
+  43,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 1809242.34
+  },
+  {
+   "name": "Quina",
+   "total": 25,
+   "amount": 2871.88
+  },
+  {
+   "name": "Quadra",
+   "total": 1226,
+   "amount": 66.92
+  },
+  {
+   "name": "Terno",
+   "total": 20865,
+   "amount": 1.96
+  }
+ ]
+}

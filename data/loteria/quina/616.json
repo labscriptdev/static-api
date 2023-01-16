@@ -1,1 +1,29 @@
-{"number":"616","date":"1999-10-21T00:00:00","accumulated":0,"numbers":[7,17,40,58,73],"winners":[{"name":"Quina","total":1,"amount":283457.86},{"name":"Quadra","total":256,"amount":1107.26},{"name":"Terno","total":10667,"amount":35.3}]}
+{
+ "number": "616",
+ "date": "1999-10-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  17,
+  40,
+  58,
+  73
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 283457.86
+  },
+  {
+   "name": "Quadra",
+   "total": 256,
+   "amount": 1107.26
+  },
+  {
+   "name": "Terno",
+   "total": 10667,
+   "amount": 35.3
+  }
+ ]
+}

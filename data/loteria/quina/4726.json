@@ -1,1 +1,29 @@
-{"number":"4726","date":"2018-07-17T00:00:00","accumulated":0,"numbers":[5,12,19,65,71],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":95,"amount":4171.58},{"name":"Terno","total":7774,"amount":76.65}]}
+{
+ "number": "4726",
+ "date": "2018-07-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  12,
+  19,
+  65,
+  71
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 95,
+   "amount": 4171.58
+  },
+  {
+   "name": "Terno",
+   "total": 7774,
+   "amount": 76.65
+  }
+ ]
+}

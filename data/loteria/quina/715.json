@@ -1,1 +1,29 @@
-{"number":"715","date":"2000-06-27T00:00:00","accumulated":0,"numbers":[23,32,38,49,74],"winners":[{"name":"Quina","total":1,"amount":246778.63},{"name":"Quadra","total":216,"amount":1142.5},{"name":"Terno","total":10239,"amount":32.04}]}
+{
+ "number": "715",
+ "date": "2000-06-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  23,
+  32,
+  38,
+  49,
+  74
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 246778.63
+  },
+  {
+   "name": "Quadra",
+   "total": 216,
+   "amount": 1142.5
+  },
+  {
+   "name": "Terno",
+   "total": 10239,
+   "amount": 32.04
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"905","date":"2010-10-08T00:00:00","accumulated":0,"numbers":[5,15,22,26,34,35],"winners":[{"name":"Sena","total":1,"amount":2856680.78},{"name":"Quina","total":32,"amount":4478.14},{"name":"Quadra","total":2534,"amount":53.85},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "905",
+ "date": "2010-10-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  15,
+  22,
+  26,
+  34,
+  35
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 2856680.78
+  },
+  {
+   "name": "Quina",
+   "total": 32,
+   "amount": 4478.14
+  },
+  {
+   "name": "Quadra",
+   "total": 2534,
+   "amount": 53.85
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

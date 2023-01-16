@@ -1,1 +1,49 @@
-{"number":"510","date":"2010-03-04T00:00:00","accumulated":0,"numbers":[1,2,3,4,6,7,10,11,12,13,20,21,22,23,25],"winners":[{"name":"15 números","total":4,"amount":413048.98},{"name":"14 números","total":18319,"amount":1391.13},{"name":"13 números","total":18319,"amount":12.5},{"name":"12 números","total":214225,"amount":5},{"name":"11 números","total":1238241,"amount":2.5}]}
+{
+ "number": "510",
+ "date": "2010-03-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  4,
+  6,
+  7,
+  10,
+  11,
+  12,
+  13,
+  20,
+  21,
+  22,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 413048.98
+  },
+  {
+   "name": "14 números",
+   "total": 18319,
+   "amount": 1391.13
+  },
+  {
+   "name": "13 números",
+   "total": 18319,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 214225,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1238241,
+   "amount": 2.5
+  }
+ ]
+}

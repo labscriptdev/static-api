@@ -1,1 +1,30 @@
-{"number":"2237","date":"2020-02-27T00:00:00","accumulated":0,"numbers":[11,20,27,28,53,60],"winners":[{"name":"Sena","total":2,"amount":105826358.87},{"name":"Quina","total":263,"amount":44509.85},{"name":"Quadra","total":15054,"amount":1110.86}]}
+{
+ "number": "2237",
+ "date": "2020-02-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  20,
+  27,
+  28,
+  53,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 105826358.87
+  },
+  {
+   "name": "Quina",
+   "total": 263,
+   "amount": 44509.85
+  },
+  {
+   "name": "Quadra",
+   "total": 15054,
+   "amount": 1110.86
+  }
+ ]
+}

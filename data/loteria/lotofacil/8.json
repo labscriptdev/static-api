@@ -1,1 +1,49 @@
-{"number":"8","date":"2003-11-17T00:00:00","accumulated":0,"numbers":[1,5,6,8,9,10,13,15,16,17,18,19,20,22,25],"winners":[{"name":"15 números","total":1,"amount":1201958.08},{"name":"14 números","total":11414,"amount":2012.21},{"name":"13 números","total":11414,"amount":10},{"name":"12 números","total":149037,"amount":4},{"name":"11 números","total":926910,"amount":2}]}
+{
+ "number": "8",
+ "date": "2003-11-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  6,
+  8,
+  9,
+  10,
+  13,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  22,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1201958.08
+  },
+  {
+   "name": "14 números",
+   "total": 11414,
+   "amount": 2012.21
+  },
+  {
+   "name": "13 números",
+   "total": 11414,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 149037,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 926910,
+   "amount": 2
+  }
+ ]
+}

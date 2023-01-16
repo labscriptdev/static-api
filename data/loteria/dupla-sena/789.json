@@ -1,1 +1,35 @@
-{"number":"789","date":"2009-08-28T00:00:00","accumulated":0,"numbers":[5,32,34,43,47,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "789",
+ "date": "2009-08-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  32,
+  34,
+  43,
+  47,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

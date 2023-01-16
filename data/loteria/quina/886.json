@@ -1,1 +1,29 @@
-{"number":"886","date":"2001-08-23T00:00:00","accumulated":0,"numbers":[24,37,40,44,59],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":263,"amount":1030.26},{"name":"Terno","total":10288,"amount":34.99}]}
+{
+ "number": "886",
+ "date": "2001-08-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  24,
+  37,
+  40,
+  44,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 263,
+   "amount": 1030.26
+  },
+  {
+   "name": "Terno",
+   "total": 10288,
+   "amount": 34.99
+  }
+ ]
+}

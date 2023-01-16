@@ -1,1 +1,59 @@
-{"number":"1904","date":"2018-09-25T00:00:00","accumulated":0,"numbers":[3,4,5,8,9,19,23,24,31,33,48,52,53,54,65,76,84,87,94,97],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":4,"amount":56353.22},{"name":"18 números","total":84,"amount":1677.18},{"name":"17 números","total":928,"amount":151.81},{"name":"16 números","total":5647,"amount":24.94},{"name":"nenhum número","total":24278,"amount":5.8}]}
+{
+ "number": "1904",
+ "date": "2018-09-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  5,
+  8,
+  9,
+  19,
+  23,
+  24,
+  31,
+  33,
+  48,
+  52,
+  53,
+  54,
+  65,
+  76,
+  84,
+  87,
+  94,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 4,
+   "amount": 56353.22
+  },
+  {
+   "name": "18 números",
+   "total": 84,
+   "amount": 1677.18
+  },
+  {
+   "name": "17 números",
+   "total": 928,
+   "amount": 151.81
+  },
+  {
+   "name": "16 números",
+   "total": 5647,
+   "amount": 24.94
+  },
+  {
+   "name": "nenhum número",
+   "total": 24278,
+   "amount": 5.8
+  }
+ ]
+}

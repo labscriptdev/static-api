@@ -1,1 +1,15 @@
-{"name":"Nigeria","cca2":"ng","cca3":"nga","languages":["eng"],"latlng":[10,8],"flags":"https://flagcdn.com/ng.svg","postalCodeMask":"######","phoneMask":false}
+{
+ "name": "Nigeria",
+ "cca2": "ng",
+ "cca3": "nga",
+ "languages": [
+  "eng"
+ ],
+ "latlng": [
+  10,
+  8
+ ],
+ "flags": "https://flagcdn.com/ng.svg",
+ "postalCodeMask": "######",
+ "phoneMask": false
+}

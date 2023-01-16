@@ -1,1 +1,30 @@
-{"number":"270","date":"2001-05-05T00:00:00","accumulated":0,"numbers":[5,9,27,35,40,45],"winners":[{"name":"Sena","total":1,"amount":25186260.21},{"name":"Quina","total":228,"amount":9665.14},{"name":"Quadra","total":16867,"amount":130.16}]}
+{
+ "number": "270",
+ "date": "2001-05-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  9,
+  27,
+  35,
+  40,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 25186260.21
+  },
+  {
+   "name": "Quina",
+   "total": 228,
+   "amount": 9665.14
+  },
+  {
+   "name": "Quadra",
+   "total": 16867,
+   "amount": 130.16
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"Mozambique","cca2":"mz","cca3":"moz","languages":["por"],"latlng":[-18.25,35],"flags":"https://flagcdn.com/mz.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Mozambique",
+ "cca2": "mz",
+ "cca3": "moz",
+ "languages": [
+  "por"
+ ],
+ "latlng": [
+  -18.25,
+  35
+ ],
+ "flags": "https://flagcdn.com/mz.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

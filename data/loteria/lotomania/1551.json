@@ -1,1 +1,59 @@
-{"number":"1551","date":"2015-05-02T00:00:00","accumulated":0,"numbers":[2,15,16,21,23,26,27,31,35,40,46,48,56,58,69,83,87,90,96,98],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":2,"amount":110205.49},{"name":"18 números","total":84,"amount":2623.94},{"name":"17 números","total":806,"amount":170.91},{"name":"16 números","total":4843,"amount":28.44},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1551",
+ "date": "2015-05-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  15,
+  16,
+  21,
+  23,
+  26,
+  27,
+  31,
+  35,
+  40,
+  46,
+  48,
+  56,
+  58,
+  69,
+  83,
+  87,
+  90,
+  96,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 2,
+   "amount": 110205.49
+  },
+  {
+   "name": "18 números",
+   "total": 84,
+   "amount": 2623.94
+  },
+  {
+   "name": "17 números",
+   "total": 806,
+   "amount": 170.91
+  },
+  {
+   "name": "16 números",
+   "total": 4843,
+   "amount": 28.44
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

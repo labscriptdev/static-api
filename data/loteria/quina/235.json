@@ -1,1 +1,29 @@
-{"number":"235","date":"1996-09-08T00:00:00","accumulated":0,"numbers":[17,27,35,54,76],"winners":[{"name":"Quina","total":1,"amount":389035.71},{"name":"Quadra","total":558,"amount":697.2},{"name":"Terno","total":20623,"amount":25.16}]}
+{
+ "number": "235",
+ "date": "1996-09-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  27,
+  35,
+  54,
+  76
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 389035.71
+  },
+  {
+   "name": "Quadra",
+   "total": 558,
+   "amount": 697.2
+  },
+  {
+   "name": "Terno",
+   "total": 20623,
+   "amount": 25.16
+  }
+ ]
+}

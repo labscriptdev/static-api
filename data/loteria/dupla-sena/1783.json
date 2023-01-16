@@ -1,1 +1,35 @@
-{"number":"1783","date":"2018-05-03T00:00:00","accumulated":0,"numbers":[1,13,23,29,30,47],"winners":[{"name":"Sena","total":1,"amount":3272925.68},{"name":"Quina","total":28,"amount":3666.35},{"name":"Quadra","total":1370,"amount":85.63},{"name":"Terno","total":26124,"amount":2.24}]}
+{
+ "number": "1783",
+ "date": "2018-05-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  13,
+  23,
+  29,
+  30,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 3272925.68
+  },
+  {
+   "name": "Quina",
+   "total": 28,
+   "amount": 3666.35
+  },
+  {
+   "name": "Quadra",
+   "total": 1370,
+   "amount": 85.63
+  },
+  {
+   "name": "Terno",
+   "total": 26124,
+   "amount": 2.24
+  }
+ ]
+}

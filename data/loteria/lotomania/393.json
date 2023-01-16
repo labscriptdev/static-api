@@ -1,1 +1,59 @@
-{"number":"393","date":"2004-02-18T00:00:00","accumulated":0,"numbers":[2,3,7,15,24,25,38,43,45,46,47,57,60,75,81,87,89,90,95,97],"winners":[{"name":"20 números","total":2,"amount":198951.44},{"name":"19 números","total":7,"amount":37895.51},{"name":"18 números","total":123,"amount":2156.66},{"name":"17 números","total":1214,"amount":108.84},{"name":"16 números","total":8103,"amount":16.31},{"name":"nenhum número","total":1,"amount":132634.32}]}
+{
+ "number": "393",
+ "date": "2004-02-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  7,
+  15,
+  24,
+  25,
+  38,
+  43,
+  45,
+  46,
+  47,
+  57,
+  60,
+  75,
+  81,
+  87,
+  89,
+  90,
+  95,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 2,
+   "amount": 198951.44
+  },
+  {
+   "name": "19 números",
+   "total": 7,
+   "amount": 37895.51
+  },
+  {
+   "name": "18 números",
+   "total": 123,
+   "amount": 2156.66
+  },
+  {
+   "name": "17 números",
+   "total": 1214,
+   "amount": 108.84
+  },
+  {
+   "name": "16 números",
+   "total": 8103,
+   "amount": 16.31
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 132634.32
+  }
+ ]
+}

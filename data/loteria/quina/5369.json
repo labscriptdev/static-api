@@ -1,1 +1,29 @@
-{"number":"5369","date":"2020-09-18T00:00:00","accumulated":0,"numbers":[8,41,70,72,80],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":34,"amount":13274.88},{"name":"Terno","total":3390,"amount":200.21}]}
+{
+ "number": "5369",
+ "date": "2020-09-18T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  41,
+  70,
+  72,
+  80
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 34,
+   "amount": 13274.88
+  },
+  {
+   "name": "Terno",
+   "total": 3390,
+   "amount": 200.21
+  }
+ ]
+}

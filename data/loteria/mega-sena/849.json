@@ -1,1 +1,30 @@
-{"number":"849","date":"2007-03-14T00:00:00","accumulated":0,"numbers":[8,9,39,44,49,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":33,"amount":20408.37},{"name":"Quadra","total":2208,"amount":303.87}]}
+{
+ "number": "849",
+ "date": "2007-03-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  9,
+  39,
+  44,
+  49,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 33,
+   "amount": 20408.37
+  },
+  {
+   "name": "Quadra",
+   "total": 2208,
+   "amount": 303.87
+  }
+ ]
+}

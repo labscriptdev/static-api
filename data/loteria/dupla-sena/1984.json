@@ -1,1 +1,35 @@
-{"number":"1984","date":"2019-09-10T00:00:00","accumulated":0,"numbers":[7,18,39,40,41,44],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":19,"amount":5089.32},{"name":"Quadra","total":1172,"amount":94.29},{"name":"Terno","total":24098,"amount":2.29}]}
+{
+ "number": "1984",
+ "date": "2019-09-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  18,
+  39,
+  40,
+  41,
+  44
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 19,
+   "amount": 5089.32
+  },
+  {
+   "name": "Quadra",
+   "total": 1172,
+   "amount": 94.29
+  },
+  {
+   "name": "Terno",
+   "total": 24098,
+   "amount": 2.29
+  }
+ ]
+}

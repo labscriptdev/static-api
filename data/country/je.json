@@ -1,1 +1,17 @@
-{"name":"Jersey","cca2":"je","cca3":"jey","languages":["eng","fra","nrf"],"latlng":[49.25,-2.16666666],"flags":"https://flagcdn.com/je.svg","postalCodeMask":"@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA","phoneMask":false}
+{
+ "name": "Jersey",
+ "cca2": "je",
+ "cca3": "jey",
+ "languages": [
+  "eng",
+  "fra",
+  "nrf"
+ ],
+ "latlng": [
+  49.25,
+  -2.16666666
+ ],
+ "flags": "https://flagcdn.com/je.svg",
+ "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+ "phoneMask": false
+}

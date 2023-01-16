@@ -1,1 +1,35 @@
-{"number":"1571","date":"2016-11-19T00:00:00","accumulated":0,"numbers":[8,12,25,37,43,49],"winners":[{"name":"Sena","total":1,"amount":3493079},{"name":"Quina","total":55,"amount":1498.24},{"name":"Quadra","total":1591,"amount":59.19},{"name":"Terno","total":25256,"amount":1.86}]}
+{
+ "number": "1571",
+ "date": "2016-11-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  12,
+  25,
+  37,
+  43,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 3493079
+  },
+  {
+   "name": "Quina",
+   "total": 55,
+   "amount": 1498.24
+  },
+  {
+   "name": "Quadra",
+   "total": 1591,
+   "amount": 59.19
+  },
+  {
+   "name": "Terno",
+   "total": 25256,
+   "amount": 1.86
+  }
+ ]
+}

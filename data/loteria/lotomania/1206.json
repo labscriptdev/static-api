@@ -1,1 +1,59 @@
-{"number":"1206","date":"2011-12-31T00:00:00","accumulated":0,"numbers":[1,7,10,19,28,29,33,35,54,55,57,60,62,67,71,86,88,90,94,96],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":9,"amount":38926.3},{"name":"18 números","total":186,"amount":1883.53},{"name":"17 números","total":1377,"amount":181.72},{"name":"16 números","total":7125,"amount":35.12},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "1206",
+ "date": "2011-12-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  7,
+  10,
+  19,
+  28,
+  29,
+  33,
+  35,
+  54,
+  55,
+  57,
+  60,
+  62,
+  67,
+  71,
+  86,
+  88,
+  90,
+  94,
+  96
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 38926.3
+  },
+  {
+   "name": "18 números",
+   "total": 186,
+   "amount": 1883.53
+  },
+  {
+   "name": "17 números",
+   "total": 1377,
+   "amount": 181.72
+  },
+  {
+   "name": "16 números",
+   "total": 7125,
+   "amount": 35.12
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

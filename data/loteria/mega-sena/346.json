@@ -1,1 +1,30 @@
-{"number":"346","date":"2002-03-20T00:00:00","accumulated":0,"numbers":[7,12,41,46,56,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":20,"amount":19632.3},{"name":"Quadra","total":1589,"amount":246.17}]}
+{
+ "number": "346",
+ "date": "2002-03-20T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  7,
+  12,
+  41,
+  46,
+  56,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 20,
+   "amount": 19632.3
+  },
+  {
+   "name": "Quadra",
+   "total": 1589,
+   "amount": 246.17
+  }
+ ]
+}

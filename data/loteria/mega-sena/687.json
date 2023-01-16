@@ -1,1 +1,30 @@
-{"number":"687","date":"2005-08-03T00:00:00","accumulated":0,"numbers":[1,7,14,41,48,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":28,"amount":25839.62},{"name":"Quadra","total":2887,"amount":249.66}]}
+{
+ "number": "687",
+ "date": "2005-08-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  7,
+  14,
+  41,
+  48,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 28,
+   "amount": 25839.62
+  },
+  {
+   "name": "Quadra",
+   "total": 2887,
+   "amount": 249.66
+  }
+ ]
+}

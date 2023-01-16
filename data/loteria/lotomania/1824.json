@@ -1,1 +1,59 @@
-{"number":"1824","date":"2017-12-19T00:00:00","accumulated":0,"numbers":[0,2,6,13,15,16,17,18,31,34,35,54,63,64,66,67,69,75,87,91],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":6,"amount":38741.99},{"name":"18 números","total":112,"amount":1853.09},{"name":"17 números","total":1113,"amount":130.53},{"name":"16 números","total":6514,"amount":22.3},{"name":"nenhum número","total":28438,"amount":5.1}]}
+{
+ "number": "1824",
+ "date": "2017-12-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  2,
+  6,
+  13,
+  15,
+  16,
+  17,
+  18,
+  31,
+  34,
+  35,
+  54,
+  63,
+  64,
+  66,
+  67,
+  69,
+  75,
+  87,
+  91
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 6,
+   "amount": 38741.99
+  },
+  {
+   "name": "18 números",
+   "total": 112,
+   "amount": 1853.09
+  },
+  {
+   "name": "17 números",
+   "total": 1113,
+   "amount": 130.53
+  },
+  {
+   "name": "16 números",
+   "total": 6514,
+   "amount": 22.3
+  },
+  {
+   "name": "nenhum número",
+   "total": 28438,
+   "amount": 5.1
+  }
+ ]
+}

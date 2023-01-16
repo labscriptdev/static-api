@@ -1,1 +1,30 @@
-{"number":"1506","date":"2013-06-26T00:00:00","accumulated":0,"numbers":[3,14,18,34,42,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":182,"amount":13681.2},{"name":"Quadra","total":10892,"amount":326.58}]}
+{
+ "number": "1506",
+ "date": "2013-06-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  14,
+  18,
+  34,
+  42,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 182,
+   "amount": 13681.2
+  },
+  {
+   "name": "Quadra",
+   "total": 10892,
+   "amount": 326.58
+  }
+ ]
+}

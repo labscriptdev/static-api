@@ -1,1 +1,30 @@
-{"number":"433","date":"2003-01-29T00:00:00","accumulated":0,"numbers":[16,17,28,30,36,54],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":31,"amount":16580.2},{"name":"Quadra","total":2332,"amount":219.58}]}
+{
+ "number": "433",
+ "date": "2003-01-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  16,
+  17,
+  28,
+  30,
+  36,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 31,
+   "amount": 16580.2
+  },
+  {
+   "name": "Quadra",
+   "total": 2332,
+   "amount": 219.58
+  }
+ ]
+}

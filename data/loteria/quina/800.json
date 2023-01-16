@@ -1,1 +1,29 @@
-{"number":"800","date":"2001-01-25T00:00:00","accumulated":0,"numbers":[13,28,44,45,66],"winners":[{"name":"Quina","total":4,"amount":56337.84},{"name":"Quadra","total":529,"amount":424.73},{"name":"Terno","total":15331,"amount":19.55}]}
+{
+ "number": "800",
+ "date": "2001-01-25T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  28,
+  44,
+  45,
+  66
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 4,
+   "amount": 56337.84
+  },
+  {
+   "name": "Quadra",
+   "total": 529,
+   "amount": 424.73
+  },
+  {
+   "name": "Terno",
+   "total": 15331,
+   "amount": 19.55
+  }
+ ]
+}

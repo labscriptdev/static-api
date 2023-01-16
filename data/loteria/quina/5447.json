@@ -1,1 +1,29 @@
-{"number":"5447","date":"2020-12-21T00:00:00","accumulated":0,"numbers":[33,61,70,77,79],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":49,"amount":8897.75},{"name":"Terno","total":3918,"amount":167.33}]}
+{
+ "number": "5447",
+ "date": "2020-12-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  33,
+  61,
+  70,
+  77,
+  79
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 49,
+   "amount": 8897.75
+  },
+  {
+   "name": "Terno",
+   "total": 3918,
+   "amount": 167.33
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"988","date":"2011-07-26T00:00:00","accumulated":0,"numbers":[6,12,23,29,31,32],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":17,"amount":6608.19},{"name":"Quadra","total":2013,"amount":53.14},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "988",
+ "date": "2011-07-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  12,
+  23,
+  29,
+  31,
+  32
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 17,
+   "amount": 6608.19
+  },
+  {
+   "name": "Quadra",
+   "total": 2013,
+   "amount": 53.14
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"Moldova","cca2":"md","cca3":"mda","languages":["ron"],"latlng":[47,29],"flags":"https://flagcdn.com/md.svg","postalCodeMask":"MD-####","phoneMask":false}
+{
+ "name": "Moldova",
+ "cca2": "md",
+ "cca3": "mda",
+ "languages": [
+  "ron"
+ ],
+ "latlng": [
+  47,
+  29
+ ],
+ "flags": "https://flagcdn.com/md.svg",
+ "postalCodeMask": "MD-####",
+ "phoneMask": false
+}

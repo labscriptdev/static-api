@@ -1,1 +1,29 @@
-{"number":"129","date":"1995-07-30T00:00:00","accumulated":0,"numbers":[5,9,12,23,71],"winners":[{"name":"Quina","total":4,"amount":81435.82},{"name":"Quadra","total":691,"amount":471.41},{"name":"Terno","total":25782,"amount":16.85}]}
+{
+ "number": "129",
+ "date": "1995-07-30T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  9,
+  12,
+  23,
+  71
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 4,
+   "amount": 81435.82
+  },
+  {
+   "name": "Quadra",
+   "total": 691,
+   "amount": 471.41
+  },
+  {
+   "name": "Terno",
+   "total": 25782,
+   "amount": 16.85
+  }
+ ]
+}

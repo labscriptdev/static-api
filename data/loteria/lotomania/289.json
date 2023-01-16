@@ -1,1 +1,59 @@
-{"number":"289","date":"2003-02-08T00:00:00","accumulated":0,"numbers":[3,5,6,15,16,18,25,26,27,33,39,43,49,61,64,65,70,72,74,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":24,"amount":19363.87},{"name":"18 números","total":291,"amount":1597.02},{"name":"17 números","total":2925,"amount":79.14},{"name":"16 números","total":15995,"amount":14.48},{"name":"nenhum número","total":0,"amount":0}]}
+{
+ "number": "289",
+ "date": "2003-02-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  6,
+  15,
+  16,
+  18,
+  25,
+  26,
+  27,
+  33,
+  39,
+  43,
+  49,
+  61,
+  64,
+  65,
+  70,
+  72,
+  74,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 24,
+   "amount": 19363.87
+  },
+  {
+   "name": "18 números",
+   "total": 291,
+   "amount": 1597.02
+  },
+  {
+   "name": "17 números",
+   "total": 2925,
+   "amount": 79.14
+  },
+  {
+   "name": "16 números",
+   "total": 15995,
+   "amount": 14.48
+  },
+  {
+   "name": "nenhum número",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

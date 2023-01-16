@@ -1,1 +1,29 @@
-{"number":"640","date":"1999-12-21T00:00:00","accumulated":0,"numbers":[5,14,39,57,72],"winners":[{"name":"Quina","total":3,"amount":91420.1},{"name":"Quadra","total":379,"amount":720.9},{"name":"Terno","total":12744,"amount":28.6}]}
+{
+ "number": "640",
+ "date": "1999-12-21T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  14,
+  39,
+  57,
+  72
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 91420.1
+  },
+  {
+   "name": "Quadra",
+   "total": 379,
+   "amount": 720.9
+  },
+  {
+   "name": "Terno",
+   "total": 12744,
+   "amount": 28.6
+  }
+ ]
+}

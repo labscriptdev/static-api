@@ -1,1 +1,35 @@
-{"number":"1691","date":"2017-09-09T00:00:00","accumulated":0,"numbers":[5,16,26,27,29,50],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":24,"amount":2906.32},{"name":"Quadra","total":941,"amount":84.71},{"name":"Terno","total":18997,"amount":2.09}]}
+{
+ "number": "1691",
+ "date": "2017-09-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  16,
+  26,
+  27,
+  29,
+  50
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 24,
+   "amount": 2906.32
+  },
+  {
+   "name": "Quadra",
+   "total": 941,
+   "amount": 84.71
+  },
+  {
+   "name": "Terno",
+   "total": 18997,
+   "amount": 2.09
+  }
+ ]
+}

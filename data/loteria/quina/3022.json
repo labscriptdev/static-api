@@ -1,1 +1,29 @@
-{"number":"3022","date":"2012-10-17T00:00:00","accumulated":0,"numbers":[35,40,54,66,71],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":42,"amount":8734.2},{"name":"Terno","total":3935,"amount":133.17}]}
+{
+ "number": "3022",
+ "date": "2012-10-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  35,
+  40,
+  54,
+  66,
+  71
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 42,
+   "amount": 8734.2
+  },
+  {
+   "name": "Terno",
+   "total": 3935,
+   "amount": 133.17
+  }
+ ]
+}

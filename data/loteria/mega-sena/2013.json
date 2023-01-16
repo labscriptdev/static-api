@@ -1,1 +1,30 @@
-{"number":"2013","date":"2018-02-10T00:00:00","accumulated":0,"numbers":[6,23,30,36,53,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":159,"amount":25057.74},{"name":"Quadra","total":8465,"amount":672.37}]}
+{
+ "number": "2013",
+ "date": "2018-02-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  23,
+  30,
+  36,
+  53,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 159,
+   "amount": 25057.74
+  },
+  {
+   "name": "Quadra",
+   "total": 8465,
+   "amount": 672.37
+  }
+ ]
+}

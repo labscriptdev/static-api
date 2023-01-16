@@ -1,1 +1,30 @@
-{"number":"230","date":"2000-07-29T00:00:00","accumulated":0,"numbers":[8,40,41,44,53,56],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":94,"amount":15000.56},{"name":"Quadra","total":5820,"amount":241.56}]}
+{
+ "number": "230",
+ "date": "2000-07-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  40,
+  41,
+  44,
+  53,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 94,
+   "amount": 15000.56
+  },
+  {
+   "name": "Quadra",
+   "total": 5820,
+   "amount": 241.56
+  }
+ ]
+}

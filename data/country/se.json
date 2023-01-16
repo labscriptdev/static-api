@@ -1,1 +1,15 @@
-{"name":"Sweden","cca2":"se","cca3":"swe","languages":["swe"],"latlng":[62,15],"flags":"https://flagcdn.com/se.svg","postalCodeMask":"SE-### ##","phoneMask":false}
+{
+ "name": "Sweden",
+ "cca2": "se",
+ "cca3": "swe",
+ "languages": [
+  "swe"
+ ],
+ "latlng": [
+  62,
+  15
+ ],
+ "flags": "https://flagcdn.com/se.svg",
+ "postalCodeMask": "SE-### ##",
+ "phoneMask": false
+}

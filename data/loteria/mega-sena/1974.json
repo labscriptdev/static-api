@@ -1,1 +1,30 @@
-{"number":"1974","date":"2017-10-04T00:00:00","accumulated":0,"numbers":[4,19,27,38,54,57],"winners":[{"name":"Sena","total":1,"amount":54268048.74},{"name":"Quina","total":141,"amount":27566.76},{"name":"Quadra","total":8994,"amount":617.38}]}
+{
+ "number": "1974",
+ "date": "2017-10-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  19,
+  27,
+  38,
+  54,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 54268048.74
+  },
+  {
+   "name": "Quina",
+   "total": 141,
+   "amount": 27566.76
+  },
+  {
+   "name": "Quadra",
+   "total": 8994,
+   "amount": 617.38
+  }
+ ]
+}

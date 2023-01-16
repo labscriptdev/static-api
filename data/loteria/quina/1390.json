@@ -1,1 +1,29 @@
-{"number":"1390","date":"2004-12-23T00:00:00","accumulated":0,"numbers":[17,19,42,43,64],"winners":[{"name":"Quina","total":3,"amount":547780.82},{"name":"Quadra","total":312,"amount":1632.64},{"name":"Terno","total":13584,"amount":49.81}]}
+{
+ "number": "1390",
+ "date": "2004-12-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  19,
+  42,
+  43,
+  64
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 3,
+   "amount": 547780.82
+  },
+  {
+   "name": "Quadra",
+   "total": 312,
+   "amount": 1632.64
+  },
+  {
+   "name": "Terno",
+   "total": 13584,
+   "amount": 49.81
+  }
+ ]
+}

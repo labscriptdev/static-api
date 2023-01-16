@@ -1,1 +1,35 @@
-{"number":"2112","date":"2020-08-01T00:00:00","accumulated":0,"numbers":[4,17,19,26,30,41],"winners":[{"name":"Sena","total":1,"amount":17511442.44},{"name":"Quina","total":45,"amount":6363.72},{"name":"Quadra","total":3025,"amount":108.19},{"name":"Terno","total":61243,"amount":2.67}]}
+{
+ "number": "2112",
+ "date": "2020-08-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  17,
+  19,
+  26,
+  30,
+  41
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 17511442.44
+  },
+  {
+   "name": "Quina",
+   "total": 45,
+   "amount": 6363.72
+  },
+  {
+   "name": "Quadra",
+   "total": 3025,
+   "amount": 108.19
+  },
+  {
+   "name": "Terno",
+   "total": 61243,
+   "amount": 2.67
+  }
+ ]
+}

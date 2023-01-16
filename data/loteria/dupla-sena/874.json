@@ -1,1 +1,35 @@
-{"number":"874","date":"2010-06-22T00:00:00","accumulated":0,"numbers":[4,7,19,20,38,42],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":33,"amount":3341.23},{"name":"Quadra","total":2354,"amount":44.6},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "874",
+ "date": "2010-06-22T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  7,
+  19,
+  20,
+  38,
+  42
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 33,
+   "amount": 3341.23
+  },
+  {
+   "name": "Quadra",
+   "total": 2354,
+   "amount": 44.6
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

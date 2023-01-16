@@ -1,1 +1,59 @@
-{"number":"1963","date":"2019-04-23T00:00:00","accumulated":0,"numbers":[8,9,19,30,36,40,42,53,54,55,59,62,63,66,71,74,87,88,97,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":4,"amount":41657.6},{"name":"18 números","total":58,"amount":1795.59},{"name":"17 números","total":591,"amount":176.21},{"name":"16 números","total":3800,"amount":27.4},{"name":"nenhum número","total":17002,"amount":6.12}]}
+{
+ "number": "1963",
+ "date": "2019-04-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  9,
+  19,
+  30,
+  36,
+  40,
+  42,
+  53,
+  54,
+  55,
+  59,
+  62,
+  63,
+  66,
+  71,
+  74,
+  87,
+  88,
+  97,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 4,
+   "amount": 41657.6
+  },
+  {
+   "name": "18 números",
+   "total": 58,
+   "amount": 1795.59
+  },
+  {
+   "name": "17 números",
+   "total": 591,
+   "amount": 176.21
+  },
+  {
+   "name": "16 números",
+   "total": 3800,
+   "amount": 27.4
+  },
+  {
+   "name": "nenhum número",
+   "total": 17002,
+   "amount": 6.12
+  }
+ ]
+}

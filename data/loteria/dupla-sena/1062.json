@@ -1,1 +1,35 @@
-{"number":"1062","date":"2012-04-10T00:00:00","accumulated":0,"numbers":[2,5,24,25,26,38],"winners":[{"name":"Sena","total":1,"amount":195269.63},{"name":"Quina","total":37,"amount":2638.78},{"name":"Quadra","total":2342,"amount":39.7},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "1062",
+ "date": "2012-04-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  24,
+  25,
+  26,
+  38
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 195269.63
+  },
+  {
+   "name": "Quina",
+   "total": 37,
+   "amount": 2638.78
+  },
+  {
+   "name": "Quadra",
+   "total": 2342,
+   "amount": 39.7
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

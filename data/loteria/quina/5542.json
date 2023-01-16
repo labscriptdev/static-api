@@ -1,1 +1,29 @@
-{"number":"5542","date":"2021-04-16T00:00:00","accumulated":0,"numbers":[9,10,15,63,69],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":66,"amount":6793.53},{"name":"Terno","total":4952,"amount":136.15}]}
+{
+ "number": "5542",
+ "date": "2021-04-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  10,
+  15,
+  63,
+  69
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 66,
+   "amount": 6793.53
+  },
+  {
+   "name": "Terno",
+   "total": 4952,
+   "amount": 136.15
+  }
+ ]
+}

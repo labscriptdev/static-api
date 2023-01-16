@@ -1,1 +1,49 @@
-{"number":"132","date":"2006-04-03T00:00:00","accumulated":0,"numbers":[1,3,4,5,7,9,10,11,14,15,16,17,22,23,25],"winners":[{"name":"15 números","total":10,"amount":135976.17},{"name":"14 números","total":26452,"amount":733.01},{"name":"13 números","total":26452,"amount":10},{"name":"12 números","total":340872,"amount":4},{"name":"11 números","total":1584197,"amount":2}]}
+{
+ "number": "132",
+ "date": "2006-04-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  3,
+  4,
+  5,
+  7,
+  9,
+  10,
+  11,
+  14,
+  15,
+  16,
+  17,
+  22,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 10,
+   "amount": 135976.17
+  },
+  {
+   "name": "14 números",
+   "total": 26452,
+   "amount": 733.01
+  },
+  {
+   "name": "13 números",
+   "total": 26452,
+   "amount": 10
+  },
+  {
+   "name": "12 números",
+   "total": 340872,
+   "amount": 4
+  },
+  {
+   "name": "11 números",
+   "total": 1584197,
+   "amount": 2
+  }
+ ]
+}

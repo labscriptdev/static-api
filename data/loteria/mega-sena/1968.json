@@ -1,1 +1,30 @@
-{"number":"1968","date":"2017-09-16T00:00:00","accumulated":0,"numbers":[35,36,39,44,48,52],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":48,"amount":46060.89},{"name":"Quadra","total":3782,"amount":835.12}]}
+{
+ "number": "1968",
+ "date": "2017-09-16T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  35,
+  36,
+  39,
+  44,
+  48,
+  52
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 48,
+   "amount": 46060.89
+  },
+  {
+   "name": "Quadra",
+   "total": 3782,
+   "amount": 835.12
+  }
+ ]
+}

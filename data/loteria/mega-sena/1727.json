@@ -1,1 +1,30 @@
-{"number":"1727","date":"2015-07-29T00:00:00","accumulated":0,"numbers":[4,6,19,20,40,41],"winners":[{"name":"Sena","total":1,"amount":46391009.23},{"name":"Quina","total":122,"amount":37224.08},{"name":"Quadra","total":8814,"amount":736.05}]}
+{
+ "number": "1727",
+ "date": "2015-07-29T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  6,
+  19,
+  20,
+  40,
+  41
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 46391009.23
+  },
+  {
+   "name": "Quina",
+   "total": 122,
+   "amount": 37224.08
+  },
+  {
+   "name": "Quadra",
+   "total": 8814,
+   "amount": 736.05
+  }
+ ]
+}

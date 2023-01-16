@@ -1,1 +1,35 @@
-{"number":"1995","date":"2019-10-05T00:00:00","accumulated":0,"numbers":[8,14,24,27,40,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":34,"amount":4869.34},{"name":"Quadra","total":2274,"amount":83.2},{"name":"Terno","total":44273,"amount":2.13}]}
+{
+ "number": "1995",
+ "date": "2019-10-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  14,
+  24,
+  27,
+  40,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 34,
+   "amount": 4869.34
+  },
+  {
+   "name": "Quadra",
+   "total": 2274,
+   "amount": 83.2
+  },
+  {
+   "name": "Terno",
+   "total": 44273,
+   "amount": 2.13
+  }
+ ]
+}

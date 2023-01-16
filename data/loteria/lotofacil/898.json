@@ -1,1 +1,49 @@
-{"number":"898","date":"2013-04-26T00:00:00","accumulated":0,"numbers":[1,4,6,8,9,10,11,12,13,14,18,20,21,24,25],"winners":[{"name":"15 números","total":0,"amount":0},{"name":"14 números","total":16363,"amount":1252.86},{"name":"13 números","total":16363,"amount":12.5},{"name":"12 números","total":225211,"amount":5},{"name":"11 números","total":1244150,"amount":2.5}]}
+{
+ "number": "898",
+ "date": "2013-04-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  6,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  18,
+  20,
+  21,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "14 números",
+   "total": 16363,
+   "amount": 1252.86
+  },
+  {
+   "name": "13 números",
+   "total": 16363,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 225211,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1244150,
+   "amount": 2.5
+  }
+ ]
+}

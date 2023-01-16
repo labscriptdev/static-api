@@ -1,1 +1,30 @@
-{"number":"920","date":"2007-11-17T00:00:00","accumulated":0,"numbers":[5,17,24,52,55,57],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":94,"amount":12657.72},{"name":"Quadra","total":6584,"amount":180.04}]}
+{
+ "number": "920",
+ "date": "2007-11-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  17,
+  24,
+  52,
+  55,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 94,
+   "amount": 12657.72
+  },
+  {
+   "name": "Quadra",
+   "total": 6584,
+   "amount": 180.04
+  }
+ ]
+}

@@ -1,1 +1,35 @@
-{"number":"440","date":"2006-03-24T00:00:00","accumulated":0,"numbers":[1,31,33,37,38,48],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "440",
+ "date": "2006-03-24T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  31,
+  33,
+  37,
+  38,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"Burkina Faso","cca2":"bf","cca3":"bfa","languages":["fra"],"latlng":[13,-2],"flags":"https://flagcdn.com/bf.svg","postalCodeMask":false,"phoneMask":false}
+{
+ "name": "Burkina Faso",
+ "cca2": "bf",
+ "cca3": "bfa",
+ "languages": [
+  "fra"
+ ],
+ "latlng": [
+  13,
+  -2
+ ],
+ "flags": "https://flagcdn.com/bf.svg",
+ "postalCodeMask": false,
+ "phoneMask": false
+}

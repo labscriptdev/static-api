@@ -1,1 +1,30 @@
-{"number":"1400","date":"2012-06-23T00:00:00","accumulated":0,"numbers":[9,26,34,43,53,54],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":72,"amount":30435.06},{"name":"Quadra","total":6208,"amount":504.26}]}
+{
+ "number": "1400",
+ "date": "2012-06-23T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  26,
+  34,
+  43,
+  53,
+  54
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 72,
+   "amount": 30435.06
+  },
+  {
+   "name": "Quadra",
+   "total": 6208,
+   "amount": 504.26
+  }
+ ]
+}

@@ -1,1 +1,15 @@
-{"name":"Tunisia","cca2":"tn","cca3":"tun","languages":["ara"],"latlng":[34,9],"flags":"https://flagcdn.com/tn.svg","postalCodeMask":"####","phoneMask":false}
+{
+ "name": "Tunisia",
+ "cca2": "tn",
+ "cca3": "tun",
+ "languages": [
+  "ara"
+ ],
+ "latlng": [
+  34,
+  9
+ ],
+ "flags": "https://flagcdn.com/tn.svg",
+ "postalCodeMask": "####",
+ "phoneMask": false
+}

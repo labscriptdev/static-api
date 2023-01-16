@@ -1,1 +1,35 @@
-{"number":"2166","date":"2020-12-05T00:00:00","accumulated":0,"numbers":[11,14,18,29,38,45],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":11,"amount":4238.85},{"name":"Quadra","total":446,"amount":119.48},{"name":"Terno","total":9610,"amount":2.77}]}
+{
+ "number": "2166",
+ "date": "2020-12-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  14,
+  18,
+  29,
+  38,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 11,
+   "amount": 4238.85
+  },
+  {
+   "name": "Quadra",
+   "total": 446,
+   "amount": 119.48
+  },
+  {
+   "name": "Terno",
+   "total": 9610,
+   "amount": 2.77
+  }
+ ]
+}

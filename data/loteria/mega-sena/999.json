@@ -1,1 +1,30 @@
-{"number":"999","date":"2008-08-27T00:00:00","accumulated":0,"numbers":[18,24,36,44,55,58],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":103,"amount":11227.56},{"name":"Quadra","total":6681,"amount":173.09}]}
+{
+ "number": "999",
+ "date": "2008-08-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  18,
+  24,
+  36,
+  44,
+  55,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 103,
+   "amount": 11227.56
+  },
+  {
+   "name": "Quadra",
+   "total": 6681,
+   "amount": 173.09
+  }
+ ]
+}

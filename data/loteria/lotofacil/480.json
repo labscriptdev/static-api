@@ -1,1 +1,49 @@
-{"number":"480","date":"2009-11-19T00:00:00","accumulated":0,"numbers":[4,5,6,7,8,9,11,12,15,17,18,19,22,24,25],"winners":[{"name":"15 números","total":2,"amount":752129.78},{"name":"14 números","total":18602,"amount":1331.99},{"name":"13 números","total":18602,"amount":12.5},{"name":"12 números","total":214612,"amount":5},{"name":"11 números","total":1132768,"amount":2.5}]}
+{
+ "number": "480",
+ "date": "2009-11-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  11,
+  12,
+  15,
+  17,
+  18,
+  19,
+  22,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 752129.78
+  },
+  {
+   "name": "14 números",
+   "total": 18602,
+   "amount": 1331.99
+  },
+  {
+   "name": "13 números",
+   "total": 18602,
+   "amount": 12.5
+  },
+  {
+   "name": "12 números",
+   "total": 214612,
+   "amount": 5
+  },
+  {
+   "name": "11 números",
+   "total": 1132768,
+   "amount": 2.5
+  }
+ ]
+}

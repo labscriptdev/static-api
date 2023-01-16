@@ -1,1 +1,59 @@
-{"number":"1257","date":"2012-06-27T00:00:00","accumulated":0,"numbers":[0,3,7,8,15,18,22,24,25,34,37,42,44,45,46,48,52,81,86,89],"winners":[{"name":"20 números","total":1,"amount":892582.65},{"name":"19 números","total":9,"amount":25207.91},{"name":"18 números","total":137,"amount":1655.99},{"name":"17 números","total":1232,"amount":115.09},{"name":"16 números","total":8075,"amount":17.55},{"name":"nenhum número","total":1,"amount":113435.57}]}
+{
+ "number": "1257",
+ "date": "2012-06-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  0,
+  3,
+  7,
+  8,
+  15,
+  18,
+  22,
+  24,
+  25,
+  34,
+  37,
+  42,
+  44,
+  45,
+  46,
+  48,
+  52,
+  81,
+  86,
+  89
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 892582.65
+  },
+  {
+   "name": "19 números",
+   "total": 9,
+   "amount": 25207.91
+  },
+  {
+   "name": "18 números",
+   "total": 137,
+   "amount": 1655.99
+  },
+  {
+   "name": "17 números",
+   "total": 1232,
+   "amount": 115.09
+  },
+  {
+   "name": "16 números",
+   "total": 8075,
+   "amount": 17.55
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 113435.57
+  }
+ ]
+}

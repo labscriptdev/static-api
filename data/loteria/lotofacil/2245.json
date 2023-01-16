@@ -1,1 +1,49 @@
-{"number":"2245","date":"2021-06-01T00:00:00","accumulated":0,"numbers":[2,5,6,7,8,13,14,16,17,18,21,22,23,24,25],"winners":[{"name":"15 números","total":2,"amount":730061.01},{"name":"14 números","total":8647,"amount":1688.66},{"name":"13 números","total":8647,"amount":25},{"name":"12 números","total":96900,"amount":10},{"name":"11 números","total":531969,"amount":5}]}
+{
+ "number": "2245",
+ "date": "2021-06-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  5,
+  6,
+  7,
+  8,
+  13,
+  14,
+  16,
+  17,
+  18,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 730061.01
+  },
+  {
+   "name": "14 números",
+   "total": 8647,
+   "amount": 1688.66
+  },
+  {
+   "name": "13 números",
+   "total": 8647,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 96900,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 531969,
+   "amount": 5
+  }
+ ]
+}

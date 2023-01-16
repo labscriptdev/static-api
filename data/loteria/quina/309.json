@@ -1,1 +1,29 @@
-{"number":"309","date":"1997-06-26T00:00:00","accumulated":0,"numbers":[16,26,37,40,62],"winners":[{"name":"Quina","total":2,"amount":141774.71},{"name":"Quadra","total":160,"amount":1772.19},{"name":"Terno","total":8796,"amount":42.9}]}
+{
+ "number": "309",
+ "date": "1997-06-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  16,
+  26,
+  37,
+  40,
+  62
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 141774.71
+  },
+  {
+   "name": "Quadra",
+   "total": 160,
+   "amount": 1772.19
+  },
+  {
+   "name": "Terno",
+   "total": 8796,
+   "amount": 42.9
+  }
+ ]
+}

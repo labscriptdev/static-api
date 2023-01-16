@@ -1,1 +1,30 @@
-{"number":"545","date":"2004-03-13T00:00:00","accumulated":0,"numbers":[17,29,35,40,43,57],"winners":[{"name":"Sena","total":1,"amount":6409645.53},{"name":"Quina","total":102,"amount":8292.97},{"name":"Quadra","total":4315,"amount":195.29}]}
+{
+ "number": "545",
+ "date": "2004-03-13T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  17,
+  29,
+  35,
+  40,
+  43,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 6409645.53
+  },
+  {
+   "name": "Quina",
+   "total": 102,
+   "amount": 8292.97
+  },
+  {
+   "name": "Quadra",
+   "total": 4315,
+   "amount": 195.29
+  }
+ ]
+}

@@ -1,1 +1,30 @@
-{"number":"2092","date":"2018-10-27T00:00:00","accumulated":0,"numbers":[11,13,15,17,22,27],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":175,"amount":7503.65},{"name":"Quadra","total":6609,"amount":283.84}]}
+{
+ "number": "2092",
+ "date": "2018-10-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  13,
+  15,
+  17,
+  22,
+  27
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 175,
+   "amount": 7503.65
+  },
+  {
+   "name": "Quadra",
+   "total": 6609,
+   "amount": 283.84
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"number":"5961","date":"2022-09-28T00:00:00","accumulated":0,"numbers":[8,9,27,76,77],"winners":[{"name":"Quina","total":2,"amount":7150156.49},{"name":"Quadra","total":141,"amount":5045.83},{"name":"Terno","total":9914,"amount":68.34}]}
+{
+ "number": "5961",
+ "date": "2022-09-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  9,
+  27,
+  76,
+  77
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 2,
+   "amount": 7150156.49
+  },
+  {
+   "name": "Quadra",
+   "total": 141,
+   "amount": 5045.83
+  },
+  {
+   "name": "Terno",
+   "total": 9914,
+   "amount": 68.34
+  }
+ ]
+}

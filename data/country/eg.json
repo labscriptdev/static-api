@@ -1,1 +1,15 @@
-{"name":"Egypt","cca2":"eg","cca3":"egy","languages":["ara"],"latlng":[27,30],"flags":"https://flagcdn.com/eg.svg","postalCodeMask":"#####","phoneMask":false}
+{
+ "name": "Egypt",
+ "cca2": "eg",
+ "cca3": "egy",
+ "languages": [
+  "ara"
+ ],
+ "latlng": [
+  27,
+  30
+ ],
+ "flags": "https://flagcdn.com/eg.svg",
+ "postalCodeMask": "#####",
+ "phoneMask": false
+}

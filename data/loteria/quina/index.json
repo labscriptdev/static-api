@@ -1,1 +1,7 @@
-{"id":"quina","name":"Quina","rangeStart":1,"rangeFinal":80,"rangePerRow":10}
+{
+ "id": "quina",
+ "name": "Quina",
+ "rangeStart": 1,
+ "rangeFinal": 80,
+ "rangePerRow": 10
+}

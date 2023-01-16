@@ -1,1 +1,35 @@
-{"number":"597","date":"2007-10-05T00:00:00","accumulated":0,"numbers":[3,5,20,25,39,47],"winners":[{"name":"Sena","total":1,"amount":432137.62},{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":0,"amount":0},{"name":"Terno","total":0,"amount":0}]}
+{
+ "number": "597",
+ "date": "2007-10-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  5,
+  20,
+  25,
+  39,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 432137.62
+  },
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Terno",
+   "total": 0,
+   "amount": 0
+  }
+ ]
+}

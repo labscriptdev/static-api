@@ -1,1 +1,29 @@
-{"number":"5235","date":"2020-04-01T00:00:00","accumulated":0,"numbers":[8,18,25,73,78],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":25,"amount":10487.63},{"name":"Terno","total":2611,"amount":151}]}
+{
+ "number": "5235",
+ "date": "2020-04-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  8,
+  18,
+  25,
+  73,
+  78
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 25,
+   "amount": 10487.63
+  },
+  {
+   "name": "Terno",
+   "total": 2611,
+   "amount": 151
+  }
+ ]
+}

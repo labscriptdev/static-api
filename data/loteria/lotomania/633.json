@@ -1,1 +1,59 @@
-{"number":"633","date":"2006-07-01T00:00:00","accumulated":0,"numbers":[11,12,15,16,23,24,27,37,45,56,57,61,64,68,69,73,88,91,96,97],"winners":[{"name":"20 números","total":1,"amount":3392829.14},{"name":"19 números","total":18,"amount":15754.21},{"name":"18 números","total":214,"amount":1325.12},{"name":"17 números","total":1788,"amount":79},{"name":"16 números","total":9869,"amount":14.32},{"name":"nenhum número","total":1,"amount":141787.94}]}
+{
+ "number": "633",
+ "date": "2006-07-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  12,
+  15,
+  16,
+  23,
+  24,
+  27,
+  37,
+  45,
+  56,
+  57,
+  61,
+  64,
+  68,
+  69,
+  73,
+  88,
+  91,
+  96,
+  97
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 3392829.14
+  },
+  {
+   "name": "19 números",
+   "total": 18,
+   "amount": 15754.21
+  },
+  {
+   "name": "18 números",
+   "total": 214,
+   "amount": 1325.12
+  },
+  {
+   "name": "17 números",
+   "total": 1788,
+   "amount": 79
+  },
+  {
+   "name": "16 números",
+   "total": 9869,
+   "amount": 14.32
+  },
+  {
+   "name": "nenhum número",
+   "total": 1,
+   "amount": 141787.94
+  }
+ ]
+}

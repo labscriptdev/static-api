@@ -1,1 +1,59 @@
-{"number":"2037","date":"2020-01-07T00:00:00","accumulated":0,"numbers":[4,8,10,23,29,30,39,41,50,56,64,65,71,73,80,81,84,88,95,99],"winners":[{"name":"20 números","total":0,"amount":0},{"name":"19 números","total":1,"amount":266073.82},{"name":"18 números","total":75,"amount":2217.28},{"name":"17 números","total":665,"amount":250.06},{"name":"16 números","total":4164,"amount":39.93},{"name":"nenhum número","total":18596,"amount":8.94}]}
+{
+ "number": "2037",
+ "date": "2020-01-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  4,
+  8,
+  10,
+  23,
+  29,
+  30,
+  39,
+  41,
+  50,
+  56,
+  64,
+  65,
+  71,
+  73,
+  80,
+  81,
+  84,
+  88,
+  95,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 1,
+   "amount": 266073.82
+  },
+  {
+   "name": "18 números",
+   "total": 75,
+   "amount": 2217.28
+  },
+  {
+   "name": "17 números",
+   "total": 665,
+   "amount": 250.06
+  },
+  {
+   "name": "16 números",
+   "total": 4164,
+   "amount": 39.93
+  },
+  {
+   "name": "nenhum número",
+   "total": 18596,
+   "amount": 8.94
+  }
+ ]
+}

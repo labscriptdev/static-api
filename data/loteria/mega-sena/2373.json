@@ -1,1 +1,30 @@
-{"number":"2373","date":"2021-05-19T00:00:00","accumulated":0,"numbers":[23,24,26,44,49,60],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":72,"amount":51363.16},{"name":"Quadra","total":5432,"amount":972.58}]}
+{
+ "number": "2373",
+ "date": "2021-05-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  23,
+  24,
+  26,
+  44,
+  49,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 72,
+   "amount": 51363.16
+  },
+  {
+   "name": "Quadra",
+   "total": 5432,
+   "amount": 972.58
+  }
+ ]
+}

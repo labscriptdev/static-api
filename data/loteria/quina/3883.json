@@ -1,1 +1,29 @@
-{"number":"3883","date":"2015-09-14T00:00:00","accumulated":0,"numbers":[26,33,51,55,69],"winners":[{"name":"Quina","total":0,"amount":0},{"name":"Quadra","total":56,"amount":7191.25},{"name":"Terno","total":3407,"amount":168.85}]}
+{
+ "number": "3883",
+ "date": "2015-09-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  26,
+  33,
+  51,
+  55,
+  69
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 56,
+   "amount": 7191.25
+  },
+  {
+   "name": "Terno",
+   "total": 3407,
+   "amount": 168.85
+  }
+ ]
+}

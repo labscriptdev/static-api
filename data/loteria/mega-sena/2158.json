@@ -1,1 +1,30 @@
-{"number":"2158","date":"2019-06-08T00:00:00","accumulated":0,"numbers":[9,27,35,45,46,59],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":109,"amount":42724.12},{"name":"Quadra","total":8855,"amount":751.29}]}
+{
+ "number": "2158",
+ "date": "2019-06-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  9,
+  27,
+  35,
+  45,
+  46,
+  59
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 109,
+   "amount": 42724.12
+  },
+  {
+   "name": "Quadra",
+   "total": 8855,
+   "amount": 751.29
+  }
+ ]
+}

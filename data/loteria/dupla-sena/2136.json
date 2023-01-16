@@ -1,1 +1,35 @@
-{"number":"2136","date":"2020-09-26T00:00:00","accumulated":0,"numbers":[5,18,19,37,47,49],"winners":[{"name":"Sena","total":0,"amount":0},{"name":"Quina","total":7,"amount":6362.69},{"name":"Quadra","total":606,"amount":83.99},{"name":"Terno","total":11011,"amount":2.31}]}
+{
+ "number": "2136",
+ "date": "2020-09-26T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  18,
+  19,
+  37,
+  47,
+  49
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 7,
+   "amount": 6362.69
+  },
+  {
+   "name": "Quadra",
+   "total": 606,
+   "amount": 83.99
+  },
+  {
+   "name": "Terno",
+   "total": 11011,
+   "amount": 2.31
+  }
+ ]
+}
