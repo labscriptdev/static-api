@@ -133082,5 +133082,54 @@
     "amount": 5
    }
   ]
+ },
+ {
+  "number": "2717",
+  "date": "2023-01-18T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   2,
+   3,
+   4,
+   5,
+   9,
+   10,
+   11,
+   14,
+   15,
+   16,
+   17,
+   20,
+   21,
+   22,
+   24
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 6,
+    "amount": 266309.56
+   },
+   {
+    "name": "14 números",
+    "total": 9123,
+    "amount": 1661.87
+   },
+   {
+    "name": "13 números",
+    "total": 9123,
+    "amount": 25
+   },
+   {
+    "name": "12 números",
+    "total": 119219,
+    "amount": 10
+   },
+   {
+    "name": "11 números",
+    "total": 657555,
+    "amount": 5
+   }
+  ]
  }
 ]
