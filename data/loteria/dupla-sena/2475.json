@@ -1,0 +1,35 @@
+{
+ "number": "2475",
+ "date": "2023-01-28T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  14,
+  21,
+  25,
+  26,
+  28,
+  41
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 1,
+   "amount": 41601.03
+  },
+  {
+   "name": "Quadra",
+   "total": 348,
+   "amount": 136.62
+  },
+  {
+   "name": "Terno",
+   "total": 8422,
+   "amount": 2.82
+  }
+ ]
+}
