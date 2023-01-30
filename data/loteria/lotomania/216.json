@@ -33,27 +33,27 @@
   {
    "name": "19 números",
    "total": 39,
-   "amount": 9052.14
+   "amount": 0
   },
   {
    "name": "18 números",
    "total": 452,
-   "amount": 778.09
+   "amount": 9052.14
   },
   {
    "name": "17 números",
    "total": 3647,
-   "amount": 48.22
+   "amount": 778.09
   },
   {
    "name": "16 números",
    "total": 19524,
-   "amount": 9.01
+   "amount": 48.22
   },
   {
    "name": "nenhum número",
-   "total": 0,
-   "amount": 0
+   "total": null,
+   "amount": 9.01
   }
  ]
 }

@@ -28,32 +28,32 @@
   {
    "name": "20 números",
    "total": 0,
-   "amount": 0
+   "amount": 0.01
   },
   {
    "name": "19 números",
    "total": 33,
-   "amount": 19626.5
+   "amount": 0
   },
   {
    "name": "18 números",
    "total": 418,
-   "amount": 1549.46
+   "amount": 19626.5
   },
   {
    "name": "17 números",
    "total": 3792,
-   "amount": 85.08
+   "amount": 1549.46
   },
   {
    "name": "16 números",
    "total": 23826,
-   "amount": 13.54
+   "amount": 85.08
   },
   {
    "name": "nenhum número",
-   "total": 1,
-   "amount": 2100147.54
+   "total": null,
+   "amount": 13.54
   }
  ]
 }
