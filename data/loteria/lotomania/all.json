@@ -142955,5 +142955,64 @@
     "amount": 34.08
    }
   ]
+ },
+ {
+  "number": "2424",
+  "date": "2023-01-30T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   2,
+   3,
+   10,
+   13,
+   26,
+   33,
+   39,
+   48,
+   50,
+   51,
+   56,
+   57,
+   60,
+   67,
+   74,
+   78,
+   80,
+   84,
+   90,
+   94
+  ],
+  "winners": [
+   {
+    "name": "20 números",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "19 números",
+    "total": 1,
+    "amount": 0
+   },
+   {
+    "name": "18 números",
+    "total": 64,
+    "amount": 193255.05
+   },
+   {
+    "name": "17 números",
+    "total": 428,
+    "amount": 1887.26
+   },
+   {
+    "name": "16 números",
+    "total": 2663,
+    "amount": 282.2
+   },
+   {
+    "name": "nenhum número",
+    "total": 12000,
+    "amount": 45.35
+   }
+  ]
  }
 ]
