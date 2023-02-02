@@ -1,0 +1,59 @@
+{
+ "number": "2425",
+ "date": "2023-02-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  14,
+  19,
+  23,
+  34,
+  35,
+  36,
+  42,
+  43,
+  49,
+  58,
+  63,
+  67,
+  68,
+  77,
+  82,
+  92,
+  95,
+  97,
+  98
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 5,
+   "amount": 0
+  },
+  {
+   "name": "18 números",
+   "total": 82,
+   "amount": 42058.17
+  },
+  {
+   "name": "17 números",
+   "total": 725,
+   "amount": 1602.83
+  },
+  {
+   "name": "16 números",
+   "total": 3982,
+   "amount": 181.28
+  },
+  {
+   "name": "nenhum número",
+   "total": 16465,
+   "amount": 33
+  }
+ ]
+}
