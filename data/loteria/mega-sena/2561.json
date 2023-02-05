@@ -1,0 +1,30 @@
+{
+ "number": "2561",
+ "date": "2023-02-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  19,
+  22,
+  37,
+  44,
+  51,
+  56
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 393,
+   "amount": 23693.33
+  },
+  {
+   "name": "Quadra",
+   "total": 19908,
+   "amount": 668.17
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "number": "2732",
+ "date": "2023-02-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  3,
+  5,
+  6,
+  8,
+  10,
+  12,
+  15,
+  16,
+  18,
+  19,
+  20,
+  21,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 305293.9
+  },
+  {
+   "name": "14 números",
+   "total": 21090,
+   "amount": 550.06
+  },
+  {
+   "name": "13 números",
+   "total": 21090,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 162207,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 760326,
+   "amount": 5
+  }
+ ]
+}
