@@ -1,0 +1,35 @@
+{
+ "number": "2479",
+ "date": "2023-02-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  7,
+  30,
+  31,
+  44,
+  47
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 16,
+   "amount": 2996.77
+  },
+  {
+   "name": "Quadra",
+   "total": 522,
+   "amount": 104.97
+  },
+  {
+   "name": "Terno",
+   "total": 10066,
+   "amount": 2.72
+  }
+ ]
+}
