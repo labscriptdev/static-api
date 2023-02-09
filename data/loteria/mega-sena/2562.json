@@ -1,0 +1,30 @@
+{
+ "number": "2562",
+ "date": "2023-02-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  6,
+  12,
+  32,
+  44,
+  51,
+  57
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 2,
+   "amount": 76403943.65
+  },
+  {
+   "name": "Quina",
+   "total": 226,
+   "amount": 45102.73
+  },
+  {
+   "name": "Quadra",
+   "total": 14672,
+   "amount": 992.48
+  }
+ ]
+}

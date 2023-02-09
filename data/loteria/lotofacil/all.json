@@ -133964,5 +133964,54 @@
     "amount": 5
    }
   ]
+ },
+ {
+  "number": "2735",
+  "date": "2023-02-08T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   8,
+   9,
+   11,
+   12,
+   14,
+   17,
+   18,
+   21,
+   23,
+   24
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 3,
+    "amount": 580653.47
+   },
+   {
+    "name": "14 números",
+    "total": 13860,
+    "amount": 800.28
+   },
+   {
+    "name": "13 números",
+    "total": 13860,
+    "amount": 25
+   },
+   {
+    "name": "12 números",
+    "total": 151229,
+    "amount": 10
+   },
+   {
+    "name": "11 números",
+    "total": 753014,
+    "amount": 5
+   }
+  ]
  }
 ]
