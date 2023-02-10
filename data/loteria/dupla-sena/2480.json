@@ -1,0 +1,35 @@
+{
+ "number": "2480",
+ "date": "2023-02-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  11,
+  25,
+  30,
+  43,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 11,
+   "amount": 4543.7
+  },
+  {
+   "name": "Quadra",
+   "total": 657,
+   "amount": 86.94
+  },
+  {
+   "name": "Terno",
+   "total": 12330,
+   "amount": 2.31
+  }
+ ]
+}
