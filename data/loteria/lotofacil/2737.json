@@ -1,0 +1,49 @@
+{
+ "number": "2737",
+ "date": "2023-02-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  5,
+  7,
+  9,
+  10,
+  11,
+  16,
+  17,
+  18,
+  19,
+  20,
+  23,
+  24,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 3965187.47
+  },
+  {
+   "name": "14 números",
+   "total": 19277,
+   "amount": 1450.8
+  },
+  {
+   "name": "13 números",
+   "total": 19277,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 237167,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 1348070,
+   "amount": 5
+  }
+ ]
+}
