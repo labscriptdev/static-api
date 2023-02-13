@@ -144652,6 +144652,35 @@
   ]
  },
  {
+  "number": "4989",
+  "date": "2019-05-31T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   24,
+   52,
+   54,
+   67,
+   69
+  ],
+  "winners": [
+   {
+    "name": "Quina",
+    "total": 1,
+    "amount": 8084954.43
+   },
+   {
+    "name": "Quadra",
+    "total": 180,
+    "amount": 3563.97
+   },
+   {
+    "name": "Terno",
+    "total": 9313,
+    "amount": 103.58
+   }
+  ]
+ },
+ {
   "number": "4990",
   "date": "2019-06-01T00:00:00",
   "accumulated": 0,
