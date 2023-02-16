@@ -134258,5 +134258,54 @@
     "amount": 5
    }
   ]
+ },
+ {
+  "number": "2741",
+  "date": "2023-02-15T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   1,
+   2,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   13,
+   15,
+   18,
+   22,
+   23,
+   24,
+   25
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 4,
+    "amount": 416579.9
+   },
+   {
+    "name": "14 números",
+    "total": 9926,
+    "amount": 1519.09
+   },
+   {
+    "name": "13 números",
+    "total": 9926,
+    "amount": 25
+   },
+   {
+    "name": "12 números",
+    "total": 135472,
+    "amount": 10
+   },
+   {
+    "name": "11 números",
+    "total": 715267,
+    "amount": 5
+   }
+  ]
  }
 ]

@@ -176231,5 +176231,34 @@
     "amount": 41.9
    }
   ]
+ },
+ {
+  "number": "6078",
+  "date": "2023-02-15T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   7,
+   22,
+   52,
+   63,
+   65
+  ],
+  "winners": [
+   {
+    "name": "Quina",
+    "total": 1,
+    "amount": 8995845.73
+   },
+   {
+    "name": "Quadra",
+    "total": 91,
+    "amount": 6614.97
+   },
+   {
+    "name": "Terno",
+    "total": 6972,
+    "amount": 82.22
+   }
+  ]
  }
 ]
