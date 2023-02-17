@@ -76918,5 +76918,35 @@
     "amount": 596.66
    }
   ]
+ },
+ {
+  "number": "2565",
+  "date": "2023-02-16T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   9,
+   13,
+   25,
+   39,
+   46,
+   54
+  ],
+  "winners": [
+   {
+    "name": "Sena",
+    "total": 3,
+    "amount": 17626625.69
+   },
+   {
+    "name": "Quina",
+    "total": 164,
+    "amount": 24367.94
+   },
+   {
+    "name": "Quadra",
+    "total": 8245,
+    "amount": 692.42
+   }
+  ]
  }
 ]
