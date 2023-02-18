@@ -1,0 +1,49 @@
+{
+ "number": "2743",
+ "date": "2023-02-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  6,
+  8,
+  9,
+  12,
+  13,
+  16,
+  17,
+  18,
+  19,
+  20,
+  22,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1941323.21
+  },
+  {
+   "name": "14 números",
+   "total": 9030,
+   "amount": 1654.69
+  },
+  {
+   "name": "13 números",
+   "total": 9030,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 118253,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 685104,
+   "amount": 5
+  }
+ ]
+}
