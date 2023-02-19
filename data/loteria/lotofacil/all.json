@@ -134405,5 +134405,54 @@
     "amount": 5
    }
   ]
+ },
+ {
+  "number": "2744",
+  "date": "2023-02-18T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   7,
+   8,
+   9,
+   11,
+   12,
+   15,
+   20,
+   21,
+   23,
+   25
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 1,
+    "amount": 1566871.7
+   },
+   {
+    "name": "14 números",
+    "total": 8814,
+    "amount": 1967.29
+   },
+   {
+    "name": "13 números",
+    "total": 8814,
+    "amount": 25
+   },
+   {
+    "name": "12 números",
+    "total": 103380,
+    "amount": 10
+   },
+   {
+    "name": "11 números",
+    "total": 636982,
+    "amount": 5
+   }
+  ]
  }
 ]
