@@ -1,365 +1,5 @@
 [
  {
-  "name": "Iceland",
-  "cca2": "is",
-  "cca3": "isl",
-  "languages": [
-   "isl"
-  ],
-  "latlng": [
-   65,
-   -18
-  ],
-  "flags": "https://flagcdn.com/is.svg",
-  "postalCodeMask": "###",
-  "phoneMask": false
- },
- {
-  "name": "Japan",
-  "cca2": "jp",
-  "cca3": "jpn",
-  "languages": [
-   "jpn"
-  ],
-  "latlng": [
-   36,
-   138
-  ],
-  "flags": "https://flagcdn.com/jp.svg",
-  "postalCodeMask": "###-####",
-  "phoneMask": false
- },
- {
-  "name": "New Caledonia",
-  "cca2": "nc",
-  "cca3": "ncl",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   -21.5,
-   165.5
-  ],
-  "flags": "https://flagcdn.com/nc.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Somalia",
-  "cca2": "so",
-  "cca3": "som",
-  "languages": [
-   "ara",
-   "som"
-  ],
-  "latlng": [
-   10,
-   49
-  ],
-  "flags": "https://flagcdn.com/so.svg",
-  "postalCodeMask": "@@  #####",
-  "phoneMask": false
- },
- {
-  "name": "Jordan",
-  "cca2": "jo",
-  "cca3": "jor",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   31,
-   36
-  ],
-  "flags": "https://flagcdn.com/jo.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Caribbean Netherlands",
-  "cca2": "bq",
-  "cca3": "bes",
-  "languages": [
-   "eng",
-   "nld",
-   "pap"
-  ],
-  "latlng": [
-   12.18,
-   -68.25
-  ],
-  "flags": "https://flagcdn.com/bq.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Algeria",
-  "cca2": "dz",
-  "cca3": "dza",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   28,
-   3
-  ],
-  "flags": "https://flagcdn.com/dz.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "New Zealand",
-  "cca2": "nz",
-  "cca3": "nzl",
-  "languages": [
-   "eng",
-   "mri",
-   "nzs"
-  ],
-  "latlng": [
-   -41,
-   174
-  ],
-  "flags": "https://flagcdn.com/nz.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Chile",
-  "cca2": "cl",
-  "cca3": "chl",
-  "languages": [
-   "spa"
-  ],
-  "latlng": [
-   -30,
-   -71
-  ],
-  "flags": "https://flagcdn.com/cl.svg",
-  "postalCodeMask": "#######",
-  "phoneMask": false
- },
- {
-  "name": "France",
-  "cca2": "fr",
-  "cca3": "fra",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   46,
-   2
-  ],
-  "flags": "https://flagcdn.com/fr.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Lesotho",
-  "cca2": "ls",
-  "cca3": "lso",
-  "languages": [
-   "eng",
-   "sot"
-  ],
-  "latlng": [
-   -29.5,
-   28.5
-  ],
-  "flags": "https://flagcdn.com/ls.svg",
-  "postalCodeMask": "###",
-  "phoneMask": false
- },
- {
-  "name": "Lebanon",
-  "cca2": "lb",
-  "cca3": "lbn",
-  "languages": [
-   "ara",
-   "fra"
-  ],
-  "latlng": [
-   33.83333333,
-   35.83333333
-  ],
-  "flags": "https://flagcdn.com/lb.svg",
-  "postalCodeMask": "#### ####|####",
-  "phoneMask": false
- },
- {
-  "name": "Turks and Caicos Islands",
-  "cca2": "tc",
-  "cca3": "tca",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   21.75,
-   -71.58333333
-  ],
-  "flags": "https://flagcdn.com/tc.svg",
-  "postalCodeMask": "TKCA 1ZZ",
-  "phoneMask": false
- },
- {
-  "name": "Norway",
-  "cca2": "no",
-  "cca3": "nor",
-  "languages": [
-   "nno",
-   "nob",
-   "smi"
-  ],
-  "latlng": [
-   62,
-   10
-  ],
-  "flags": "https://flagcdn.com/no.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Peru",
-  "cca2": "pe",
-  "cca3": "per",
-  "languages": [
-   "aym",
-   "que",
-   "spa"
-  ],
-  "latlng": [
-   -10,
-   -76
-  ],
-  "flags": "https://flagcdn.com/pe.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Syria",
-  "cca2": "sy",
-  "cca3": "syr",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   35,
-   38
-  ],
-  "flags": "https://flagcdn.com/sy.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Nauru",
-  "cca2": "nr",
-  "cca3": "nru",
-  "languages": [
-   "eng",
-   "nau"
-  ],
-  "latlng": [
-   -0.53333333,
-   166.91666666
-  ],
-  "flags": "https://flagcdn.com/nr.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Fiji",
-  "cca2": "fj",
-  "cca3": "fji",
-  "languages": [
-   "eng",
-   "fij",
-   "hif"
-  ],
-  "latlng": [
-   17.7134,
-   178.065
-  ],
-  "flags": "https://flagcdn.com/fj.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Honduras",
-  "cca2": "hn",
-  "cca3": "hnd",
-  "languages": [
-   "spa"
-  ],
-  "latlng": [
-   15,
-   -86.5
-  ],
-  "flags": "https://flagcdn.com/hn.svg",
-  "postalCodeMask": "@@####",
-  "phoneMask": false
- },
- {
-  "name": "Benin",
-  "cca2": "bj",
-  "cca3": "ben",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   9.5,
-   2.25
-  ],
-  "flags": "https://flagcdn.com/bj.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Palau",
-  "cca2": "pw",
-  "cca3": "plw",
-  "languages": [
-   "eng",
-   "pau"
-  ],
-  "latlng": [
-   7.5,
-   134.5
-  ],
-  "flags": "https://flagcdn.com/pw.svg",
-  "postalCodeMask": "96940",
-  "phoneMask": false
- },
- {
-  "name": "Saint Martin",
-  "cca2": "mf",
-  "cca3": "maf",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   18.0708,
-   63.0501
-  ],
-  "flags": "https://flagcdn.com/mf.svg",
-  "postalCodeMask": "### ###",
-  "phoneMask": false
- },
- {
-  "name": "Svalbard and Jan Mayen",
-  "cca2": "sj",
-  "cca3": "sjm",
-  "languages": [
-   "nor"
-  ],
-  "latlng": [
-   78,
-   20
-  ],
-  "flags": "https://flagcdn.com/sj.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
   "name": "Montenegro",
   "cca2": "me",
   "cca3": "mne",
@@ -375,235 +15,112 @@
   "phoneMask": false
  },
  {
-  "name": "Estonia",
-  "cca2": "ee",
-  "cca3": "est",
+  "name": "Martinique",
+  "cca2": "mq",
+  "cca3": "mtq",
   "languages": [
-   "est"
+   "fra"
   ],
   "latlng": [
-   59,
-   26
+   14.666667,
+   -61
   ],
-  "flags": "https://flagcdn.com/ee.svg",
+  "flags": "https://flagcdn.com/mq.svg",
   "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
-  "name": "Grenada",
-  "cca2": "gd",
-  "cca3": "grd",
+  "name": "Burundi",
+  "cca2": "bi",
+  "cca3": "bdi",
+  "languages": [
+   "fra",
+   "run"
+  ],
+  "latlng": [
+   -3.5,
+   30
+  ],
+  "flags": "https://flagcdn.com/bi.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Bangladesh",
+  "cca2": "bd",
+  "cca3": "bgd",
+  "languages": [
+   "ben"
+  ],
+  "latlng": [
+   24,
+   90
+  ],
+  "flags": "https://flagcdn.com/bd.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "San Marino",
+  "cca2": "sm",
+  "cca3": "smr",
+  "languages": [
+   "ita"
+  ],
+  "latlng": [
+   43.76666666,
+   12.41666666
+  ],
+  "flags": "https://flagcdn.com/sm.svg",
+  "postalCodeMask": "4789#",
+  "phoneMask": false
+ },
+ {
+  "name": "Vanuatu",
+  "cca2": "vu",
+  "cca3": "vut",
+  "languages": [
+   "bis",
+   "eng",
+   "fra"
+  ],
+  "latlng": [
+   -16,
+   167
+  ],
+  "flags": "https://flagcdn.com/vu.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Montserrat",
+  "cca2": "ms",
+  "cca3": "msr",
   "languages": [
    "eng"
   ],
   "latlng": [
-   12.11666666,
-   -61.66666666
+   16.75,
+   -62.2
   ],
-  "flags": "https://flagcdn.com/gd.svg",
+  "flags": "https://flagcdn.com/ms.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "Singapore",
-  "cca2": "sg",
-  "cca3": "sgp",
+  "name": "Argentina",
+  "cca2": "ar",
+  "cca3": "arg",
   "languages": [
-   "zho",
-   "eng",
-   "msa",
-   "tam"
-  ],
-  "latlng": [
-   1.36666666,
-   103.8
-  ],
-  "flags": "https://flagcdn.com/sg.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "Mali",
-  "cca2": "ml",
-  "cca3": "mli",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   17,
-   -4
-  ],
-  "flags": "https://flagcdn.com/ml.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Kazakhstan",
-  "cca2": "kz",
-  "cca3": "kaz",
-  "languages": [
-   "kaz",
-   "rus"
-  ],
-  "latlng": [
-   48.0196,
-   66.9237
-  ],
-  "flags": "https://flagcdn.com/kz.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "Spain",
-  "cca2": "es",
-  "cca3": "esp",
-  "languages": [
+   "grn",
    "spa"
   ],
   "latlng": [
-   40,
-   -4
+   -34,
+   -64
   ],
-  "flags": "https://flagcdn.com/es.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Monaco",
-  "cca2": "mc",
-  "cca3": "mco",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   43.73333333,
-   7.4
-  ],
-  "flags": "https://flagcdn.com/mc.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Seychelles",
-  "cca2": "sc",
-  "cca3": "syc",
-  "languages": [
-   "crs",
-   "eng",
-   "fra"
-  ],
-  "latlng": [
-   -4.58333333,
-   55.66666666
-  ],
-  "flags": "https://flagcdn.com/sc.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Armenia",
-  "cca2": "am",
-  "cca3": "arm",
-  "languages": [
-   "hye"
-  ],
-  "latlng": [
-   40,
-   45
-  ],
-  "flags": "https://flagcdn.com/am.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "China",
-  "cca2": "cn",
-  "cca3": "chn",
-  "languages": [
-   "zho"
-  ],
-  "latlng": [
-   35,
-   105
-  ],
-  "flags": "https://flagcdn.com/cn.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "Malaysia",
-  "cca2": "my",
-  "cca3": "mys",
-  "languages": [
-   "eng",
-   "msa"
-  ],
-  "latlng": [
-   2.5,
-   112.5
-  ],
-  "flags": "https://flagcdn.com/my.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Åland Islands",
-  "cca2": "ax",
-  "cca3": "ala",
-  "languages": [
-   "swe"
-  ],
-  "latlng": [
-   60.116667,
-   19.9
-  ],
-  "flags": "https://flagcdn.com/ax.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Andorra",
-  "cca2": "ad",
-  "cca3": "and",
-  "languages": [
-   "cat"
-  ],
-  "latlng": [
-   42.5,
-   1.5
-  ],
-  "flags": "https://flagcdn.com/ad.svg",
-  "postalCodeMask": "AD###",
-  "phoneMask": false
- },
- {
-  "name": "Turkey",
-  "cca2": "tr",
-  "cca3": "tur",
-  "languages": [
-   "tur"
-  ],
-  "latlng": [
-   39,
-   35
-  ],
-  "flags": "https://flagcdn.com/tr.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Wallis and Futuna",
-  "cca2": "wf",
-  "cca3": "wlf",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   -13.3,
-   -176.2
-  ],
-  "flags": "https://flagcdn.com/wf.svg",
-  "postalCodeMask": "#####",
+  "flags": "https://flagcdn.com/ar.svg",
+  "postalCodeMask": "@####@@@",
   "phoneMask": false
  },
  {
@@ -622,187 +139,20 @@
   "phoneMask": false
  },
  {
-  "name": "Paraguay",
-  "cca2": "py",
-  "cca3": "pry",
+  "name": "India",
+  "cca2": "in",
+  "cca3": "ind",
   "languages": [
-   "grn",
-   "spa"
+   "eng",
+   "hin",
+   "tam"
   ],
   "latlng": [
-   -23,
-   -58
+   20,
+   77
   ],
-  "flags": "https://flagcdn.com/py.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Czechia",
-  "cca2": "cz",
-  "cca3": "cze",
-  "languages": [
-   "ces",
-   "slk"
-  ],
-  "latlng": [
-   49.75,
-   15.5
-  ],
-  "flags": "https://flagcdn.com/cz.svg",
-  "postalCodeMask": "### ##",
-  "phoneMask": false
- },
- {
-  "name": "Iran",
-  "cca2": "ir",
-  "cca3": "irn",
-  "languages": [
-   "fas"
-  ],
-  "latlng": [
-   32,
-   53
-  ],
-  "flags": "https://flagcdn.com/ir.svg",
-  "postalCodeMask": "##########",
-  "phoneMask": false
- },
- {
-  "name": "Guinea-Bissau",
-  "cca2": "gw",
-  "cca3": "gnb",
-  "languages": [
-   "por",
-   "pov"
-  ],
-  "latlng": [
-   12,
-   -15
-  ],
-  "flags": "https://flagcdn.com/gw.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Ghana",
-  "cca2": "gh",
-  "cca3": "gha",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   8,
-   -2
-  ],
-  "flags": "https://flagcdn.com/gh.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Netherlands",
-  "cca2": "nl",
-  "cca3": "nld",
-  "languages": [
-   "nld"
-  ],
-  "latlng": [
-   52.5,
-   5.75
-  ],
-  "flags": "https://flagcdn.com/nl.svg",
-  "postalCodeMask": "#### @@",
-  "phoneMask": false
- },
- {
-  "name": "Sweden",
-  "cca2": "se",
-  "cca3": "swe",
-  "languages": [
-   "swe"
-  ],
-  "latlng": [
-   62,
-   15
-  ],
-  "flags": "https://flagcdn.com/se.svg",
-  "postalCodeMask": "SE-### ##",
-  "phoneMask": false
- },
- {
-  "name": "Guyana",
-  "cca2": "gy",
-  "cca3": "guy",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   5,
-   -59
-  ],
-  "flags": "https://flagcdn.com/gy.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Brunei",
-  "cca2": "bn",
-  "cca3": "brn",
-  "languages": [
-   "msa"
-  ],
-  "latlng": [
-   4.5,
-   114.66666666
-  ],
-  "flags": "https://flagcdn.com/bn.svg",
-  "postalCodeMask": "@@####",
-  "phoneMask": false
- },
- {
-  "name": "Sudan",
-  "cca2": "sd",
-  "cca3": "sdn",
-  "languages": [
-   "ara",
-   "eng"
-  ],
-  "latlng": [
-   15,
-   30
-  ],
-  "flags": "https://flagcdn.com/sd.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Austria",
-  "cca2": "at",
-  "cca3": "aut",
-  "languages": [
-   "bar"
-  ],
-  "latlng": [
-   47.33333333,
-   13.33333333
-  ],
-  "flags": "https://flagcdn.com/at.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Venezuela",
-  "cca2": "ve",
-  "cca3": "ven",
-  "languages": [
-   "spa"
-  ],
-  "latlng": [
-   8,
-   -66
-  ],
-  "flags": "https://flagcdn.com/ve.svg",
-  "postalCodeMask": "####",
+  "flags": "https://flagcdn.com/in.svg",
+  "postalCodeMask": "######",
   "phoneMask": false
  },
  {
@@ -822,66 +172,346 @@
   "phoneMask": false
  },
  {
-  "name": "Palestine",
-  "cca2": "ps",
-  "cca3": "pse",
+  "name": "Ghana",
+  "cca2": "gh",
+  "cca3": "gha",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   8,
+   -2
+  ],
+  "flags": "https://flagcdn.com/gh.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Burkina Faso",
+  "cca2": "bf",
+  "cca3": "bfa",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   13,
+   -2
+  ],
+  "flags": "https://flagcdn.com/bf.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Japan",
+  "cca2": "jp",
+  "cca3": "jpn",
+  "languages": [
+   "jpn"
+  ],
+  "latlng": [
+   36,
+   138
+  ],
+  "flags": "https://flagcdn.com/jp.svg",
+  "postalCodeMask": "###-####",
+  "phoneMask": false
+ },
+ {
+  "name": "Oman",
+  "cca2": "om",
+  "cca3": "omn",
   "languages": [
    "ara"
   ],
   "latlng": [
-   31.9,
-   35.2
+   21,
+   57
   ],
-  "flags": "https://flagcdn.com/ps.svg",
-  "postalCodeMask": false,
+  "flags": "https://flagcdn.com/om.svg",
+  "postalCodeMask": "###",
   "phoneMask": false
  },
  {
-  "name": "São Tomé and Príncipe",
-  "cca2": "st",
-  "cca3": "stp",
+  "name": "Belgium",
+  "cca2": "be",
+  "cca3": "bel",
   "languages": [
-   "por"
+   "deu",
+   "fra",
+   "nld"
   ],
   "latlng": [
-   1,
-   7
+   50.83333333,
+   4
   ],
-  "flags": "https://flagcdn.com/st.svg",
+  "flags": "https://flagcdn.com/be.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Niue",
+  "cca2": "nu",
+  "cca3": "niu",
+  "languages": [
+   "eng",
+   "niu"
+  ],
+  "latlng": [
+   -19.03333333,
+   -169.86666666
+  ],
+  "flags": "https://flagcdn.com/nu.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "Northern Mariana Islands",
-  "cca2": "mp",
-  "cca3": "mnp",
+  "name": "Slovakia",
+  "cca2": "sk",
+  "cca3": "svk",
   "languages": [
-   "cal",
-   "cha",
+   "slk"
+  ],
+  "latlng": [
+   48.66666666,
+   19.5
+  ],
+  "flags": "https://flagcdn.com/sk.svg",
+  "postalCodeMask": "###  ##",
+  "phoneMask": false
+ },
+ {
+  "name": "Chad",
+  "cca2": "td",
+  "cca3": "tcd",
+  "languages": [
+   "ara",
+   "fra"
+  ],
+  "latlng": [
+   15,
+   19
+  ],
+  "flags": "https://flagcdn.com/td.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Sweden",
+  "cca2": "se",
+  "cca3": "swe",
+  "languages": [
+   "swe"
+  ],
+  "latlng": [
+   62,
+   15
+  ],
+  "flags": "https://flagcdn.com/se.svg",
+  "postalCodeMask": "SE-### ##",
+  "phoneMask": false
+ },
+ {
+  "name": "Jersey",
+  "cca2": "je",
+  "cca3": "jey",
+  "languages": [
+   "eng",
+   "fra",
+   "nrf"
+  ],
+  "latlng": [
+   49.25,
+   -2.16666666
+  ],
+  "flags": "https://flagcdn.com/je.svg",
+  "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+  "phoneMask": false
+ },
+ {
+  "name": "Morocco",
+  "cca2": "ma",
+  "cca3": "mar",
+  "languages": [
+   "ara",
+   "ber"
+  ],
+  "latlng": [
+   32,
+   -5
+  ],
+  "flags": "https://flagcdn.com/ma.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Czechia",
+  "cca2": "cz",
+  "cca3": "cze",
+  "languages": [
+   "ces",
+   "slk"
+  ],
+  "latlng": [
+   49.75,
+   15.5
+  ],
+  "flags": "https://flagcdn.com/cz.svg",
+  "postalCodeMask": "### ##",
+  "phoneMask": false
+ },
+ {
+  "name": "Thailand",
+  "cca2": "th",
+  "cca3": "tha",
+  "languages": [
+   "tha"
+  ],
+  "latlng": [
+   15,
+   100
+  ],
+  "flags": "https://flagcdn.com/th.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Philippines",
+  "cca2": "ph",
+  "cca3": "phl",
+  "languages": [
+   "eng",
+   "fil"
+  ],
+  "latlng": [
+   13,
+   122
+  ],
+  "flags": "https://flagcdn.com/ph.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Saint Vincent and the Grenadines",
+  "cca2": "vc",
+  "cca3": "vct",
+  "languages": [
    "eng"
   ],
   "latlng": [
-   15.2,
-   145.75
+   13.25,
+   -61.2
   ],
-  "flags": "https://flagcdn.com/mp.svg",
+  "flags": "https://flagcdn.com/vc.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "Kenya",
-  "cca2": "ke",
-  "cca3": "ken",
+  "name": "Romania",
+  "cca2": "ro",
+  "cca3": "rou",
   "languages": [
-   "eng",
-   "swa"
+   "ron"
   ],
   "latlng": [
-   1,
-   38
+   46,
+   25
   ],
-  "flags": "https://flagcdn.com/ke.svg",
+  "flags": "https://flagcdn.com/ro.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "Israel",
+  "cca2": "il",
+  "cca3": "isr",
+  "languages": [
+   "ara",
+   "heb"
+  ],
+  "latlng": [
+   31.47,
+   35.13
+  ],
+  "flags": "https://flagcdn.com/il.svg",
   "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Liechtenstein",
+  "cca2": "li",
+  "cca3": "lie",
+  "languages": [
+   "deu"
+  ],
+  "latlng": [
+   47.26666666,
+   9.53333333
+  ],
+  "flags": "https://flagcdn.com/li.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Uzbekistan",
+  "cca2": "uz",
+  "cca3": "uzb",
+  "languages": [
+   "rus",
+   "uzb"
+  ],
+  "latlng": [
+   41,
+   64
+  ],
+  "flags": "https://flagcdn.com/uz.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "French Polynesia",
+  "cca2": "pf",
+  "cca3": "pyf",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   17.6797,
+   149.4068
+  ],
+  "flags": "https://flagcdn.com/pf.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Mauritius",
+  "cca2": "mu",
+  "cca3": "mus",
+  "languages": [
+   "eng",
+   "fra",
+   "mfe"
+  ],
+  "latlng": [
+   -20.28333333,
+   57.55
+  ],
+  "flags": "https://flagcdn.com/mu.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Iceland",
+  "cca2": "is",
+  "cca3": "isl",
+  "languages": [
+   "isl"
+  ],
+  "latlng": [
+   65,
+   -18
+  ],
+  "flags": "https://flagcdn.com/is.svg",
+  "postalCodeMask": "###",
   "phoneMask": false
  },
  {
@@ -902,284 +532,339 @@
   "phoneMask": false
  },
  {
-  "name": "Chad",
-  "cca2": "td",
-  "cca3": "tcd",
+  "name": "Afghanistan",
+  "cca2": "af",
+  "cca3": "afg",
   "languages": [
-   "ara",
-   "fra"
+   "prs",
+   "pus",
+   "tuk"
   ],
   "latlng": [
-   15,
-   19
+   33,
+   65
   ],
-  "flags": "https://flagcdn.com/td.svg",
+  "flags": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "Taiwan",
-  "cca2": "tw",
-  "cca3": "twn",
+  "name": "Brunei",
+  "cca2": "bn",
+  "cca3": "brn",
   "languages": [
-   "zho"
+   "msa"
   ],
   "latlng": [
-   23.5,
-   121
+   4.5,
+   114.66666666
   ],
-  "flags": "https://flagcdn.com/tw.svg",
-  "postalCodeMask": "#####",
+  "flags": "https://flagcdn.com/bn.svg",
+  "postalCodeMask": "@@####",
   "phoneMask": false
  },
  {
-  "name": "Cape Verde",
-  "cca2": "cv",
-  "cca3": "cpv",
+  "name": "Gibraltar",
+  "cca2": "gi",
+  "cca3": "gib",
   "languages": [
-   "por"
+   "eng"
   ],
   "latlng": [
-   16.5388,
-   23.0418
+   36.13333333,
+   -5.35
   ],
-  "flags": "https://flagcdn.com/cv.svg",
+  "flags": "https://flagcdn.com/gi.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Solomon Islands",
+  "cca2": "sb",
+  "cca3": "slb",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   -8,
+   159
+  ],
+  "flags": "https://flagcdn.com/sb.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Belarus",
+  "cca2": "by",
+  "cca3": "blr",
+  "languages": [
+   "bel",
+   "rus"
+  ],
+  "latlng": [
+   53,
+   28
+  ],
+  "flags": "https://flagcdn.com/by.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "Bermuda",
+  "cca2": "bm",
+  "cca3": "bmu",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   32.33333333,
+   -64.75
+  ],
+  "flags": "https://flagcdn.com/bm.svg",
+  "postalCodeMask": "@@ ##",
+  "phoneMask": false
+ },
+ {
+  "name": "Austria",
+  "cca2": "at",
+  "cca3": "aut",
+  "languages": [
+   "bar"
+  ],
+  "latlng": [
+   47.33333333,
+   13.33333333
+  ],
+  "flags": "https://flagcdn.com/at.svg",
   "postalCodeMask": "####",
   "phoneMask": false
  },
  {
-  "name": "Saint Vincent and the Grenadines",
-  "cca2": "vc",
-  "cca3": "vct",
+  "name": "Italy",
+  "cca2": "it",
+  "cca3": "ita",
+  "languages": [
+   "ita"
+  ],
+  "latlng": [
+   42.83333333,
+   12.83333333
+  ],
+  "flags": "https://flagcdn.com/it.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Trinidad and Tobago",
+  "cca2": "tt",
+  "cca3": "tto",
   "languages": [
    "eng"
   ],
   "latlng": [
-   13.25,
-   -61.2
+   10.6918,
+   61.2225
   ],
-  "flags": "https://flagcdn.com/vc.svg",
+  "flags": "https://flagcdn.com/tt.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "Turkmenistan",
-  "cca2": "tm",
-  "cca3": "tkm",
-  "languages": [
-   "rus",
-   "tuk"
-  ],
-  "latlng": [
-   40,
-   60
-  ],
-  "flags": "https://flagcdn.com/tm.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "Moldova",
-  "cca2": "md",
-  "cca3": "mda",
-  "languages": [
-   "ron"
-  ],
-  "latlng": [
-   47,
-   29
-  ],
-  "flags": "https://flagcdn.com/md.svg",
-  "postalCodeMask": "MD-####",
-  "phoneMask": false
- },
- {
-  "name": "Romania",
-  "cca2": "ro",
-  "cca3": "rou",
-  "languages": [
-   "ron"
-  ],
-  "latlng": [
-   46,
-   25
-  ],
-  "flags": "https://flagcdn.com/ro.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "Marshall Islands",
-  "cca2": "mh",
-  "cca3": "mhl",
-  "languages": [
-   "eng",
-   "mah"
-  ],
-  "latlng": [
-   9,
-   168
-  ],
-  "flags": "https://flagcdn.com/mh.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Isle of Man",
-  "cca2": "im",
-  "cca3": "imn",
-  "languages": [
-   "eng",
-   "glv"
-  ],
-  "latlng": [
-   54.25,
-   -4.5
-  ],
-  "flags": "https://flagcdn.com/im.svg",
-  "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-  "phoneMask": false
- },
- {
-  "name": "Antarctica",
-  "cca2": "aq",
-  "cca3": "ata",
-  "languages": [],
-  "latlng": [
-   -90,
-   0
-  ],
-  "flags": "https://flagcdn.com/aq.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Laos",
-  "cca2": "la",
-  "cca3": "lao",
-  "languages": [
-   "lao"
-  ],
-  "latlng": [
-   18,
-   105
-  ],
-  "flags": "https://flagcdn.com/la.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Namibia",
-  "cca2": "na",
-  "cca3": "nam",
-  "languages": [
-   "afr",
-   "deu",
-   "eng",
-   "her",
-   "hgm",
-   "kwn",
-   "loz",
-   "ndo",
-   "tsn"
-  ],
-  "latlng": [
-   -22,
-   17
-  ],
-  "flags": "https://flagcdn.com/na.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Kuwait",
-  "cca2": "kw",
-  "cca3": "kwt",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   29.5,
-   45.75
-  ],
-  "flags": "https://flagcdn.com/kw.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Togo",
-  "cca2": "tg",
-  "cca3": "tgo",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   8,
-   1.16666666
-  ],
-  "flags": "https://flagcdn.com/tg.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Mexico",
-  "cca2": "mx",
-  "cca3": "mex",
+  "name": "Honduras",
+  "cca2": "hn",
+  "cca3": "hnd",
   "languages": [
    "spa"
   ],
   "latlng": [
-   23,
-   -102
+   15,
+   -86.5
   ],
-  "flags": "https://flagcdn.com/mx.svg",
+  "flags": "https://flagcdn.com/hn.svg",
+  "postalCodeMask": "@@####",
+  "phoneMask": false
+ },
+ {
+  "name": "Malta",
+  "cca2": "mt",
+  "cca3": "mlt",
+  "languages": [
+   "eng",
+   "mlt"
+  ],
+  "latlng": [
+   35.9375,
+   14.3754
+  ],
+  "flags": "https://flagcdn.com/mt.svg",
+  "postalCodeMask": "@@@ ###|@@@ ##",
+  "phoneMask": false
+ },
+ {
+  "name": "Liberia",
+  "cca2": "lr",
+  "cca3": "lbr",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   6.5,
+   -9.5
+  ],
+  "flags": "https://flagcdn.com/lr.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "South Korea",
+  "cca2": "kr",
+  "cca3": "kor",
+  "languages": [
+   "kor"
+  ],
+  "latlng": [
+   37,
+   127.5
+  ],
+  "flags": "https://flagcdn.com/kr.svg",
+  "postalCodeMask": "SEOUL ###-###",
+  "phoneMask": false
+ },
+ {
+  "name": "Suriname",
+  "cca2": "sr",
+  "cca3": "sur",
+  "languages": [
+   "nld"
+  ],
+  "latlng": [
+   4,
+   -56
+  ],
+  "flags": "https://flagcdn.com/sr.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Caribbean Netherlands",
+  "cca2": "bq",
+  "cca3": "bes",
+  "languages": [
+   "eng",
+   "nld",
+   "pap"
+  ],
+  "latlng": [
+   12.18,
+   -68.25
+  ],
+  "flags": "https://flagcdn.com/bq.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Latvia",
+  "cca2": "lv",
+  "cca3": "lva",
+  "languages": [
+   "lav"
+  ],
+  "latlng": [
+   57,
+   25
+  ],
+  "flags": "https://flagcdn.com/lv.svg",
+  "postalCodeMask": "LV-####",
+  "phoneMask": false
+ },
+ {
+  "name": "Anguilla",
+  "cca2": "ai",
+  "cca3": "aia",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   18.25,
+   -63.16666666
+  ],
+  "flags": "https://flagcdn.com/ai.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Falkland Islands",
+  "cca2": "fk",
+  "cca3": "flk",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   -51.75,
+   -59
+  ],
+  "flags": "https://flagcdn.com/fk.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Uruguay",
+  "cca2": "uy",
+  "cca3": "ury",
+  "languages": [
+   "spa"
+  ],
+  "latlng": [
+   -33,
+   -56
+  ],
+  "flags": "https://flagcdn.com/uy.svg",
   "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
-  "name": "United States",
-  "cca2": "us",
-  "cca3": "usa",
+  "name": "Costa Rica",
+  "cca2": "cr",
+  "cca3": "cri",
   "languages": [
-   "eng"
+   "spa"
   ],
   "latlng": [
-   38,
-   -97
+   10,
+   -84
   ],
-  "flags": "https://flagcdn.com/us.svg",
-  "postalCodeMask": "#####-####",
+  "flags": "https://flagcdn.com/cr.svg",
+  "postalCodeMask": "####",
   "phoneMask": false
  },
  {
-  "name": "Samoa",
-  "cca2": "ws",
-  "cca3": "wsm",
+  "name": "Albania",
+  "cca2": "al",
+  "cca3": "alb",
   "languages": [
-   "eng",
-   "smo"
+   "sqi"
   ],
   "latlng": [
-   -13.58333333,
-   -172.33333333
+   41,
+   20
   ],
-  "flags": "https://flagcdn.com/ws.svg",
+  "flags": "https://flagcdn.com/al.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "Sierra Leone",
-  "cca2": "sl",
-  "cca3": "sle",
+  "name": "Tunisia",
+  "cca2": "tn",
+  "cca3": "tun",
   "languages": [
-   "eng"
+   "ara"
   ],
   "latlng": [
-   8.5,
-   -11.5
+   34,
+   9
   ],
-  "flags": "https://flagcdn.com/sl.svg",
-  "postalCodeMask": false,
+  "flags": "https://flagcdn.com/tn.svg",
+  "postalCodeMask": "####",
   "phoneMask": false
  },
  {
@@ -1208,140 +893,50 @@
   "phoneMask": false
  },
  {
-  "name": "Kyrgyzstan",
-  "cca2": "kg",
-  "cca3": "kgz",
+  "name": "Bulgaria",
+  "cca2": "bg",
+  "cca3": "bgr",
   "languages": [
-   "kir",
-   "rus"
+   "bul"
   ],
   "latlng": [
-   41,
-   75
+   43,
+   25
   ],
-  "flags": "https://flagcdn.com/kg.svg",
-  "postalCodeMask": "######",
+  "flags": "https://flagcdn.com/bg.svg",
+  "postalCodeMask": "####",
   "phoneMask": false
  },
  {
-  "name": "Ecuador",
-  "cca2": "ec",
-  "cca3": "ecu",
+  "name": "Rwanda",
+  "cca2": "rw",
+  "cca3": "rwa",
   "languages": [
-   "spa"
+   "eng",
+   "fra",
+   "kin"
   ],
   "latlng": [
    -2,
-   -77.5
+   30
   ],
-  "flags": "https://flagcdn.com/ec.svg",
-  "postalCodeMask": "@####@",
-  "phoneMask": false
- },
- {
-  "name": "Slovakia",
-  "cca2": "sk",
-  "cca3": "svk",
-  "languages": [
-   "slk"
-  ],
-  "latlng": [
-   48.66666666,
-   19.5
-  ],
-  "flags": "https://flagcdn.com/sk.svg",
-  "postalCodeMask": "###  ##",
-  "phoneMask": false
- },
- {
-  "name": "Saint Helena, Ascension and Tristan da Cunha",
-  "cca2": "sh",
-  "cca3": "shn",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   -15.95,
-   -5.72
-  ],
-  "flags": "https://flagcdn.com/sh.svg",
-  "postalCodeMask": "STHL 1ZZ",
-  "phoneMask": false
- },
- {
-  "name": "Bouvet Island",
-  "cca2": "bv",
-  "cca3": "bvt",
-  "languages": [
-   "nor"
-  ],
-  "latlng": [
-   54.4208,
-   3.3464
-  ],
-  "flags": "https://flagcdn.com/bv.svg",
+  "flags": "https://flagcdn.com/rw.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "British Indian Ocean Territory",
-  "cca2": "io",
-  "cca3": "iot",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   -6,
-   71.5
-  ],
-  "flags": "https://flagcdn.com/io.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Qatar",
-  "cca2": "qa",
-  "cca3": "qat",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   25.5,
-   51.25
-  ],
-  "flags": "https://flagcdn.com/qa.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Tonga",
-  "cca2": "to",
-  "cca3": "ton",
-  "languages": [
-   "eng",
-   "ton"
-  ],
-  "latlng": [
-   -20,
-   -175
-  ],
-  "flags": "https://flagcdn.com/to.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Colombia",
-  "cca2": "co",
-  "cca3": "col",
+  "name": "Chile",
+  "cca2": "cl",
+  "cca3": "chl",
   "languages": [
    "spa"
   ],
   "latlng": [
-   4,
-   -72
+   -30,
+   -71
   ],
-  "flags": "https://flagcdn.com/co.svg",
-  "postalCodeMask": false,
+  "flags": "https://flagcdn.com/cl.svg",
+  "postalCodeMask": "#######",
   "phoneMask": false
  },
  {
@@ -1361,1031 +956,79 @@
   "phoneMask": false
  },
  {
-  "name": "Cayman Islands",
-  "cca2": "ky",
-  "cca3": "cym",
+  "name": "Tajikistan",
+  "cca2": "tj",
+  "cca3": "tjk",
   "languages": [
-   "eng"
+   "rus",
+   "tgk"
   ],
   "latlng": [
-   19.3133,
-   81.2546
+   39,
+   71
   ],
-  "flags": "https://flagcdn.com/ky.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "United Kingdom",
-  "cca2": "gb",
-  "cca3": "gbr",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   54,
-   -2
-  ],
-  "flags": "https://flagcdn.com/gb.svg",
-  "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-  "phoneMask": false
- },
- {
-  "name": "Cambodia",
-  "cca2": "kh",
-  "cca3": "khm",
-  "languages": [
-   "khm"
-  ],
-  "latlng": [
-   13,
-   105
-  ],
-  "flags": "https://flagcdn.com/kh.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Kosovo",
-  "cca2": "xk",
-  "cca3": "unk",
-  "languages": [
-   "sqi",
-   "srp"
-  ],
-  "latlng": [
-   42.666667,
-   21.166667
-  ],
-  "flags": "https://flagcdn.com/xk.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Serbia",
-  "cca2": "rs",
-  "cca3": "srb",
-  "languages": [
-   "srp"
-  ],
-  "latlng": [
-   44,
-   21
-  ],
-  "flags": "https://flagcdn.com/rs.svg",
+  "flags": "https://flagcdn.com/tj.svg",
   "postalCodeMask": "######",
   "phoneMask": false
  },
  {
-  "name": "Italy",
-  "cca2": "it",
-  "cca3": "ita",
+  "name": "Greenland",
+  "cca2": "gl",
+  "cca3": "grl",
   "languages": [
-   "ita"
+   "kal"
   ],
   "latlng": [
-   42.83333333,
-   12.83333333
+   72,
+   -40
   ],
-  "flags": "https://flagcdn.com/it.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Sri Lanka",
-  "cca2": "lk",
-  "cca3": "lka",
-  "languages": [
-   "sin",
-   "tam"
-  ],
-  "latlng": [
-   7,
-   81
-  ],
-  "flags": "https://flagcdn.com/lk.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "United States Virgin Islands",
-  "cca2": "vi",
-  "cca3": "vir",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   18.35,
-   -64.933333
-  ],
-  "flags": "https://flagcdn.com/vi.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Latvia",
-  "cca2": "lv",
-  "cca3": "lva",
-  "languages": [
-   "lav"
-  ],
-  "latlng": [
-   57,
-   25
-  ],
-  "flags": "https://flagcdn.com/lv.svg",
-  "postalCodeMask": "LV-####",
-  "phoneMask": false
- },
- {
-  "name": "Jamaica",
-  "cca2": "jm",
-  "cca3": "jam",
-  "languages": [
-   "eng",
-   "jam"
-  ],
-  "latlng": [
-   18.25,
-   -77.5
-  ],
-  "flags": "https://flagcdn.com/jm.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Norfolk Island",
-  "cca2": "nf",
-  "cca3": "nfk",
-  "languages": [
-   "eng",
-   "pih"
-  ],
-  "latlng": [
-   -29.03333333,
-   167.95
-  ],
-  "flags": "https://flagcdn.com/nf.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Anguilla",
-  "cca2": "ai",
-  "cca3": "aia",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   18.25,
-   -63.16666666
-  ],
-  "flags": "https://flagcdn.com/ai.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Switzerland",
-  "cca2": "ch",
-  "cca3": "che",
-  "languages": [
-   "fra",
-   "gsw",
-   "ita",
-   "roh"
-  ],
-  "latlng": [
-   47,
-   8
-  ],
-  "flags": "https://flagcdn.com/ch.svg",
+  "flags": "https://flagcdn.com/gl.svg",
   "postalCodeMask": "####",
   "phoneMask": false
  },
  {
-  "name": "Guinea",
-  "cca2": "gn",
-  "cca3": "gin",
+  "name": "Bouvet Island",
+  "cca2": "bv",
+  "cca3": "bvt",
   "languages": [
-   "fra"
+   "nor"
   ],
   "latlng": [
-   11,
-   -10
+   54.4208,
+   3.3464
   ],
-  "flags": "https://flagcdn.com/gn.svg",
+  "flags": "https://flagcdn.com/bv.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "Croatia",
-  "cca2": "hr",
-  "cca3": "hrv",
+  "name": "Poland",
+  "cca2": "pl",
+  "cca3": "pol",
   "languages": [
-   "hrv"
+   "pol"
   ],
   "latlng": [
-   45.16666666,
-   15.5
+   52,
+   20
   ],
-  "flags": "https://flagcdn.com/hr.svg",
-  "postalCodeMask": "HR-#####",
+  "flags": "https://flagcdn.com/pl.svg",
+  "postalCodeMask": "##-###",
   "phoneMask": false
  },
  {
-  "name": "French Southern and Antarctic Lands",
-  "cca2": "tf",
-  "cca3": "atf",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   -49.25,
-   69.167
-  ],
-  "flags": "https://flagcdn.com/tf.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Tuvalu",
-  "cca2": "tv",
-  "cca3": "tuv",
+  "name": "Tanzania",
+  "cca2": "tz",
+  "cca3": "tza",
   "languages": [
    "eng",
-   "tvl"
-  ],
-  "latlng": [
-   -8,
-   178
-  ],
-  "flags": "https://flagcdn.com/tv.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Cyprus",
-  "cca2": "cy",
-  "cca3": "cyp",
-  "languages": [
-   "ell",
-   "tur"
-  ],
-  "latlng": [
-   35,
-   33
-  ],
-  "flags": "https://flagcdn.com/cy.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Indonesia",
-  "cca2": "id",
-  "cca3": "idn",
-  "languages": [
-   "ind"
-  ],
-  "latlng": [
-   -5,
-   120
-  ],
-  "flags": "https://flagcdn.com/id.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Bosnia and Herzegovina",
-  "cca2": "ba",
-  "cca3": "bih",
-  "languages": [
-   "bos",
-   "hrv",
-   "srp"
-  ],
-  "latlng": [
-   44,
-   18
-  ],
-  "flags": "https://flagcdn.com/ba.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Djibouti",
-  "cca2": "dj",
-  "cca3": "dji",
-  "languages": [
-   "ara",
-   "fra"
-  ],
-  "latlng": [
-   11.5,
-   43
-  ],
-  "flags": "https://flagcdn.com/dj.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Christmas Island",
-  "cca2": "cx",
-  "cca3": "cxr",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   -10.5,
-   105.66666666
-  ],
-  "flags": "https://flagcdn.com/cx.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Mauritius",
-  "cca2": "mu",
-  "cca3": "mus",
-  "languages": [
-   "eng",
-   "fra",
-   "mfe"
-  ],
-  "latlng": [
-   -20.28333333,
-   57.55
-  ],
-  "flags": "https://flagcdn.com/mu.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Botswana",
-  "cca2": "bw",
-  "cca3": "bwa",
-  "languages": [
-   "eng",
-   "tsn"
-  ],
-  "latlng": [
-   -22,
-   24
-  ],
-  "flags": "https://flagcdn.com/bw.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Burkina Faso",
-  "cca2": "bf",
-  "cca3": "bfa",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   13,
-   -2
-  ],
-  "flags": "https://flagcdn.com/bf.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Finland",
-  "cca2": "fi",
-  "cca3": "fin",
-  "languages": [
-   "fin",
-   "swe"
-  ],
-  "latlng": [
-   64,
-   26
-  ],
-  "flags": "https://flagcdn.com/fi.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "South Georgia",
-  "cca2": "gs",
-  "cca3": "sgs",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   -54.5,
-   -37
-  ],
-  "flags": "https://flagcdn.com/gs.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Gabon",
-  "cca2": "ga",
-  "cca3": "gab",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   -1,
-   11.75
-  ],
-  "flags": "https://flagcdn.com/ga.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Iraq",
-  "cca2": "iq",
-  "cca3": "irq",
-  "languages": [
-   "ara",
-   "arc",
-   "ckb"
-  ],
-  "latlng": [
-   33,
-   44
-  ],
-  "flags": "https://flagcdn.com/iq.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Egypt",
-  "cca2": "eg",
-  "cca3": "egy",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   27,
-   30
-  ],
-  "flags": "https://flagcdn.com/eg.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Vietnam",
-  "cca2": "vn",
-  "cca3": "vnm",
-  "languages": [
-   "vie"
-  ],
-  "latlng": [
-   16.16666666,
-   107.83333333
-  ],
-  "flags": "https://flagcdn.com/vn.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "DR Congo",
-  "cca2": "cd",
-  "cca3": "cod",
-  "languages": [
-   "fra",
-   "kon",
-   "lin",
-   "lua",
    "swa"
   ],
   "latlng": [
-   0,
-   25
+   -6,
+   35
   ],
-  "flags": "https://flagcdn.com/cd.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Australia",
-  "cca2": "au",
-  "cca3": "aus",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   -27,
-   133
-  ],
-  "flags": "https://flagcdn.com/au.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Nigeria",
-  "cca2": "ng",
-  "cca3": "nga",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   10,
-   8
-  ],
-  "flags": "https://flagcdn.com/ng.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "Zimbabwe",
-  "cca2": "zw",
-  "cca3": "zwe",
-  "languages": [
-   "bwg",
-   "eng",
-   "kck",
-   "khi",
-   "ndc",
-   "nde",
-   "nya",
-   "sna",
-   "sot",
-   "toi",
-   "tsn",
-   "tso",
-   "ven",
-   "xho",
-   "zib"
-  ],
-  "latlng": [
-   -20,
-   30
-  ],
-  "flags": "https://flagcdn.com/zw.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "North Macedonia",
-  "cca2": "mk",
-  "cca3": "mkd",
-  "languages": [
-   "mkd"
-  ],
-  "latlng": [
-   41.83333333,
-   22
-  ],
-  "flags": "https://flagcdn.com/mk.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Micronesia",
-  "cca2": "fm",
-  "cca3": "fsm",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   6.91666666,
-   158.25
-  ],
-  "flags": "https://flagcdn.com/fm.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Republic of the Congo",
-  "cca2": "cg",
-  "cca3": "cog",
-  "languages": [
-   "fra",
-   "kon",
-   "lin"
-  ],
-  "latlng": [
-   -1,
-   15
-  ],
-  "flags": "https://flagcdn.com/cg.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Liberia",
-  "cca2": "lr",
-  "cca3": "lbr",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   6.5,
-   -9.5
-  ],
-  "flags": "https://flagcdn.com/lr.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Cook Islands",
-  "cca2": "ck",
-  "cca3": "cok",
-  "languages": [
-   "eng",
-   "rar"
-  ],
-  "latlng": [
-   -21.23333333,
-   -159.76666666
-  ],
-  "flags": "https://flagcdn.com/ck.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Puerto Rico",
-  "cca2": "pr",
-  "cca3": "pri",
-  "languages": [
-   "eng",
-   "spa"
-  ],
-  "latlng": [
-   18.25,
-   -66.5
-  ],
-  "flags": "https://flagcdn.com/pr.svg",
-  "postalCodeMask": "#####-####",
-  "phoneMask": false
- },
- {
-  "name": "Argentina",
-  "cca2": "ar",
-  "cca3": "arg",
-  "languages": [
-   "grn",
-   "spa"
-  ],
-  "latlng": [
-   -34,
-   -64
-  ],
-  "flags": "https://flagcdn.com/ar.svg",
-  "postalCodeMask": "@####@@@",
-  "phoneMask": false
- },
- {
-  "name": "Saint Barthélemy",
-  "cca2": "bl",
-  "cca3": "blm",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   18.5,
-   -63.41666666
-  ],
-  "flags": "https://flagcdn.com/bl.svg",
-  "postalCodeMask": "### ###",
-  "phoneMask": false
- },
- {
-  "name": "Barbados",
-  "cca2": "bb",
-  "cca3": "brb",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   13.16666666,
-   -59.53333333
-  ],
-  "flags": "https://flagcdn.com/bb.svg",
-  "postalCodeMask": "BB#####",
-  "phoneMask": false
- },
- {
-  "name": "Guadeloupe",
-  "cca2": "gp",
-  "cca3": "glp",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   16.25,
-   -61.583333
-  ],
-  "flags": "https://flagcdn.com/gp.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Eritrea",
-  "cca2": "er",
-  "cca3": "eri",
-  "languages": [
-   "ara",
-   "eng",
-   "tir"
-  ],
-  "latlng": [
-   15,
-   39
-  ],
-  "flags": "https://flagcdn.com/er.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Myanmar",
-  "cca2": "mm",
-  "cca3": "mmr",
-  "languages": [
-   "mya"
-  ],
-  "latlng": [
-   22,
-   98
-  ],
-  "flags": "https://flagcdn.com/mm.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Ivory Coast",
-  "cca2": "ci",
-  "cca3": "civ",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   8,
-   -5
-  ],
-  "flags": "https://flagcdn.com/ci.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Yemen",
-  "cca2": "ye",
-  "cca3": "yem",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   15,
-   48
-  ],
-  "flags": "https://flagcdn.com/ye.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Aruba",
-  "cca2": "aw",
-  "cca3": "abw",
-  "languages": [
-   "nld",
-   "pap"
-  ],
-  "latlng": [
-   12.5,
-   -69.96666666
-  ],
-  "flags": "https://flagcdn.com/aw.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Bangladesh",
-  "cca2": "bd",
-  "cca3": "bgd",
-  "languages": [
-   "ben"
-  ],
-  "latlng": [
-   24,
-   90
-  ],
-  "flags": "https://flagcdn.com/bd.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Suriname",
-  "cca2": "sr",
-  "cca3": "sur",
-  "languages": [
-   "nld"
-  ],
-  "latlng": [
-   4,
-   -56
-  ],
-  "flags": "https://flagcdn.com/sr.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Brazil",
-  "cca2": "br",
-  "cca3": "bra",
-  "languages": [
-   "por"
-  ],
-  "latlng": [
-   -10,
-   -55
-  ],
-  "flags": "https://flagcdn.com/br.svg",
-  "postalCodeMask": "#####-###",
-  "phoneMask": false
- },
- {
-  "name": "Ireland",
-  "cca2": "ie",
-  "cca3": "irl",
-  "languages": [
-   "eng",
-   "gle"
-  ],
-  "latlng": [
-   53,
-   -8
-  ],
-  "flags": "https://flagcdn.com/ie.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Luxembourg",
-  "cca2": "lu",
-  "cca3": "lux",
-  "languages": [
-   "deu",
-   "fra",
-   "ltz"
-  ],
-  "latlng": [
-   49.75,
-   6.16666666
-  ],
-  "flags": "https://flagcdn.com/lu.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Tunisia",
-  "cca2": "tn",
-  "cca3": "tun",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   34,
-   9
-  ],
-  "flags": "https://flagcdn.com/tn.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Belgium",
-  "cca2": "be",
-  "cca3": "bel",
-  "languages": [
-   "deu",
-   "fra",
-   "nld"
-  ],
-  "latlng": [
-   50.83333333,
-   4
-  ],
-  "flags": "https://flagcdn.com/be.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Mayotte",
-  "cca2": "yt",
-  "cca3": "myt",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   -12.83333333,
-   45.16666666
-  ],
-  "flags": "https://flagcdn.com/yt.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Curaçao",
-  "cca2": "cw",
-  "cca3": "cuw",
-  "languages": [
-   "eng",
-   "nld",
-   "pap"
-  ],
-  "latlng": [
-   12.116667,
-   -68.933333
-  ],
-  "flags": "https://flagcdn.com/cw.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Réunion",
-  "cca2": "re",
-  "cca3": "reu",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   -21.15,
-   55.5
-  ],
-  "flags": "https://flagcdn.com/re.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Vanuatu",
-  "cca2": "vu",
-  "cca3": "vut",
-  "languages": [
-   "bis",
-   "eng",
-   "fra"
-  ],
-  "latlng": [
-   -16,
-   167
-  ],
-  "flags": "https://flagcdn.com/vu.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Heard Island and McDonald Islands",
-  "cca2": "hm",
-  "cca3": "hmd",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   53.0818,
-   73.5042
-  ],
-  "flags": "https://flagcdn.com/hm.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Antigua and Barbuda",
-  "cca2": "ag",
-  "cca3": "atg",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   17.05,
-   -61.8
-  ],
-  "flags": "https://flagcdn.com/ag.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Cuba",
-  "cca2": "cu",
-  "cca3": "cub",
-  "languages": [
-   "spa"
-  ],
-  "latlng": [
-   21.5,
-   -80
-  ],
-  "flags": "https://flagcdn.com/cu.svg",
-  "postalCodeMask": "CP #####",
-  "phoneMask": false
- },
- {
-  "name": "Burundi",
-  "cca2": "bi",
-  "cca3": "bdi",
-  "languages": [
-   "fra",
-   "run"
-  ],
-  "latlng": [
-   -3.5,
-   30
-  ],
-  "flags": "https://flagcdn.com/bi.svg",
+  "flags": "https://flagcdn.com/tz.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
@@ -2408,404 +1051,19 @@
   "phoneMask": false
  },
  {
-  "name": "Faroe Islands",
-  "cca2": "fo",
-  "cca3": "fro",
+  "name": "Paraguay",
+  "cca2": "py",
+  "cca3": "pry",
   "languages": [
-   "dan",
-   "fao"
-  ],
-  "latlng": [
-   62,
-   -7
-  ],
-  "flags": "https://flagcdn.com/fo.svg",
-  "postalCodeMask": "FO-###",
-  "phoneMask": false
- },
- {
-  "name": "American Samoa",
-  "cca2": "as",
-  "cca3": "asm",
-  "languages": [
-   "eng",
-   "smo"
-  ],
-  "latlng": [
-   -14.33333333,
-   -170
-  ],
-  "flags": "https://flagcdn.com/as.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Saint Pierre and Miquelon",
-  "cca2": "pm",
-  "cca3": "spm",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   46.83333333,
-   -56.33333333
-  ],
-  "flags": "https://flagcdn.com/pm.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Poland",
-  "cca2": "pl",
-  "cca3": "pol",
-  "languages": [
-   "pol"
-  ],
-  "latlng": [
-   52,
-   20
-  ],
-  "flags": "https://flagcdn.com/pl.svg",
-  "postalCodeMask": "##-###",
-  "phoneMask": false
- },
- {
-  "name": "Canada",
-  "cca2": "ca",
-  "cca3": "can",
-  "languages": [
-   "eng",
-   "fra"
-  ],
-  "latlng": [
-   60,
-   -95
-  ],
-  "flags": "https://flagcdn.com/ca.svg",
-  "postalCodeMask": "@#@ #@#",
-  "phoneMask": false
- },
- {
-  "name": "Guatemala",
-  "cca2": "gt",
-  "cca3": "gtm",
-  "languages": [
+   "grn",
    "spa"
   ],
   "latlng": [
-   15.5,
-   -90.25
+   -23,
+   -58
   ],
-  "flags": "https://flagcdn.com/gt.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Greece",
-  "cca2": "gr",
-  "cca3": "grc",
-  "languages": [
-   "ell"
-  ],
-  "latlng": [
-   39,
-   22
-  ],
-  "flags": "https://flagcdn.com/gr.svg",
-  "postalCodeMask": "### ##",
-  "phoneMask": false
- },
- {
-  "name": "North Korea",
-  "cca2": "kp",
-  "cca3": "prk",
-  "languages": [
-   "kor"
-  ],
-  "latlng": [
-   40,
-   127
-  ],
-  "flags": "https://flagcdn.com/kp.svg",
-  "postalCodeMask": "###-###",
-  "phoneMask": false
- },
- {
-  "name": "Uganda",
-  "cca2": "ug",
-  "cca3": "uga",
-  "languages": [
-   "eng",
-   "swa"
-  ],
-  "latlng": [
-   1,
-   32
-  ],
-  "flags": "https://flagcdn.com/ug.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Afghanistan",
-  "cca2": "af",
-  "cca3": "afg",
-  "languages": [
-   "prs",
-   "pus",
-   "tuk"
-  ],
-  "latlng": [
-   33,
-   65
-  ],
-  "flags": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "British Virgin Islands",
-  "cca2": "vg",
-  "cca3": "vgb",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   18.431383,
-   -64.62305
-  ],
-  "flags": "https://flagcdn.com/vg.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Azerbaijan",
-  "cca2": "az",
-  "cca3": "aze",
-  "languages": [
-   "aze",
-   "rus"
-  ],
-  "latlng": [
-   40.5,
-   47.5
-  ],
-  "flags": "https://flagcdn.com/az.svg",
-  "postalCodeMask": "AZ ####",
-  "phoneMask": false
- },
- {
-  "name": "Mauritania",
-  "cca2": "mr",
-  "cca3": "mrt",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   20,
-   -12
-  ],
-  "flags": "https://flagcdn.com/mr.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Portugal",
-  "cca2": "pt",
-  "cca3": "prt",
-  "languages": [
-   "por"
-  ],
-  "latlng": [
-   39.5,
-   -8
-  ],
-  "flags": "https://flagcdn.com/pt.svg",
-  "postalCodeMask": "####-###",
-  "phoneMask": false
- },
- {
-  "name": "Sint Maarten",
-  "cca2": "sx",
-  "cca3": "sxm",
-  "languages": [
-   "eng",
-   "fra",
-   "nld"
-  ],
-  "latlng": [
-   18.033333,
-   -63.05
-  ],
-  "flags": "https://flagcdn.com/sx.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Mongolia",
-  "cca2": "mn",
-  "cca3": "mng",
-  "languages": [
-   "mon"
-  ],
-  "latlng": [
-   46,
-   105
-  ],
-  "flags": "https://flagcdn.com/mn.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "Solomon Islands",
-  "cca2": "sb",
-  "cca3": "slb",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   -8,
-   159
-  ],
-  "flags": "https://flagcdn.com/sb.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Uzbekistan",
-  "cca2": "uz",
-  "cca3": "uzb",
-  "languages": [
-   "rus",
-   "uzb"
-  ],
-  "latlng": [
-   41,
-   64
-  ],
-  "flags": "https://flagcdn.com/uz.svg",
-  "postalCodeMask": "######",
-  "phoneMask": false
- },
- {
-  "name": "Philippines",
-  "cca2": "ph",
-  "cca3": "phl",
-  "languages": [
-   "eng",
-   "fil"
-  ],
-  "latlng": [
-   13,
-   122
-  ],
-  "flags": "https://flagcdn.com/ph.svg",
+  "flags": "https://flagcdn.com/py.svg",
   "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "El Salvador",
-  "cca2": "sv",
-  "cca3": "slv",
-  "languages": [
-   "spa"
-  ],
-  "latlng": [
-   13.83333333,
-   -88.91666666
-  ],
-  "flags": "https://flagcdn.com/sv.svg",
-  "postalCodeMask": "CP ####",
-  "phoneMask": false
- },
- {
-  "name": "Bahrain",
-  "cca2": "bh",
-  "cca3": "bhr",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   26,
-   50.55
-  ],
-  "flags": "https://flagcdn.com/bh.svg",
-  "postalCodeMask": "####|###",
-  "phoneMask": false
- },
- {
-  "name": "Albania",
-  "cca2": "al",
-  "cca3": "alb",
-  "languages": [
-   "sqi"
-  ],
-  "latlng": [
-   41,
-   20
-  ],
-  "flags": "https://flagcdn.com/al.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Georgia",
-  "cca2": "ge",
-  "cca3": "geo",
-  "languages": [
-   "kat"
-  ],
-  "latlng": [
-   42,
-   43.5
-  ],
-  "flags": "https://flagcdn.com/ge.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Bhutan",
-  "cca2": "bt",
-  "cca3": "btn",
-  "languages": [
-   "dzo"
-  ],
-  "latlng": [
-   27.5,
-   90.5
-  ],
-  "flags": "https://flagcdn.com/bt.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Saudi Arabia",
-  "cca2": "sa",
-  "cca3": "sau",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   25,
-   45
-  ],
-  "flags": "https://flagcdn.com/sa.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Bahamas",
-  "cca2": "bs",
-  "cca3": "bhs",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   25.0343,
-   77.3963
-  ],
-  "flags": "https://flagcdn.com/bs.svg",
-  "postalCodeMask": false,
   "phoneMask": false
  },
  {
@@ -2824,67 +1082,18 @@
   "phoneMask": false
  },
  {
-  "name": "Haiti",
-  "cca2": "ht",
-  "cca3": "hti",
+  "name": "Mexico",
+  "cca2": "mx",
+  "cca3": "mex",
   "languages": [
-   "fra",
-   "hat"
-  ],
-  "latlng": [
-   19,
-   -72.41666666
-  ],
-  "flags": "https://flagcdn.com/ht.svg",
-  "postalCodeMask": "HT####",
-  "phoneMask": false
- },
- {
-  "name": "Western Sahara",
-  "cca2": "eh",
-  "cca3": "esh",
-  "languages": [
-   "ber",
-   "mey",
    "spa"
   ],
   "latlng": [
-   24.5,
-   -13
+   23,
+   -102
   ],
-  "flags": "https://flagcdn.com/eh.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Libya",
-  "cca2": "ly",
-  "cca3": "lby",
-  "languages": [
-   "ara"
-  ],
-  "latlng": [
-   25,
-   17
-  ],
-  "flags": "https://flagcdn.com/ly.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Vatican City",
-  "cca2": "va",
-  "cca3": "vat",
-  "languages": [
-   "ita",
-   "lat"
-  ],
-  "latlng": [
-   41.9,
-   12.45
-  ],
-  "flags": "https://flagcdn.com/va.svg",
-  "postalCodeMask": false,
+  "flags": "https://flagcdn.com/mx.svg",
+  "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
@@ -2904,109 +1113,264 @@
   "phoneMask": false
  },
  {
-  "name": "Costa Rica",
-  "cca2": "cr",
-  "cca3": "cri",
+  "name": "Nicaragua",
+  "cca2": "ni",
+  "cca3": "nic",
   "languages": [
    "spa"
   ],
   "latlng": [
-   10,
-   -84
+   13,
+   -85
   ],
-  "flags": "https://flagcdn.com/cr.svg",
-  "postalCodeMask": "####",
+  "flags": "https://flagcdn.com/ni.svg",
+  "postalCodeMask": "###-###-#",
   "phoneMask": false
  },
  {
-  "name": "Thailand",
-  "cca2": "th",
-  "cca3": "tha",
+  "name": "El Salvador",
+  "cca2": "sv",
+  "cca3": "slv",
   "languages": [
-   "tha"
+   "spa"
   ],
   "latlng": [
-   15,
-   100
+   13.83333333,
+   -88.91666666
   ],
-  "flags": "https://flagcdn.com/th.svg",
-  "postalCodeMask": "#####",
+  "flags": "https://flagcdn.com/sv.svg",
+  "postalCodeMask": "CP ####",
   "phoneMask": false
  },
  {
-  "name": "Greenland",
-  "cca2": "gl",
-  "cca3": "grl",
-  "languages": [
-   "kal"
-  ],
-  "latlng": [
-   72,
-   -40
-  ],
-  "flags": "https://flagcdn.com/gl.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "French Guiana",
-  "cca2": "gf",
-  "cca3": "guf",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   4,
-   -53
-  ],
-  "flags": "https://flagcdn.com/gf.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Morocco",
-  "cca2": "ma",
-  "cca3": "mar",
-  "languages": [
-   "ara",
-   "ber"
-  ],
-  "latlng": [
-   32,
-   -5
-  ],
-  "flags": "https://flagcdn.com/ma.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Tanzania",
-  "cca2": "tz",
-  "cca3": "tza",
-  "languages": [
-   "eng",
-   "swa"
-  ],
-  "latlng": [
-   -6,
-   35
-  ],
-  "flags": "https://flagcdn.com/tz.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Saint Kitts and Nevis",
-  "cca2": "kn",
-  "cca3": "kna",
+  "name": "Nigeria",
+  "cca2": "ng",
+  "cca3": "nga",
   "languages": [
    "eng"
   ],
   "latlng": [
-   17.33333333,
-   -62.75
+   10,
+   8
   ],
-  "flags": "https://flagcdn.com/kn.svg",
+  "flags": "https://flagcdn.com/ng.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "Portugal",
+  "cca2": "pt",
+  "cca3": "prt",
+  "languages": [
+   "por"
+  ],
+  "latlng": [
+   39.5,
+   -8
+  ],
+  "flags": "https://flagcdn.com/pt.svg",
+  "postalCodeMask": "####-###",
+  "phoneMask": false
+ },
+ {
+  "name": "British Virgin Islands",
+  "cca2": "vg",
+  "cca3": "vgb",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   18.431383,
+   -64.62305
+  ],
+  "flags": "https://flagcdn.com/vg.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Malaysia",
+  "cca2": "my",
+  "cca3": "mys",
+  "languages": [
+   "eng",
+   "msa"
+  ],
+  "latlng": [
+   2.5,
+   112.5
+  ],
+  "flags": "https://flagcdn.com/my.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Australia",
+  "cca2": "au",
+  "cca3": "aus",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   -27,
+   133
+  ],
+  "flags": "https://flagcdn.com/au.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "British Indian Ocean Territory",
+  "cca2": "io",
+  "cca3": "iot",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   -6,
+   71.5
+  ],
+  "flags": "https://flagcdn.com/io.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Zambia",
+  "cca2": "zm",
+  "cca3": "zmb",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   -15,
+   30
+  ],
+  "flags": "https://flagcdn.com/zm.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "DR Congo",
+  "cca2": "cd",
+  "cca3": "cod",
+  "languages": [
+   "fra",
+   "kon",
+   "lin",
+   "lua",
+   "swa"
+  ],
+  "latlng": [
+   0,
+   25
+  ],
+  "flags": "https://flagcdn.com/cd.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Egypt",
+  "cca2": "eg",
+  "cca3": "egy",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   27,
+   30
+  ],
+  "flags": "https://flagcdn.com/eg.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Faroe Islands",
+  "cca2": "fo",
+  "cca3": "fro",
+  "languages": [
+   "dan",
+   "fao"
+  ],
+  "latlng": [
+   62,
+   -7
+  ],
+  "flags": "https://flagcdn.com/fo.svg",
+  "postalCodeMask": "FO-###",
+  "phoneMask": false
+ },
+ {
+  "name": "North Macedonia",
+  "cca2": "mk",
+  "cca3": "mkd",
+  "languages": [
+   "mkd"
+  ],
+  "latlng": [
+   41.83333333,
+   22
+  ],
+  "flags": "https://flagcdn.com/mk.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Tuvalu",
+  "cca2": "tv",
+  "cca3": "tuv",
+  "languages": [
+   "eng",
+   "tvl"
+  ],
+  "latlng": [
+   -8,
+   178
+  ],
+  "flags": "https://flagcdn.com/tv.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Åland Islands",
+  "cca2": "ax",
+  "cca3": "ala",
+  "languages": [
+   "swe"
+  ],
+  "latlng": [
+   60.116667,
+   19.9
+  ],
+  "flags": "https://flagcdn.com/ax.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Greece",
+  "cca2": "gr",
+  "cca3": "grc",
+  "languages": [
+   "ell"
+  ],
+  "latlng": [
+   39,
+   22
+  ],
+  "flags": "https://flagcdn.com/gr.svg",
+  "postalCodeMask": "### ##",
+  "phoneMask": false
+ },
+ {
+  "name": "Svalbard and Jan Mayen",
+  "cca2": "sj",
+  "cca3": "sjm",
+  "languages": [
+   "nor"
+  ],
+  "latlng": [
+   78,
+   20
+  ],
+  "flags": "https://flagcdn.com/sj.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
@@ -3027,65 +1391,145 @@
   "phoneMask": false
  },
  {
-  "name": "Bermuda",
-  "cca2": "bm",
-  "cca3": "bmu",
+  "name": "Cambodia",
+  "cca2": "kh",
+  "cca3": "khm",
   "languages": [
-   "eng"
+   "khm"
   ],
   "latlng": [
-   32.33333333,
-   -64.75
+   13,
+   105
   ],
-  "flags": "https://flagcdn.com/bm.svg",
-  "postalCodeMask": "@@ ##",
-  "phoneMask": false
- },
- {
-  "name": "Guam",
-  "cca2": "gu",
-  "cca3": "gum",
-  "languages": [
-   "cha",
-   "eng",
-   "spa"
-  ],
-  "latlng": [
-   13.46666666,
-   144.78333333
-  ],
-  "flags": "https://flagcdn.com/gu.svg",
-  "postalCodeMask": "969##",
-  "phoneMask": false
- },
- {
-  "name": "Ukraine",
-  "cca2": "ua",
-  "cca3": "ukr",
-  "languages": [
-   "ukr"
-  ],
-  "latlng": [
-   49,
-   32
-  ],
-  "flags": "https://flagcdn.com/ua.svg",
+  "flags": "https://flagcdn.com/kh.svg",
   "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
-  "name": "Macau",
-  "cca2": "mo",
-  "cca3": "mac",
+  "name": "Mayotte",
+  "cca2": "yt",
+  "cca3": "myt",
   "languages": [
-   "por",
+   "fra"
+  ],
+  "latlng": [
+   -12.83333333,
+   45.16666666
+  ],
+  "flags": "https://flagcdn.com/yt.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Norfolk Island",
+  "cca2": "nf",
+  "cca3": "nfk",
+  "languages": [
+   "eng",
+   "pih"
+  ],
+  "latlng": [
+   -29.03333333,
+   167.95
+  ],
+  "flags": "https://flagcdn.com/nf.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Samoa",
+  "cca2": "ws",
+  "cca3": "wsm",
+  "languages": [
+   "eng",
+   "smo"
+  ],
+  "latlng": [
+   -13.58333333,
+   -172.33333333
+  ],
+  "flags": "https://flagcdn.com/ws.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Northern Mariana Islands",
+  "cca2": "mp",
+  "cca3": "mnp",
+  "languages": [
+   "cal",
+   "cha",
+   "eng"
+  ],
+  "latlng": [
+   15.2,
+   145.75
+  ],
+  "flags": "https://flagcdn.com/mp.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "New Zealand",
+  "cca2": "nz",
+  "cca3": "nzl",
+  "languages": [
+   "eng",
+   "mri",
+   "nzs"
+  ],
+  "latlng": [
+   -41,
+   174
+  ],
+  "flags": "https://flagcdn.com/nz.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "China",
+  "cca2": "cn",
+  "cca3": "chn",
+  "languages": [
    "zho"
   ],
   "latlng": [
-   22.16666666,
-   113.55
+   35,
+   105
   ],
-  "flags": "https://flagcdn.com/mo.svg",
+  "flags": "https://flagcdn.com/cn.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "Pitcairn Islands",
+  "cca2": "pn",
+  "cca3": "pcn",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   -25.06666666,
+   -130.1
+  ],
+  "flags": "https://flagcdn.com/pn.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Curaçao",
+  "cca2": "cw",
+  "cca3": "cuw",
+  "languages": [
+   "eng",
+   "nld",
+   "pap"
+  ],
+  "latlng": [
+   12.116667,
+   -68.933333
+  ],
+  "flags": "https://flagcdn.com/cw.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
@@ -3105,123 +1549,311 @@
   "phoneMask": false
  },
  {
-  "name": "Dominican Republic",
-  "cca2": "do",
-  "cca3": "dom",
-  "languages": [
-   "spa"
-  ],
-  "latlng": [
-   19,
-   -70.66666666
-  ],
-  "flags": "https://flagcdn.com/do.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Montserrat",
-  "cca2": "ms",
-  "cca3": "msr",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   16.75,
-   -62.2
-  ],
-  "flags": "https://flagcdn.com/ms.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Israel",
-  "cca2": "il",
-  "cca3": "isr",
-  "languages": [
-   "ara",
-   "heb"
-  ],
-  "latlng": [
-   31.47,
-   35.13
-  ],
-  "flags": "https://flagcdn.com/il.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Panama",
-  "cca2": "pa",
-  "cca3": "pan",
-  "languages": [
-   "spa"
-  ],
-  "latlng": [
-   9,
-   -80
-  ],
-  "flags": "https://flagcdn.com/pa.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Bulgaria",
-  "cca2": "bg",
-  "cca3": "bgr",
-  "languages": [
-   "bul"
-  ],
-  "latlng": [
-   43,
-   25
-  ],
-  "flags": "https://flagcdn.com/bg.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "Senegal",
-  "cca2": "sn",
-  "cca3": "sen",
+  "name": "Saint Pierre and Miquelon",
+  "cca2": "pm",
+  "cca3": "spm",
   "languages": [
    "fra"
   ],
   "latlng": [
-   14,
-   -14
+   46.83333333,
+   -56.33333333
   ],
-  "flags": "https://flagcdn.com/sn.svg",
+  "flags": "https://flagcdn.com/pm.svg",
   "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
-  "name": "Denmark",
-  "cca2": "dk",
-  "cca3": "dnk",
-  "languages": [
-   "dan"
-  ],
-  "latlng": [
-   56,
-   10
-  ],
-  "flags": "https://flagcdn.com/dk.svg",
-  "postalCodeMask": "####",
-  "phoneMask": false
- },
- {
-  "name": "South Sudan",
-  "cca2": "ss",
-  "cca3": "ssd",
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "cca2": "sh",
+  "cca3": "shn",
   "languages": [
    "eng"
   ],
   "latlng": [
-   7,
-   30
+   -15.95,
+   -5.72
   ],
-  "flags": "https://flagcdn.com/ss.svg",
+  "flags": "https://flagcdn.com/sh.svg",
+  "postalCodeMask": "STHL 1ZZ",
+  "phoneMask": false
+ },
+ {
+  "name": "Guernsey",
+  "cca2": "gg",
+  "cca3": "ggy",
+  "languages": [
+   "eng",
+   "fra",
+   "nfr"
+  ],
+  "latlng": [
+   49.46666666,
+   -2.58333333
+  ],
+  "flags": "https://flagcdn.com/gg.svg",
+  "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+  "phoneMask": false
+ },
+ {
+  "name": "Aruba",
+  "cca2": "aw",
+  "cca3": "abw",
+  "languages": [
+   "nld",
+   "pap"
+  ],
+  "latlng": [
+   12.5,
+   -69.96666666
+  ],
+  "flags": "https://flagcdn.com/aw.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Kuwait",
+  "cca2": "kw",
+  "cca3": "kwt",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   29.5,
+   45.75
+  ],
+  "flags": "https://flagcdn.com/kw.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Monaco",
+  "cca2": "mc",
+  "cca3": "mco",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   43.73333333,
+   7.4
+  ],
+  "flags": "https://flagcdn.com/mc.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Canada",
+  "cca2": "ca",
+  "cca3": "can",
+  "languages": [
+   "eng",
+   "fra"
+  ],
+  "latlng": [
+   60,
+   -95
+  ],
+  "flags": "https://flagcdn.com/ca.svg",
+  "postalCodeMask": "@#@ #@#",
+  "phoneMask": false
+ },
+ {
+  "name": "Heard Island and McDonald Islands",
+  "cca2": "hm",
+  "cca3": "hmd",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   53.0818,
+   73.5042
+  ],
+  "flags": "https://flagcdn.com/hm.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Maldives",
+  "cca2": "mv",
+  "cca3": "mdv",
+  "languages": [
+   "div"
+  ],
+  "latlng": [
+   3.25,
+   73
+  ],
+  "flags": "https://flagcdn.com/mv.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Algeria",
+  "cca2": "dz",
+  "cca3": "dza",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   28,
+   3
+  ],
+  "flags": "https://flagcdn.com/dz.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Haiti",
+  "cca2": "ht",
+  "cca3": "hti",
+  "languages": [
+   "fra",
+   "hat"
+  ],
+  "latlng": [
+   19,
+   -72.41666666
+  ],
+  "flags": "https://flagcdn.com/ht.svg",
+  "postalCodeMask": "HT####",
+  "phoneMask": false
+ },
+ {
+  "name": "Guyana",
+  "cca2": "gy",
+  "cca3": "guy",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   5,
+   -59
+  ],
+  "flags": "https://flagcdn.com/gy.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "South Georgia",
+  "cca2": "gs",
+  "cca3": "sgs",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   -54.5,
+   -37
+  ],
+  "flags": "https://flagcdn.com/gs.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Micronesia",
+  "cca2": "fm",
+  "cca3": "fsm",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   6.91666666,
+   158.25
+  ],
+  "flags": "https://flagcdn.com/fm.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Germany",
+  "cca2": "de",
+  "cca3": "deu",
+  "languages": [
+   "deu"
+  ],
+  "latlng": [
+   51,
+   9
+  ],
+  "flags": "https://flagcdn.com/de.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Jamaica",
+  "cca2": "jm",
+  "cca3": "jam",
+  "languages": [
+   "eng",
+   "jam"
+  ],
+  "latlng": [
+   18.25,
+   -77.5
+  ],
+  "flags": "https://flagcdn.com/jm.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Vatican City",
+  "cca2": "va",
+  "cca3": "vat",
+  "languages": [
+   "ita",
+   "lat"
+  ],
+  "latlng": [
+   41.9,
+   12.45
+  ],
+  "flags": "https://flagcdn.com/va.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Kyrgyzstan",
+  "cca2": "kg",
+  "cca3": "kgz",
+  "languages": [
+   "kir",
+   "rus"
+  ],
+  "latlng": [
+   41,
+   75
+  ],
+  "flags": "https://flagcdn.com/kg.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "Myanmar",
+  "cca2": "mm",
+  "cca3": "mmr",
+  "languages": [
+   "mya"
+  ],
+  "latlng": [
+   22,
+   98
+  ],
+  "flags": "https://flagcdn.com/mm.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Ireland",
+  "cca2": "ie",
+  "cca3": "irl",
+  "languages": [
+   "eng",
+   "gle"
+  ],
+  "latlng": [
+   53,
+   -8
+  ],
+  "flags": "https://flagcdn.com/ie.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
@@ -3241,47 +1873,143 @@
   "phoneMask": false
  },
  {
-  "name": "Oman",
-  "cca2": "om",
-  "cca3": "omn",
+  "name": "Switzerland",
+  "cca2": "ch",
+  "cca3": "che",
   "languages": [
-   "ara"
+   "fra",
+   "gsw",
+   "ita",
+   "roh"
   ],
   "latlng": [
-   21,
-   57
+   47,
+   8
   ],
-  "flags": "https://flagcdn.com/om.svg",
-  "postalCodeMask": "###",
+  "flags": "https://flagcdn.com/ch.svg",
+  "postalCodeMask": "####",
   "phoneMask": false
  },
  {
-  "name": "Russia",
-  "cca2": "ru",
-  "cca3": "rus",
+  "name": "Serbia",
+  "cca2": "rs",
+  "cca3": "srb",
   "languages": [
-   "rus"
+   "srp"
   ],
   "latlng": [
-   60,
-   100
+   44,
+   21
   ],
-  "flags": "https://flagcdn.com/ru.svg",
+  "flags": "https://flagcdn.com/rs.svg",
   "postalCodeMask": "######",
   "phoneMask": false
  },
  {
-  "name": "Angola",
-  "cca2": "ao",
-  "cca3": "ago",
+  "name": "Palestine",
+  "cca2": "ps",
+  "cca3": "pse",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   31.9,
+   35.2
+  ],
+  "flags": "https://flagcdn.com/ps.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Kenya",
+  "cca2": "ke",
+  "cca3": "ken",
+  "languages": [
+   "eng",
+   "swa"
+  ],
+  "latlng": [
+   1,
+   38
+  ],
+  "flags": "https://flagcdn.com/ke.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Andorra",
+  "cca2": "ad",
+  "cca3": "and",
+  "languages": [
+   "cat"
+  ],
+  "latlng": [
+   42.5,
+   1.5
+  ],
+  "flags": "https://flagcdn.com/ad.svg",
+  "postalCodeMask": "AD###",
+  "phoneMask": false
+ },
+ {
+  "name": "Cape Verde",
+  "cca2": "cv",
+  "cca3": "cpv",
   "languages": [
    "por"
   ],
   "latlng": [
-   -12.5,
-   18.5
+   16.5388,
+   23.0418
   ],
-  "flags": "https://flagcdn.com/ao.svg",
+  "flags": "https://flagcdn.com/cv.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Guinea-Bissau",
+  "cca2": "gw",
+  "cca3": "gnb",
+  "languages": [
+   "por",
+   "pov"
+  ],
+  "latlng": [
+   12,
+   -15
+  ],
+  "flags": "https://flagcdn.com/gw.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Netherlands",
+  "cca2": "nl",
+  "cca3": "nld",
+  "languages": [
+   "nld"
+  ],
+  "latlng": [
+   52.5,
+   5.75
+  ],
+  "flags": "https://flagcdn.com/nl.svg",
+  "postalCodeMask": "#### @@",
+  "phoneMask": false
+ },
+ {
+  "name": "American Samoa",
+  "cca2": "as",
+  "cca3": "asm",
+  "languages": [
+   "eng",
+   "smo"
+  ],
+  "latlng": [
+   -14.33333333,
+   -170
+  ],
+  "flags": "https://flagcdn.com/as.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
@@ -3303,99 +2031,498 @@
   "phoneMask": false
  },
  {
-  "name": "Nepal",
-  "cca2": "np",
-  "cca3": "npl",
+  "name": "Turkmenistan",
+  "cca2": "tm",
+  "cca3": "tkm",
   "languages": [
-   "nep"
+   "rus",
+   "tuk"
   ],
   "latlng": [
-   28,
-   84
+   40,
+   60
   ],
-  "flags": "https://flagcdn.com/np.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Germany",
-  "cca2": "de",
-  "cca3": "deu",
-  "languages": [
-   "deu"
-  ],
-  "latlng": [
-   51,
-   9
-  ],
-  "flags": "https://flagcdn.com/de.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Jersey",
-  "cca2": "je",
-  "cca3": "jey",
-  "languages": [
-   "eng",
-   "fra",
-   "nrf"
-  ],
-  "latlng": [
-   49.25,
-   -2.16666666
-  ],
-  "flags": "https://flagcdn.com/je.svg",
-  "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-  "phoneMask": false
- },
- {
-  "name": "Comoros",
-  "cca2": "km",
-  "cca3": "com",
-  "languages": [
-   "ara",
-   "fra",
-   "zdj"
-  ],
-  "latlng": [
-   -12.16666666,
-   44.25
-  ],
-  "flags": "https://flagcdn.com/km.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "India",
-  "cca2": "in",
-  "cca3": "ind",
-  "languages": [
-   "eng",
-   "hin",
-   "tam"
-  ],
-  "latlng": [
-   20,
-   77
-  ],
-  "flags": "https://flagcdn.com/in.svg",
+  "flags": "https://flagcdn.com/tm.svg",
   "postalCodeMask": "######",
   "phoneMask": false
  },
  {
-  "name": "Hungary",
-  "cca2": "hu",
-  "cca3": "hun",
+  "name": "Barbados",
+  "cca2": "bb",
+  "cca3": "brb",
   "languages": [
-   "hun"
+   "eng"
   ],
   "latlng": [
-   47,
-   20
+   13.16666666,
+   -59.53333333
   ],
-  "flags": "https://flagcdn.com/hu.svg",
+  "flags": "https://flagcdn.com/bb.svg",
+  "postalCodeMask": "BB#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Ecuador",
+  "cca2": "ec",
+  "cca3": "ecu",
+  "languages": [
+   "spa"
+  ],
+  "latlng": [
+   -2,
+   -77.5
+  ],
+  "flags": "https://flagcdn.com/ec.svg",
+  "postalCodeMask": "@####@",
+  "phoneMask": false
+ },
+ {
+  "name": "Fiji",
+  "cca2": "fj",
+  "cca3": "fji",
+  "languages": [
+   "eng",
+   "fij",
+   "hif"
+  ],
+  "latlng": [
+   17.7134,
+   178.065
+  ],
+  "flags": "https://flagcdn.com/fj.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Laos",
+  "cca2": "la",
+  "cca3": "lao",
+  "languages": [
+   "lao"
+  ],
+  "latlng": [
+   18,
+   105
+  ],
+  "flags": "https://flagcdn.com/la.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Iran",
+  "cca2": "ir",
+  "cca3": "irn",
+  "languages": [
+   "fas"
+  ],
+  "latlng": [
+   32,
+   53
+  ],
+  "flags": "https://flagcdn.com/ir.svg",
+  "postalCodeMask": "##########",
+  "phoneMask": false
+ },
+ {
+  "name": "Ivory Coast",
+  "cca2": "ci",
+  "cca3": "civ",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   8,
+   -5
+  ],
+  "flags": "https://flagcdn.com/ci.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Réunion",
+  "cca2": "re",
+  "cca3": "reu",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   -21.15,
+   55.5
+  ],
+  "flags": "https://flagcdn.com/re.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Guinea",
+  "cca2": "gn",
+  "cca3": "gin",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   11,
+   -10
+  ],
+  "flags": "https://flagcdn.com/gn.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Bahamas",
+  "cca2": "bs",
+  "cca3": "bhs",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   25.0343,
+   77.3963
+  ],
+  "flags": "https://flagcdn.com/bs.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Djibouti",
+  "cca2": "dj",
+  "cca3": "dji",
+  "languages": [
+   "ara",
+   "fra"
+  ],
+  "latlng": [
+   11.5,
+   43
+  ],
+  "flags": "https://flagcdn.com/dj.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Finland",
+  "cca2": "fi",
+  "cca3": "fin",
+  "languages": [
+   "fin",
+   "swe"
+  ],
+  "latlng": [
+   64,
+   26
+  ],
+  "flags": "https://flagcdn.com/fi.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Mali",
+  "cca2": "ml",
+  "cca3": "mli",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   17,
+   -4
+  ],
+  "flags": "https://flagcdn.com/ml.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Panama",
+  "cca2": "pa",
+  "cca3": "pan",
+  "languages": [
+   "spa"
+  ],
+  "latlng": [
+   9,
+   -80
+  ],
+  "flags": "https://flagcdn.com/pa.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Cyprus",
+  "cca2": "cy",
+  "cca3": "cyp",
+  "languages": [
+   "ell",
+   "tur"
+  ],
+  "latlng": [
+   35,
+   33
+  ],
+  "flags": "https://flagcdn.com/cy.svg",
   "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Sierra Leone",
+  "cca2": "sl",
+  "cca3": "sle",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   8.5,
+   -11.5
+  ],
+  "flags": "https://flagcdn.com/sl.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Guam",
+  "cca2": "gu",
+  "cca3": "gum",
+  "languages": [
+   "cha",
+   "eng",
+   "spa"
+  ],
+  "latlng": [
+   13.46666666,
+   144.78333333
+  ],
+  "flags": "https://flagcdn.com/gu.svg",
+  "postalCodeMask": "969##",
+  "phoneMask": false
+ },
+ {
+  "name": "Taiwan",
+  "cca2": "tw",
+  "cca3": "twn",
+  "languages": [
+   "zho"
+  ],
+  "latlng": [
+   23.5,
+   121
+  ],
+  "flags": "https://flagcdn.com/tw.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Republic of the Congo",
+  "cca2": "cg",
+  "cca3": "cog",
+  "languages": [
+   "fra",
+   "kon",
+   "lin"
+  ],
+  "latlng": [
+   -1,
+   15
+  ],
+  "flags": "https://flagcdn.com/cg.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Saint Martin",
+  "cca2": "mf",
+  "cca3": "maf",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   18.0708,
+   63.0501
+  ],
+  "flags": "https://flagcdn.com/mf.svg",
+  "postalCodeMask": "### ###",
+  "phoneMask": false
+ },
+ {
+  "name": "Cocos (Keeling) Islands",
+  "cca2": "cc",
+  "cca3": "cck",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   12.1642,
+   96.871
+  ],
+  "flags": "https://flagcdn.com/cc.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "French Guiana",
+  "cca2": "gf",
+  "cca3": "guf",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   4,
+   -53
+  ],
+  "flags": "https://flagcdn.com/gf.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Cayman Islands",
+  "cca2": "ky",
+  "cca3": "cym",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   19.3133,
+   81.2546
+  ],
+  "flags": "https://flagcdn.com/ky.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Estonia",
+  "cca2": "ee",
+  "cca3": "est",
+  "languages": [
+   "est"
+  ],
+  "latlng": [
+   59,
+   26
+  ],
+  "flags": "https://flagcdn.com/ee.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Kazakhstan",
+  "cca2": "kz",
+  "cca3": "kaz",
+  "languages": [
+   "kaz",
+   "rus"
+  ],
+  "latlng": [
+   48.0196,
+   66.9237
+  ],
+  "flags": "https://flagcdn.com/kz.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "Botswana",
+  "cca2": "bw",
+  "cca3": "bwa",
+  "languages": [
+   "eng",
+   "tsn"
+  ],
+  "latlng": [
+   -22,
+   24
+  ],
+  "flags": "https://flagcdn.com/bw.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Wallis and Futuna",
+  "cca2": "wf",
+  "cca3": "wlf",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   -13.3,
+   -176.2
+  ],
+  "flags": "https://flagcdn.com/wf.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Tokelau",
+  "cca2": "tk",
+  "cca3": "tkl",
+  "languages": [
+   "eng",
+   "smo",
+   "tkl"
+  ],
+  "latlng": [
+   -9,
+   -172
+  ],
+  "flags": "https://flagcdn.com/tk.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "United Kingdom",
+  "cca2": "gb",
+  "cca3": "gbr",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   54,
+   -2
+  ],
+  "flags": "https://flagcdn.com/gb.svg",
+  "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+  "phoneMask": false
+ },
+ {
+  "name": "Lesotho",
+  "cca2": "ls",
+  "cca3": "lso",
+  "languages": [
+   "eng",
+   "sot"
+  ],
+  "latlng": [
+   -29.5,
+   28.5
+  ],
+  "flags": "https://flagcdn.com/ls.svg",
+  "postalCodeMask": "###",
+  "phoneMask": false
+ },
+ {
+  "name": "French Southern and Antarctic Lands",
+  "cca2": "tf",
+  "cca3": "atf",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   -49.25,
+   69.167
+  ],
+  "flags": "https://flagcdn.com/tf.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Saint Lucia",
+  "cca2": "lc",
+  "cca3": "lca",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   13.88333333,
+   -60.96666666
+  ],
+  "flags": "https://flagcdn.com/lc.svg",
+  "postalCodeMask": false,
   "phoneMask": false
  },
  {
@@ -3415,156 +2542,187 @@
   "phoneMask": false
  },
  {
-  "name": "French Polynesia",
-  "cca2": "pf",
-  "cca3": "pyf",
+  "name": "Bosnia and Herzegovina",
+  "cca2": "ba",
+  "cca3": "bih",
   "languages": [
-   "fra"
+   "bos",
+   "hrv",
+   "srp"
   ],
   "latlng": [
-   17.6797,
-   149.4068
+   44,
+   18
   ],
-  "flags": "https://flagcdn.com/pf.svg",
+  "flags": "https://flagcdn.com/ba.svg",
   "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
-  "name": "Falkland Islands",
-  "cca2": "fk",
-  "cca3": "flk",
+  "name": "Christmas Island",
+  "cca2": "cx",
+  "cca3": "cxr",
   "languages": [
    "eng"
   ],
   "latlng": [
-   -51.75,
-   -59
+   -10.5,
+   105.66666666
   ],
-  "flags": "https://flagcdn.com/fk.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Dominica",
-  "cca2": "dm",
-  "cca3": "dma",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   15.41666666,
-   -61.33333333
-  ],
-  "flags": "https://flagcdn.com/dm.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Malta",
-  "cca2": "mt",
-  "cca3": "mlt",
-  "languages": [
-   "eng",
-   "mlt"
-  ],
-  "latlng": [
-   35.9375,
-   14.3754
-  ],
-  "flags": "https://flagcdn.com/mt.svg",
-  "postalCodeMask": "@@@ ###|@@@ ##",
-  "phoneMask": false
- },
- {
-  "name": "Pitcairn Islands",
-  "cca2": "pn",
-  "cca3": "pcn",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   -25.06666666,
-   -130.1
-  ],
-  "flags": "https://flagcdn.com/pn.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Trinidad and Tobago",
-  "cca2": "tt",
-  "cca3": "tto",
-  "languages": [
-   "eng"
-  ],
-  "latlng": [
-   10.6918,
-   61.2225
-  ],
-  "flags": "https://flagcdn.com/tt.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Guernsey",
-  "cca2": "gg",
-  "cca3": "ggy",
-  "languages": [
-   "eng",
-   "fra",
-   "nfr"
-  ],
-  "latlng": [
-   49.46666666,
-   -2.58333333
-  ],
-  "flags": "https://flagcdn.com/gg.svg",
-  "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
-  "phoneMask": false
- },
- {
-  "name": "Niger",
-  "cca2": "ne",
-  "cca3": "ner",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   16,
-   8
-  ],
-  "flags": "https://flagcdn.com/ne.svg",
+  "flags": "https://flagcdn.com/cx.svg",
   "postalCodeMask": "####",
   "phoneMask": false
  },
  {
-  "name": "Gibraltar",
-  "cca2": "gi",
-  "cca3": "gib",
+  "name": "Sudan",
+  "cca2": "sd",
+  "cca3": "sdn",
   "languages": [
+   "ara",
    "eng"
   ],
   "latlng": [
-   36.13333333,
-   -5.35
+   15,
+   30
   ],
-  "flags": "https://flagcdn.com/gi.svg",
+  "flags": "https://flagcdn.com/sd.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Tonga",
+  "cca2": "to",
+  "cca3": "ton",
+  "languages": [
+   "eng",
+   "ton"
+  ],
+  "latlng": [
+   -20,
+   -175
+  ],
+  "flags": "https://flagcdn.com/to.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "Saint Lucia",
-  "cca2": "lc",
-  "cca3": "lca",
+  "name": "Antarctica",
+  "cca2": "aq",
+  "cca3": "ata",
+  "languages": [],
+  "latlng": [
+   -90,
+   0
+  ],
+  "flags": "https://flagcdn.com/aq.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Russia",
+  "cca2": "ru",
+  "cca3": "rus",
+  "languages": [
+   "rus"
+  ],
+  "latlng": [
+   60,
+   100
+  ],
+  "flags": "https://flagcdn.com/ru.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "Venezuela",
+  "cca2": "ve",
+  "cca3": "ven",
+  "languages": [
+   "spa"
+  ],
+  "latlng": [
+   8,
+   -66
+  ],
+  "flags": "https://flagcdn.com/ve.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Cook Islands",
+  "cca2": "ck",
+  "cca3": "cok",
+  "languages": [
+   "eng",
+   "rar"
+  ],
+  "latlng": [
+   -21.23333333,
+   -159.76666666
+  ],
+  "flags": "https://flagcdn.com/ck.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Togo",
+  "cca2": "tg",
+  "cca3": "tgo",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   8,
+   1.16666666
+  ],
+  "flags": "https://flagcdn.com/tg.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "United States Virgin Islands",
+  "cca2": "vi",
+  "cca3": "vir",
   "languages": [
    "eng"
   ],
   "latlng": [
-   13.88333333,
-   -60.96666666
+   18.35,
+   -64.933333
   ],
-  "flags": "https://flagcdn.com/lc.svg",
+  "flags": "https://flagcdn.com/vi.svg",
   "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Cameroon",
+  "cca2": "cm",
+  "cca3": "cmr",
+  "languages": [
+   "eng",
+   "fra"
+  ],
+  "latlng": [
+   6,
+   12
+  ],
+  "flags": "https://flagcdn.com/cm.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Denmark",
+  "cca2": "dk",
+  "cca3": "dnk",
+  "languages": [
+   "dan"
+  ],
+  "latlng": [
+   56,
+   10
+  ],
+  "flags": "https://flagcdn.com/dk.svg",
+  "postalCodeMask": "####",
   "phoneMask": false
  },
  {
@@ -3601,34 +2759,18 @@
   "phoneMask": false
  },
  {
-  "name": "Madagascar",
-  "cca2": "mg",
-  "cca3": "mdg",
+  "name": "France",
+  "cca2": "fr",
+  "cca3": "fra",
   "languages": [
-   "fra",
-   "mlg"
+   "fra"
   ],
   "latlng": [
-   -20,
-   47
+   46,
+   2
   ],
-  "flags": "https://flagcdn.com/mg.svg",
-  "postalCodeMask": "###",
-  "phoneMask": false
- },
- {
-  "name": "South Korea",
-  "cca2": "kr",
-  "cca3": "kor",
-  "languages": [
-   "kor"
-  ],
-  "latlng": [
-   37,
-   127.5
-  ],
-  "flags": "https://flagcdn.com/kr.svg",
-  "postalCodeMask": "SEOUL ###-###",
+  "flags": "https://flagcdn.com/fr.svg",
+  "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
@@ -3647,220 +2789,127 @@
   "phoneMask": false
  },
  {
-  "name": "Slovenia",
-  "cca2": "si",
-  "cca3": "svn",
-  "languages": [
-   "slv"
-  ],
-  "latlng": [
-   46.11666666,
-   14.81666666
-  ],
-  "flags": "https://flagcdn.com/si.svg",
-  "postalCodeMask": "SI- ####",
-  "phoneMask": false
- },
- {
-  "name": "Martinique",
-  "cca2": "mq",
-  "cca3": "mtq",
-  "languages": [
-   "fra"
-  ],
-  "latlng": [
-   14.666667,
-   -61
-  ],
-  "flags": "https://flagcdn.com/mq.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Niue",
-  "cca2": "nu",
-  "cca3": "niu",
-  "languages": [
-   "eng",
-   "niu"
-  ],
-  "latlng": [
-   -19.03333333,
-   -169.86666666
-  ],
-  "flags": "https://flagcdn.com/nu.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Uruguay",
-  "cca2": "uy",
-  "cca3": "ury",
+  "name": "Dominican Republic",
+  "cca2": "do",
+  "cca3": "dom",
   "languages": [
    "spa"
   ],
   "latlng": [
-   -33,
-   -56
+   19,
+   -70.66666666
   ],
-  "flags": "https://flagcdn.com/uy.svg",
+  "flags": "https://flagcdn.com/do.svg",
   "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
-  "name": "San Marino",
-  "cca2": "sm",
-  "cca3": "smr",
+  "name": "Brazil",
+  "cca2": "br",
+  "cca3": "bra",
   "languages": [
-   "ita"
+   "por"
   ],
   "latlng": [
-   43.76666666,
-   12.41666666
+   -10,
+   -55
   ],
-  "flags": "https://flagcdn.com/sm.svg",
-  "postalCodeMask": "4789#",
+  "flags": "https://flagcdn.com/br.svg",
+  "postalCodeMask": "#####-###",
   "phoneMask": false
  },
  {
-  "name": "Nicaragua",
-  "cca2": "ni",
-  "cca3": "nic",
+  "name": "Moldova",
+  "cca2": "md",
+  "cca3": "mda",
   "languages": [
-   "spa"
+   "ron"
   ],
   "latlng": [
-   13,
-   -85
+   47,
+   29
   ],
-  "flags": "https://flagcdn.com/ni.svg",
-  "postalCodeMask": "###-###-#",
+  "flags": "https://flagcdn.com/md.svg",
+  "postalCodeMask": "MD-####",
   "phoneMask": false
  },
  {
-  "name": "Zambia",
-  "cca2": "zm",
-  "cca3": "zmb",
+  "name": "Iraq",
+  "cca2": "iq",
+  "cca3": "irq",
   "languages": [
-   "eng"
+   "ara",
+   "arc",
+   "ckb"
   ],
   "latlng": [
-   -15,
-   30
+   33,
+   44
   ],
-  "flags": "https://flagcdn.com/zm.svg",
+  "flags": "https://flagcdn.com/iq.svg",
   "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
-  "name": "Pakistan",
-  "cca2": "pk",
-  "cca3": "pak",
+  "name": "Norway",
+  "cca2": "no",
+  "cca3": "nor",
   "languages": [
-   "eng",
-   "urd"
+   "nno",
+   "nob",
+   "smi"
   ],
   "latlng": [
-   30,
-   70
+   62,
+   10
   ],
-  "flags": "https://flagcdn.com/pk.svg",
-  "postalCodeMask": "#####",
-  "phoneMask": false
- },
- {
-  "name": "Tokelau",
-  "cca2": "tk",
-  "cca3": "tkl",
-  "languages": [
-   "eng",
-   "smo",
-   "tkl"
-  ],
-  "latlng": [
-   -9,
-   -172
-  ],
-  "flags": "https://flagcdn.com/tk.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Cameroon",
-  "cca2": "cm",
-  "cca3": "cmr",
-  "languages": [
-   "eng",
-   "fra"
-  ],
-  "latlng": [
-   6,
-   12
-  ],
-  "flags": "https://flagcdn.com/cm.svg",
-  "postalCodeMask": false,
-  "phoneMask": false
- },
- {
-  "name": "Liechtenstein",
-  "cca2": "li",
-  "cca3": "lie",
-  "languages": [
-   "deu"
-  ],
-  "latlng": [
-   47.26666666,
-   9.53333333
-  ],
-  "flags": "https://flagcdn.com/li.svg",
+  "flags": "https://flagcdn.com/no.svg",
   "postalCodeMask": "####",
   "phoneMask": false
  },
  {
-  "name": "Rwanda",
-  "cca2": "rw",
-  "cca3": "rwa",
+  "name": "Gabon",
+  "cca2": "ga",
+  "cca3": "gab",
   "languages": [
-   "eng",
-   "fra",
-   "kin"
+   "fra"
   ],
   "latlng": [
-   -2,
-   30
+   -1,
+   11.75
   ],
-  "flags": "https://flagcdn.com/rw.svg",
+  "flags": "https://flagcdn.com/ga.svg",
   "postalCodeMask": false,
   "phoneMask": false
  },
  {
-  "name": "Belarus",
-  "cca2": "by",
-  "cca3": "blr",
+  "name": "Guatemala",
+  "cca2": "gt",
+  "cca3": "gtm",
   "languages": [
-   "bel",
-   "rus"
+   "spa"
   ],
   "latlng": [
-   53,
-   28
+   15.5,
+   -90.25
   ],
-  "flags": "https://flagcdn.com/by.svg",
-  "postalCodeMask": "######",
+  "flags": "https://flagcdn.com/gt.svg",
+  "postalCodeMask": "#####",
   "phoneMask": false
  },
  {
-  "name": "Maldives",
-  "cca2": "mv",
-  "cca3": "mdv",
+  "name": "Sri Lanka",
+  "cca2": "lk",
+  "cca3": "lka",
   "languages": [
-   "div"
+   "sin",
+   "tam"
   ],
   "latlng": [
-   3.25,
-   73
+   7,
+   81
   ],
-  "flags": "https://flagcdn.com/mv.svg",
+  "flags": "https://flagcdn.com/lk.svg",
   "postalCodeMask": "#####",
   "phoneMask": false
  },
@@ -3880,34 +2929,985 @@
   "phoneMask": false
  },
  {
-  "name": "Tajikistan",
-  "cca2": "tj",
-  "cca3": "tjk",
+  "name": "Palau",
+  "cca2": "pw",
+  "cca3": "plw",
   "languages": [
-   "rus",
-   "tgk"
+   "eng",
+   "pau"
   ],
   "latlng": [
-   39,
-   71
+   7.5,
+   134.5
   ],
-  "flags": "https://flagcdn.com/tj.svg",
+  "flags": "https://flagcdn.com/pw.svg",
+  "postalCodeMask": "96940",
+  "phoneMask": false
+ },
+ {
+  "name": "New Caledonia",
+  "cca2": "nc",
+  "cca3": "ncl",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   -21.5,
+   165.5
+  ],
+  "flags": "https://flagcdn.com/nc.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Macau",
+  "cca2": "mo",
+  "cca3": "mac",
+  "languages": [
+   "por",
+   "zho"
+  ],
+  "latlng": [
+   22.16666666,
+   113.55
+  ],
+  "flags": "https://flagcdn.com/mo.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Spain",
+  "cca2": "es",
+  "cca3": "esp",
+  "languages": [
+   "spa"
+  ],
+  "latlng": [
+   40,
+   -4
+  ],
+  "flags": "https://flagcdn.com/es.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Bahrain",
+  "cca2": "bh",
+  "cca3": "bhr",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   26,
+   50.55
+  ],
+  "flags": "https://flagcdn.com/bh.svg",
+  "postalCodeMask": "####|###",
+  "phoneMask": false
+ },
+ {
+  "name": "Luxembourg",
+  "cca2": "lu",
+  "cca3": "lux",
+  "languages": [
+   "deu",
+   "fra",
+   "ltz"
+  ],
+  "latlng": [
+   49.75,
+   6.16666666
+  ],
+  "flags": "https://flagcdn.com/lu.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Angola",
+  "cca2": "ao",
+  "cca3": "ago",
+  "languages": [
+   "por"
+  ],
+  "latlng": [
+   -12.5,
+   18.5
+  ],
+  "flags": "https://flagcdn.com/ao.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Peru",
+  "cca2": "pe",
+  "cca3": "per",
+  "languages": [
+   "aym",
+   "que",
+   "spa"
+  ],
+  "latlng": [
+   -10,
+   -76
+  ],
+  "flags": "https://flagcdn.com/pe.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Saudi Arabia",
+  "cca2": "sa",
+  "cca3": "sau",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   25,
+   45
+  ],
+  "flags": "https://flagcdn.com/sa.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Isle of Man",
+  "cca2": "im",
+  "cca3": "imn",
+  "languages": [
+   "eng",
+   "glv"
+  ],
+  "latlng": [
+   54.25,
+   -4.5
+  ],
+  "flags": "https://flagcdn.com/im.svg",
+  "postalCodeMask": "@# #@@|@## #@@|@@# #@@|@@## #@@|@#@ #@@|@@#@ #@@|GIR0AA",
+  "phoneMask": false
+ },
+ {
+  "name": "Senegal",
+  "cca2": "sn",
+  "cca3": "sen",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   14,
+   -14
+  ],
+  "flags": "https://flagcdn.com/sn.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Mongolia",
+  "cca2": "mn",
+  "cca3": "mng",
+  "languages": [
+   "mon"
+  ],
+  "latlng": [
+   46,
+   105
+  ],
+  "flags": "https://flagcdn.com/mn.svg",
   "postalCodeMask": "######",
   "phoneMask": false
  },
  {
-  "name": "Cocos (Keeling) Islands",
-  "cca2": "cc",
-  "cca3": "cck",
+  "name": "Syria",
+  "cca2": "sy",
+  "cca3": "syr",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   35,
+   38
+  ],
+  "flags": "https://flagcdn.com/sy.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Dominica",
+  "cca2": "dm",
+  "cca3": "dma",
   "languages": [
    "eng"
   ],
   "latlng": [
-   12.1642,
-   96.871
+   15.41666666,
+   -61.33333333
   ],
-  "flags": "https://flagcdn.com/cc.svg",
+  "flags": "https://flagcdn.com/dm.svg",
   "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "United States",
+  "cca2": "us",
+  "cca3": "usa",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   38,
+   -97
+  ],
+  "flags": "https://flagcdn.com/us.svg",
+  "postalCodeMask": "#####-####",
+  "phoneMask": false
+ },
+ {
+  "name": "Indonesia",
+  "cca2": "id",
+  "cca3": "idn",
+  "languages": [
+   "ind"
+  ],
+  "latlng": [
+   -5,
+   120
+  ],
+  "flags": "https://flagcdn.com/id.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Yemen",
+  "cca2": "ye",
+  "cca3": "yem",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   15,
+   48
+  ],
+  "flags": "https://flagcdn.com/ye.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Lebanon",
+  "cca2": "lb",
+  "cca3": "lbn",
+  "languages": [
+   "ara",
+   "fra"
+  ],
+  "latlng": [
+   33.83333333,
+   35.83333333
+  ],
+  "flags": "https://flagcdn.com/lb.svg",
+  "postalCodeMask": "#### ####|####",
+  "phoneMask": false
+ },
+ {
+  "name": "Sint Maarten",
+  "cca2": "sx",
+  "cca3": "sxm",
+  "languages": [
+   "eng",
+   "fra",
+   "nld"
+  ],
+  "latlng": [
+   18.033333,
+   -63.05
+  ],
+  "flags": "https://flagcdn.com/sx.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Uganda",
+  "cca2": "ug",
+  "cca3": "uga",
+  "languages": [
+   "eng",
+   "swa"
+  ],
+  "latlng": [
+   1,
+   32
+  ],
+  "flags": "https://flagcdn.com/ug.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Saint Barthélemy",
+  "cca2": "bl",
+  "cca3": "blm",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   18.5,
+   -63.41666666
+  ],
+  "flags": "https://flagcdn.com/bl.svg",
+  "postalCodeMask": "### ###",
+  "phoneMask": false
+ },
+ {
+  "name": "Libya",
+  "cca2": "ly",
+  "cca3": "lby",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   25,
+   17
+  ],
+  "flags": "https://flagcdn.com/ly.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Slovenia",
+  "cca2": "si",
+  "cca3": "svn",
+  "languages": [
+   "slv"
+  ],
+  "latlng": [
+   46.11666666,
+   14.81666666
+  ],
+  "flags": "https://flagcdn.com/si.svg",
+  "postalCodeMask": "SI- ####",
+  "phoneMask": false
+ },
+ {
+  "name": "Azerbaijan",
+  "cca2": "az",
+  "cca3": "aze",
+  "languages": [
+   "aze",
+   "rus"
+  ],
+  "latlng": [
+   40.5,
+   47.5
+  ],
+  "flags": "https://flagcdn.com/az.svg",
+  "postalCodeMask": "AZ ####",
+  "phoneMask": false
+ },
+ {
+  "name": "Bhutan",
+  "cca2": "bt",
+  "cca3": "btn",
+  "languages": [
+   "dzo"
+  ],
+  "latlng": [
+   27.5,
+   90.5
+  ],
+  "flags": "https://flagcdn.com/bt.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Cuba",
+  "cca2": "cu",
+  "cca3": "cub",
+  "languages": [
+   "spa"
+  ],
+  "latlng": [
+   21.5,
+   -80
+  ],
+  "flags": "https://flagcdn.com/cu.svg",
+  "postalCodeMask": "CP #####",
+  "phoneMask": false
+ },
+ {
+  "name": "Antigua and Barbuda",
+  "cca2": "ag",
+  "cca3": "atg",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   17.05,
+   -61.8
+  ],
+  "flags": "https://flagcdn.com/ag.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Croatia",
+  "cca2": "hr",
+  "cca3": "hrv",
+  "languages": [
+   "hrv"
+  ],
+  "latlng": [
+   45.16666666,
+   15.5
+  ],
+  "flags": "https://flagcdn.com/hr.svg",
+  "postalCodeMask": "HR-#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Mauritania",
+  "cca2": "mr",
+  "cca3": "mrt",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   20,
+   -12
+  ],
+  "flags": "https://flagcdn.com/mr.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Grenada",
+  "cca2": "gd",
+  "cca3": "grd",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   12.11666666,
+   -61.66666666
+  ],
+  "flags": "https://flagcdn.com/gd.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Marshall Islands",
+  "cca2": "mh",
+  "cca3": "mhl",
+  "languages": [
+   "eng",
+   "mah"
+  ],
+  "latlng": [
+   9,
+   168
+  ],
+  "flags": "https://flagcdn.com/mh.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Comoros",
+  "cca2": "km",
+  "cca3": "com",
+  "languages": [
+   "ara",
+   "fra",
+   "zdj"
+  ],
+  "latlng": [
+   -12.16666666,
+   44.25
+  ],
+  "flags": "https://flagcdn.com/km.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Madagascar",
+  "cca2": "mg",
+  "cca3": "mdg",
+  "languages": [
+   "fra",
+   "mlg"
+  ],
+  "latlng": [
+   -20,
+   47
+  ],
+  "flags": "https://flagcdn.com/mg.svg",
+  "postalCodeMask": "###",
+  "phoneMask": false
+ },
+ {
+  "name": "Turkey",
+  "cca2": "tr",
+  "cca3": "tur",
+  "languages": [
+   "tur"
+  ],
+  "latlng": [
+   39,
+   35
+  ],
+  "flags": "https://flagcdn.com/tr.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Jordan",
+  "cca2": "jo",
+  "cca3": "jor",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   31,
+   36
+  ],
+  "flags": "https://flagcdn.com/jo.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Hungary",
+  "cca2": "hu",
+  "cca3": "hun",
+  "languages": [
+   "hun"
+  ],
+  "latlng": [
+   47,
+   20
+  ],
+  "flags": "https://flagcdn.com/hu.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Qatar",
+  "cca2": "qa",
+  "cca3": "qat",
+  "languages": [
+   "ara"
+  ],
+  "latlng": [
+   25.5,
+   51.25
+  ],
+  "flags": "https://flagcdn.com/qa.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Turks and Caicos Islands",
+  "cca2": "tc",
+  "cca3": "tca",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   21.75,
+   -71.58333333
+  ],
+  "flags": "https://flagcdn.com/tc.svg",
+  "postalCodeMask": "TKCA 1ZZ",
+  "phoneMask": false
+ },
+ {
+  "name": "Saint Kitts and Nevis",
+  "cca2": "kn",
+  "cca3": "kna",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   17.33333333,
+   -62.75
+  ],
+  "flags": "https://flagcdn.com/kn.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Somalia",
+  "cca2": "so",
+  "cca3": "som",
+  "languages": [
+   "ara",
+   "som"
+  ],
+  "latlng": [
+   10,
+   49
+  ],
+  "flags": "https://flagcdn.com/so.svg",
+  "postalCodeMask": "@@  #####",
+  "phoneMask": false
+ },
+ {
+  "name": "Kosovo",
+  "cca2": "xk",
+  "cca3": "unk",
+  "languages": [
+   "sqi",
+   "srp"
+  ],
+  "latlng": [
+   42.666667,
+   21.166667
+  ],
+  "flags": "https://flagcdn.com/xk.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Nepal",
+  "cca2": "np",
+  "cca3": "npl",
+  "languages": [
+   "nep"
+  ],
+  "latlng": [
+   28,
+   84
+  ],
+  "flags": "https://flagcdn.com/np.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Western Sahara",
+  "cca2": "eh",
+  "cca3": "esh",
+  "languages": [
+   "ber",
+   "mey",
+   "spa"
+  ],
+  "latlng": [
+   24.5,
+   -13
+  ],
+  "flags": "https://flagcdn.com/eh.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Namibia",
+  "cca2": "na",
+  "cca3": "nam",
+  "languages": [
+   "afr",
+   "deu",
+   "eng",
+   "her",
+   "hgm",
+   "kwn",
+   "loz",
+   "ndo",
+   "tsn"
+  ],
+  "latlng": [
+   -22,
+   17
+  ],
+  "flags": "https://flagcdn.com/na.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Puerto Rico",
+  "cca2": "pr",
+  "cca3": "pri",
+  "languages": [
+   "eng",
+   "spa"
+  ],
+  "latlng": [
+   18.25,
+   -66.5
+  ],
+  "flags": "https://flagcdn.com/pr.svg",
+  "postalCodeMask": "#####-####",
+  "phoneMask": false
+ },
+ {
+  "name": "Niger",
+  "cca2": "ne",
+  "cca3": "ner",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   16,
+   8
+  ],
+  "flags": "https://flagcdn.com/ne.svg",
+  "postalCodeMask": "####",
+  "phoneMask": false
+ },
+ {
+  "name": "Zimbabwe",
+  "cca2": "zw",
+  "cca3": "zwe",
+  "languages": [
+   "bwg",
+   "eng",
+   "kck",
+   "khi",
+   "ndc",
+   "nde",
+   "nya",
+   "sna",
+   "sot",
+   "toi",
+   "tsn",
+   "tso",
+   "ven",
+   "xho",
+   "zib"
+  ],
+  "latlng": [
+   -20,
+   30
+  ],
+  "flags": "https://flagcdn.com/zw.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Singapore",
+  "cca2": "sg",
+  "cca3": "sgp",
+  "languages": [
+   "zho",
+   "eng",
+   "msa",
+   "tam"
+  ],
+  "latlng": [
+   1.36666666,
+   103.8
+  ],
+  "flags": "https://flagcdn.com/sg.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "São Tomé and Príncipe",
+  "cca2": "st",
+  "cca3": "stp",
+  "languages": [
+   "por"
+  ],
+  "latlng": [
+   1,
+   7
+  ],
+  "flags": "https://flagcdn.com/st.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Vietnam",
+  "cca2": "vn",
+  "cca3": "vnm",
+  "languages": [
+   "vie"
+  ],
+  "latlng": [
+   16.16666666,
+   107.83333333
+  ],
+  "flags": "https://flagcdn.com/vn.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "South Sudan",
+  "cca2": "ss",
+  "cca3": "ssd",
+  "languages": [
+   "eng"
+  ],
+  "latlng": [
+   7,
+   30
+  ],
+  "flags": "https://flagcdn.com/ss.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Seychelles",
+  "cca2": "sc",
+  "cca3": "syc",
+  "languages": [
+   "crs",
+   "eng",
+   "fra"
+  ],
+  "latlng": [
+   -4.58333333,
+   55.66666666
+  ],
+  "flags": "https://flagcdn.com/sc.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Benin",
+  "cca2": "bj",
+  "cca3": "ben",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   9.5,
+   2.25
+  ],
+  "flags": "https://flagcdn.com/bj.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Guadeloupe",
+  "cca2": "gp",
+  "cca3": "glp",
+  "languages": [
+   "fra"
+  ],
+  "latlng": [
+   16.25,
+   -61.583333
+  ],
+  "flags": "https://flagcdn.com/gp.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Nauru",
+  "cca2": "nr",
+  "cca3": "nru",
+  "languages": [
+   "eng",
+   "nau"
+  ],
+  "latlng": [
+   -0.53333333,
+   166.91666666
+  ],
+  "flags": "https://flagcdn.com/nr.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Colombia",
+  "cca2": "co",
+  "cca3": "col",
+  "languages": [
+   "spa"
+  ],
+  "latlng": [
+   4,
+   -72
+  ],
+  "flags": "https://flagcdn.com/co.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "Ukraine",
+  "cca2": "ua",
+  "cca3": "ukr",
+  "languages": [
+   "ukr"
+  ],
+  "latlng": [
+   49,
+   32
+  ],
+  "flags": "https://flagcdn.com/ua.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Eritrea",
+  "cca2": "er",
+  "cca3": "eri",
+  "languages": [
+   "ara",
+   "eng",
+   "tir"
+  ],
+  "latlng": [
+   15,
+   39
+  ],
+  "flags": "https://flagcdn.com/er.svg",
+  "postalCodeMask": false,
+  "phoneMask": false
+ },
+ {
+  "name": "North Korea",
+  "cca2": "kp",
+  "cca3": "prk",
+  "languages": [
+   "kor"
+  ],
+  "latlng": [
+   40,
+   127
+  ],
+  "flags": "https://flagcdn.com/kp.svg",
+  "postalCodeMask": "###-###",
+  "phoneMask": false
+ },
+ {
+  "name": "Pakistan",
+  "cca2": "pk",
+  "cca3": "pak",
+  "languages": [
+   "eng",
+   "urd"
+  ],
+  "latlng": [
+   30,
+   70
+  ],
+  "flags": "https://flagcdn.com/pk.svg",
+  "postalCodeMask": "#####",
+  "phoneMask": false
+ },
+ {
+  "name": "Armenia",
+  "cca2": "am",
+  "cca3": "arm",
+  "languages": [
+   "hye"
+  ],
+  "latlng": [
+   40,
+   45
+  ],
+  "flags": "https://flagcdn.com/am.svg",
+  "postalCodeMask": "######",
+  "phoneMask": false
+ },
+ {
+  "name": "Georgia",
+  "cca2": "ge",
+  "cca3": "geo",
+  "languages": [
+   "kat"
+  ],
+  "latlng": [
+   42,
+   43.5
+  ],
+  "flags": "https://flagcdn.com/ge.svg",
+  "postalCodeMask": "####",
   "phoneMask": false
  }
 ]
