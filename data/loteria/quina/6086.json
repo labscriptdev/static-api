@@ -1,0 +1,29 @@
+{
+ "number": "6086",
+ "date": "2023-02-27T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  29,
+  33,
+  47,
+  59,
+  70
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 45,
+   "amount": 6152.43
+  },
+  {
+   "name": "Terno",
+   "total": 3088,
+   "amount": 85.38
+  }
+ ]
+}
