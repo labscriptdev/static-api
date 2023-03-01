@@ -87008,5 +87008,40 @@
     "amount": 2.01
    }
   ]
+ },
+ {
+  "number": "2487",
+  "date": "2023-02-28T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   13,
+   18,
+   25,
+   28,
+   34,
+   41
+  ],
+  "winners": [
+   {
+    "name": "Sena",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "Quina",
+    "total": 22,
+    "amount": 3286.99
+   },
+   {
+    "name": "Quadra",
+    "total": 904,
+    "amount": 91.42
+   },
+   {
+    "name": "Terno",
+    "total": 16899,
+    "amount": 2.44
+   }
+  ]
  }
 ]
