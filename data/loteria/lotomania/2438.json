@@ -1,0 +1,59 @@
+{
+ "number": "2438",
+ "date": "2023-03-06T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  4,
+  12,
+  13,
+  22,
+  28,
+  31,
+  32,
+  41,
+  44,
+  53,
+  55,
+  64,
+  73,
+  88,
+  89,
+  92,
+  93,
+  95,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 0
+  },
+  {
+   "name": "18 números",
+   "total": 117,
+   "amount": 29079.23
+  },
+  {
+   "name": "17 números",
+   "total": 1099,
+   "amount": 1864.06
+  },
+  {
+   "name": "16 números",
+   "total": 7777,
+   "amount": 198.44
+  },
+  {
+   "name": "nenhum número",
+   "total": 27072,
+   "amount": 28.04
+  }
+ ]
+}
