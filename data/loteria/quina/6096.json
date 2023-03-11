@@ -1,0 +1,29 @@
+{
+ "number": "6096",
+ "date": "2023-03-10T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  24,
+  26,
+  37,
+  75
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 99,
+   "amount": 5670
+  },
+  {
+   "name": "Terno",
+   "total": 8023,
+   "amount": 66.63
+  }
+ ]
+}
