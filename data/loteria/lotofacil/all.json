@@ -135777,5 +135777,54 @@
     "amount": 5
    }
   ]
+ },
+ {
+  "number": "2772",
+  "date": "2023-03-25T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   1,
+   2,
+   5,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   16,
+   17,
+   19,
+   23,
+   24,
+   25
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 2,
+    "amount": 632302.59
+   },
+   {
+    "name": "14 números",
+    "total": 10115,
+    "amount": 1202.53
+   },
+   {
+    "name": "13 números",
+    "total": 10115,
+    "amount": 25
+   },
+   {
+    "name": "12 números",
+    "total": 124248,
+    "amount": 10
+   },
+   {
+    "name": "11 números",
+    "total": 649718,
+    "amount": 5
+   }
+  ]
  }
 ]
