@@ -1,0 +1,30 @@
+{
+ "number": "2579",
+ "date": "2023-04-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  10,
+  26,
+  35,
+  38,
+  44
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 109,
+   "amount": 21479.95
+  },
+  {
+   "name": "Quadra",
+   "total": 5186,
+   "amount": 644.95
+  }
+ ]
+}
