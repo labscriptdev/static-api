@@ -1,0 +1,49 @@
+{
+ "number": "2779",
+ "date": "2023-04-03T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  15,
+  18,
+  20,
+  21,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 714071.85
+  },
+  {
+   "name": "14 números",
+   "total": 10501,
+   "amount": 1671.03
+  },
+  {
+   "name": "13 números",
+   "total": 10501,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 127577,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 727344,
+   "amount": 5
+  }
+ ]
+}
