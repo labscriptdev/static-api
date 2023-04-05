@@ -1,0 +1,49 @@
+{
+ "number": "2780",
+ "date": "2023-04-04T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  4,
+  7,
+  9,
+  10,
+  11,
+  13,
+  14,
+  17,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 4,
+   "amount": 1146174.41
+  },
+  {
+   "name": "14 números",
+   "total": 36460,
+   "amount": 412.81
+  },
+  {
+   "name": "13 números",
+   "total": 36460,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 313484,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 1420335,
+   "amount": 5
+  }
+ ]
+}
