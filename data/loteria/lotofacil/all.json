@@ -136414,5 +136414,54 @@
     "amount": 5
    }
   ]
+ },
+ {
+  "number": "2785",
+  "date": "2023-04-11T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   1,
+   4,
+   5,
+   9,
+   11,
+   14,
+   15,
+   17,
+   18,
+   19,
+   20,
+   21,
+   23,
+   24,
+   25
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 4,
+    "amount": 367973.78
+   },
+   {
+    "name": "14 números",
+    "total": 9753,
+    "amount": 1569
+   },
+   {
+    "name": "13 números",
+    "total": 9753,
+    "amount": 25
+   },
+   {
+    "name": "12 números",
+    "total": 131179,
+    "amount": 10
+   },
+   {
+    "name": "11 números",
+    "total": 749557,
+    "amount": 5
+   }
+  ]
  }
 ]
