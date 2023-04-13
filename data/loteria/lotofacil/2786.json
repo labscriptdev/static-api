@@ -1,0 +1,49 @@
+{
+ "number": "2786",
+ "date": "2023-04-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  6,
+  7,
+  10,
+  12,
+  15,
+  16,
+  17,
+  18,
+  21,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 1,
+   "amount": 1469564.91
+  },
+  {
+   "name": "14 números",
+   "total": 12245,
+   "amount": 1279.62
+  },
+  {
+   "name": "13 números",
+   "total": 12245,
+   "amount": 25
+  },
+  {
+   "name": "12 números",
+   "total": 146893,
+   "amount": 10
+  },
+  {
+   "name": "11 números",
+   "total": 744994,
+   "amount": 5
+  }
+ ]
+}
