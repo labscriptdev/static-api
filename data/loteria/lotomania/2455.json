@@ -1,0 +1,59 @@
+{
+ "number": "2455",
+ "date": "2023-04-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  7,
+  12,
+  14,
+  22,
+  27,
+  30,
+  40,
+  42,
+  46,
+  60,
+  61,
+  65,
+  85,
+  86,
+  87,
+  92,
+  95,
+  97,
+  100
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 3,
+   "amount": 0
+  },
+  {
+   "name": "18 números",
+   "total": 71,
+   "amount": 86015.37
+  },
+  {
+   "name": "17 números",
+   "total": 661,
+   "amount": 2271.53
+  },
+  {
+   "name": "16 números",
+   "total": 3517,
+   "amount": 243.99
+  },
+  {
+   "name": "nenhum número",
+   "total": 16089,
+   "amount": 45.85
+  }
+ ]
+}
