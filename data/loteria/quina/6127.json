@@ -1,0 +1,29 @@
+{
+ "number": "6127",
+ "date": "2023-04-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  19,
+  20,
+  58,
+  68
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 37,
+   "amount": 7997.85
+  },
+  {
+   "name": "Terno",
+   "total": 4189,
+   "amount": 67.27
+  }
+ ]
+}
