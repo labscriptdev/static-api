@@ -77518,5 +77518,35 @@
     "amount": 887.31
    }
   ]
+ },
+ {
+  "number": "2585",
+  "date": "2023-04-22T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   14,
+   26,
+   34,
+   36,
+   43,
+   59
+  ],
+  "winners": [
+   {
+    "name": "Sena",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "Quina",
+    "total": 70,
+    "amount": 58471.8
+   },
+   {
+    "name": "Quadra",
+    "total": 5743,
+    "amount": 1018.14
+   }
+  ]
  }
 ]
