@@ -137149,5 +137149,54 @@
     "amount": 5
    }
   ]
+ },
+ {
+  "number": "2800",
+  "date": "2023-04-29T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   2,
+   3,
+   5,
+   6,
+   7,
+   9,
+   13,
+   14,
+   15,
+   16,
+   17,
+   20,
+   21,
+   22,
+   23
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 4,
+    "amount": 1261103.68
+   },
+   {
+    "name": "14 números",
+    "total": 16766,
+    "amount": 1288.93
+   },
+   {
+    "name": "13 números",
+    "total": 16766,
+    "amount": 25
+   },
+   {
+    "name": "12 números",
+    "total": 195878,
+    "amount": 10
+   },
+   {
+    "name": "11 números",
+    "total": 1058924,
+    "amount": 5
+   }
+  ]
  }
 ]
