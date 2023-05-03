@@ -1,0 +1,35 @@
+{
+ "number": "2509",
+ "date": "2023-05-02T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  7,
+  34,
+  36,
+  37,
+  45
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 7945457.63
+  },
+  {
+   "name": "Quina",
+   "total": 7,
+   "amount": 13423.02
+  },
+  {
+   "name": "Quadra",
+   "total": 816,
+   "amount": 131.59
+  },
+  {
+   "name": "Terno",
+   "total": 17740,
+   "amount": 3.02
+  }
+ ]
+}
