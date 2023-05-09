@@ -1,0 +1,49 @@
+{
+ "number": "2806",
+ "date": "2023-05-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  11,
+  12,
+  13,
+  14,
+  16,
+  17,
+  19,
+  20,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "14 números",
+   "total": 7360,
+   "amount": 2668.17
+  },
+  {
+   "name": "13 números",
+   "total": 7360,
+   "amount": 30
+  },
+  {
+   "name": "12 números",
+   "total": 87788,
+   "amount": 12
+  },
+  {
+   "name": "11 números",
+   "total": 573259,
+   "amount": 6
+  }
+ ]
+}
