@@ -1,0 +1,30 @@
+{
+ "number": "2590",
+ "date": "2023-05-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  12,
+  28,
+  36,
+  43,
+  48
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 76,
+   "amount": 38151.92
+  },
+  {
+   "name": "Quadra",
+   "total": 4995,
+   "amount": 829.27
+  }
+ ]
+}
