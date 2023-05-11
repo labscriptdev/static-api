@@ -145433,5 +145433,64 @@
     "amount": 53.57
    }
   ]
+ },
+ {
+  "number": "2466",
+  "date": "2023-05-10T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   3,
+   5,
+   13,
+   21,
+   24,
+   28,
+   30,
+   32,
+   35,
+   36,
+   42,
+   55,
+   61,
+   62,
+   70,
+   73,
+   83,
+   86,
+   91,
+   94
+  ],
+  "winners": [
+   {
+    "name": "20 números",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "19 números",
+    "total": 2,
+    "amount": 0
+   },
+   {
+    "name": "18 números",
+    "total": 54,
+    "amount": 98906.4
+   },
+   {
+    "name": "17 números",
+    "total": 442,
+    "amount": 2289.5
+   },
+   {
+    "name": "16 números",
+    "total": 2436,
+    "amount": 279.71
+   },
+   {
+    "name": "nenhum número",
+    "total": 11433,
+    "amount": 50.75
+   }
+  ]
  }
 ]
