@@ -137884,5 +137884,54 @@
     "amount": 6
    }
   ]
+ },
+ {
+  "number": "2815",
+  "date": "2023-05-18T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   13,
+   16,
+   18,
+   19,
+   22,
+   24,
+   25
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 1,
+    "amount": 1491759.38
+   },
+   {
+    "name": "14 números",
+    "total": 6934,
+    "amount": 2085.26
+   },
+   {
+    "name": "13 números",
+    "total": 6934,
+    "amount": 30
+   },
+   {
+    "name": "12 números",
+    "total": 95960,
+    "amount": 12
+   },
+   {
+    "name": "11 números",
+    "total": 548809,
+    "amount": 6
+   }
+  ]
  }
 ]
