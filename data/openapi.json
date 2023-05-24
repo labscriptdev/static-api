@@ -25,10 +25,10 @@
    "name": "country"
   },
   {
-   "name": "phone-code"
+   "name": "loteria"
   },
   {
-   "name": "loteria"
+   "name": "phone-code"
   }
  ],
  "paths": {
@@ -72,28 +72,6 @@
       }
      }
     ],
-    "responses": {
-     "200": {
-      "description": "Success"
-     },
-     "404": {
-      "description": "Not found"
-     },
-     "500": {
-      "description": "Error"
-     }
-    }
-   }
-  },
-  "/phone-code/all.json": {
-   "get": {
-    "tags": [
-     "phone-code"
-    ],
-    "summary": "",
-    "description": "",
-    "operationId": "get-phone-code-all.json",
-    "parameters": [],
     "responses": {
      "200": {
       "description": "Success"
@@ -490,6 +468,28 @@
     "summary": "",
     "description": "",
     "operationId": "loteria-dupla-sena-all",
+    "parameters": [],
+    "responses": {
+     "200": {
+      "description": "Success"
+     },
+     "404": {
+      "description": "Not found"
+     },
+     "500": {
+      "description": "Error"
+     }
+    }
+   }
+  },
+  "/phone-code/all.json": {
+   "get": {
+    "tags": [
+     "phone-code"
+    ],
+    "summary": "",
+    "description": "",
+    "operationId": "get-phone-code-all.json",
     "parameters": [],
     "responses": {
      "200": {
