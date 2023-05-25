@@ -138129,5 +138129,54 @@
     "amount": 6
    }
   ]
+ },
+ {
+  "number": "2820",
+  "date": "2023-05-24T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   4,
+   5,
+   6,
+   9,
+   10,
+   12,
+   13,
+   14,
+   17,
+   18,
+   19,
+   20,
+   21,
+   23,
+   25
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 6,
+    "amount": 1117698.36
+   },
+   {
+    "name": "14 números",
+    "total": 17803,
+    "amount": 1635.63
+   },
+   {
+    "name": "13 números",
+    "total": 17803,
+    "amount": 30
+   },
+   {
+    "name": "12 números",
+    "total": 214594,
+    "amount": 12
+   },
+   {
+    "name": "11 números",
+    "total": 1142248,
+    "amount": 6
+   }
+  ]
  }
 ]
