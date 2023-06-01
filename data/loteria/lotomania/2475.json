@@ -1,0 +1,59 @@
+{
+ "number": "2475",
+ "date": "2023-05-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  5,
+  6,
+  10,
+  15,
+  16,
+  18,
+  21,
+  27,
+  29,
+  33,
+  34,
+  41,
+  42,
+  47,
+  50,
+  56,
+  63,
+  71,
+  83,
+  99
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 1,
+   "amount": 0.01
+  },
+  {
+   "name": "19 números",
+   "total": 12,
+   "amount": 4625317.69
+  },
+  {
+   "name": "18 números",
+   "total": 95,
+   "amount": 19954.44
+  },
+  {
+   "name": "17 números",
+   "total": 817,
+   "amount": 1575.35
+  },
+  {
+   "name": "16 números",
+   "total": 4172,
+   "amount": 183.18
+  },
+  {
+   "name": "nenhum número",
+   "total": 25150,
+   "amount": 35.87
+  }
+ ]
+}

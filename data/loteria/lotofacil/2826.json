@@ -1,0 +1,49 @@
+{
+ "number": "2826",
+ "date": "2023-05-31T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  3,
+  5,
+  7,
+  9,
+  11,
+  12,
+  13,
+  16,
+  17,
+  18,
+  19,
+  21,
+  23
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "14 números",
+   "total": 12816,
+   "amount": 1221.41
+  },
+  {
+   "name": "13 números",
+   "total": 12816,
+   "amount": 30
+  },
+  {
+   "name": "12 números",
+   "total": 143612,
+   "amount": 12
+  },
+  {
+   "name": "11 números",
+   "total": 622078,
+   "amount": 6
+  }
+ ]
+}
