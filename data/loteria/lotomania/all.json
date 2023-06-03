@@ -146023,5 +146023,64 @@
     "amount": 35.87
    }
   ]
+ },
+ {
+  "number": "2476",
+  "date": "2023-06-02T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   10,
+   12,
+   15,
+   16,
+   17,
+   26,
+   44,
+   46,
+   47,
+   53,
+   56,
+   62,
+   64,
+   72,
+   75,
+   78,
+   85,
+   92,
+   94,
+   95
+  ],
+  "winners": [
+   {
+    "name": "20 números",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "19 números",
+    "total": 13,
+    "amount": 0
+   },
+   {
+    "name": "18 números",
+    "total": 56,
+    "amount": 14139.87
+   },
+   {
+    "name": "17 números",
+    "total": 484,
+    "amount": 2051.54
+   },
+   {
+    "name": "16 números",
+    "total": 2953,
+    "amount": 237.36
+   },
+   {
+    "name": "nenhum número",
+    "total": 12466,
+    "amount": 38.9
+   }
+  ]
  }
 ]
