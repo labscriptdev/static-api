@@ -1,0 +1,29 @@
+{
+ "number": "6169",
+ "date": "2023-06-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  20,
+  31,
+  46,
+  58
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 34,
+   "amount": 12163.03
+  },
+  {
+   "name": "Terno",
+   "total": 3398,
+   "amount": 115.9
+  }
+ ]
+}

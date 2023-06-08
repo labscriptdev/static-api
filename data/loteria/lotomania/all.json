@@ -146141,5 +146141,64 @@
     "amount": 47.19
    }
   ]
+ },
+ {
+  "number": "2478",
+  "date": "2023-06-07T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   5,
+   7,
+   11,
+   22,
+   35,
+   37,
+   50,
+   58,
+   66,
+   67,
+   74,
+   80,
+   83,
+   86,
+   87,
+   88,
+   90,
+   92,
+   94,
+   100
+  ],
+  "winners": [
+   {
+    "name": "20 números",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "19 números",
+    "total": 11,
+    "amount": 0
+   },
+   {
+    "name": "18 números",
+    "total": 93,
+    "amount": 19556.27
+   },
+   {
+    "name": "17 números",
+    "total": 734,
+    "amount": 2065.27
+   },
+   {
+    "name": "16 números",
+    "total": 3478,
+    "amount": 183.17
+   },
+   {
+    "name": "nenhum número",
+    "total": 14421,
+    "amount": 38.65
+   }
+  ]
  }
 ]
