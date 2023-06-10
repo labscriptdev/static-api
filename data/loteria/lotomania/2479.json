@@ -1,0 +1,59 @@
+{
+ "number": "2479",
+ "date": "2023-06-09T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  13,
+  18,
+  26,
+  31,
+  44,
+  45,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  64,
+  65,
+  73,
+  76,
+  82,
+  88,
+  89,
+  90
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 3,
+   "amount": 0
+  },
+  {
+   "name": "18 números",
+   "total": 55,
+   "amount": 67543.45
+  },
+  {
+   "name": "17 números",
+   "total": 528,
+   "amount": 2302.62
+  },
+  {
+   "name": "16 números",
+   "total": 3125,
+   "amount": 239.85
+  },
+  {
+   "name": "nenhum número",
+   "total": 12088,
+   "amount": 40.52
+  }
+ ]
+}
