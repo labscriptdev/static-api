@@ -1,0 +1,59 @@
+{
+ "number": "2480",
+ "date": "2023-06-12T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  14,
+  17,
+  18,
+  19,
+  35,
+  37,
+  52,
+  56,
+  59,
+  67,
+  69,
+  71,
+  74,
+  87,
+  91,
+  93,
+  96,
+  99,
+  100
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 7,
+   "amount": 0
+  },
+  {
+   "name": "18 números",
+   "total": 74,
+   "amount": 34893.85
+  },
+  {
+   "name": "17 números",
+   "total": 600,
+   "amount": 2062.98
+  },
+  {
+   "name": "16 números",
+   "total": 4279,
+   "amount": 254.43
+  },
+  {
+   "name": "nenhum número",
+   "total": 15049,
+   "amount": 35.67
+  }
+ ]
+}
