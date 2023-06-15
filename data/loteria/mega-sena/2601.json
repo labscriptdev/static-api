@@ -1,0 +1,30 @@
+{
+ "number": "2601",
+ "date": "2023-06-14T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  8,
+  34,
+  40,
+  44,
+  55
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 54,
+   "amount": 74307.61
+  },
+  {
+   "name": "Quadra",
+   "total": 4682,
+   "amount": 1224.32
+  }
+ ]
+}
