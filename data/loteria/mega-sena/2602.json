@@ -1,0 +1,30 @@
+{
+ "number": "2602",
+ "date": "2023-06-17T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  11,
+  14,
+  16,
+  30,
+  32,
+  46
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 1,
+   "amount": 51774681.61
+  },
+  {
+   "name": "Quina",
+   "total": 111,
+   "amount": 44054.71
+  },
+  {
+   "name": "Quadra",
+   "total": 6285,
+   "amount": 1111.5
+  }
+ ]
+}
