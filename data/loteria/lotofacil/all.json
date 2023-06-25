@@ -139403,5 +139403,54 @@
     "amount": 6
    }
   ]
+ },
+ {
+  "number": "2846",
+  "date": "2023-06-24T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   4,
+   6,
+   8,
+   9,
+   10,
+   12,
+   13,
+   14,
+   15,
+   17,
+   19,
+   20,
+   21,
+   23,
+   24
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 1,
+    "amount": 1355818.62
+   },
+   {
+    "name": "14 números",
+    "total": 8627,
+    "amount": 1611.59
+   },
+   {
+    "name": "13 números",
+    "total": 8627,
+    "amount": 30
+   },
+   {
+    "name": "12 números",
+    "total": 90232,
+    "amount": 12
+   },
+   {
+    "name": "11 números",
+    "total": 481561,
+    "amount": 6
+   }
+  ]
  }
 ]
