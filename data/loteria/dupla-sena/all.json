@@ -88618,5 +88618,40 @@
     "amount": 2.78
    }
   ]
+ },
+ {
+  "number": "2533",
+  "date": "2023-06-27T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   2,
+   11,
+   12,
+   18,
+   29,
+   44
+  ],
+  "winners": [
+   {
+    "name": "Sena",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "Quina",
+    "total": 9,
+    "amount": 4747.12
+   },
+   {
+    "name": "Quadra",
+    "total": 546,
+    "amount": 89.42
+   },
+   {
+    "name": "Terno",
+    "total": 9894,
+    "amount": 2.46
+   }
+  ]
  }
 ]
