@@ -1,0 +1,49 @@
+{
+ "number": "2852",
+ "date": "2023-07-01T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  2,
+  4,
+  6,
+  8,
+  9,
+  10,
+  12,
+  13,
+  14,
+  15,
+  17,
+  19,
+  22,
+  24
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 3,
+   "amount": 488133.87
+  },
+  {
+   "name": "14 números",
+   "total": 11789,
+   "amount": 976.93
+  },
+  {
+   "name": "13 números",
+   "total": 11789,
+   "amount": 30
+  },
+  {
+   "name": "12 números",
+   "total": 124687,
+   "amount": 12
+  },
+  {
+   "name": "11 números",
+   "total": 606639,
+   "amount": 6
+  }
+ ]
+}
