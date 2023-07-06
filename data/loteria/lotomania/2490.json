@@ -1,0 +1,59 @@
+{
+ "number": "2490",
+ "date": "2023-07-05T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  2,
+  10,
+  13,
+  23,
+  28,
+  31,
+  35,
+  37,
+  40,
+  42,
+  45,
+  52,
+  64,
+  77,
+  79,
+  81,
+  88,
+  90,
+  92,
+  100
+ ],
+ "winners": [
+  {
+   "name": "20 números",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "19 números",
+   "total": 4,
+   "amount": 0
+  },
+  {
+   "name": "18 números",
+   "total": 63,
+   "amount": 59398.41
+  },
+  {
+   "name": "17 números",
+   "total": 641,
+   "amount": 2357.08
+  },
+  {
+   "name": "16 números",
+   "total": 3563,
+   "amount": 231.66
+  },
+  {
+   "name": "nenhum número",
+   "total": 15086,
+   "amount": 41.67
+  }
+ ]
+}
