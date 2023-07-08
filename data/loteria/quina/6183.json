@@ -1,0 +1,29 @@
+{
+ "number": "6183",
+ "date": "2023-07-07T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  25,
+  32,
+  34,
+  37,
+  68
+ ],
+ "winners": [
+  {
+   "name": "Quina",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quadra",
+   "total": 56,
+   "amount": 7034.45
+  },
+  {
+   "name": "Terno",
+   "total": 4037,
+   "amount": 92.93
+  }
+ ]
+}
