@@ -1,0 +1,30 @@
+{
+ "number": "2609",
+ "date": "2023-07-08T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  3,
+  21,
+  27,
+  32,
+  35,
+  60
+ ],
+ "winners": [
+  {
+   "name": "Sena",
+   "total": 0,
+   "amount": 0
+  },
+  {
+   "name": "Quina",
+   "total": 50,
+   "amount": 61254.15
+  },
+  {
+   "name": "Quadra",
+   "total": 4420,
+   "amount": 989.88
+  }
+ ]
+}
