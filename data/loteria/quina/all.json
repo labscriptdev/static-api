@@ -179334,5 +179334,34 @@
     "amount": 73.26
    }
   ]
+ },
+ {
+  "number": "6185",
+  "date": "2023-07-10T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   11,
+   17,
+   51,
+   61,
+   77
+  ],
+  "winners": [
+   {
+    "name": "Quina",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "Quadra",
+    "total": 54,
+    "amount": 10043.49
+   },
+   {
+    "name": "Terno",
+    "total": 5200,
+    "amount": 99.33
+   }
+  ]
  }
 ]
