@@ -140089,5 +140089,54 @@
     "amount": 6
    }
   ]
+ },
+ {
+  "number": "2860",
+  "date": "2023-07-11T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   8,
+   9,
+   12,
+   13,
+   14,
+   15,
+   16,
+   18,
+   20,
+   21
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 4,
+    "amount": 1586609.04
+   },
+   {
+    "name": "14 números",
+    "total": 16014,
+    "amount": 1835.61
+   },
+   {
+    "name": "13 números",
+    "total": 16014,
+    "amount": 30
+   },
+   {
+    "name": "12 números",
+    "total": 175773,
+    "amount": 12
+   },
+   {
+    "name": "11 números",
+    "total": 1033908,
+    "amount": 6
+   }
+  ]
  }
 ]
