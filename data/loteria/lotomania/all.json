@@ -147026,5 +147026,64 @@
     "amount": 45.8
    }
   ]
+ },
+ {
+  "number": "2493",
+  "date": "2023-07-12T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   12,
+   15,
+   24,
+   25,
+   26,
+   28,
+   46,
+   49,
+   54,
+   63,
+   69,
+   74,
+   75,
+   78,
+   82,
+   84,
+   88,
+   89,
+   92,
+   99
+  ],
+  "winners": [
+   {
+    "name": "20 números",
+    "total": 1,
+    "amount": 0
+   },
+   {
+    "name": "19 números",
+    "total": 3,
+    "amount": 4709472.44
+   },
+   {
+    "name": "18 números",
+    "total": 107,
+    "amount": 185336.04
+   },
+   {
+    "name": "17 números",
+    "total": 843,
+    "amount": 1630.85
+   },
+   {
+    "name": "16 números",
+    "total": 4714,
+    "amount": 207
+   },
+   {
+    "name": "nenhum número",
+    "total": 18433,
+    "amount": 37.01
+   }
+  ]
  }
 ]
