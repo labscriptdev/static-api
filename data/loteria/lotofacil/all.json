@@ -140187,5 +140187,54 @@
     "amount": 6
    }
   ]
+ },
+ {
+  "number": "2862",
+  "date": "2023-07-13T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   1,
+   2,
+   3,
+   4,
+   6,
+   8,
+   9,
+   12,
+   13,
+   16,
+   18,
+   20,
+   21,
+   22,
+   23
+  ],
+  "winners": [
+   {
+    "name": "15 números",
+    "total": 2,
+    "amount": 2006583.33
+   },
+   {
+    "name": "14 números",
+    "total": 16681,
+    "amount": 1332.8
+   },
+   {
+    "name": "13 números",
+    "total": 16681,
+    "amount": 30
+   },
+   {
+    "name": "12 números",
+    "total": 193489,
+    "amount": 12
+   },
+   {
+    "name": "11 números",
+    "total": 895634,
+    "amount": 6
+   }
+  ]
  }
 ]
