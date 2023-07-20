@@ -1,0 +1,49 @@
+{
+ "number": "2867",
+ "date": "2023-07-19T00:00:00",
+ "accumulated": 0,
+ "numbers": [
+  1,
+  5,
+  7,
+  9,
+  10,
+  12,
+  13,
+  14,
+  15,
+  18,
+  20,
+  21,
+  22,
+  23,
+  25
+ ],
+ "winners": [
+  {
+   "name": "15 números",
+   "total": 2,
+   "amount": 1634592.05
+  },
+  {
+   "name": "14 números",
+   "total": 16798,
+   "amount": 1305.27
+  },
+  {
+   "name": "13 números",
+   "total": 16798,
+   "amount": 30
+  },
+  {
+   "name": "12 números",
+   "total": 194834,
+   "amount": 12
+  },
+  {
+   "name": "11 números",
+   "total": 983259,
+   "amount": 6
+  }
+ ]
+}

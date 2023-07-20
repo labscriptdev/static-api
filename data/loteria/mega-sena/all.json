@@ -78328,5 +78328,35 @@
     "amount": 702
    }
   ]
+ },
+ {
+  "number": "2612",
+  "date": "2023-07-19T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   20,
+   27,
+   34,
+   44,
+   50,
+   54
+  ],
+  "winners": [
+   {
+    "name": "Sena",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "Quina",
+    "total": 50,
+    "amount": 90719.26
+   },
+   {
+    "name": "Quadra",
+    "total": 3638,
+    "amount": 1781.18
+   }
+  ]
  }
 ]
