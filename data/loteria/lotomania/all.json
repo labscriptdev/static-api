@@ -147262,5 +147262,64 @@
     "amount": 53.23
    }
   ]
+ },
+ {
+  "number": "2497",
+  "date": "2023-07-21T00:00:00",
+  "accumulated": 0,
+  "numbers": [
+   2,
+   3,
+   7,
+   10,
+   12,
+   16,
+   17,
+   23,
+   24,
+   25,
+   32,
+   33,
+   34,
+   45,
+   47,
+   49,
+   74,
+   76,
+   82,
+   83
+  ],
+  "winners": [
+   {
+    "name": "20 números",
+    "total": 0,
+    "amount": 0
+   },
+   {
+    "name": "19 números",
+    "total": 6,
+    "amount": 0
+   },
+   {
+    "name": "18 números",
+    "total": 82,
+    "amount": 36156.14
+   },
+   {
+    "name": "17 números",
+    "total": 843,
+    "amount": 1653.48
+   },
+   {
+    "name": "16 números",
+    "total": 12372,
+    "amount": 160.83
+   },
+   {
+    "name": "nenhum número",
+    "total": 17388,
+    "amount": 10.95
+   }
+  ]
  }
 ]
