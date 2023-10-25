@@ -1,0 +1,1730 @@
+[
+ {
+  "slug": "fox",
+  "name": "FOX",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "amazonas",
+  "name": "AMAZONAS",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "green",
+  "name": "GREEN",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "riguete",
+  "name": "RIGUETE",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "brandy",
+  "name": "BRANDY",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "iros",
+  "name": "IROS",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "jonny",
+  "name": "JONNY",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "avelloz",
+  "name": "AVELLOZ",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "caloi",
+  "name": "CALOI",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "bajaj",
+  "name": "BAJAJ",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "dafra",
+  "name": "DAFRA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "bmw",
+  "name": "BMW",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "sundown",
+  "name": "SUNDOWN",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "haobao",
+  "name": "HAOBAO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "johnnypag",
+  "name": "JOHNNYPAG",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "emme",
+  "name": "EMME",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "hartford",
+  "name": "HARTFORD",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "dayang",
+  "name": "DAYANG",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "regal-raptor",
+  "name": "REGAL RAPTOR",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "hero",
+  "name": "HERO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "honda",
+  "name": "HONDA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "ducati",
+  "name": "DUCATI",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "magro-triciclos",
+  "name": "MAGRÃO TRICICLOS",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "mvk",
+  "name": "MVK",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "traxx",
+  "name": "TRAXX",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "garinni",
+  "name": "GARINNI",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "fusco-motosegura",
+  "name": "FUSCO MOTOSEGURA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "lerivo",
+  "name": "LERIVO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "mrx",
+  "name": "MRX",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "sanyang",
+  "name": "SANYANG",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "watts",
+  "name": "WATTS",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "husqvarna",
+  "name": "HUSQVARNA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "ktm",
+  "name": "KTM",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "targos",
+  "name": "TARGOS",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "shineray",
+  "name": "SHINERAY",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "suzuki",
+  "name": "SUZUKI",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "bee",
+  "name": "BEE",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "brava",
+  "name": "BRAVA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "beta",
+  "name": "BETA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "agrale",
+  "name": "AGRALE",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "cagiva",
+  "name": "CAGIVA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "benelli",
+  "name": "Benelli",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "haojue",
+  "name": "HAOJUE",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "bueno",
+  "name": "BUENO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "bull",
+  "name": "BULL",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "aprilia",
+  "name": "APRILIA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "bimota",
+  "name": "BIMOTA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "buell",
+  "name": "BUELL",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "atala",
+  "name": "ATALA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "daelim",
+  "name": "DAELIM",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "aston-martin",
+  "name": "ASTON MARTIN",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "fym",
+  "name": "FYM",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "gas-gas",
+  "name": "GAS GAS",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "agrale",
+  "name": "Agrale",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "maserati",
+  "name": "Maserati",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "byd",
+  "name": "BYD",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "caoa-cherychery",
+  "name": "Caoa Chery/Chery",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "troller",
+  "name": "Troller",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "iveco",
+  "name": "IVECO",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "rover",
+  "name": "Rover",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "plymouth",
+  "name": "Plymouth",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "lobini",
+  "name": "LOBINI",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "mg",
+  "name": "MG",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "hafei",
+  "name": "HAFEI",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "hitech-electric",
+  "name": "HITECH ELECTRIC",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "mascarello",
+  "name": "MASCARELLO",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "saturn",
+  "name": "Saturn",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "mclaren",
+  "name": "Mclaren",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "pontiac",
+  "name": "Pontiac",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "chevrolet",
+  "name": "CHEVROLET",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "bepobus",
+  "name": "BEPOBUS",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "saab-scania",
+  "name": "SAAB-SCANIA",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "walkbus",
+  "name": "WALKBUS",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "ciccobus",
+  "name": "CICCOBUS",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "gmc",
+  "name": "GMC",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "lifan",
+  "name": "LIFAN",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "sinotruk",
+  "name": "SINOTRUK",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "lon-v",
+  "name": "Lon-V",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "jiapeng-volcano",
+  "name": "JIAPENG VOLCANO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "kymco",
+  "name": "KYMCO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "motorino",
+  "name": "MOTORINO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "mv-agusta",
+  "name": "MV AGUSTA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "super-soco",
+  "name": "SUPER SOCO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "orca",
+  "name": "ORCA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "peugeot",
+  "name": "PEUGEOT",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "moto-guzzi",
+  "name": "MOTO GUZZI",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "miza",
+  "name": "MIZA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "kahena",
+  "name": "KAHENA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "ventane-motors",
+  "name": "Ventane Motors",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "piaggio",
+  "name": "PIAGGIO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "niu",
+  "name": "NIU",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "siamoto",
+  "name": "SIAMOTO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "zontes",
+  "name": "ZONTES",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "polaris",
+  "name": "POLARIS",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "kasinski",
+  "name": "KASINSKI",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "royal-enfield",
+  "name": "Royal Enfield",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "vento",
+  "name": "VENTO",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "voltz",
+  "name": "VOLTZ",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "tiger",
+  "name": "TIGER",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "asia-motors",
+  "name": "Asia Motors",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "brp",
+  "name": "BRP",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "chrysler",
+  "name": "Chrysler",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "jaguar",
+  "name": "Jaguar",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "suzuki",
+  "name": "Suzuki",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "marcopolo",
+  "name": "MARCOPOLO",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "triumph",
+  "name": "TRIUMPH",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "kawasaki",
+  "name": "KAWASAKI",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "yamaha",
+  "name": "YAMAHA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "baby",
+  "name": "Baby",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "lada",
+  "name": "Lada",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "cadillac",
+  "name": "Cadillac",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "acura",
+  "name": "Acura",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "fyber",
+  "name": "Fyber",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "cross-lander",
+  "name": "Cross Lander",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "great-wall",
+  "name": "GREAT WALL",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "gurgel",
+  "name": "Gurgel",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "shineray",
+  "name": "SHINERAY",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "daihatsu",
+  "name": "Daihatsu",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "isuzu",
+  "name": "Isuzu",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "fibravan",
+  "name": "Fibravan",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "am-gen",
+  "name": "AM Gen",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "seat",
+  "name": "Seat",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "man",
+  "name": "MAN",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "cbt-jipe",
+  "name": "CBT Jipe",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "engesa",
+  "name": "Engesa",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "navistar",
+  "name": "NAVISTAR",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "effa-jmc",
+  "name": "EFFA-JMC",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "geely",
+  "name": "GEELY",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "envemo",
+  "name": "Envemo",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "daewoo",
+  "name": "Daewoo",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "lifan",
+  "name": "LIFAN",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "neobus",
+  "name": "NEOBUS",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "gwm",
+  "name": "GWM",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "mercury",
+  "name": "Mercury",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "bycristo",
+  "name": "byCristo",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "wuyang",
+  "name": "WUYANG",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "malaguti",
+  "name": "Malaguti",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "pegassi",
+  "name": "PEGASSI",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "husaberg",
+  "name": "HUSABERG",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "indian",
+  "name": "INDIAN",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "laquila",
+  "name": "L'AQUILA",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "motocar",
+  "name": "MOTOCAR",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "dayun",
+  "name": "DAYUN",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "hyundai",
+  "name": "Hyundai",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "iveco",
+  "name": "IVECO",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "harley-davidson",
+  "name": "HARLEY-DAVIDSON",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "volvo",
+  "name": "Volvo",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "kia-motors",
+  "name": "Kia Motors",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "dodge",
+  "name": "Dodge",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "subaru",
+  "name": "Subaru",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "mini",
+  "name": "MINI",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "volkswagen",
+  "name": "VOLKSWAGEN",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "ssangyong",
+  "name": "SSANGYONG",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "daf",
+  "name": "DAF",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "honda",
+  "name": "Honda",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "ford",
+  "name": "FORD",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "land-rover",
+  "name": "Land Rover",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "porsche",
+  "name": "Porsche",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "toyota",
+  "name": "Toyota",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "agrale",
+  "name": "AGRALE",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "ram",
+  "name": "RAM",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "lexus",
+  "name": "Lexus",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "foton",
+  "name": "FOTON",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "d2d-motors",
+  "name": "D2D Motors",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "miura",
+  "name": "Miura",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "jpx",
+  "name": "JPX",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "tac",
+  "name": "TAC",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "chana",
+  "name": "CHANA",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "changan",
+  "name": "CHANGAN",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "lotus",
+  "name": "Lotus",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "maxibus",
+  "name": "MAXIBUS",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "brm",
+  "name": "BRM",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "jinbei",
+  "name": "JINBEI",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "jac",
+  "name": "JAC",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "bugre",
+  "name": "Bugre",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "alfa-romeo",
+  "name": "Alfa Romeo",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "walk",
+  "name": "Walk",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "foton",
+  "name": "FOTON",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "puma-alfa",
+  "name": "PUMA-ALFA",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "matra",
+  "name": "Matra",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "caoa-chery",
+  "name": "Caoa Chery",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "shacman",
+  "name": "SHACMAN",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "rolls-royce",
+  "name": "Rolls-Royce",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "saab",
+  "name": "Saab",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "hyundai",
+  "name": "HYUNDAI",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "fiat",
+  "name": "FIAT",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "jac",
+  "name": "JAC",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "smart",
+  "name": "smart",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "cab-motors",
+  "name": "CAB Motors",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "rely",
+  "name": "RELY",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "wake",
+  "name": "Wake",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "nissan",
+  "name": "Nissan",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "citron",
+  "name": "Citroën",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "mahindra",
+  "name": "Mahindra",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "peugeot",
+  "name": "Peugeot",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "audi",
+  "name": "Audi",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "mitsubishi",
+  "name": "Mitsubishi",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "volvo",
+  "name": "VOLVO",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "jeep",
+  "name": "Jeep",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "ferrari",
+  "name": "Ferrari",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "mazda",
+  "name": "Mazda",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "effa",
+  "name": "EFFA",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "lamborghini",
+  "name": "LAMBORGHINI",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "lavrale",
+  "name": "LAVRALE",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "adly",
+  "name": "ADLY",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "derbi",
+  "name": "DERBI",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "landum",
+  "name": "LANDUM",
+  "type": {
+   "slug": "motos",
+   "name": "Motos"
+  }
+ },
+ {
+  "slug": "ford",
+  "name": "Ford",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "scania",
+  "name": "SCANIA",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "mercedes-benz",
+  "name": "MERCEDES-BENZ",
+  "type": {
+   "slug": "caminhoes",
+   "name": "Caminhões"
+  }
+ },
+ {
+  "slug": "gm-chevrolet",
+  "name": "GM - Chevrolet",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "mercedes-benz",
+  "name": "Mercedes-Benz",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "bmw",
+  "name": "BMW",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "renault",
+  "name": "Renault",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "vw-volkswagen",
+  "name": "VW - VolksWagen",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ },
+ {
+  "slug": "fiat",
+  "name": "Fiat",
+  "type": {
+   "slug": "carros",
+   "name": "Carros"
+  }
+ }
+]

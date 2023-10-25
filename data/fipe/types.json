@@ -1,1 +1,14 @@
-[{"id":"carros","name":"Carros"},{"id":"motos","name":"Motos"},{"id":"caminhoes","name":"Caminhões"}]
+[
+ {
+  "slug": "motos",
+  "name": "Motos"
+ },
+ {
+  "slug": "carros",
+  "name": "Carros"
+ },
+ {
+  "slug": "caminhoes",
+  "name": "Caminhões"
+ }
+]

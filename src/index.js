@@ -6,7 +6,7 @@ const glob = require('fast-glob');
   const openapi = openapiInit();
   
   let only = [
-    // path.join(__dirname, 'loteria', 'index.js'),
+    path.join(__dirname, 'fipe', 'index.js'),
   ];
 
   for(const file of await glob(`${__dirname}/**/index.js`)) {
@@ -17,5 +17,5 @@ const glob = require('fast-glob');
   }
 
   // console.log(openapi);
-  dataSave('openapi.json', openapi);
+  // dataSave('openapi.json', openapi);
 })();
