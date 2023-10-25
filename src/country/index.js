@@ -38,8 +38,4 @@ module.exports = async ({ openapi }) => {
   });
 
   dataSave('country/index.json', countries);
-
-  countries.map((country) => {
-    dataSave(`country/${country.cca2}.json`, country);
-  });
 };

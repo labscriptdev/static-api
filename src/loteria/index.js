@@ -1,7 +1,6 @@
 const axios = require('axios');
 const https = require('https');
 const XLSX = require('xlsx');
-// const cheerio = require('cheerio');
 
 const { dataSave } = require('../utils');
 
@@ -244,51 +243,4 @@ module.exports = async ({ openapi }) => {
     save.data = results.map(loteria.parseRow);
     dataSave(`loteria/${loteria.id}.json`, save);
   });
-
-  // dataSave('loteria/index.json', loterias.map(loteria => {
-  //   return {
-  //     id: loteria.schema.id,
-  //     name: loteria.schema.name,
-  //     rangeStart: loteria.schema.rangeStart,
-  //     rangeFinal: loteria.schema.rangeFinal,
-  //     rangePerRow: loteria.schema.rangePerRow,
-  //   };
-  // }));
-
-  // openapi.tagAdd('loteria');
-
-  // openapi.pathAdd({
-  //   operationId: `loteria-index`,
-  //   path: '/loteria/index.json',
-  //   method: 'get',
-  //   tags: ['loteria'],
-  // });
-  
-  // loterias.forEach(loteria => {
-  //   loteriaSchema(loteria.schema);
-
-  //   openapi.pathAdd({
-  //     operationId: `loteria-${loteria.schema.id}-index`,
-  //     path: `/loteria/${loteria.schema.id}/index.json`,
-  //     method: 'get',
-  //     tags: ['loteria'],
-  //   });
-    
-  //   openapi.pathAdd({
-  //     operationId: `loteria-${loteria.schema.id}-number`,
-  //     path: `/loteria/${loteria.schema.id}/{number}.json`,
-  //     method: 'get',
-  //     tags: ['loteria'],
-  //     parameters: [
-  //       { name: 'number', in: 'path', required: true, schema: { type: 'string' }},
-  //     ],
-  //   });
-    
-  //   openapi.pathAdd({
-  //     operationId: `loteria-${loteria.schema.id}-all`,
-  //     path: `/loteria/${loteria.schema.id}/all.json`,
-  //     method: 'get',
-  //     tags: ['loteria'],
-  //   });
-  // });
 };
