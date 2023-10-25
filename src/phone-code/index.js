@@ -11,5 +11,5 @@ module.exports = async ({ openapi }) => {
     tags: ['phone-code'],
   });
 
-  dataSave('phone-code/all.json', codes);
+  dataSave('phone-code/index.json', codes);
 };
