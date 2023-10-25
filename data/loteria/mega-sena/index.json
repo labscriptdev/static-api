@@ -1,7 +1,0 @@
-{
- "id": "mega-sena",
- "name": "Mega-Sena",
- "rangeStart": 1,
- "rangeFinal": 60,
- "rangePerRow": 10
-}

@@ -1,14 +1,42 @@
 [
  {
-  "id": "mega-sena",
-  "name": "Mega-Sena",
+  "id": "super-sete",
+  "name": "Super Sete",
   "rangeStart": 1,
   "rangeFinal": 60,
   "rangePerRow": 10
  },
  {
+  "id": "dia-de-sorte",
+  "name": "Dia de Sorte",
+  "rangeStart": 1,
+  "rangeFinal": 60,
+  "rangePerRow": 10
+ },
+ {
+  "id": "dupla-sena",
+  "name": "Dupla Sena",
+  "rangeStart": 1,
+  "rangeFinal": 60,
+  "rangePerRow": 10
+ },
+ {
+  "id": "lotomania",
+  "name": "Lotomania",
+  "rangeStart": 1,
+  "rangeFinal": 100,
+  "rangePerRow": 10
+ },
+ {
   "id": "lotofacil",
   "name": "Lotofacil",
+  "rangeStart": 1,
+  "rangeFinal": 25,
+  "rangePerRow": 5
+ },
+ {
+  "id": "milionaria",
+  "name": "Milionária",
   "rangeStart": 1,
   "rangeFinal": 25,
   "rangePerRow": 5
@@ -21,17 +49,10 @@
   "rangePerRow": 10
  },
  {
-  "id": "lotomania",
-  "name": "Lotomania",
+  "id": "mega-sena",
+  "name": "Mega-Sena",
   "rangeStart": 1,
-  "rangeFinal": 100,
-  "rangePerRow": 10
- },
- {
-  "id": "dupla-sena",
-  "name": "Dupla-Sena",
-  "rangeStart": 1,
-  "rangeFinal": 50,
+  "rangeFinal": 60,
   "rangePerRow": 10
  }
 ]
