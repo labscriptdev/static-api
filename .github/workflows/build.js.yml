@@ -5,7 +5,7 @@ name: build.js
 
 on:
   schedule:
-    - cron:  '* 10,22 * * *'
+    - cron:  '* 6 * * *'
   workflow_dispatch: 
 
 jobs:
