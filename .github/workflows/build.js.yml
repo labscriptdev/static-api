@@ -5,31 +5,24 @@ name: build.js
 
 on:
   schedule:
-    - cron:  '* 6 * * *'
-  workflow_dispatch: 
+    - cron: '6 6 * * *'
 
 jobs:
-  build:
-
+  commit:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [19.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
-    - uses: actions/checkout@v3
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: npm install && node './src/index.js'
-    - uses: EndBug/add-and-commit@v9
-      with:
-        author_name: Jefeferson Silva
-        author_email: jeferson.i.silva@gmail.com
-        committer_name: Jefeferson Silva
-        committer_email: jeferson.i.silva@gmail.com
-        message: 'Data generated via schedule'
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run JavaScript file
+        run: npm install && node './src/index.js'
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "jeferson.i.silva@gmail.com"
+          git config --local user.name "Jeferson Silva"
+
+          git add .
+          git commit -m "Auto commit by GitHub Action at $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
