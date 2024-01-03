@@ -5,7 +5,7 @@ name: build.js
 
 on:
   schedule:
-    - cron: '6 6 * * *'
+    - cron: '0 20,22,00 * * *'
 
 jobs:
   commit:
