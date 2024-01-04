@@ -10,17 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout-repositpry
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: run-nodejs-file
+      - name: Run JavaScript file
         run: npm install && node './src/index.js'
 
-      - name: check-for-changes
-        run: git diff-index --quiet HEAD --
+      - name: Check changes
+        id: check_changes
+        run: |
+          if [[ -n $(git status -s) ]]; then
+            echo "::set-output name=has_changes::true"
+          else
+            echo "::set-output name=has_changes::false"
+          fi
 
-      - name: commit-and-push-changes
-        if: steps.check-for-changes.outputs.exit_code == 1
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           git config --local user.email "jeferson.i.silva@gmail.com"
           git config --local user.name "Jeferson Silva"
