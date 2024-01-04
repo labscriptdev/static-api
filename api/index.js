@@ -1,28 +1,32 @@
-const { globSync } = require("glob");
-const files = globSync("./endpoints/**/*").filter((file) => file.endsWith(".js"));
+const { glob, globSync } = require("glob");
+// const files = globSync("./endpoints/**/*").filter((file) => file.endsWith(".js"));
 const path = require("path");
 const fs = require("fs");
 
-let save_folder = path.join(__dirname, "..", "data");
+(async () => {
+  const files = (await glob(path.join(__dirname, "endpoints", "**", "*"))).filter((file) => file.endsWith(".js"));
 
-files.map(async (file) => {
-  const save_file =
-    save_folder + file.replace("endpoints/", "/").replace("/index.js", ".json").replace(/.js$/, ".json");
-  const save_filepath = path.dirname(save_file);
+  await Promise.all(
+    files.map(async (file) => {
+      const save_file = file.replace("api/endpoints", "data").replace("/index.js", ".json").replace(/.js$/, ".json");
+      const save_path = path.dirname(save_file);
 
-  if (!fs.existsSync(save_filepath)) {
-    fs.mkdirSync(save_filepath, { recursive: true });
-  }
+      if (!fs.existsSync(save_path)) {
+        fs.mkdirSync(save_path, { recursive: true });
+      }
 
-  let data = require(`./${file}`);
+      let data = require(file);
 
-  if (typeof data == "function") {
-    if (data.constructor.name === "AsyncFunction") {
-      data = await data();
-    } else {
-      data = data();
-    }
-  }
+      if (typeof data == "function") {
+        if (data.constructor.name === "AsyncFunction") {
+          data = await data();
+        } else {
+          data = data();
+        }
+      }
 
-  fs.writeFileSync(save_file, JSON.stringify(data));
-});
+      console.log(`Saving: ${save_file}`);
+      fs.writeFileSync(save_file, JSON.stringify(data));
+    })
+  );
+})();

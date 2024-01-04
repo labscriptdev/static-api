@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "bash bin/dev",
     "build": "bash bin/build",
-    "build-api": "node './api/index.js'"
+    "api": "node ./api/index.js"
   },
   "devDependencies": {
     "axios": "^1.6.4",
