@@ -1,0 +1,1 @@
+import{_ as e,v as t,t as n}from"./entry.pXtrZtGq.js";const c={},o={class:"d-flex align-center justify-center",style:{height:"100vh"}};function s(r,a){return n(),t("div",o,"Documentation Soon")}const i=e(c,[["render",s]]);export{i as default};
