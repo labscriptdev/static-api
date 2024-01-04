@@ -10,13 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: checkout-repositpry
         uses: actions/checkout@v2
 
-      - name: Run JavaScript file
+      - name: run-nodejs-file
         run: npm install && node './src/index.js'
 
-      - name: Commit and push changes
+      - name: check-for-changes
+        run: git diff-index --quiet HEAD --
+
+      - name: commit-and-push-changes
+        if: steps.check-for-changes.outputs.exit_code == 1
         run: |
           git config --local user.email "jeferson.i.silva@gmail.com"
           git config --local user.name "Jeferson Silva"
