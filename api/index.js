@@ -1,10 +1,18 @@
-const { glob, globSync } = require("glob");
-// const files = globSync("./endpoints/**/*").filter((file) => file.endsWith(".js"));
+const { glob } = require("glob");
 const path = require("path");
 const fs = require("fs");
 
 (async () => {
-  const files = (await glob(path.join(__dirname, "endpoints", "**", "*"))).filter((file) => file.endsWith(".js"));
+  const options = {
+    formatted: false,
+    only: [
+      // path.join(__dirname, "endpoints", "countries", "index.js"),
+    ],
+  };
+
+  const files = (await glob(path.join(__dirname, "endpoints", "**", "*")))
+    .filter((file) => file.endsWith(".js"))
+    .filter((file) => (options.only.length > 0 ? options.only.includes(file) : true));
 
   await Promise.all(
     files.map(async (file) => {
@@ -26,7 +34,8 @@ const fs = require("fs");
       }
 
       console.log(`Saving: ${save_file}`);
-      fs.writeFileSync(save_file, JSON.stringify(data));
+      data = options.formatted ? JSON.stringify(data, null, 2) : JSON.stringify(data);
+      fs.writeFileSync(save_file, data);
     })
   );
 })();
